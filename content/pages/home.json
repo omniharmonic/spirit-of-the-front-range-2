@@ -1,0 +1,83 @@
+{
+  "$schema": "https://schema.openspace.host/v1/page.json",
+  "id": "pg_4br65jan70",
+  "title": "Home",
+  "slug": "",
+  "seo": {
+    "title": null,
+    "description": "SPIRIT of the Front Range is being set up.",
+    "noindex": true
+  },
+  "sections": [
+    {
+      "id": "sec_rp5qmbxzat",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "align": "center",
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "light",
+        "padding": {
+          "d": "xl",
+          "m": "lg"
+        },
+        "minHeight": {
+          "d": "70vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_bc9ec1jed9",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_gnr83jdfse",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This site is being set up. Please check back soon."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.openspace.host/v1/site-config.json",
+  "siteId": "st_3c6zwe3a43",
+  "schemaVersion": 1,
+  "template": {
+    "id": "import",
+    "version": "1.0.0"
+  },
+  "hub": "https://hub.openspace.host",
+  "deploy": {
+    "target": "github-pages",
+    "url": "https://omniharmonic.github.io/spirit-of-the-front-range-2/",
+    "customDomain": null
+  },
+  "features": {
+    "forms": true,
+    "newsletter": false,
+    "analytics": false,
+    "search": true
+  }
+}

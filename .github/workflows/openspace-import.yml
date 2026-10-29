@@ -1,0 +1,72 @@
+# .github/workflows/openspace-import.yml — added by OpenSpace to move your site in. It only runs when
+# .github/openspace/import.json changes (or by hand); you can delete it once your site is moved.
+name: OpenSpace import
+on:
+  push:
+    branches: [main, openspace/convert]
+    paths: [".github/openspace/import.json"]
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "The address (or GitHub repository) of the site to move"
+        required: false
+      platform:
+        description: "auto, squarespace, wordpress, wix, webflow, framer, carrd, github or url"
+        required: false
+        default: auto
+      options:
+        description: "Extra options: owner (it's my site), render (script-built pages)"
+        required: false
+        default: ""
+permissions: { contents: write, actions: write, id-token: write }
+concurrency: { group: openspace-import, cancel-in-progress: false }
+env:
+  OPENSPACE_CLI: "@omniharmonic/openspace-cli@0.1.19"
+  OPENSPACE_SHARP: "sharp@0.34.5"
+  OPENSPACE_PLAYWRIGHT: "playwright@1.64.1"
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v7
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-node@v7
+        with: { node-version: 24 }
+      - name: Reading your site
+        id: ready
+        env:
+          IN_URL: ${{ inputs.url }}
+          IN_PLATFORM: ${{ inputs.platform }}
+          IN_OPTIONS: ${{ inputs.options }}
+        run: node .github/openspace/import.mjs start
+      # The browser that measures your site (cached between runs, so later runs start faster).
+      - name: Getting a browser ready
+        id: browser
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/ms-playwright
+          key: openspace-chromium-1.64.1-${{ runner.os }}
+      - name: Installing the browser
+        run: |
+          if [ "${{ steps.browser.outputs.cache-hit }}" = "true" ]; then
+            npx -y "$OPENSPACE_PLAYWRIGHT" install-deps chromium
+          else
+            npx -y "$OPENSPACE_PLAYWRIGHT" install --with-deps chromium
+          fi
+      - name: Bringing pages across
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node .github/openspace/import.mjs run
+      - name: Checking the site
+        run: node .github/openspace/import.mjs check
+      - name: Saving the imported site
+        run: node .github/openspace/import.mjs save
+      - name: Publishing
+        if: steps.ready.outputs.mode == 'url'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node .github/openspace/import.mjs publish
+      - name: Telling OpenSpace it didn't finish
+        if: failure()
+        run: node .github/openspace/import.mjs failed

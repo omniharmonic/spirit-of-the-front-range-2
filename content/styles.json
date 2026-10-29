@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schema.openspace.host/v1/styles.json",
+  "choices": {
+    "palette": {
+      "brand": "oklch(0.45 0.05 250)",
+      "neutral": "warm",
+      "contrast": "standard",
+      "source": "curated"
+    },
+    "pairing": "fraunces-hanken",
+    "density": "comfortable",
+    "shape": "soft",
+    "buttons": "solid",
+    "motion": "subtle",
+    "imageTreatment": "none"
+  }
+}
