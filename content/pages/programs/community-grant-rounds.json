@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-04-c2qs.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -58,6 +58,7 @@
     },
     {
       "id": "sec_r78y2mvt3z",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -78,6 +79,7 @@
           "id": "blk_ktzef2j1fj",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -114,13 +116,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_zekpkkmb07",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -149,14 +151,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_h1t6r6x6d0",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -270,11 +271,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_c5rdbjt858",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -334,11 +335,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_by44s3hqt5",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -414,11 +415,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_3mpmrerv91",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -599,8 +600,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

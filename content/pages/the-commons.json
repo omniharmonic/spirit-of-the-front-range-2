@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-08-c5sk.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -58,6 +58,7 @@
     },
     {
       "id": "sec_kwthzxq4aj",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -78,6 +79,7 @@
           "id": "blk_1zdtfwsvdw",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -114,13 +116,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_vy0dr3dpjn",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -149,14 +151,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_p0r7jjtx4b",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -178,6 +179,7 @@
           "id": "blk_rkzy4740pe",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -342,13 +344,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_vr2bse4qj2",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/10/front-range-satellite-ct6b.jpg",
@@ -360,13 +362,13 @@
             "aspect": "original",
             "lightbox": false,
             "caption": "fig. 1 · the corridor satellite · the Front Range"
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_5bc44mv3bf",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -382,14 +384,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_kbhcn5p5f6",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -423,11 +424,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_7pz31d7csc",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -473,11 +474,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_stg1ac3m8g",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -491,13 +492,14 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
           "id": "blk_ayn9c2c8gx",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -611,13 +613,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_s9wfjn9cm6",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -731,14 +733,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_p7dea543ya",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -785,8 +786,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

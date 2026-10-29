@@ -21,6 +21,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-06-exkt.webp",
@@ -28,9 +31,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -59,6 +59,7 @@
     },
     {
       "id": "sec_3y3b7ds2zy",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -79,6 +80,7 @@
           "id": "blk_sx7ypc8vz7",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -115,13 +117,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_g40t0s6xhj",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -150,14 +152,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_ge0vcw3436",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -239,11 +240,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_7qqms3kgjg",
+      "preset": "about/story-editorial@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -300,11 +301,11 @@
           },
           "variant": "drop-cap"
         }
-      ],
-      "preset": "about/story-editorial@1"
+      ]
     },
     {
       "id": "sec_fk47xwb557",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -338,11 +339,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_g52k8x25me",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -352,7 +353,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -388,11 +389,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_2rr6422qcv",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -413,6 +414,7 @@
           "id": "blk_jamjz2c0wr",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -438,7 +440,7 @@
                 {
                   "type": "heading",
                   "attrs": {
-                    "level": 4
+                    "level": 3
                   },
                   "content": [
                     {
@@ -485,13 +487,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_59k2sntw6a",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -564,14 +566,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_9sv4v95f8r",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -605,11 +606,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_ken81aceb9",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -669,11 +670,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_2ez22hvybj",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "glossary",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -687,13 +689,14 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
           "id": "blk_yer0vcd1by",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -743,13 +746,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_0adap3wr2r",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -1133,15 +1136,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "glossary"
+      ]
     },
     {
       "id": "sec_rxkntbd0bm",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1175,8 +1176,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

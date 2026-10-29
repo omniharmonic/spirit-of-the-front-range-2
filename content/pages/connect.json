@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-07-d7k4.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -227,6 +227,7 @@
     },
     {
       "id": "sec_f0xcv3g3ty",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -264,8 +265,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_56v58jazk9",

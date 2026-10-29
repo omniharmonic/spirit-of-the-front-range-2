@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-04-c2qs.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -158,6 +158,7 @@
     },
     {
       "id": "sec_981zvsvg7p",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -191,8 +192,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_p47vdgygdc",
@@ -265,6 +265,7 @@
     },
     {
       "id": "sec_xxhxs8m17z",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -274,7 +275,7 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "background": {
           "type": "color",
           "color": "#faf4e5"
@@ -302,8 +303,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_906051zx2w",
@@ -373,6 +373,7 @@
     },
     {
       "id": "sec_7xdey3fyam",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -406,8 +407,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_zj515jdypk",
@@ -529,6 +529,7 @@
     },
     {
       "id": "sec_4fdp7g11xj",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -538,7 +539,7 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "background": {
           "type": "color",
           "color": "#faf4e5"
@@ -566,8 +567,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_e1snvw7trr",

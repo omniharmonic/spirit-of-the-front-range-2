@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-06-exkt.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -58,6 +58,7 @@
     },
     {
       "id": "sec_9h0fq00c0w",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -78,6 +79,7 @@
           "id": "blk_48xsr40v4p",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -114,13 +116,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_rpg0t5d45r",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -149,14 +151,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_7frnxv3nke",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -255,11 +256,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_8s4yfmeh66",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -314,11 +315,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_yfzxjme2hd",
+      "preset": "starter/stack-3-3-3-3@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -341,6 +342,7 @@
           "id": "blk_zvq5dws9wj",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -395,13 +397,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_kghazdg1jg",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -456,13 +458,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         },
         {
           "id": "blk_sgnfhs72jw",
           "type": "text",
           "v": 1,
+          "column": 2,
           "fields": {
             "content": {
               "type": "doc",
@@ -533,13 +535,13 @@
                 }
               ]
             }
-          },
-          "column": 2
+          }
         },
         {
           "id": "blk_p40mpt3bs1",
           "type": "text",
           "v": 1,
+          "column": 3,
           "fields": {
             "content": {
               "type": "doc",
@@ -594,14 +596,13 @@
                 }
               ]
             }
-          },
-          "column": 3
+          }
         }
-      ],
-      "preset": "starter/stack-3-3-3-3@1"
+      ]
     },
     {
       "id": "sec_gaz3grshn9",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -611,7 +612,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -635,11 +636,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_dwkmkr14dd",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -660,6 +661,7 @@
           "id": "blk_2y9h84v91n",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -687,13 +689,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_6nsjmz7bzf",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -744,14 +746,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_tcbwyknfqy",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -785,8 +786,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }

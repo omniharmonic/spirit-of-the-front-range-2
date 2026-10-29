@@ -20,6 +20,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-05-jz42.webp",
@@ -27,9 +30,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -92,6 +92,7 @@
     },
     {
       "id": "sec_1dfdnz2ewx",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -141,11 +142,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_v4xtfm6mkq",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -171,6 +172,7 @@
           "id": "blk_swpbvz01ez",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -186,13 +188,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_gw3zv19cyt",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/10/gathering-01-s5v3.webp",
@@ -204,14 +206,13 @@
             "aspect": "original",
             "lightbox": false,
             "caption": "● creek above Nederland"
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_p1pz2pvsqx",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -249,11 +250,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_6bkbxy2bzd",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -263,7 +264,7 @@
         }
       },
       "style": {
-        "colorTheme": "light"
+        "colorTheme": "light-accent"
       },
       "blocks": [
         {
@@ -278,11 +279,11 @@
           },
           "variant": "plain"
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_ydzb906qet",
+      "preset": "starter/stack-6-6@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -304,6 +305,7 @@
           "id": "blk_af193y9azy",
           "type": "text",
           "v": 1,
+          "column": 0,
           "fields": {
             "content": {
               "type": "doc",
@@ -367,13 +369,13 @@
                 }
               ]
             }
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_1tr4hwyjmp",
           "type": "columns",
           "v": 1,
+          "column": 0,
           "fields": {
             "items": [
               {
@@ -407,13 +409,13 @@
             ],
             "columns": "2",
             "aspect": "4:5"
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_s9zfy8p9zt",
           "type": "button",
           "v": 1,
+          "column": 0,
           "fields": {
             "label": "Explore our programs →",
             "link": {
@@ -421,13 +423,13 @@
               "page": "pg_4q1pz9nace"
             },
             "role": "primary"
-          },
-          "column": 0
+          }
         },
         {
           "id": "blk_2tdz08wptf",
           "type": "image",
           "v": 1,
+          "column": 1,
           "fields": {
             "image": {
               "src": "media/2026/10/mission-council-7zjb.jpg",
@@ -439,14 +441,13 @@
             "aspect": "original",
             "lightbox": false,
             "caption": "● Revolution Roll Call · council in the round"
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1"
+      ]
     },
     {
       "id": "sec_wckrwp4pes",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -480,11 +481,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_w3sh8n9ezc",
+      "preset": "starter/stack-12@1",
+      "anchor": "ethics",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -695,12 +697,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "ethics"
+      ]
     },
     {
       "id": "sec_8awn9qhv96",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -710,7 +711,7 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "background": {
           "type": "color",
           "color": "#e5d9bf"
@@ -738,8 +739,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_e0b1dntq2n",

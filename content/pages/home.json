@@ -23,6 +23,14 @@
       },
       "style": {
         "colorTheme": "dark",
+        "padding": {
+          "d": "3xl",
+          "m": "3xl"
+        },
+        "minHeight": {
+          "d": "720px",
+          "m": "70svh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/gathering-04-c2qs.webp",
@@ -30,14 +38,6 @@
             "color": "#000000",
             "opacity": 0.7
           }
-        },
-        "minHeight": {
-          "d": "720px",
-          "m": "720px"
-        },
-        "padding": {
-          "d": "3xl",
-          "m": "3xl"
         }
       },
       "blocks": [
@@ -181,6 +181,8 @@
     },
     {
       "id": "sec_1apcn81kyx",
+      "preset": "starter/stack-12@1",
+      "anchor": "context",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -311,14 +313,13 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "context"
+      ]
     },
     {
       "id": "sec_9q4bcv3sqf",
       "preset": "component/imported-home-3@1",
       "label": "We know the way is together.",
+      "anchor": "mission",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -420,11 +421,12 @@
             }
           }
         }
-      ],
-      "anchor": "mission"
+      ]
     },
     {
       "id": "sec_gwxgr6zqdz",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "programs",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -449,19 +451,20 @@
           "id": "blk_9qbhn4xqj2",
           "type": "heading",
           "v": 1,
+          "column": 0,
           "fields": {
             "text": "Ways to get involved.",
             "level": "h2",
             "size": "auto",
             "eyebrow": "Live programs"
           },
-          "variant": "plain",
-          "column": 0
+          "variant": "plain"
         },
         {
           "id": "blk_n6jg2vd1m6",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -499,15 +502,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "programs"
+      ]
     },
     {
       "id": "sec_jhrf0ezkav",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -517,7 +518,7 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "background": {
           "type": "color",
           "color": "#e5d9bf"
@@ -616,13 +617,13 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_jjd58ydsw9",
       "preset": "component/imported-home-5@1",
       "label": "SPIRIT was formed in response to the…",
+      "anchor": "why",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -657,11 +658,11 @@
             }
           }
         }
-      ],
-      "anchor": "why"
+      ]
     },
     {
       "id": "sec_y0kth28ma6",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -695,11 +696,12 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_9np130fr10",
+      "preset": "starter/stack-6-6@1",
+      "anchor": "pillars",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -724,19 +726,20 @@
           "id": "blk_wmbcs41qqn",
           "type": "heading",
           "v": 1,
+          "column": 0,
           "fields": {
             "text": "Four Pillars, woven together.",
             "level": "h2",
             "size": "auto",
             "eyebrow": "Four threads, four pillars"
           },
-          "variant": "plain",
-          "column": 0
+          "variant": "plain"
         },
         {
           "id": "blk_fx0357m54h",
           "type": "text",
           "v": 1,
+          "column": 1,
           "fields": {
             "content": {
               "type": "doc",
@@ -761,15 +764,13 @@
                 }
               ]
             }
-          },
-          "column": 1
+          }
         }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "pillars"
+      ]
     },
     {
       "id": "sec_33ny90kdw3",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -779,7 +780,7 @@
         }
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "light-accent",
         "background": {
           "type": "color",
           "color": "#f2ead8"
@@ -876,13 +877,13 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_cdcydam40s",
       "preset": "component/imported-home-7@1",
       "label": "Every gift moves us toward a more…",
+      "anchor": "funding",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -894,6 +895,9 @@
       },
       "style": {
         "colorTheme": "dark",
+        "minHeight": {
+          "d": "40vh"
+        },
         "background": {
           "type": "image",
           "src": "media/2026/10/funding-dusk-ridge-2fbv.jpg",
@@ -901,9 +905,6 @@
             "color": "#000000",
             "opacity": 0.6
           }
-        },
-        "minHeight": {
-          "d": "40vh"
         }
       },
       "blocks": [
@@ -951,11 +952,11 @@
             "text12": "DUSK OVER THE FOOTHILLS"
           }
         }
-      ],
-      "anchor": "funding"
+      ]
     },
     {
       "id": "sec_5tpksntdq3",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -989,11 +990,11 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
       "id": "sec_dgc52d4wrc",
+      "preset": "starter/stack-12@1",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -1056,8 +1057,7 @@
             }
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
   ]
 }
