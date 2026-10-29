@@ -406,7 +406,7 @@
     },
     {
       "id": "sec_7pw4e8fksa",
-      "preset": "component/sp-community-gran-62@1",
+      "preset": "component/sp-solidarity-sup-71@1",
       "label": "Each program weaves with the others.",
       "layout": {
         "mode": "stack",
@@ -437,18 +437,18 @@
             "t2": "Each program weaves with",
             "t3": "the others.",
             "t4": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion.",
-            "l1": {
-              "type": "page",
-              "page": "pg_vprm01pyk0"
-            },
-            "t5": "Culturing",
-            "t6": "Commons Sense Teach-Ins",
-            "t7": "We offer",
-            "t8": "Commons Sense",
-            "t9": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
-            "t10": "'",
-            "t11": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
             "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_vprm01pyk0"
+                },
+                "t1": "Culturing",
+                "t2": "Commons Sense Teach-Ins",
+                "t3": "We offer",
+                "t4": "Commons Sense",
+                "t5": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good."
+              },
               {
                 "l1": {
                   "type": "page",
@@ -488,7 +488,7 @@
                 "t1": "✉ Get in touch →"
               }
             ],
-            "t12": "— 06.4 —"
+            "t5": "— 06.4 —"
           }
         }
       ]
