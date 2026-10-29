@@ -1,0 +1,222 @@
+{
+  "name": "sp-footer-10",
+  "label": "Footer",
+  "description": "Recreated from the original site: Footer. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "Feeling inspired? Say hello.",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "Questions. Projects. Partner…",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "Stories.",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "We would love to hear from y…",
+      "maxLength": 200
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “✦ Get involved”"
+    },
+    "t5": {
+      "kind": "text",
+      "label": "✦ Get involved",
+      "maxLength": 200
+    },
+    "l2": {
+      "kind": "link",
+      "label": "Link “◇ Donate”"
+    },
+    "t6": {
+      "kind": "text",
+      "label": "◇ Donate",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "Site",
+      "maxLength": 200
+    },
+    "g1": {
+      "kind": "list",
+      "label": "List “Mission”…",
+      "fields": {
+        "l1": {
+          "kind": "link",
+          "label": "Link “Mission”"
+        },
+        "t1": {
+          "kind": "text",
+          "label": "Mission",
+          "maxLength": 200
+        }
+      },
+      "min": 0,
+      "max": 100
+    },
+    "l3": {
+      "kind": "link",
+      "label": "Link “Dashboard”"
+    },
+    "t8": {
+      "kind": "text",
+      "label": "Dashboard",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": "Reach us",
+      "maxLength": 200
+    },
+    "l4": {
+      "kind": "link",
+      "label": "Link “admin@spiritofthefrontrange.org”"
+    },
+    "t10": {
+      "kind": "text",
+      "label": "admin@spiritofthefrontrange.…",
+      "maxLength": 200
+    },
+    "l5": {
+      "kind": "link",
+      "label": "Link “Front Range Commons →”"
+    },
+    "t11": {
+      "kind": "text",
+      "label": "Front Range Commons →",
+      "maxLength": 200
+    },
+    "l6": {
+      "kind": "link",
+      "label": "Link “Editor sign-in”"
+    },
+    "t12": {
+      "kind": "text",
+      "label": "Editor sign-in",
+      "maxLength": 200
+    },
+    "i1": {
+      "kind": "image",
+      "label": "SPIRIT of the Front Range"
+    },
+    "t13": {
+      "kind": "text",
+      "label": "A 501(c)(3) nonprofit for th…",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "© 2026 SPIRIT of the Front R…",
+      "maxLength": 200
+    },
+    "t15": {
+      "kind": "text",
+      "label": "·",
+      "maxLength": 200
+    },
+    "t16": {
+      "kind": "text",
+      "label": "Built to be replaced. Rooted…",
+      "maxLength": 200
+    },
+    "t17": {
+      "kind": "text",
+      "label": "✦ ◆ ✦",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "Feeling inspired? Say hello.",
+    "t2": "Questions. Projects. Partnerships.",
+    "t3": "Stories.",
+    "t4": "We would love to hear from you.",
+    "l1": {
+      "type": "page",
+      "page": "pg_7nbz8t2ex4"
+    },
+    "t5": "✦ Get involved",
+    "l2": {
+      "type": "page",
+      "page": "pg_nx1cbdabp0"
+    },
+    "t6": "◇ Donate",
+    "t7": "Site",
+    "g1": [
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_v08jq5w0tv"
+        },
+        "t1": "Mission"
+      },
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_4q1pz9nace"
+        },
+        "t1": "Programs"
+      },
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_2kzwp97y6g"
+        },
+        "t1": "The Commons"
+      },
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_tqx65abs2z"
+        },
+        "t1": "Stewards"
+      }
+    ],
+    "l3": {
+      "type": "url",
+      "url": "https://dashboard.spiritofthefrontrange.org"
+    },
+    "t8": "Dashboard",
+    "t9": "Reach us",
+    "l4": {
+      "type": "email",
+      "email": "admin@spiritofthefrontrange.org"
+    },
+    "t10": "admin@spiritofthefrontrange.org",
+    "l5": {
+      "type": "url",
+      "url": "https://www.frontrangecommons.org/"
+    },
+    "t11": "Front Range Commons →",
+    "l6": {
+      "type": "url",
+      "url": "https://studio.openspace.host/sites/st_3c6zwe3a43",
+      "newTab": true
+    },
+    "t12": "Editor sign-in",
+    "i1": {
+      "src": "media/2026/10/orig/spirit-logo.png",
+      "alt": "SPIRIT of the Front Range"
+    },
+    "t13": "A 501(c)(3) nonprofit for the Front Range",
+    "t14": "© 2026 SPIRIT of the Front Range",
+    "t15": "·",
+    "t16": "Built to be replaced. Rooted in shared care.",
+    "t17": "✦ ◆ ✦"
+  },
+  "template": "<footer class=\"site-footer mt-32 border-t-4 border-ink bg-bone\"> <div class=\"container-edit py-16\"> <div class=\"grid k2p gap-10 mb-12\"> <div class=\"ku\"> <p class=\"eyebrow eyebrow-clay mb-4\">{{t1}}</p> <h2 class=\"display-l text-ink max-w-3xl\"> {{t2}} <em class=\"font-serif italic font-normal text-clay-deep\">{{t3}}</em> </h2> <p class=\"mt-6 text-body-lg text-shadow max-w-xl\"> {{t4}} </p> <div class=\"mt-8 flex flex-wrap gap-4\"> <a href=\"{{href l1}}\" class=\"no-underline inline-flex items-center gap-2 bg-ink text-bone px-5 py-3 text-xs font-mono uppercase k7 font-bold k2i transition-colors\"> {{t5}} </a> <a href=\"{{href l2}}\" class=\"no-underline inline-flex items-center gap-2 border border-ink px-5 py-3 text-xs font-mono uppercase k7 font-bold text-ink k2j k2k transition-colors\"> {{t6}} </a> </div> </div> <div class=\"kt grid k2l gap-8\"> <div> <p class=\"eyebrow mb-3\">{{t7}}</p> <ul class=\"flex flex-col gap-2\"> {{#each g1}}<li><a href=\"{{href l1}}\" class=\"no-underline text-ink k9\">{{t1}}</a><span hidden></span></li>{{/each}}<li><a href=\"{{href l3}}\" class=\"no-underline text-ink k9\" rel=\"noopener\">{{t8}}</a><span hidden></span></li> </ul> </div> <div> <p class=\"eyebrow mb-3\">{{t9}}</p> <ul class=\"flex flex-col gap-2\"> <li><a href=\"{{href l4}}\" class=\"no-underline text-ink k9 break-all\">{{t10}}</a><span hidden></span></li> <li><a href=\"{{href l5}}\" class=\"no-underline text-ink k9\" rel=\"noopener\">{{t11}}</a><span hidden></span></li> <li><a href=\"{{href l6}}\" class=\"no-underline text-shadow k9 text-xs font-mono uppercase k2h mt-2\">{{t12}}</a><span hidden></span></li> </ul> </div> </div> </div> <div class=\"rule mb-6\"></div> <div class=\"flex flex-col k2m k2n k2o gap-6\"> <div class=\"flex items-center gap-4\"> {{image i1 class=\"ximg block h-12 w-auto object-contain\"}} <p class=\"font-mono text-micro uppercase ko text-shadow\"> {{t13}} </p> </div> <div class=\"font-mono text-micro uppercase k2h text-shadow flex flex-wrap gap-x-4 gap-y-1\"> <span>{{t14}}</span> <span aria-hidden=\"true\">{{t15}}</span> <span>{{t16}}</span> </div> </div> <div class=\"mt-10 flex items-center justify-center gap-3 font-mono text-shadow text-xs\"> <span class=\"rule grow\"></span> <span aria-hidden=\"true\">{{t17}}</span> <span class=\"rule grow\"></span> </div> </div> </footer>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}.ximg,.ximg>picture{display:contents!important}.ximg::before,.ximg::after,.ximg source{display:none!important}.ximg .os-img__img{display:inline;width:auto;height:auto;max-width:none;object-fit:fill;object-position:50% 50%;filter:none;mix-blend-mode:normal;transition:none;border-radius:0;aspect-ratio:auto}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial;--tw-ease:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--container-xl:612px;--xv-container-dxl:816px;--text-xs:12.75px;--text-xs--line-height:calc(1 / .75);--font-weight-normal:400;--font-weight-bold:700;--default-transition-duration:.15s;--default-transition-timing-function:cubic-bezier(.4,0,.2,1);--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-clay:#b8704d;--color-clay-deep:#7e4226;--color-rule:#b8a878;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body-lg:clamp(19.55px,17px + .55vw,26.35px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}:-moz-focusring{outline:auto}ul{list-style:none}.ximg,.ximg>picture>.os-img__img{vertical-align:middle;display:block}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}em{font-style:italic}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto;display:block}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.container-edit{width:100%;max-width:1428px;margin-inline:auto;padding-inline:clamp(21.25px,17px + 1.5vw,42.5px)}.rule{background:var(--color-rule);border:none;height:1px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.mt-2{margin-top:calc(var(--spacing) * 2)}.mt-6{margin-top:calc(var(--spacing) * 6)}.mt-8{margin-top:calc(var(--spacing) * 8)}.mt-10{margin-top:calc(var(--spacing) * 10)}.mt-32{margin-top:calc(var(--spacing) * 32)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-4{margin-bottom:calc(var(--spacing) * 4)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-12{margin-bottom:calc(var(--spacing) * 12)}.block,.block>picture>.os-img__img{display:block}.flex{display:flex}.grid{display:grid}.inline-flex{display:inline-flex}.h-12,.h-12>picture>.os-img__img{height:calc(var(--spacing) * 12)}.w-auto,.w-auto>picture>.os-img__img{width:auto}.max-w-3xl{max-width:var(--xv-container-dxl)}.max-w-xl{max-width:var(--container-xl)}.grow{flex-grow:1}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-center{align-items:center}.justify-center{justify-content:center}.gap-2{gap:calc(var(--spacing) * 2)}.gap-3{gap:calc(var(--spacing) * 3)}.gap-4{gap:calc(var(--spacing) * 4)}.gap-6{gap:calc(var(--spacing) * 6)}.gap-8{gap:calc(var(--spacing) * 8)}.gap-10{gap:calc(var(--spacing) * 10)}.gap-x-4{column-gap:calc(var(--spacing) * 4)}.gap-y-1{row-gap:calc(var(--spacing) * 1)}.border{border-style:var(--tw-border-style);border-width:1px}.border-t-4{border-top-style:var(--tw-border-style);border-top-width:4px}.border-ink{border-color:var(--color-ink)}.bg-bone{background-color:var(--color-bone)}.bg-ink{background-color:var(--color-ink)}.object-contain,.object-contain>picture>.os-img__img{object-fit:contain}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-3{padding-block:calc(var(--spacing) * 3)}.py-16{padding-block:calc(var(--spacing) * 16)}.font-mono{font-family:var(--font-mono)}.font-serif{font-family:var(--font-serif)}.text-xs{font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height))}.text-body-lg{font-size:var(--text-body-lg)}.text-micro{font-size:var(--text-micro)}.font-bold{font-weight:var(--font-weight-bold)}.font-normal{font-weight:var(--font-weight-normal)}.k2h{letter-spacing:.14em}.ko{letter-spacing:.16em}.k7{letter-spacing:.18em}.break-all{word-break:break-all}.text-bone{color:var(--color-bone)}.text-clay-deep{color:var(--color-clay-deep)}.text-ink{color:var(--color-ink)}.text-shadow{color:var(--color-shadow)}.uppercase{text-transform:uppercase}.italic{font-style:italic}.no-underline{text-decoration-line:none}.transition-colors{transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}@media(hover:hover){.k2i:hover{background-color:var(--color-clay-deep)}.k2j:hover{background-color:var(--color-ink)}.k2k:hover{color:var(--color-bone)}.k9:hover{color:var(--color-clay-deep)}}@media(min-width:40rem){.k2l{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(min-width:48rem){.k2m{flex-direction:row}.k2n{align-items:flex-end}.k2o{justify-content:space-between}}@media(min-width:64rem){.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.k2p{grid-template-columns:repeat(12,minmax(0,1fr))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}",
+  "section": {
+    "width": "full"
+  }
+}

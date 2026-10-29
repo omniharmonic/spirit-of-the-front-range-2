@@ -4,603 +4,436 @@
   "slug": "programs/community-grant-rounds",
   "seo": {
     "description": "We raise money for the members of the Front Range Bioregional Commons to **allocate to regenerative cultural and ecological projects** along the Front Range using community-led coordination and resource-disbursement technologies. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund,…",
-    "image": "media/2026/10/og-default-fyb8.jpg"
+    "image": "media/2026/10/og-default-fyb8.jpg",
+    "title": "Community Grant Rounds · SPIRIT of the Front Range"
   },
   "hidden": true,
   "sections": [
     {
-      "id": "sec_94sm95vcwj",
+      "id": "sec_xsqgfh34y6",
+      "preset": "component/sp-masthead-18@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-04-c2qs.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_0v1wpb3gtp",
-          "type": "text",
+          "id": "blk_xsqgfh34y6",
+          "type": "component/sp-masthead-18",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 06 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "l8": {
+              "type": "page",
+              "page": "pg_v08jq5w0tv"
+            },
+            "t9": "Mission",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_4q1pz9nace"
+            },
+            "t11": "Programs",
+            "t12": "·",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l10": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t13": "Dashboard",
+            "t14": "·",
+            "l11": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t15": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_r78y2mvt3z",
+      "id": "sec_ma1zd84yh4",
+      "preset": "component/sp-community-gran-59@1",
+      "label": "Community Grant Rounds",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
-      },
-      "style": {
-        "colorTheme": "dark"
-      },
-      "blocks": [
-        {
-          "id": "blk_ktzef2j1fj",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "upcoming · enrollment opening"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Community Grant Rounds"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We raise money for the members of the Front Range Bioregional Commons to allocate to regenerative cultural and ecological projects along the Front Range using community-led coordination and resource-disbursement technologies. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund, and then the larger body of the Commons votes on which projects will receive allocations."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
         },
-        {
-          "id": "blk_zekpkkmb07",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "● Programs · Allocation photographed by "
-                    },
-                    {
-                      "type": "text",
-                      "text": "True To Essence",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://www.truetoessence.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_h1t6r6x6d0",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_r4m26zgbda",
-          "type": "text",
+          "id": "blk_ma1zd84yh4",
+          "type": "component/sp-community-gran-59",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "CGR"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Pillar · Allocation"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Community-decided grant rounds that put funds directly into the hands of the people doing the work of caring for the Front Range.",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Commons members propose projects that support the regeneration and resiliency of our ecologies and cultures (think: planting trees to restore the watershed, creating neighborhood microgrids, planting native pollinator gardens, offering participatory cultural events, etc.) and the larger membership of the Commons votes on which projects to fund in each round. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund, and then the larger body of the Commons votes on which projects will receive allocations."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "This is not a boardroom deciding what’s good for our lands and the life that lives here. It is the care-hearted people of this place deciding for ourselves.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The first round is being designed now. "
-                    },
-                    {
-                      "type": "text",
-                      "text": "Sign up",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " to hear when applications open."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "i1": {
+              "src": "media/2026/10/orig/gathering-04.jpg",
+              "alt": "Community Grant Rounds"
+            },
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 06 —",
+            "t3": "upcoming · enrollment opening",
+            "t4": "Community Grant Rounds",
+            "t5": "We raise money for the members of the Front Range Bioregional Commons to allocate to regenerative cultural and ecological projects along the Front Range using community-led coordination and resource-disbursement technologies. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund, and then the larger body of the Commons votes on which projects will receive allocations.",
+            "t6": "●",
+            "t7": "Programs · Allocation",
+            "t8": "photographed by",
+            "l1": {
+              "type": "url",
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t9": "True To Essence"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_c5rdbjt858",
+      "id": "sec_sxxhn89sdf",
+      "preset": "component/sp-community-gran-60@1",
+      "label": "SECTION",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_rjn33s9s3y",
-          "type": "heading",
+          "id": "blk_sxxhn89sdf",
+          "type": "component/sp-community-gran-60",
           "v": 1,
           "fields": {
-            "text": "The first round is being designed now.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Be the first to know",
-            "subheading": "Sign up and we'll tell you when project proposals and community voting open for the first Community Grant Round."
-          },
-          "variant": "plain"
-        },
-        {
-          "id": "blk_1g9x21bqmk",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "✉ Sign up →",
-            "link": {
+            "t1": "CGR",
+            "t2": "Pillar · Allocation",
+            "t3": "Community-decided grant rounds that put funds directly into the hands of the people doing the work of caring for the Front Range.",
+            "t4": "Commons members propose projects that support the regeneration and resiliency of our ecologies and cultures (think: planting trees to restore the watershed, creating neighborhood microgrids, planting native pollinator gardens, offering participatory cultural events, etc.) and the larger membership of the Commons votes on which projects to fund in each round. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund, and then the larger body of the Commons votes on which projects will receive allocations.",
+            "t5": "This is not a boardroom deciding what’s good for our lands and the life that lives here. It is the care-hearted people of this place deciding for ourselves.",
+            "t6": "The first round is being designed now.",
+            "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_5s55ar3b8r",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.3 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t7": "Sign up",
+            "t8": "to hear when applications open.",
+            "t9": "— 06.1 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_by44s3hqt5",
+      "id": "sec_j2cssgkzks",
+      "preset": "component/sp-community-gran-61@1",
+      "label": "The first round is being designed now.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark-accent"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_c6xb4qsvce",
-          "type": "text",
+          "id": "blk_j2cssgkzks",
+          "type": "component/sp-community-gran-61",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "All of our programming prioritizes access and equity"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Subscribe to events at "
-                    },
-                    {
-                      "type": "text",
-                      "text": "dashboard.spiritofthefrontrange.org/subscribe",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "For inquiries, email "
-                    },
-                    {
-                      "type": "text",
-                      "text": "admin@spiritofthefrontrange.org",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "mailto:admin@spiritofthefrontrange.org"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "Be the first to know",
+            "t2": "The first round is",
+            "t3": "being designed now.",
+            "t4": "Sign up and we",
+            "t5": "'",
+            "t6": "ll tell you when project proposals and community voting open for the first Community Grant Round.",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "t7": "✉ Sign up →",
+            "t8": "— 06.3 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_3mpmrerv91",
+      "id": "sec_awqch5jp0t",
+      "preset": "component/sp-commons-sense-57@1",
+      "label": "DIV",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_ggby3wy0f3",
-          "type": "heading",
+          "id": "blk_awqch5jp0t",
+          "type": "component/sp-commons-sense-57",
           "v": 1,
           "fields": {
-            "text": "Each program weaves with the others.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "The SPIRIT programs all interconnect.",
-            "subheading": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion."
-          },
-          "variant": "plain"
+            "t1": "All of our programming prioritizes access and equity",
+            "t2": "Subscribe to events at",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "t3": "dashboard.spiritofthefrontrange.org/subscribe",
+            "t4": "For inquiries, email",
+            "l2": {
+              "type": "email",
+              "email": "admin@spiritofthefrontrange.org"
+            },
+            "t5": "admin@spiritofthefrontrange.org"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_41c5rwykyh",
+      "preset": "component/sp-community-gran-62@1",
+      "label": "Each program weaves with the others.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
         },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
         {
-          "id": "blk_h29acjg4hy",
-          "type": "columns",
+          "id": "blk_41c5rwykyh",
+          "type": "component/sp-community-gran-62",
           "v": 1,
           "fields": {
-            "items": [
+            "t1": "The SPIRIT programs all interconnect.",
+            "t2": "Each program weaves with",
+            "t3": "the others.",
+            "t4": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion.",
+            "l1": {
+              "type": "page",
+              "page": "pg_vprm01pyk0"
+            },
+            "t5": "Culturing",
+            "t6": "Commons Sense Teach-Ins",
+            "t7": "We offer",
+            "t8": "Commons Sense",
+            "t9": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
+            "t10": "'",
+            "t11": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+            "g1": [
               {
-                "heading": "Commons Sense",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Culturing"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Commons Sense Teach-Ins"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
-                  "type": "page",
-                  "page": "pg_vprm01pyk0"
-                }
-              },
-              {
-                "heading": "Solidarity Suppers",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Solidarity"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Solidarity Suppers"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
+                "l1": {
                   "type": "page",
                   "page": "pg_cgcyphxt35"
-                }
+                },
+                "t1": "Solidarity",
+                "t2": "Solidarity Suppers",
+                "t3": "We host small",
+                "t4": "Solidarity Suppers",
+                "t5": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion."
               },
               {
-                "heading": "Neighborhood Resiliency Program",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Coordination"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Neighborhood Resiliency Programs"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
+                "l1": {
                   "type": "page",
                   "page": "pg_3p2nsn8e9c"
-                }
+                },
+                "t1": "Coordination",
+                "t2": "Neighborhood Resiliency Programs",
+                "t3": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our",
+                "t4": "Neighborhood Resiliency Program",
+                "t5": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency."
               }
             ],
-            "columns": "3",
-            "aspect": "4:5"
-          }
-        },
-        {
-          "id": "blk_b38q517p92",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "← All Programs ",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/programs/"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " "
-                    },
-                    {
-                      "type": "text",
-                      "text": " ✉ Get in touch →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/connect/"
-                          }
-                        }
-                      ]
-                    }
-                  ]
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.4 —"
-                    }
-                  ]
-                }
-              ]
-            }
+                "t1": "← All Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_7nbz8t2ex4"
+                },
+                "t1": "✉ Get in touch →"
+              }
+            ],
+            "t12": "— 06.4 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

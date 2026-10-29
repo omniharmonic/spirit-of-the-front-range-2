@@ -1,0 +1,765 @@
+{
+  "name": "sp-catalog-41",
+  "label": "Governing the Commons ↗",
+  "description": "Recreated from the original site: Governing the Commons ↗. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "N° 01",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "How this works.",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "Each entry has someone from …",
+      "maxLength": 252
+    },
+    "t4": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t5": {
+      "kind": "text",
+      "label": "t aggregate. We recommend.",
+      "maxLength": 200
+    },
+    "t6": {
+      "kind": "text",
+      "label": "Want to suggest an addition?",
+      "maxLength": 200
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “Write to us”"
+    },
+    "t7": {
+      "kind": "text",
+      "label": "Write to us",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": ". We add slowly, by consensu…",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": "★ Items in this issue:",
+      "maxLength": 200
+    },
+    "t10": {
+      "kind": "text",
+      "label": "9",
+      "maxLength": 200
+    },
+    "t11": {
+      "kind": "text",
+      "label": ".",
+      "maxLength": 200
+    },
+    "g1": {
+      "kind": "list",
+      "label": "Group “N° 1”",
+      "fields": {
+        "t1": {
+          "kind": "text",
+          "label": "N° 1",
+          "maxLength": 200
+        },
+        "t2": {
+          "kind": "text",
+          "label": "book",
+          "maxLength": 200
+        },
+        "l1": {
+          "kind": "link",
+          "label": "Link “Governing the Commons ↗”"
+        },
+        "t3": {
+          "kind": "text",
+          "label": "Governing the Commons",
+          "maxLength": 200
+        },
+        "t4": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t5": {
+          "kind": "text",
+          "label": "The book that won Ostrom the…",
+          "maxLength": 864,
+          "multiline": true
+        },
+        "t6": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t7": {
+          "kind": "text",
+          "label": "Benjamin Life",
+          "maxLength": 200
+        },
+        "t8": {
+          "kind": "text",
+          "label": "Cambridge University Press ·…",
+          "maxLength": 200
+        },
+        "t9": {
+          "kind": "text",
+          "label": "$28",
+          "maxLength": 200
+        },
+        "t10": {
+          "kind": "text",
+          "label": "N° 2",
+          "maxLength": 200
+        },
+        "t11": {
+          "kind": "text",
+          "label": "book",
+          "maxLength": 200
+        },
+        "l2": {
+          "kind": "link",
+          "label": "Link “Braiding Sweetgrass ↗”"
+        },
+        "t12": {
+          "kind": "text",
+          "label": "Braiding Sweetgrass",
+          "maxLength": 200
+        },
+        "t13": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t14": {
+          "kind": "text",
+          "label": "Indigenous wisdom, scientifi…",
+          "maxLength": 768,
+          "multiline": true
+        },
+        "t15": {
+          "kind": "text",
+          "label": "belonging",
+          "maxLength": 200
+        },
+        "t16": {
+          "kind": "text",
+          "label": "means in a place, this is it…",
+          "maxLength": 200
+        },
+        "t17": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t18": {
+          "kind": "text",
+          "label": "Kathleen Marie Rose",
+          "maxLength": 200
+        },
+        "t19": {
+          "kind": "text",
+          "label": "Milkweed Editions · 2013",
+          "maxLength": 200
+        },
+        "t20": {
+          "kind": "text",
+          "label": "$20",
+          "maxLength": 200
+        },
+        "t21": {
+          "kind": "text",
+          "label": "N° 3",
+          "maxLength": 200
+        },
+        "t22": {
+          "kind": "text",
+          "label": "organization",
+          "maxLength": 200
+        },
+        "l3": {
+          "kind": "link",
+          "label": "Link “Front Range Commons ↗”"
+        },
+        "t23": {
+          "kind": "text",
+          "label": "Front Range Commons",
+          "maxLength": 200
+        },
+        "t24": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t25": {
+          "kind": "text",
+          "label": "The parallel, member-led civ…",
+          "maxLength": 759,
+          "multiline": true
+        },
+        "t26": {
+          "kind": "text",
+          "label": "Connect.",
+          "maxLength": 200
+        },
+        "t27": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t28": {
+          "kind": "text",
+          "label": "SPIRIT",
+          "maxLength": 200
+        },
+        "t29": {
+          "kind": "text",
+          "label": "frontrangecommons.org",
+          "maxLength": 200
+        },
+        "t30": {
+          "kind": "text",
+          "label": "N° 4",
+          "maxLength": 200
+        },
+        "t31": {
+          "kind": "text",
+          "label": "book",
+          "maxLength": 200
+        },
+        "l4": {
+          "kind": "link",
+          "label": "Link “The Patterning Instinct ↗”"
+        },
+        "t32": {
+          "kind": "text",
+          "label": "The Patterning Instinct",
+          "maxLength": 200
+        },
+        "t33": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t34": {
+          "kind": "text",
+          "label": "A cultural history of how wo…",
+          "maxLength": 750,
+          "multiline": true
+        },
+        "t35": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t36": {
+          "kind": "text",
+          "label": "Benjamin Life",
+          "maxLength": 200
+        },
+        "t37": {
+          "kind": "text",
+          "label": "Prometheus Books · 2017",
+          "maxLength": 200
+        },
+        "t38": {
+          "kind": "text",
+          "label": "$25",
+          "maxLength": 200
+        },
+        "t39": {
+          "kind": "text",
+          "label": "N° 5",
+          "maxLength": 200
+        },
+        "t40": {
+          "kind": "text",
+          "label": "tool",
+          "maxLength": 200
+        },
+        "l5": {
+          "kind": "link",
+          "label": "Link “Quadratic Funding ↗”"
+        },
+        "t41": {
+          "kind": "text",
+          "label": "Quadratic Funding",
+          "maxLength": 200
+        },
+        "t42": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t43": {
+          "kind": "text",
+          "label": "The mathematical mechanism b…",
+          "maxLength": 336
+        },
+        "t44": {
+          "kind": "text",
+          "label": "number",
+          "maxLength": 200
+        },
+        "t45": {
+          "kind": "text",
+          "label": "of contributors, not the siz…",
+          "maxLength": 522,
+          "multiline": true
+        },
+        "t46": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t47": {
+          "kind": "text",
+          "label": "Cameron Ely-Murdock",
+          "maxLength": 200
+        },
+        "t48": {
+          "kind": "text",
+          "label": "Liberal Radicalism · 2018",
+          "maxLength": 200
+        },
+        "t49": {
+          "kind": "text",
+          "label": "Open",
+          "maxLength": 200
+        },
+        "t50": {
+          "kind": "text",
+          "label": "N° 6",
+          "maxLength": 200
+        },
+        "t51": {
+          "kind": "text",
+          "label": "organization",
+          "maxLength": 200
+        },
+        "l6": {
+          "kind": "link",
+          "label": "Link “Sociocracy For All ↗”"
+        },
+        "t52": {
+          "kind": "text",
+          "label": "Sociocracy For All",
+          "maxLength": 200
+        },
+        "t53": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t54": {
+          "kind": "text",
+          "label": "The cleanest current resourc…",
+          "maxLength": 243
+        },
+        "t55": {
+          "kind": "text",
+          "label": "consent",
+          "maxLength": 200
+        },
+        "t56": {
+          "kind": "text",
+          "label": "(not majority vote) inside t…",
+          "maxLength": 561,
+          "multiline": true
+        },
+        "t57": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t58": {
+          "kind": "text",
+          "label": "Jordan Siegel",
+          "maxLength": 200
+        },
+        "t59": {
+          "kind": "text",
+          "label": "sociocracyforall.org",
+          "maxLength": 200
+        },
+        "t60": {
+          "kind": "text",
+          "label": "Donation",
+          "maxLength": 200
+        },
+        "t61": {
+          "kind": "text",
+          "label": "N° 7",
+          "maxLength": 200
+        },
+        "t62": {
+          "kind": "text",
+          "label": "practice",
+          "maxLength": 200
+        },
+        "t63": {
+          "kind": "text",
+          "label": "The Listeners",
+          "maxLength": 200
+        },
+        "t64": {
+          "kind": "text",
+          "label": "'",
+          "maxLength": 200
+        },
+        "t65": {
+          "kind": "text",
+          "label": "Council",
+          "maxLength": 200
+        },
+        "t66": {
+          "kind": "text",
+          "label": "A specific gathering form: o…",
+          "maxLength": 918,
+          "multiline": true
+        },
+        "t67": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t68": {
+          "kind": "text",
+          "label": "Sarah D",
+          "maxLength": 200
+        },
+        "t69": {
+          "kind": "text",
+          "label": "'",
+          "maxLength": 200
+        },
+        "t70": {
+          "kind": "text",
+          "label": "Antoni",
+          "maxLength": 200
+        },
+        "t71": {
+          "kind": "text",
+          "label": "Practiced at Solidarity Supp…",
+          "maxLength": 200
+        },
+        "t72": {
+          "kind": "text",
+          "label": "N° 8",
+          "maxLength": 200
+        },
+        "t73": {
+          "kind": "text",
+          "label": "place",
+          "maxLength": 200
+        },
+        "l7": {
+          "kind": "link",
+          "label": "Link “The Flatirons ↗”"
+        },
+        "t74": {
+          "kind": "text",
+          "label": "The Flatirons",
+          "maxLength": 200
+        },
+        "t75": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t76": {
+          "kind": "text",
+          "label": "The slanted sandstone slabs …",
+          "maxLength": 702,
+          "multiline": true
+        },
+        "t77": {
+          "kind": "text",
+          "label": "here.",
+          "maxLength": 200
+        },
+        "t78": {
+          "kind": "text",
+          "label": "Walk Chautauqua at dawn.",
+          "maxLength": 200
+        },
+        "t79": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t80": {
+          "kind": "text",
+          "label": "SPIRIT",
+          "maxLength": 200
+        },
+        "t81": {
+          "kind": "text",
+          "label": "Boulder Open Space",
+          "maxLength": 200
+        },
+        "t82": {
+          "kind": "text",
+          "label": "&",
+          "maxLength": 200
+        },
+        "t83": {
+          "kind": "text",
+          "label": "Mountain Parks",
+          "maxLength": 200
+        },
+        "t84": {
+          "kind": "text",
+          "label": "Free",
+          "maxLength": 200
+        },
+        "t85": {
+          "kind": "text",
+          "label": "N° 9",
+          "maxLength": 200
+        },
+        "t86": {
+          "kind": "text",
+          "label": "place",
+          "maxLength": 200
+        },
+        "l8": {
+          "kind": "link",
+          "label": "Link “Cache la Poudre River ↗”"
+        },
+        "t87": {
+          "kind": "text",
+          "label": "Cache la Poudre River",
+          "maxLength": 200
+        },
+        "t88": {
+          "kind": "text",
+          "label": "↗",
+          "maxLength": 200
+        },
+        "t89": {
+          "kind": "text",
+          "label": "Colorado’s only nationally d…",
+          "maxLength": 200
+        },
+        "t90": {
+          "kind": "text",
+          "label": "&",
+          "maxLength": 200
+        },
+        "t91": {
+          "kind": "text",
+          "label": "Scenic River. Headwaters in …",
+          "maxLength": 720,
+          "multiline": true
+        },
+        "t92": {
+          "kind": "text",
+          "label": "— Curated by",
+          "maxLength": 200
+        },
+        "t93": {
+          "kind": "text",
+          "label": "SPIRIT",
+          "maxLength": 200
+        },
+        "t94": {
+          "kind": "text",
+          "label": "Northern Front Range watersh…",
+          "maxLength": 200
+        },
+        "t95": {
+          "kind": "text",
+          "label": "Free",
+          "maxLength": 200
+        }
+      },
+      "min": 1,
+      "max": 1
+    },
+    "t12": {
+      "kind": "text",
+      "label": "✦ end of the list — more nex…",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": "— 05.1 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "N° 01",
+    "t2": "How this works.",
+    "t3": "Each entry has someone from our team behind it who vouches for it personally. We don",
+    "t4": "'",
+    "t5": "t aggregate. We recommend.",
+    "t6": "Want to suggest an addition?",
+    "l1": {
+      "type": "page",
+      "page": "pg_7nbz8t2ex4"
+    },
+    "t7": "Write to us",
+    "t8": ". We add slowly, by consensus.",
+    "t9": "★ Items in this issue:",
+    "t10": "9",
+    "t11": ".",
+    "g1": [
+      {
+        "t1": "N° 1",
+        "t2": "book",
+        "l1": {
+          "type": "url",
+          "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
+          "newTab": true
+        },
+        "t3": "Governing the Commons",
+        "t4": "↗",
+        "t5": "The book that won Ostrom the Nobel and dismantled Hardin’s “Tragedy of the Commons.” Eight design principles for how communities actually steward shared resources together — without private enclosure or state takeover. Foundational reading for anyone serious about commoning at any scale.",
+        "t6": "— Curated by",
+        "t7": "Benjamin Life",
+        "t8": "Cambridge University Press · 1990",
+        "t9": "$28",
+        "t10": "N° 2",
+        "t11": "book",
+        "l2": {
+          "type": "url",
+          "url": "https://milkweed.org/book/braiding-sweetgrass",
+          "newTab": true
+        },
+        "t12": "Braiding Sweetgrass",
+        "t13": "↗",
+        "t14": "Indigenous wisdom, scientific knowledge, and the teachings of plants — woven together. Kimmerer (citizen of the Citizen Potawatomi Nation, professor of botany) writes the bioregional ethic better than most policy papers manage. If you read one book on what",
+        "t15": "belonging",
+        "t16": "means in a place, this is it.",
+        "t17": "— Curated by",
+        "t18": "Kathleen Marie Rose",
+        "t19": "Milkweed Editions · 2013",
+        "t20": "$20",
+        "t21": "N° 3",
+        "t22": "organization",
+        "l3": {
+          "type": "url",
+          "url": "https://www.frontrangecommons.org/",
+          "newTab": true
+        },
+        "t23": "Front Range Commons",
+        "t24": "↗",
+        "t25": "The parallel, member-led civic body SPIRIT feeds and protects but does not control. Commoners elect a Wisdom Council, which appoints Common Stewards. Where the day-to-day work of caring for the Front Range will live. Founding membership is opening — see",
+        "t26": "Connect.",
+        "t27": "— Curated by",
+        "t28": "SPIRIT",
+        "t29": "frontrangecommons.org",
+        "t30": "N° 4",
+        "t31": "book",
+        "l4": {
+          "type": "url",
+          "url": "https://www.jeremylent.com/the-patterning-instinct.html",
+          "newTab": true
+        },
+        "t32": "The Patterning Instinct",
+        "t33": "↗",
+        "t34": "A cultural history of how worldviews shape civilizations — and why the dominant Western metaphor of “nature as machine” is at the root of our ecological crisis. Useful for understanding why the Commons isn’t a policy proposal; it’s a cosmology shift.",
+        "t35": "— Curated by",
+        "t36": "Benjamin Life",
+        "t37": "Prometheus Books · 2017",
+        "t38": "$25",
+        "t39": "N° 5",
+        "t40": "tool",
+        "l5": {
+          "type": "url",
+          "url": "https://www.radicalxchange.org/concepts/quadratic-funding/",
+          "newTab": true
+        },
+        "t41": "Quadratic Funding",
+        "t42": "↗",
+        "t43": "The mathematical mechanism behind the Front Range Commons’ planned grant rounds: the matching pool amplifies the",
+        "t44": "number",
+        "t45": "of contributors, not the size of contributions. A wealthy donor’s $10,000 funds less than 100 neighbors each giving $5. Designed for genuine pluralism in resource allocation.",
+        "t46": "— Curated by",
+        "t47": "Cameron Ely-Murdock",
+        "t48": "Liberal Radicalism · 2018",
+        "t49": "Open",
+        "t50": "N° 6",
+        "t51": "organization",
+        "l6": {
+          "type": "url",
+          "url": "https://www.sociocracyforall.org/",
+          "newTab": true
+        },
+        "t52": "Sociocracy For All",
+        "t53": "↗",
+        "t54": "The cleanest current resource for sociocratic decision-making. SPIRIT operates by",
+        "t55": "consent",
+        "t56": "(not majority vote) inside the Stewardship Council, with circle-level autonomy — patterns SfA documents and trains. If you want to bring sociocracy into your own organization, start here.",
+        "t57": "— Curated by",
+        "t58": "Jordan Siegel",
+        "t59": "sociocracyforall.org",
+        "t60": "Donation",
+        "t61": "N° 7",
+        "t62": "practice",
+        "t63": "The Listeners",
+        "t64": "'",
+        "t65": "Council",
+        "t66": "A specific gathering form: one person speaks at a time, holding a token; others listen without preparing a response. No cross-talk, no debate. The form draws from many lineages — Indigenous councils, Quaker meetings, the Way of Council. We use it at Solidarity Suppers when the conversation matters enough.",
+        "t67": "— Curated by",
+        "t68": "Sarah D",
+        "t69": "'",
+        "t70": "Antoni",
+        "t71": "Practiced at Solidarity Suppers",
+        "t72": "N° 8",
+        "t73": "place",
+        "l7": {
+          "type": "url",
+          "url": "https://bouldercolorado.gov/services/open-space-and-mountain-parks",
+          "newTab": true
+        },
+        "t74": "The Flatirons",
+        "t75": "↗",
+        "t76": "The slanted sandstone slabs above Boulder — 290 million-year-old conglomerate from the Fountain Formation, lifted and tilted during the Laramide Orogeny. The signature backdrop of the Front Range and the geologic punctuation that says",
+        "t77": "here.",
+        "t78": "Walk Chautauqua at dawn.",
+        "t79": "— Curated by",
+        "t80": "SPIRIT",
+        "t81": "Boulder Open Space",
+        "t82": "&",
+        "t83": "Mountain Parks",
+        "t84": "Free",
+        "t85": "N° 9",
+        "t86": "place",
+        "l8": {
+          "type": "url",
+          "url": "https://www.fs.usda.gov/recarea/arp/recarea/?recid=36504",
+          "newTab": true
+        },
+        "t87": "Cache la Poudre River",
+        "t88": "↗",
+        "t89": "Colorado’s only nationally designated Wild",
+        "t90": "&",
+        "t91": "Scenic River. Headwaters in Rocky Mountain National Park; flows through Fort Collins on its way to the South Platte. The watershed that holds the northern reach of our bioregion and grounds the work of regional water stewardship coalitions.",
+        "t92": "— Curated by",
+        "t93": "SPIRIT",
+        "t94": "Northern Front Range watershed",
+        "t95": "Free"
+      }
+    ],
+    "t12": "✦ end of the list — more next time ✦",
+    "t13": "— 05.1 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone xs1\"> <div class=\"px-5 kx pt-section pb-section\" data-astro-cid-6kjp6l6a> <div class=\"grid grid-cols-12 gap-6 kv\" data-astro-cid-6kjp6l6a> <aside class=\"col-span-12 kc k2v k2w self-start space-y-5\" data-astro-cid-6kjp6l6a> <aside class=\"marginalia\"> <span class=\"num-badge block mb-1\">{{t1}}</span> <strong>{{t2}}</strong> {{t3}}{{t4}}{{t5}} </aside> <aside class=\"marginalia\"> {{t6}} <a href=\"{{href l1}}\">{{t7}}</a>{{t8}} </aside> <aside class=\"marginalia\"> {{t9}} <strong class=\"text-clay-deep\" data-astro-cid-6kjp6l6a>{{t10}}</strong>{{t11}} </aside> </aside> <div class=\"col-span-12 k2x\" data-astro-cid-6kjp6l6a> <div class=\"rule-bold mb-2\" data-astro-cid-6kjp6l6a></div> {{#each g1}}<div class=\"space-y-4\" data-astro-cid-6kjp6l6a> <article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-clay-deep text-base\">{{t1}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t2}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l1}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t3}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t4}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t5}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t6}} <span class=\"text-clay-deep\">{{t7}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t8}}</p> <p class=\"font-mono text-caption font-bold text-clay-deep\">{{t9}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-sage-deep text-base\">{{t10}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t11}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l2}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t12}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t13}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t14}} <em>{{t15}}</em> {{t16}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t17}} <span class=\"text-clay-deep\">{{t18}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t19}}</p> <p class=\"font-mono text-caption font-bold text-sage-deep\">{{t20}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-grass-deep text-base\">{{t21}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t22}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l3}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t23}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t24}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t25}} <em>{{t26}}</em></p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t27}} <span class=\"text-clay-deep\">{{t28}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t29}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-clay-deep text-base\">{{t30}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t31}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l4}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t32}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t33}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t34}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t35}} <span class=\"text-clay-deep\">{{t36}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t37}}</p> <p class=\"font-mono text-caption font-bold text-clay-deep\">{{t38}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-creek-deep text-base\">{{t39}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t40}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l5}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t41}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t42}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t43}} <em>{{t44}}</em> {{t45}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t46}} <span class=\"text-clay-deep\">{{t47}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t48}}</p> <p class=\"font-mono text-caption font-bold text-creek-deep\">{{t49}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-sage-deep text-base\">{{t50}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t51}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l6}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t52}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t53}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t54}} <em>{{t55}}</em> {{t56}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t57}} <span class=\"text-clay-deep\">{{t58}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t59}}</p> <p class=\"font-mono text-caption font-bold text-sage-deep\">{{t60}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-grass-deep text-base\">{{t61}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t62}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\">{{t63}}{{t64}} {{t65}}</h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t66}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t67}} <span class=\"text-clay-deep\">{{t68}}{{t69}}{{t70}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t71}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-clay-deep text-base\">{{t72}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t73}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l7}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t74}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t75}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t76}} <em>{{t77}}</em> {{t78}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t79}} <span class=\"text-clay-deep\">{{t80}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t81}} {{t82}} {{t83}}</p> <p class=\"font-mono text-caption font-bold text-clay-deep\">{{t84}}</p> </aside> </article><article class=\"catalog-entry grid grid-cols-12 gap-4 k3y group\"> <aside class=\"col-span-12 k3u flex k3v gap-3 k3x items-baseline k3w\"> <span class=\"num-badge text-creek-deep text-base\">{{t85}}</span> <span class=\"font-mono text-micro uppercase k7 text-shadow\">{{t86}}</span> </aside> <div class=\"col-span-12 ku\"> <h3 class=\"display-m text-ink mb-2 leading-tight\"> <a href=\"{{href l8}}\" class=\"no-underline k9 transition-colors\" rel=\"noopener\"> {{t87}} <span class=\"inline-block ml-1 text-base align-baseline opacity-60\" aria-hidden=\"true\">{{t88}}</span> </a> </h3> <div class=\"text-body text-shadow leading-relaxed\"> <div class=\"catalog-prose\" data-astro-cid-6kjp6l6a> <p>{{t89}} {{t90}} {{t91}}</p> </div> </div> <p class=\"mt-3 font-mono text-micro uppercase k2h text-shadow\"> {{t92}} <span class=\"text-clay-deep\">{{t93}}</span> </p> </div> <aside class=\"col-span-12 kc k3z\"> <p class=\"font-mono text-caption text-shadow leading-tight mb-1\">{{t94}}</p> <p class=\"font-mono text-caption font-bold text-creek-deep\">{{t95}}</p> </aside> </article> </div>{{/each}} <div class=\"rule-bold mt-2\" data-astro-cid-6kjp6l6a></div> <p class=\"text-center mt-12 caption text-shadow\" data-astro-cid-6kjp6l6a> {{t12}} </p> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs2\">{{t13}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-space-y-reverse:0}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-space-y-reverse:0;--tw-leading:initial;--tw-ease:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--leading-relaxed:1.625;--default-transition-duration:.15s;--default-transition-timing-function:cubic-bezier(.4,0,.2,1);--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-grass-deep:#6e7048;--color-sage-deep:#4f6b4d;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-caption:clamp(13.6px,12.24px + .24vw,17px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--text-display-m:clamp(44.2px,32.3px + 2.8vw,91.8px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h3{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}em{font-style:italic}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-bold{background:var(--color-ink);border:none;height:4px}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.display-m{font-family:var(--font-display);font-size:var(--text-display-m);letter-spacing:-.022em;font-weight:700;line-height:1}.marginalia{font-family:var(--font-mono);font-size:var(--text-caption);color:var(--color-shadow);border-left:2px solid var(--color-clay);padding-left:14.45px;line-height:1.45}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-2{margin-top:calc(var(--spacing) * 2)}.mt-3{margin-top:calc(var(--spacing) * 3)}.mt-12{margin-top:calc(var(--spacing) * 12)}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.ml-1{margin-left:calc(var(--spacing) * 1)}.block{display:block}.flex{display:flex}.grid{display:grid}.inline-block{display:inline-block}.w-full{width:100%}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.gap-2{gap:calc(var(--spacing) * 2)}.gap-3{gap:calc(var(--spacing) * 3)}.gap-4{gap:calc(var(--spacing) * 4)}.gap-6{gap:calc(var(--spacing) * 6)}:where(.space-y-4>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 4) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 4) * calc(1 - var(--tw-space-y-reverse)))}:where(.space-y-5>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 5) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 5) * calc(1 - var(--tw-space-y-reverse)))}.self-start{align-self:flex-start}.bg-bone{background-color:var(--color-bone)}.px-5{padding-inline:calc(var(--spacing) * 5)}.pt-section{padding-top:var(--spacing-section)}.pb-section{padding-bottom:var(--spacing-section)}.text-center{text-align:center}.align-baseline{vertical-align:baseline}.font-display{font-family:var(--font-display)}.font-mono{font-family:var(--font-mono)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.text-caption{font-size:var(--text-caption)}.text-micro{font-size:var(--text-micro)}.leading-relaxed{--tw-leading:var(--leading-relaxed);line-height:var(--leading-relaxed)}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.k2h{letter-spacing:.14em}.k7{letter-spacing:.18em}.text-clay-deep{color:var(--color-clay-deep)}.text-creek-deep{color:var(--color-creek-deep)}.text-grass-deep{color:var(--color-grass-deep)}.text-ink{color:var(--color-ink)}.text-sage-deep{color:var(--color-sage-deep)}.text-shadow{color:var(--color-shadow)}.uppercase{text-transform:uppercase}.no-underline{text-decoration-line:none}.opacity-60{opacity:.6}.transition-colors{transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration))}@media(hover:hover){.k9:hover{color:var(--color-clay-deep)}}@media(min-width:64rem){.k2v{position:sticky}.k13{top:calc(var(--spacing) * 5)}.k2w{top:calc(var(--spacing) * 8)}.k14{right:calc(var(--spacing) * 5)}.k3u{grid-column:span 2/span 2}.kc{grid-column:span 3/span 3}.ku{grid-column:span 7/span 7}.k2x{grid-column:span 9/span 9}.k3v{flex-direction:column}.k3w{align-items:flex-start}.k3x{gap:calc(var(--spacing) * 1)}.k3y{gap:calc(var(--spacing) * 6)}.kv{gap:calc(var(--spacing) * 10)}.kx{padding-inline:calc(var(--spacing) * 12)}.k3z{text-align:right}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.pt-section[data-astro-cid-6kjp6l6a]{padding-top:var(--spacing-section)}.pb-section[data-astro-cid-6kjp6l6a]{padding-bottom:var(--spacing-section)}.catalog-prose[data-astro-cid-6kjp6l6a] p{margin-block:6.8px}.catalog-prose[data-astro-cid-6kjp6l6a] p:first-child{margin-top:0}.catalog-prose[data-astro-cid-6kjp6l6a] em{font-style:italic;color:var(--color-clay-deep)}.catalog-prose[data-astro-cid-6kjp6l6a] strong{font-weight:700;color:var(--color-ink)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{color:inherit !important;opacity:0.85 !important}",
+  "section": {
+    "width": "full"
+  }
+}

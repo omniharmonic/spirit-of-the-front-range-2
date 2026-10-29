@@ -9,8 +9,158 @@
   },
   "sections": [
     {
-      "id": "sec_dct35enmyq",
-      "preset": "component/imported-home-1@1",
+      "id": "sec_6cczs2zpk8",
+      "preset": "component/sp-masthead-1@1",
+      "label": "Masthead",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_6cczs2zpk8",
+          "type": "component/sp-masthead-1",
+          "v": 1,
+          "fields": {
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "Mission",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "Programs",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l8": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t9": "Dashboard",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t11": "Connect"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_2eybkfwvn2",
+      "preset": "component/sp-home-2@1",
       "label": "SPIRIT of the Front Range.",
       "layout": {
         "mode": "stack",
@@ -19,306 +169,172 @@
             12
           ]
         },
-        "width": "wide"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-04-c2qs.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.7
-          }
-        },
-        "minHeight": {
-          "d": "720px",
-          "m": "720px"
-        },
         "padding": {
-          "d": "3xl",
-          "m": "3xl"
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_rnnxxjmsam",
-          "type": "component/imported-home-1",
+          "id": "blk_2eybkfwvn2",
+          "type": "component/sp-home-2",
           "v": 1,
           "fields": {
-            "text1": "WE CARE FOR THE PLACE WE SHARE",
-            "text2": "SPIRIT of the Front Range.",
-            "text3": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
-            "text4": "EXPLORE",
-            "label5": "GET INVOLVED",
-            "link5": {
+            "i1": {
+              "src": "media/2026/10/orig/gathering-04.jpg",
+              "alt": ""
+            },
+            "t1": "We care for the place we share",
+            "t2": "SPIRIT",
+            "t3": "of the",
+            "t4": "Front Range.",
+            "t5": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
+            "l1": {
               "type": "page",
               "page": "pg_4q1pz9nace"
             },
-            "label6": "◇ DONATE",
-            "link6": {
+            "t6": "Get involved",
+            "l2": {
               "type": "page",
               "page": "pg_nx1cbdabp0"
             },
-            "text7": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "· What SPIRIT is",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/#mission"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "text8": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "· Programs",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/#programs"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "text9": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "· The present moment",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/#why"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "text10": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "· Four Pillars",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/#pillars"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "text11": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "· Donate",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/#funding"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            "label12": "TRUE TO ESSENCE",
-            "link12": {
+            "t7": "◇ Donate",
+            "t8": "Explore",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_wcw0kehktj",
+                  "anchor": "mission"
+                },
+                "t1": "·",
+                "t2": "What SPIRIT is"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_wcw0kehktj",
+                  "anchor": "programs"
+                },
+                "t1": "·",
+                "t2": "Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_wcw0kehktj",
+                  "anchor": "why"
+                },
+                "t1": "·",
+                "t2": "The present moment"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_wcw0kehktj",
+                  "anchor": "pillars"
+                },
+                "t1": "·",
+                "t2": "Four Pillars"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_wcw0kehktj",
+                  "anchor": "funding"
+                },
+                "t1": "·",
+                "t2": "Donate"
+              }
+            ],
+            "t9": "●",
+            "t10": "Cover",
+            "t11": "Revolution Roll Call · August · Boulder",
+            "t12": "photographed by",
+            "l3": {
               "type": "url",
-              "url": "https://www.truetoessence.com/"
-            }
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t13": "True To Essence",
+            "t14": "· 2024"
           }
         }
       ]
     },
     {
-      "id": "sec_1apcn81kyx",
+      "id": "sec_z6e96z5y7f",
+      "preset": "component/sp-home-3@1",
+      "label": "We belong to more places than we have names for.",
+      "anchor": "context",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#faf4e5"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_d51kyxy67r",
-          "type": "text",
+          "id": "blk_z6e96z5y7f",
+          "type": "component/sp-home-3",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "If you live on the Earth, you already share a home."
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We belong to more places than we have names for."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Here on the Front Range of the Rocky Mountains in Colorado, we live in our homes, communities, and neighborhoods, but we also live in a watershed, a living ecosystem, and a long stretch of mountains meeting the plains with its distinct weather and particular patterns of land, water and life."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The watershed doesn't start on a property line. The wildfire doesn't respect county limits. The lines on a map cannot actually separate us from each other or from the land that holds us, because we are not separate from the living world. We are part of Nature, just like a fox, a forest, or a river, and our belonging to the living world implies responsibility for its stewardship."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "As people who call this bioregionbioregionA geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " home, we choose to take responsibility for taking care of what takes care of us – the lands, the water, the air, and each other."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "blk_4wb3679v0z",
-          "type": "image",
-          "v": 1,
-          "fields": {
-            "image": {
-              "src": "media/2026/10/context-front-range-overlook-en06.jpg",
-              "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground.",
-              "width": 1024,
-              "height": 768,
-              "mediaId": "med_en06s7rcmq"
+            "t1": "If you live on the Earth, you already share a home.",
+            "t2": "We belong to",
+            "t3": "more places than we have names for.",
+            "t4": "Here on the Front Range of the Rocky Mountains in Colorado, we live in our homes, communities, and neighborhoods, but we also live in a watershed, a living ecosystem, and a long stretch of mountains meeting the plains with its distinct weather and particular patterns of land, water and life.",
+            "t5": "The watershed doesn",
+            "t6": "'",
+            "t7": "t start on a property line. The wildfire doesn",
+            "t8": "'",
+            "t9": "t respect county limits. The lines on a map cannot actually separate us from each other or from the land that holds us, because we are not separate from the living world. We are part of Nature, just like a fox, a forest, or a river, and our belonging to the living world implies responsibility for its stewardship.",
+            "t10": "As people who call this",
+            "t11": "bioregion",
+            "t12": "bioregion",
+            "t13": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
+            "l1": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
             },
-            "aspect": "16:9",
-            "lightbox": false,
-            "caption": "the Front Range, from the foothills"
-          }
-        },
-        {
-          "id": "blk_1dja8p8skg",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 02 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t14": "Full glossary →",
+            "t15": "home, we choose to take responsibility for taking care of what takes care of us – the lands, the water, the air, and each other.",
+            "t16": "SPIRIT is a Colorado nonprofit that fosters local resilience and regeneration along the Rocky Mountain Front Range by offering cultural and educational programs, tools for community coordination, and community-directed funding. We bring together the people, neighborhoods, and organizations already working to care for this bioregion.",
+            "i1": {
+              "src": "media/2026/10/orig/context-front-range-overlook-duotone-clay.jpg",
+              "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground."
+            },
+            "t17": "the Front Range, from the foothills",
+            "t18": "— 02 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "context"
+      ]
     },
     {
-      "id": "sec_9q4bcv3sqf",
-      "preset": "component/imported-home-3@1",
+      "id": "sec_7e8evqfamz",
+      "preset": "component/sp-home-4@1",
       "label": "We know the way is together.",
+      "anchor": "mission",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -326,738 +342,486 @@
             12
           ]
         },
-        "width": "wide"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#f2ead8"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_new2vkws4f",
-          "type": "component/imported-home-3",
+          "id": "blk_7e8evqfamz",
+          "type": "component/sp-home-4",
           "v": 1,
           "fields": {
-            "text1": "OUR MISSION",
-            "text2": "We know the way is together.",
-            "text3": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Mission.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " SPIRIT serves as connective tissue for the regenerative bioregional movement activating here on the Front Range."
-                    }
-                  ]
-                }
-              ]
+            "t1": "Our mission",
+            "t2": "We know the way is",
+            "t3": "together.",
+            "t4": "Mission.",
+            "t5": "SPIRIT serves as connective tissue for the regenerative bioregional movement activating here on the Front Range.",
+            "g1": [
+              {
+                "t1": "The reality is, there are hundreds of people already doing this work locally: watershed stewards, Indigenous land keepers, neighborhood organizers, regenerative farmers, artists, musicians, teachers, healers."
+              },
+              {
+                "t1": "By lifting up and connecting existing regenerative initiatives, projects, organizations, and communities, SPIRIT aims to build the infrastructure that supports coordination and coherence among them, so we can take even better care of what we all share."
+              }
+            ],
+            "t6": "We call that infrastructure the Bioregional",
+            "t7": "Commons",
+            "t8": "commons",
+            "t9": "“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
+            "l1": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
             },
-            "text4": "THE BIOREGION AT THE CENTER",
-            "text5": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
-            "text6": "The reality is, there are hundreds of people already doing this work locally: watershed stewards, Indigenous land keepers, neighborhood organizers, regenerative farmers, artists, musicians, teachers, healers.",
-            "text7": "By lifting up and connecting existing regenerative initiatives, projects, organizations, and communities, SPIRIT aims to build the infrastructure that supports coordination and coherence among them, so we can take even better care of what we all share.",
-            "text8": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We call that infrastructure the Bioregional Commonscommons“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ", the space between us that belongs to and is governed by everyone who shows up in the spirit of care for our shared home."
-                    }
-                  ]
-                }
-              ]
-            },
-            "text9": "WE ARE ORGANIZING AROUND WHAT IS ALREADY HAPPENING.",
-            "text10": "SPIRIT's ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
-            "text11": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
-            "label12": "◇ MEET OUR TEAM",
-            "link12": {
+            "t10": "Full glossary →",
+            "t11": ", the space between us that belongs to and is governed by everyone who shows up in the spirit of care for our shared home.",
+            "l2": {
               "type": "page",
               "page": "pg_tqx65abs2z"
             },
-            "label13": "◇ OUR VISION & APPROACH",
-            "link13": {
+            "t12": "◇ Meet our team",
+            "l3": {
               "type": "page",
               "page": "pg_v08jq5w0tv"
             },
-            "label14": "◇ THE COMMONS",
-            "link14": {
+            "t13": "◇ Our Vision",
+            "t14": "&",
+            "t15": "approach",
+            "l4": {
               "type": "page",
               "page": "pg_2kzwp97y6g"
-            }
+            },
+            "t16": "◇ The Commons",
+            "t17": "The Bioregion at the Center",
+            "t18": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
+            "t19": "We are organizing around what is already happening.",
+            "t20": "SPIRIT",
+            "t21": "'",
+            "t22": "s ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
+            "t23": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
+            "t24": "— 03 —"
           }
         }
-      ],
-      "anchor": "mission"
+      ]
     },
     {
-      "id": "sec_gwxgr6zqdz",
+      "id": "sec_7wn7k5w2se",
+      "preset": "component/sp-home-5@1",
+      "label": "Ways to get involved.",
+      "anchor": "programs",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#e5d9bf"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_9qbhn4xqj2",
-          "type": "heading",
+          "id": "blk_7wn7k5w2se",
+          "type": "component/sp-home-5",
           "v": 1,
           "fields": {
-            "text": "Ways to get involved.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Live programs"
-          },
-          "variant": "plain",
-          "column": 0
-        },
-        {
-          "id": "blk_n6jg2vd1m6",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "With care-based programs to foster solidarity within our neighborhoods and communities, and to bridge with the displaced original ancestors of these lands to find a good way forward together, SPIRIT aims to provide a practical backbone for the establishment of the Front Range Bioregional Commons."
-                    }
-                  ]
+            "t1": "Live programs",
+            "t2": "Ways to",
+            "t3": "get involved.",
+            "t4": "With care-based programs to foster solidarity within our neighborhoods and communities, and to bridge with the displaced original ancestors of these lands to find a good way forward together, SPIRIT aims to provide a practical backbone for the establishment of the Front Range Bioregional Commons.",
+            "t5": "↳",
+            "t6": "The SPIRIT programs all interconnect.",
+            "t7": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds (coming soon) put resources in motion.",
+            "g1": [
+              {
+                "i1": {
+                  "src": "media/2026/10/orig/program-teach-ins.jpg",
+                  "alt": ""
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "↳ "
-                    },
-                    {
-                      "type": "text",
-                      "text": "The SPIRIT programs all interconnect.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds (coming soon) put resources in motion."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "programs"
-    },
-    {
-      "id": "sec_jhrf0ezkav",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#e5d9bf"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_474r0873bk",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "All of our programming prioritizes access and equity."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "blk_5td6ar398v",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "→ See all programs",
-            "link": {
+                "t1": "01",
+                "t2": "CST",
+                "t3": "Culturing",
+                "t4": "Commons Sense Teach-Ins",
+                "t5": "We offer",
+                "t6": "Commons Sense",
+                "t7": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
+                "t8": "'",
+                "t9": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+                "t10": "● active",
+                "l1": {
+                  "type": "url",
+                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+                  "newTab": true
+                },
+                "t11": "get on list →",
+                "i2": {
+                  "src": "media/2026/10/orig/program-suppers.jpg",
+                  "alt": ""
+                },
+                "t12": "02",
+                "t13": "SS",
+                "t14": "Solidarity",
+                "t15": "Solidarity",
+                "t16": "Suppers",
+                "t17": "We host small",
+                "t18": "Solidarity Suppers",
+                "t19": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion.",
+                "t20": "● active",
+                "l2": {
+                  "type": "url",
+                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+                  "newTab": true
+                },
+                "t21": "get on list →",
+                "i3": {
+                  "src": "media/2026/10/orig/program-resiliency.jpg",
+                  "alt": ""
+                },
+                "t22": "03",
+                "t23": "NRP",
+                "t24": "Coordination",
+                "t25": "Neighborhood Resiliency Programs",
+                "t26": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our",
+                "t27": "Neighborhood Resiliency Program",
+                "t28": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency.",
+                "t29": "● active",
+                "l3": {
+                  "type": "url",
+                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+                  "newTab": true
+                },
+                "t30": "get on list →"
+              }
+            ],
+            "t8": "All of our programming prioritizes access and equity.",
+            "l1": {
               "type": "page",
               "page": "pg_4q1pz9nace"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_73wzyt3wyz",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Subscribe to events",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " on our community dashboard. For inquiries, email "
-                    },
-                    {
-                      "type": "text",
-                      "text": "admin@spiritofthefrontrange.org",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "mailto:admin@spiritofthefrontrange.org"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_jjd58ydsw9",
-      "preset": "component/imported-home-5@1",
-      "label": "SPIRIT was formed in response to the…",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        },
-        "width": "wide"
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_pvdp8wxrvy",
-          "type": "component/imported-home-5",
-          "v": 1,
-          "fields": {
-            "text1": "THE PRESENT MOMENT",
-            "text2": "Climate turbulence has arrived.",
-            "text3": "SPIRIT was formed in response to the following challenges and pressing concerns facing people of place on the Front Range:",
-            "text4": "The East Troublesome Fire in 2020, the second-largest in Colorado history. The Marshall Fire in 2021. We live in one of the fastest-warming corridors in the country. Smoke seasons are getting longer. Our non-renewing aquifers are drawing down. The climate crisis is here now.",
-            "text5": "Our civic fabric has thinned.",
-            "text6": "Many of us don't know our neighbors by their names and stories. The habits and customs that held the village together through good times and bad have largely disappeared. We have become estranged from those with whom we have the most in common – land, water, air, culture.",
-            "text7": "TOGGLE HEADINGS UNFOLD TO REVEAL CONTENT.",
-            "text8": "High-level coordination tools are missing.",
-            "text9": "Hundreds of groups already work along the Front Range — watershed organizers, farmers, neighborhood coalitions – and they don't know each other and are not well-incentivized to collaborate. Good work is already happening here, but the connective tissue that links it all together is missing.",
-            "label10": "→ DEFINITIONS",
-            "link10": {
-              "type": "page",
-              "page": "pg_ewcm7r2qsq"
-            }
-          }
-        }
-      ],
-      "anchor": "why"
-    },
-    {
-      "id": "sec_y0kth28ma6",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_r32jv5nkpj",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 05 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_9np130fr10",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#f2ead8"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_wmbcs41qqn",
-          "type": "heading",
-          "v": 1,
-          "fields": {
-            "text": "Four Pillars, woven together.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Four threads, four pillars"
-          },
-          "variant": "plain",
-          "column": 0
-        },
-        {
-          "id": "blk_fx0357m54h",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT exists to coordinate a decentralized movement of local leaders engaged in economic re-localization, Indigenous revitalization, neighborhood resiliency, and bioregional regeneration. Our four pillars guide us toward alignment with that purpose."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "↑ see Programs above for what these look like in practice"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "pillars"
-    },
-    {
-      "id": "sec_33ny90kdw3",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#f2ead8"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_n55nrf1mde",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "★ the four pillars are activated through the programs we run"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT is a 501(c)(3) nonprofit that",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " exists to serve the "
-                    },
-                    {
-                      "type": "text",
-                      "text": "Commons",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/the-commons/"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ", and "
-                    },
-                    {
-                      "type": "text",
-                      "text": "not",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " to perpetuate itself. SPIRIT is the vessel that interfaces with the existing world of foundations, governments, and formal partnerships to offer programming, education, and fiscal sponsorship to serve the regeneration of the Front Range. We are a "
-                    },
-                    {
-                      "type": "text",
-                      "text": "Transitional Stewardship",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " team designing the SPIRIT institution to be replaced by the decentralized, member-directed Commons."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_cdcydam40s",
-      "preset": "component/imported-home-7@1",
-      "label": "Every gift moves us toward a more…",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        },
-        "width": "wide"
-      },
-      "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/funding-dusk-ridge-2fbv.jpg",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
-        },
-        "minHeight": {
-          "d": "40vh"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_sxx2mz6sh1",
-          "type": "component/imported-home-7",
-          "v": 1,
-          "fields": {
-            "text1": "SUPPORT THE WORK",
-            "text2": "Every gift moves us toward a more connected Front Range.",
-            "text3": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Your financial contribution supports programming, community-led allocation rounds, and the shared infrastructure that makes a flourishing bioregion possible.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
+            "t9": "→ See all programs",
+            "l2": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "text5": "HOW YOUR DOLLAR FLOWS",
-            "text6": "Supporting bioregional organizing team",
-            "text7": "Every donation moves toward a more resilient, more connected Front Range — through Commons Sense Teach-Ins that open understanding, Solidarity Suppers that deepen relationships, Neighborhood Resiliency Programs that build real preparedness, and Community Grant Rounds that put resources directly in the hands of the communities doing the most vital work.",
-            "text8": "Funding SPIRIT programs to seed the commons",
-            "text9": "Funding the Commons Grant Pool",
-            "label10": "DONATE",
-            "link10": {
+            "t10": "Subscribe to events",
+            "t11": "on our community dashboard. For inquiries, email",
+            "l3": {
+              "type": "email",
+              "email": "admin@spiritofthefrontrange.org"
+            },
+            "t12": "admin@spiritofthefrontrange.org",
+            "t13": ".",
+            "t14": "— 04 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_1b4eg2mfy0",
+      "preset": "component/sp-home-6@1",
+      "label": "SPIRIT was formed in response to the following challenges an…",
+      "anchor": "why",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_1b4eg2mfy0",
+          "type": "component/sp-home-6",
+          "v": 1,
+          "fields": {
+            "t1": "The Present Moment",
+            "t2": "SPIRIT was formed in response to the following challenges and pressing concerns facing people of place on the Front Range:",
+            "t3": "Toggle Headings unfold to reveal content.",
+            "t4": "01",
+            "t5": "Climate turbulence has arrived.",
+            "t6": "+",
+            "t7": "The East Troublesome Fire in 2020, the second-largest in Colorado history. The Marshall Fire in 2021. We live in one of the fastest-warming corridors in the country. Smoke seasons are getting longer. Our non-renewing aquifers are drawing down. The climate crisis is here now.",
+            "g1": [
+              {
+                "t1": "02",
+                "t2": "Our civic fabric has thinned.",
+                "t3": "+",
+                "t4": "Many of us don",
+                "t5": "'",
+                "t6": "t know our neighbors by their names and stories. The habits and customs that held the village together through good times and bad have largely disappeared. We have become estranged from those with whom we have the most in common – land, water, air, culture."
+              },
+              {
+                "t1": "03",
+                "t2": "High-level coordination tools are missing.",
+                "t3": "+",
+                "t4": "Hundreds of groups already work along the Front Range — watershed organizers, farmers, neighborhood coalitions – and they don",
+                "t5": "'",
+                "t6": "t know each other and are not well-incentivized to collaborate. Good work is already happening here, but the connective tissue that links it all together is missing."
+              }
+            ],
+            "l1": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t8": "→ Definitions",
+            "t9": "— 05 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_nyb5zctcsg",
+      "preset": "component/sp-home-7@1",
+      "label": "Four Pillars, woven together.",
+      "anchor": "pillars",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_nyb5zctcsg",
+          "type": "component/sp-home-7",
+          "v": 1,
+          "fields": {
+            "t1": "Four threads, four pillars",
+            "t2": "Four Pillars,",
+            "t3": "woven together.",
+            "t4": "SPIRIT exists to coordinate a decentralized movement of local leaders engaged in economic re-localization, Indigenous revitalization, neighborhood resiliency, and bioregional regeneration. Our four pillars guide us toward alignment with that purpose.",
+            "t5": "↑ see Programs above for what these look like in practice",
+            "g1": [
+              {
+                "t1": "Pillar · Culturing",
+                "t2": "01",
+                "t3": "Culturing.",
+                "i1": {
+                  "src": "media/2026/10/orig/pillar-culturing-duotone-clay.jpg",
+                  "alt": "Culturing."
+                },
+                "t4": "— offerings · Solidarity Supper",
+                "t5": "Meals, gatherings, and community experiments that grow patterns of relationship.",
+                "t6": "Solidarity Suppers, Commons Sense teaching and listening, skill-shares — everyday practices that help neighbors show up for each other with increasing intelligence, experience, care, and particular style.",
+                "t7": "★ outcome:",
+                "t8": "a living, transmissible practice",
+                "t9": "Pillar · Solidarity",
+                "t10": "02",
+                "t11": "Solidarity.",
+                "i2": {
+                  "src": "media/2026/10/orig/pillar-solidarity-duotone-creek.jpg",
+                  "alt": "Solidarity."
+                },
+                "t12": "— Listeners",
+                "t13": "'",
+                "t14": "Council · blessing",
+                "t15": "Building a shared sense of responsibility for each other.",
+                "t16": "Long-table dinners, shared walks, and mutual aid. The long, slow work of helping people contribute to and benefit from Commons practices where we share what we care about and care for what we share, so that everyone has what they need to thrive.",
+                "t17": "★ outcome:",
+                "t18": "real, embodied belonging",
+                "t19": "Pillar · Coordination",
+                "t20": "03",
+                "t21": "Coordination.",
+                "i3": {
+                  "src": "media/2026/10/orig/pillar-coordination-duotone-sage.jpg",
+                  "alt": "Coordination."
+                },
+                "t22": "— pond · Boulder Creek watershed",
+                "t23": "The tools and agreements that let people and groups decide things together.",
+                "t24": "Shared calendars, regenerative projects, fund-disbursement, community-led decision-making. With Mesh networks, microgrids, local-first tech, distributed tool libraries, neighborhood farm exchanges, community-owned servers, we are building the infrastructure for real resilience – at the speed of trust.",
+                "t25": "★ outcome:",
+                "t26": "coherent collective will",
+                "t27": "Pillar · Allocation",
+                "t28": "04",
+                "t29": "Allocation.",
+                "i4": {
+                  "src": "media/2026/10/orig/pillar-allocation-duotone-sage.jpg",
+                  "alt": "Allocation."
+                },
+                "t30": "— harvest, summer",
+                "t31": "Putting funds directly into the hands of the people doing the actual work.",
+                "t32": "Community-determined grant rounds, twice yearly — funded and allocated by the people who live here. Quadratic funding amplifies broad support over large donations. We fund what matters to us.",
+                "t33": "★ outcome:",
+                "t34": "fairly-distributed care"
+              }
+            ],
+            "t6": "★ the four pillars are activated through the programs we run",
+            "t7": "SPIRIT is a 501(c)(3) nonprofit that",
+            "t8": "exists to serve the",
+            "l1": {
+              "type": "page",
+              "page": "pg_2kzwp97y6g"
+            },
+            "t9": "Commons",
+            "t10": ", and",
+            "t11": "not",
+            "t12": "to perpetuate itself. SPIRIT is the vessel that interfaces with the existing world of foundations, governments, and formal partnerships to offer programming, education, and fiscal sponsorship to serve the regeneration of the Front Range. We are a",
+            "t13": "Transitional Stewardship",
+            "t14": "team designing the SPIRIT institution to be replaced by the decentralized, member-directed Commons.",
+            "t15": "— 06 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_53kntd0we8",
+      "preset": "component/sp-home-8@1",
+      "label": "Every gift moves us toward a more connected Front Range.",
+      "anchor": "funding",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_53kntd0we8",
+          "type": "component/sp-home-8",
+          "v": 1,
+          "fields": {
+            "i1": {
+              "src": "media/2026/10/orig/funding-dusk-ridge.jpg",
+              "alt": ""
+            },
+            "t1": "Support the work",
+            "t2": "Every gift moves us toward a more",
+            "t3": "connected",
+            "t4": "Front Range.",
+            "t5": "Your financial contribution supports programming, community-led allocation rounds, and the shared infrastructure that makes a flourishing bioregion possible.",
+            "t6": "Every donation moves toward a more resilient, more connected Front Range — through Commons Sense Teach-Ins that open understanding, Solidarity Suppers that deepen relationships, Neighborhood Resiliency Programs that build real preparedness, and Community Grant Rounds that put resources directly in the hands of the communities doing the most vital work.",
+            "l1": {
               "type": "page",
               "page": "pg_nx1cbdabp0"
             },
-            "label11": "◇ SEE WHERE IT GOES",
-            "link11": {
+            "t7": "Donate",
+            "l2": {
               "type": "page",
               "page": "pg_2kzwp97y6g"
             },
-            "text12": "DUSK OVER THE FOOTHILLS"
+            "t8": "◇ See where it goes",
+            "t9": "How your dollar flows",
+            "g1": [
+              {
+                "t1": "01",
+                "t2": "Supporting bioregional organizing team"
+              },
+              {
+                "t1": "02",
+                "t2": "Funding SPIRIT programs to seed the commons"
+              }
+            ],
+            "t10": "03",
+            "t11": "Funding the Commons Grant Pool",
+            "t12": "dusk over the foothills",
+            "t13": "thanks for reading",
+            "t14": "SPIRIT of the Front Range · 501(c)(3) · est. 2026",
+            "t15": "→ next update coming Spring",
+            "t16": "— 07 —"
           }
         }
-      ],
-      "anchor": "funding"
+      ]
     },
     {
-      "id": "sec_5tpksntdq3",
+      "id": "sec_8dhvvb74bm",
+      "preset": "component/sp-home-9@1",
+      "label": "We come together for something beautiful.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark"
-      },
-      "blocks": [
-        {
-          "id": "blk_pfzt17a0kz",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 07 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_dgc52d4wrc",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "dark",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#1f1e1b"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_ca4anyv702",
-          "type": "heading",
+          "id": "blk_8dhvvb74bm",
+          "type": "component/sp-home-9",
           "v": 1,
           "fields": {
-            "text": "We come together for something beautiful.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "All for the Commons"
-          },
-          "variant": "plain"
-        },
-        {
-          "id": "blk_5a7vc5d2e3",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "Learn about the Commons →",
-            "link": {
+            "t1": "All for the Commons",
+            "t2": "We come together for something beautiful.",
+            "l1": {
               "type": "page",
               "page": "pg_2kzwp97y6g"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_5hydpq126t",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 08 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t3": "Learn about the Commons →",
+            "t4": "— 08 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

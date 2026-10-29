@@ -3,806 +3,528 @@
   "title": "Neighborhood Resiliency Programs because there is no going it alone.",
   "slug": "programs/neighborhood-resiliency",
   "seo": {
-    "title": "Neighborhood Resiliency Programs",
-    "description": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our **Neighborhood Resiliency Program** to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities…",
+    "title": "Neighborhood Resiliency Programs · SPIRIT of the Front Range",
+    "description": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes?  We run our **Neighborhood Resiliency Program** to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected…",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
   "hidden": true,
   "sections": [
     {
-      "id": "sec_1sqycthd08",
+      "id": "sec_af0t7xsx0g",
+      "preset": "component/sp-masthead-18@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-09-rfdq.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_498p1z1pep",
-          "type": "text",
+          "id": "blk_af0t7xsx0g",
+          "type": "component/sp-masthead-18",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 06 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "l8": {
+              "type": "page",
+              "page": "pg_v08jq5w0tv"
+            },
+            "t9": "Mission",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_4q1pz9nace"
+            },
+            "t11": "Programs",
+            "t12": "·",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l10": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t13": "Dashboard",
+            "t14": "·",
+            "l11": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t15": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_0v8avk02tw",
+      "id": "sec_y5pf2q50xx",
+      "preset": "component/sp-neighborhood-r-63@1",
+      "label": "Neighborhood Resiliency Programs because there is no going i…",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
-      },
-      "style": {
-        "colorTheme": "dark"
-      },
-      "blocks": [
-        {
-          "id": "blk_2sxsv5q6d2",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "live · open enrollment"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Neighborhood Resiliency Programs because there is no going it alone."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our Neighborhood Resiliency Program to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
         },
-        {
-          "id": "blk_1xdg5t6g27",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "● Programs · Coordination photographed by "
-                    },
-                    {
-                      "type": "text",
-                      "text": "True To Essence",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://www.truetoessence.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_g29mn304tb",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_nm92xpq5s8",
-          "type": "text",
+          "id": "blk_y5pf2q50xx",
+          "type": "component/sp-neighborhood-r-63",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "NRP"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Pillar · Coordination"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Because there’s no going it alone.",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? When you grow more tomatoes than you can eat, do you know who down the street could use them? When a wildfire pushes toward your neighborhood, do you have a plan — and did you compose it with the people you’d be evacuating alongside?"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Right now, for many people on the Front Range, the answer to those questions is “no.” SPIRIT works to change that. The Neighborhood Resiliency Program supports denizens taking responsibility with their neighbors to cultivate patterns of relationship, solidarity, and resiliency so that we know whose backs we’ve got and whose got ours."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "i1": {
+              "src": "media/2026/10/orig/gathering-09.jpg",
+              "alt": "Hands washing freshly-pulled carrots under a stream of water in a garden."
+            },
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 06 —",
+            "t3": "live · open enrollment",
+            "t4": "Neighborhood Resiliency Programs",
+            "t5": "because there is no going it alone.",
+            "t6": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our Neighborhood Resiliency Program to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency.",
+            "t7": "●",
+            "t8": "Programs · Coordination",
+            "t9": "harvest · neighborhood garden · summer",
+            "t10": "photographed by",
+            "l1": {
+              "type": "url",
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t11": "True To Essence"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_j7zqtcgs0e",
+      "id": "sec_t6y5ggxhke",
+      "preset": "component/sp-neighborhood-r-64@1",
+      "label": "SECTION",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_3rkav6gepw",
-          "type": "text",
+          "id": "blk_t6y5ggxhke",
+          "type": "component/sp-neighborhood-r-64",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The arc of the program"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Toggle Headings unfold to reveal content."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_g8wp8bk9k4",
-          "type": "accordion",
-          "v": 1,
-          "fields": {
-            "items": [
+            "t1": "NRP",
+            "t2": "Pillar · Coordination",
+            "t3": "Because there’s no going it alone.",
+            "g1": [
               {
-                "question": "01 Why before the How Start with what matters. +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "We begin with the values that hold this up: confidence, preparation, competence, and care for each other. Participants form small accountability groups of three and get a simple worksheet to start sizing up their own neighborhood. This is where the relationships start."
-                        }
-                      ]
-                    }
-                  ]
-                }
+                "t1": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? When you grow more tomatoes than you can eat, do you know who down the street could use them? When a wildfire pushes toward your neighborhood, do you have a plan — and did you compose it with the people you’d be evacuating alongside?"
               },
               {
-                "question": "02 Knowing your neighbors The art of the knock on the door. +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Who on your block needs checking on in a crisis? Who has medical equipment, large animals, or particular vulnerabilities? Who has skills, tools, or a generator to share? We learn from the Neighborhood Villaging Project about what it actually takes to "
-                        },
-                        {
-                          "type": "text",
-                          "text": "know",
-                          "marks": [
-                            {
-                              "type": "italic"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " the people who live near you — including the conversation you've been meaning to have."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "question": "03 Walking the neighborhood Map the place you actually live. +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Participants bring their assessments to the group. We plan and walk site visits together — walking the streets to find risks, evacuation routes, water sources, gathering points, and resources. Every neighborhood is different. You learn it with your feet."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "question": "04 The basics Water. Power. First aid. Wellbeing. +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Dedicated sessions on water, power, and building practical first aid kits that go beyond the standard checklist. We cover psychological first aid, hygiene, and the often-overlooked realities of staying well during sustained disruption. Not just for one bad day — for two weeks of bad days."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "question": "05 The drill What does recovery actually look like? +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn't, and where the plan needs to get better. The drill is where the plan meets reality."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "question": "06 The capstone Present your neighborhood's plan. +",
-                "answer": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because "
-                        },
-                        {
-                          "type": "text",
-                          "text": "the relationships you built in this program are the resilience.",
-                          "marks": [
-                            {
-                              "type": "bold"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " Everything else is scaffolding."
-                        }
-                      ]
-                    }
-                  ]
-                }
+                "t1": "Right now, for many people on the Front Range, the answer to those questions is “no.” SPIRIT works to change that. The Neighborhood Resiliency Program supports denizens taking responsibility with their neighbors to cultivate patterns of relationship, solidarity, and resiliency so that we know whose backs we’ve got and whose got ours."
               }
             ],
-            "exclusive": false,
-            "openFirst": false,
-            "faqSchema": false
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_q2y520291g",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_83192wzr8a",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.2 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t4": "— 06.1 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_z18ctes33t",
+      "id": "sec_yn3s5dapy2",
+      "preset": "component/sp-neighborhood-r-65@1",
+      "label": "Start with what matters.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_rpqc19npj7",
-          "type": "heading",
+          "id": "blk_yn3s5dapy2",
+          "type": "component/sp-neighborhood-r-65",
           "v": 1,
           "fields": {
-            "text": "Twelve sessions. One neighborhood at a time.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Sign up for the next group",
-            "subheading": "The program is free, runs in groups of about 12 people, and is delivered with the Neighborhood Villaging Project. Tell us where you live and who you'd bring along, and we'll put you on the list for the next opening in your area."
-          },
-          "variant": "plain"
+            "t1": "The arc of the program",
+            "t2": "Toggle Headings unfold to reveal content.",
+            "t3": "01",
+            "t4": "Why before the How",
+            "t5": "Start with",
+            "t6": "what matters.",
+            "t7": "+",
+            "t8": "We begin with the values that hold this up: confidence, preparation, competence, and care for each other. Participants form small accountability groups of three and get a simple worksheet to start sizing up their own neighborhood. This is where the relationships start.",
+            "t9": "02",
+            "t10": "Knowing your neighbors",
+            "t11": "The art of the",
+            "t12": "knock on the door.",
+            "t13": "+",
+            "t14": "Who on your block needs checking on in a crisis? Who has medical equipment, large animals, or particular vulnerabilities? Who has skills, tools, or a generator to share? We learn from the Neighborhood Villaging Project about what it actually takes to",
+            "t15": "know",
+            "t16": "the people who live near you — including the conversation you",
+            "t17": "'",
+            "t18": "ve been meaning to have.",
+            "g1": [
+              {
+                "t1": "03",
+                "t2": "Walking the neighborhood",
+                "t3": "Map the place",
+                "t4": "you actually live.",
+                "t5": "+",
+                "t6": "Participants bring their assessments to the group. We plan and walk site visits together — walking the streets to find risks, evacuation routes, water sources, gathering points, and resources. Every neighborhood is different. You learn it with your feet."
+              },
+              {
+                "t1": "04",
+                "t2": "The basics",
+                "t3": "Water. Power.",
+                "t4": "First aid. Wellbeing.",
+                "t5": "+",
+                "t6": "Dedicated sessions on water, power, and building practical first aid kits that go beyond the standard checklist. We cover psychological first aid, hygiene, and the often-overlooked realities of staying well during sustained disruption. Not just for one bad day — for two weeks of bad days."
+              }
+            ],
+            "t19": "05",
+            "t20": "The drill",
+            "t21": "What does recovery",
+            "t22": "actually look like?",
+            "t23": "+",
+            "t24": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn",
+            "t25": "'",
+            "t26": "t, and where the plan needs to get better. The drill is where the plan meets reality.",
+            "t27": "06",
+            "t28": "The capstone",
+            "t29": "Present your",
+            "t30": "neighborhood",
+            "t31": "'",
+            "t32": "s plan.",
+            "t33": "+",
+            "t34": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because",
+            "t35": "the relationships you built in this program are the resilience.",
+            "t36": "Everything else is scaffolding.",
+            "t37": "— 06.2 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ws5dsvsvz9",
+      "preset": "component/sp-neighborhood-r-66@1",
+      "label": "Twelve sessions. One neighborhood at a time.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
         },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
         {
-          "id": "blk_khf8m4k5t0",
-          "type": "button",
+          "id": "blk_ws5dsvsvz9",
+          "type": "component/sp-neighborhood-r-66",
           "v": 1,
           "fields": {
-            "label": "✉ Get on the list →",
-            "link": {
+            "t1": "Sign up for the next group",
+            "t2": "Twelve sessions.",
+            "t3": "One neighborhood at a time.",
+            "t4": "The program is free, runs in groups of about 12 people, and is delivered with the Neighborhood Villaging Project. Tell us where you live and who you",
+            "t5": "'",
+            "t6": "d bring along, and we",
+            "t7": "'",
+            "t8": "ll put you on the list for the next opening in your area.",
+            "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_m750vp4wdm",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.3 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t9": "✉ Get on the list →",
+            "t10": "— 06.3 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_kp12d2m5z0",
+      "id": "sec_8h970jnwjg",
+      "preset": "component/sp-commons-sense-57@1",
+      "label": "DIV",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark-accent"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_98y9xbspcz",
-          "type": "text",
+          "id": "blk_8h970jnwjg",
+          "type": "component/sp-commons-sense-57",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "All of our programming prioritizes access and equity"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Subscribe to events at "
-                    },
-                    {
-                      "type": "text",
-                      "text": "dashboard.spiritofthefrontrange.org/subscribe",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "For inquiries, email "
-                    },
-                    {
-                      "type": "text",
-                      "text": "admin@spiritofthefrontrange.org",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "mailto:admin@spiritofthefrontrange.org"
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "All of our programming prioritizes access and equity",
+            "t2": "Subscribe to events at",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "t3": "dashboard.spiritofthefrontrange.org/subscribe",
+            "t4": "For inquiries, email",
+            "l2": {
+              "type": "email",
+              "email": "admin@spiritofthefrontrange.org"
+            },
+            "t5": "admin@spiritofthefrontrange.org"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_hx1sqy7bbg",
+      "id": "sec_6x43k4kjkr",
+      "preset": "component/sp-community-gran-62@1",
+      "label": "Each program weaves with the others.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_abn2jhkf8j",
-          "type": "heading",
+          "id": "blk_6x43k4kjkr",
+          "type": "component/sp-community-gran-62",
           "v": 1,
           "fields": {
-            "text": "Each program weaves with the others.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "The SPIRIT programs all interconnect.",
-            "subheading": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion."
-          },
-          "variant": "plain"
-        },
-        {
-          "id": "blk_s6d596jj0d",
-          "type": "columns",
-          "v": 1,
-          "fields": {
-            "items": [
+            "t1": "The SPIRIT programs all interconnect.",
+            "t2": "Each program weaves with",
+            "t3": "the others.",
+            "t4": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion.",
+            "l1": {
+              "type": "page",
+              "page": "pg_vprm01pyk0"
+            },
+            "t5": "Culturing",
+            "t6": "Commons Sense Teach-Ins",
+            "t7": "We offer",
+            "t8": "Commons Sense",
+            "t9": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
+            "t10": "'",
+            "t11": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+            "g1": [
               {
-                "heading": "Commons Sense",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Culturing"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Commons Sense Teach-Ins"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
-                  "type": "page",
-                  "page": "pg_vprm01pyk0"
-                }
-              },
-              {
-                "heading": "Solidarity Suppers",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Solidarity"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Solidarity Suppers"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
+                "l1": {
                   "type": "page",
                   "page": "pg_cgcyphxt35"
-                }
+                },
+                "t1": "Solidarity",
+                "t2": "Solidarity Suppers",
+                "t3": "We host small",
+                "t4": "Solidarity Suppers",
+                "t5": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion."
               },
               {
-                "heading": "allocate to regenerative cultural and ecological projects",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Allocation"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Community Grant Rounds"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                "link": {
+                "l1": {
                   "type": "page",
                   "page": "pg_fns9mfhdtt"
-                }
+                },
+                "t1": "Allocation",
+                "t2": "Community Grant Rounds",
+                "t3": "We raise money for the members of the Front Range Bioregional Commons to",
+                "t4": "allocate to regenerative cultural and ecological projects",
+                "t5": "along the Front Range using community-led coordination and resource-disbursement technologies. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund, and then the larger body of the Commons votes on which projects will receive allocations."
               }
             ],
-            "columns": "3",
-            "aspect": "4:5"
-          }
-        },
-        {
-          "id": "blk_2jwnv2acs5",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "← All Programs ",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/programs/"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " "
-                    },
-                    {
-                      "type": "text",
-                      "text": " ✉ Get in touch →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/connect/"
-                          }
-                        }
-                      ]
-                    }
-                  ]
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
                 },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 06.4 —"
-                    }
-                  ]
-                }
-              ]
-            }
+                "t1": "← All Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_7nbz8t2ex4"
+                },
+                "t1": "✉ Get in touch →"
+              }
+            ],
+            "t12": "— 06.4 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

@@ -3,247 +3,166 @@
   "title": "Words from people we trust.",
   "slug": "words",
   "seo": {
-    "title": "Words",
+    "title": "Words · SPIRIT of the Front Range",
     "description": "Essays, talks, and writings from SPIRIT stewards and peers we trust — context for the work, written long and slow.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
   "hidden": true,
   "sections": [
     {
-      "id": "sec_2bzsb40p8k",
+      "id": "sec_m5132zr61b",
+      "preset": "component/sp-masthead-38@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-06-exkt.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_h5hw1kn84s",
-          "type": "text",
+          "id": "blk_m5132zr61b",
+          "type": "component/sp-masthead-38",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 04 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "Mission",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "Programs",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l8": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t9": "Dashboard",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t11": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_3y3b7ds2zy",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "dark"
-      },
-      "blocks": [
-        {
-          "id": "blk_sx7ypc8vz7",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Essays · talks · papers"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Words from people we trust."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Essays, talks, and working papers — by SPIRIT team members and by peers we trust — that explain the why and the how behind the work we are doing on the Front Range."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_g40t0s6xhj",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "● Words photographed by "
-                    },
-                    {
-                      "type": "text",
-                      "text": "True To Essence",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://www.truetoessence.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_ge0vcw3436",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_g8vdpv3ht9",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "★ about this collection"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We publish slowly, and we publish what matters."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "This is not content marketing. It's a small, carefully tended library of the writing behind this work — essays on caring for place, talks on the moment we're in, working papers on how communities make decisions together, and notes from the Front Range itself."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Many of these pieces live on the writers' own sites — we link out and trust you to follow. Some live here, where we can edit, footnote, and add to them over time. "
-                    },
-                    {
-                      "type": "text",
-                      "text": "All of them are offered as context — so the work we do on the ground reads in its larger frame.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_7qqms3kgjg",
+      "id": "sec_y00ecegjm8",
+      "preset": "component/sp-words-46@1",
+      "label": "Words from people we trust.",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -251,932 +170,430 @@
             12
           ]
         },
-        "width": "narrow"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
         "padding": {
-          "d": "xl",
-          "m": "lg"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_phtcwsawz7",
-          "type": "heading",
-          "v": 1,
-          "fields": {
-            "text": "Worth your long attention.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Featured"
-          },
-          "variant": "plain",
-          "style": {
-            "align": {
-              "d": "center"
-            }
-          }
+          "d": "none",
+          "m": "none"
         },
-        {
-          "id": "blk_6v3tyehmcw",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04.2 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "variant": "drop-cap"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
-      ],
-      "preset": "about/story-editorial@1"
-    },
-    {
-      "id": "sec_fk47xwb557",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
       },
       "blocks": [
         {
-          "id": "blk_g3xyckqxvt",
-          "type": "quote",
+          "id": "blk_y00ecegjm8",
+          "type": "component/sp-words-46",
           "v": 1,
           "fields": {
-            "quote": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Context is everything. Here, we try to offer more of it."
-                    }
-                  ]
-                }
-              ]
-            }
+            "i1": {
+              "src": "media/2026/10/orig/gathering-06.jpg",
+              "alt": "Hands holding and blessing a person during a Listeners' Council — black and white intimate portrait."
+            },
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 04 —",
+            "t3": "Essays · talks · papers",
+            "t4": "Words from",
+            "t5": "people we trust.",
+            "t6": "Essays, talks, and working papers — by SPIRIT team members and by peers we trust — that explain the why and the how behind the work we are doing on the Front Range.",
+            "t7": "●",
+            "t8": "Words",
+            "t9": "Listeners",
+            "t10": "'",
+            "t11": "Council · blessing",
+            "t12": "photographed by",
+            "l1": {
+              "type": "url",
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t13": "True To Essence"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_g52k8x25me",
+      "id": "sec_pht3ety0mr",
+      "preset": "component/sp-words-47@1",
+      "label": "We publish slowly, and we publish what matters.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_am9e47h9r0",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Also in the library"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Further reading."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_2rr6422qcv",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_jamjz2c0wr",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "paper · January 2026"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "OpenCivics Labs"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 4
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Bioregional Coordination: A Hybrid Framework for Network Commons",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://opencivics.co/labs/bioregioning",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A long-form working paper laying out the two-body model behind SPIRIT's design: a small nonprofit that handles the legal and financial work, paired with a larger community body that holds the actual decision-making. Includes Elinor Ostrom's principles for shared resource management and a practical plan for how to build something like this."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "↗ Read external",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://opencivics.co/labs/bioregioning",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
         },
-        {
-          "id": "blk_59k2sntw6a",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "essay · November 2025"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "omniharmonic"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 4
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Collapse, Parallel Societies, and the Bioregional Imperative",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://omniharmonic.substack.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "On the slow unraveling of public institutions and why community-led, place-based networks — building real alternatives alongside the systems we still depend on — offer a third path between individual retreat and ideological exit."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "↗ Read external",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://omniharmonic.substack.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_9sv4v95f8r",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_er3dkbzdet",
-          "type": "text",
+          "id": "blk_pht3ety0mr",
+          "type": "component/sp-words-47",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04.3 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "★ about this collection",
+            "t2": "We publish slowly,",
+            "t3": "and we publish what matters.",
+            "t4": "This is not content marketing. It",
+            "t5": "'",
+            "t6": "s a small, carefully tended library of the writing behind this work — essays on caring for place, talks on the moment we",
+            "t7": "'",
+            "t8": "re in, working papers on how communities make decisions together, and notes from the Front Range itself.",
+            "t9": "Many of these pieces live on the writers",
+            "t10": "'",
+            "t11": "own sites — we link out and trust you to follow. Some live here, where we can edit, footnote, and add to them over time.",
+            "t12": "All of them are offered as context — so the work we do on the ground reads in its larger frame.",
+            "t13": "— 04.1 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_ken81aceb9",
+      "id": "sec_5eensq48mc",
+      "preset": "component/sp-words-48@1",
+      "label": "Worth your long attention.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_1k50shz1s5",
-          "type": "heading",
+          "id": "blk_5eensq48mc",
+          "type": "component/sp-words-48",
           "v": 1,
           "fields": {
-            "text": "We're always reading. Send us your work.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Are you a writer in this space?",
-            "subheading": "If you're working in bioregionalism, commons coordination, civic design, or any of the adjacent terrain — and you've written something we should be reading — we'd be honored to consider it for this collection."
-          },
-          "variant": "plain"
+            "t1": "Featured",
+            "t2": "Worth your",
+            "t3": "long attention.",
+            "t4": "01",
+            "t5": "essay · April 2026",
+            "t6": "omniharmonic",
+            "l1": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com/p/the-infrastructure-of-belonging",
+              "newTab": true
+            },
+            "t7": "The Infrastructure of Belonging",
+            "t8": "You belong to more places than you have names for. A foundational essay on bioregionalism and what it would mean to build civic infrastructure that actually reflects how communities exist in the world — overlapping, nested, and rooted in place.",
+            "t9": "— Benjamin Life",
+            "l2": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com/p/the-infrastructure-of-belonging",
+              "newTab": true
+            },
+            "t10": "↗ Read on omniharmonic",
+            "t11": "02",
+            "t12": "essay · March 2026",
+            "t13": "omniharmonic",
+            "l3": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t14": "The Mycelial Sensing of Networks",
+            "t15": "On networks — the kind that already exist in any community of people doing related work — and what it would mean to make them visible and tend them well, so different groups can recognize how their work fits together instead of accidentally competing.",
+            "t16": "— Benjamin Life",
+            "l4": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t17": "↗ Read on omniharmonic",
+            "t18": "03",
+            "t19": "talk · February 2026",
+            "t20": "omniharmonic · r3.0 Bioregional Confluence",
+            "l5": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t21": "Bioregional Coordination in a Time Between Worlds",
+            "t22": "A talk given for the r3.0 Bioregional Confluence: we are in a moment of profound change. Old institutions are breaking down faster than new ones are being built. In this transition, place-based coordination offers a path forward — but only if we learn to weave together what works in our existing institutions with the new forms of community organization emerging now.",
+            "t23": "— Benjamin Life",
+            "l6": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t24": "↗ Read on omniharmonic · r3.0 Bioregional Confluence",
+            "t25": "— 04.2 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_4dpezbfhk0",
+      "preset": "component/sp-words-49@1",
+      "label": "DIV",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
         },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
         {
-          "id": "blk_4qkpxygxz2",
-          "type": "button",
+          "id": "blk_4dpezbfhk0",
+          "type": "component/sp-words-49",
           "v": 1,
           "fields": {
-            "label": "✉ Send us a piece",
-            "link": {
+            "t1": "\"",
+            "t2": "Context is everything. Here, we try to offer more of it.",
+            "t3": "— the editor",
+            "t4": "'",
+            "t5": "s note · /words"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_8j5sxdzb1z",
+      "preset": "component/sp-words-50@1",
+      "label": "Further reading.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_8j5sxdzb1z",
+          "type": "component/sp-words-50",
+          "v": 1,
+          "fields": {
+            "t1": "Also in the library",
+            "t2": "Further",
+            "t3": "reading.",
+            "t4": "paper · January 2026",
+            "t5": "OpenCivics Labs",
+            "l1": {
+              "type": "url",
+              "url": "https://opencivics.co/labs/bioregioning",
+              "newTab": true
+            },
+            "t6": "Bioregional Coordination: A Hybrid Framework for Network Commons",
+            "t7": "A long-form working paper laying out the two-body model behind SPIRIT",
+            "t8": "'",
+            "t9": "s design: a small nonprofit that handles the legal and financial work, paired with a larger community body that holds the actual decision-making. Includes Elinor Ostrom",
+            "t10": "'",
+            "t11": "s principles for shared resource management and a practical plan for how to build something like this.",
+            "l2": {
+              "type": "url",
+              "url": "https://opencivics.co/labs/bioregioning",
+              "newTab": true
+            },
+            "t12": "↗ Read external",
+            "t13": "essay · November 2025",
+            "t14": "omniharmonic",
+            "l3": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t15": "Collapse, Parallel Societies, and the Bioregional Imperative",
+            "t16": "On the slow unraveling of public institutions and why community-led, place-based networks — building real alternatives alongside the systems we still depend on — offer a third path between individual retreat and ideological exit.",
+            "l4": {
+              "type": "url",
+              "url": "https://omniharmonic.substack.com",
+              "newTab": true
+            },
+            "t17": "↗ Read external",
+            "t18": "— 04.3 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_wzq3bt0tr2",
+      "preset": "component/sp-words-51@1",
+      "label": "We're always reading. Send us your work.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_wzq3bt0tr2",
+          "type": "component/sp-words-51",
+          "v": 1,
+          "fields": {
+            "t1": "Are you a writer in this space?",
+            "t2": "We're always reading.",
+            "t3": "Send us your work.",
+            "t4": "If you're working in bioregionalism, commons coordination, civic design, or any of the adjacent terrain — and you've written something we should be reading — we'd be honored to consider it for this collection.",
+            "l1": {
               "type": "page",
               "page": "pg_7nbz8t2ex4"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_mx7rdbvy18",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04.4 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t5": "✉ Send us a piece",
+            "t6": "— 04.4 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_2ez22hvybj",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_yer0vcd1by",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "★ A few terms, plainly"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Begin with the words."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A few words come up often on this site. Here's the short version of each. Hover any "
-                    },
-                    {
-                      "type": "text",
-                      "text": "underlined",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " word elsewhere on the site for an inline definition."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_0adap3wr2r",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "01"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Bioregion"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "02"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Commons"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "\"The Commons\" points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "03"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Front Range Commons"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "04"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Commoning"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "verb"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Commoning on a bioregional level directs our attentions and energies to where we can directly relate to the consequences of our stewardship, labor, and care."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "05"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Bioregional Commoning"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "verb"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Recognizes the wellbeing of human and natural systems (neighborhoods, watersheds, ecosystems, soil) as "
-                    },
-                    {
-                      "type": "text",
-                      "text": "shared resources",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " that the people who live in and depend on that land take responsibility to "
-                    },
-                    {
-                      "type": "text",
-                      "text": "steward",
-                      "marks": [
-                        {
-                          "type": "italic"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " collectively."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "06"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Resilience"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "07"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Lattice"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT's operating metaphor. The minimum infrastructure that enables Commons activity without controlling it."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "08"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Institutional Self-Negation"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The deliberate practice of transferring responsibility from SPIRIT to the Commons as fast as the Commons can absorb it."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "09"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 3
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Regeneration"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "noun"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Regeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing. Cultural regeneration would teach them how to prepare the fish and share the meal with their relatives."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1",
-      "anchor": "glossary"
-    },
-    {
-      "id": "sec_rxkntbd0bm",
+      "id": "sec_6adz512k48",
+      "preset": "component/sp-words-52@1",
+      "label": "Begin with the words.",
+      "anchor": "glossary",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_pmc3tan2t7",
-          "type": "text",
+          "id": "blk_6adz512k48",
+          "type": "component/sp-words-52",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 04.5 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "★ A few terms, plainly",
+            "t2": "Begin with",
+            "t3": "the words.",
+            "t4": "A few words come up often on this site. Here",
+            "t5": "'",
+            "t6": "s the short version of each. Hover any",
+            "t7": "underlined",
+            "t8": "word elsewhere on the site for an inline definition.",
+            "g1": [
+              {
+                "t1": "01",
+                "t2": "Bioregion",
+                "t3": "noun",
+                "t4": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
+                "t5": "02",
+                "t6": "The Commons",
+                "t7": "noun",
+                "t8": "\"",
+                "t9": "The Commons",
+                "t10": "\"",
+                "t11": "points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
+                "t12": "03",
+                "t13": "The Front Range Commons",
+                "t14": "noun",
+                "t15": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance.",
+                "t16": "04",
+                "t17": "Commoning",
+                "t18": "verb",
+                "t19": "Commoning on a bioregional level directs our attentions and energies to where we can directly relate to the consequences of our stewardship, labor, and care.",
+                "t20": "05",
+                "t21": "Bioregional Commoning",
+                "t22": "verb",
+                "t23": "Recognizes the wellbeing of human and natural systems (neighborhoods, watersheds, ecosystems, soil) as",
+                "t24": "shared resources",
+                "t25": "that the people who live in and depend on that land take responsibility to",
+                "t26": "steward",
+                "t27": "collectively.",
+                "t28": "06",
+                "t29": "Resilience",
+                "t30": "noun",
+                "t31": "The capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks.",
+                "t32": "07",
+                "t33": "The Lattice",
+                "t34": "noun",
+                "t35": "SPIRIT",
+                "t36": "'",
+                "t37": "s operating metaphor. The minimum infrastructure that enables Commons activity without controlling it.",
+                "t38": "08",
+                "t39": "Institutional Self-Negation",
+                "t40": "noun",
+                "t41": "The deliberate practice of transferring responsibility from SPIRIT to the Commons as fast as the Commons can absorb it.",
+                "t42": "09",
+                "t43": "Regeneration",
+                "t44": "noun",
+                "t45": "Regeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing. Cultural regeneration would teach them how to prepare the fish and share the meal with their relatives."
+              }
+            ],
+            "t9": "— 04.5 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

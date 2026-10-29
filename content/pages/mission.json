@@ -3,62 +3,162 @@
   "title": "→ Mission",
   "slug": "mission",
   "seo": {
-    "title": "Mission",
+    "title": "Mission · SPIRIT of the Front Range",
     "description": "SPIRIT's vision, mission, and the promises that hold this work along Colorado's Front Range.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
   "sections": [
     {
-      "id": "sec_azpy3ar0xn",
+      "id": "sec_c4p3t816wc",
+      "preset": "component/sp-masthead-11@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-05-jz42.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_fmnfye63ny",
-          "type": "text",
+          "id": "blk_c4p3t816wc",
+          "type": "component/sp-masthead-11",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 02 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "l8": {
+              "type": "page",
+              "page": "pg_v08jq5w0tv"
+            },
+            "t9": "Mission",
+            "t10": "·",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "Programs",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l9": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t11": "Dashboard",
+            "t12": "·",
+            "l10": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t13": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_81spg2gwt5",
-      "preset": "component/imported-mission-1@1",
+      "id": "sec_jh3b4ccsbv",
+      "preset": "component/sp-mission-12@1",
       "label": "A more beautiful Front Range.",
       "layout": {
         "mode": "stack",
@@ -67,684 +167,280 @@
             12
           ]
         },
-        "width": "wide"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_f1xv4je2xk",
-          "type": "component/imported-mission-1",
+          "id": "blk_jh3b4ccsbv",
+          "type": "component/sp-mission-12",
           "v": 1,
           "fields": {
-            "text1": "WHAT WE'RE DOING AND WHY",
-            "text2": "A more beautiful Front Range.",
-            "text3": "A Front Range where neighbors know each other, the land is well-tended, and the people who live here have a real say in how it's cared for — now and for the generations that come after us.",
-            "label4": "TRUE TO ESSENCE",
-            "link4": {
+            "i1": {
+              "src": "media/2026/10/orig/gathering-05.jpg",
+              "alt": "Wildflowers and pine boughs on the Front Range with mountains beyond."
+            },
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 02 —",
+            "t3": "What we",
+            "t4": "'",
+            "t5": "re doing and why",
+            "t6": "A more beautiful",
+            "t7": "Front Range.",
+            "t8": "A Front Range where neighbors know each other, the land is well-tended, and the people who live here have a real say in how it",
+            "t9": "'",
+            "t10": "s cared for — now and for the generations that come after us.",
+            "t11": "●",
+            "t12": "Mission",
+            "t13": "Wildflowers · early summer · Boulder foothills",
+            "t14": "photographed by",
+            "l1": {
               "type": "url",
-              "url": "https://www.truetoessence.com/"
-            }
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t15": "True To Essence"
           }
         }
       ]
     },
     {
-      "id": "sec_1dfdnz2ewx",
+      "id": "sec_qx9skfr2d8",
+      "preset": "component/sp-mission-13@1",
+      "label": "Our vision is a remembering.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#faf4e5"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_3v43vtkh6h",
-          "type": "text",
+          "id": "blk_qx9skfr2d8",
+          "type": "component/sp-mission-13",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our vision"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our vision is a remembering."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_v4xtfm6mkq",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            5,
-            7
-          ],
-          "m": [
-            12
-          ]
-        },
-        "align": "center"
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_swpbvz01ez",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our vision is a Front Range where neighbors know each other, the land is tended well, and people have a real say in how we shape our shared home. We envision communities woven together by stewardship and care, meaningful work, wise management of shared resources, and local economies. We want to know our food, our farmers, and one another by nurturing vibrant culture, creativity, and shared knowledge across generations."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_gw3zv19cyt",
-          "type": "image",
-          "v": 1,
-          "fields": {
-            "image": {
-              "src": "media/2026/10/gathering-01-s5v3.webp",
-              "alt": "A creek at dusk in a mountain valley, fall-yellow aspen reflected in still water.",
-              "width": 1600,
-              "height": 2400,
-              "mediaId": "med_s5v3nxn326"
+            "t1": "N° 01",
+            "t2": "Vision.",
+            "t3": "A picture of what",
+            "t4": "'",
+            "t5": "s possible — a horizon to walk toward.",
+            "t6": "Our vision",
+            "t7": "Our vision is a",
+            "t8": "remembering.",
+            "t9": "Our vision is a Front Range where neighbors know each other, the land is tended well, and people have a real say in how we shape our shared home. We envision communities woven together by stewardship and care, meaningful work, wise management of shared resources, and local economies. We want to know our food, our farmers, and one another by nurturing vibrant culture, creativity, and shared knowledge across generations.",
+            "i1": {
+              "src": "media/2026/10/orig/gathering-01.jpg",
+              "alt": "A creek at dusk in a mountain valley, fall-yellow aspen reflected in still water."
             },
-            "aspect": "original",
-            "lightbox": false,
-            "caption": "● creek above Nederland"
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_p1pz2pvsqx",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_y3058srg0c",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 02.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t10": "●",
+            "t11": "creek above Nederland",
+            "t12": "— 02.1 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_6bkbxy2bzd",
+      "id": "sec_qv7b1ze9tb",
+      "preset": "component/sp-mission-14@1",
+      "label": "We know the way is together.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_jrarzzs18w",
-          "type": "heading",
+          "id": "blk_qv7b1ze9tb",
+          "type": "component/sp-mission-14",
           "v": 1,
           "fields": {
-            "text": "We know the way is together.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Our mission"
-          },
-          "variant": "plain"
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_ydzb906qet",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            5,
-            7
-          ],
-          "m": [
-            12
-          ]
-        },
-        "align": "center"
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_af193y9azy",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our Mission is to provide a practical backbone for the establishment of the Front Range Bioregional Commonscommons“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ", the participatory infrastructure needed for the people of this place to better coordinate regenerationregenerationRegeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " and resilienceresilienceThe capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ", with care-based programs to foster solidarity within our neighborhoods and communities, and to bridge with the displaced original ancestors of these lands to find a good way forward together."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_1tr4hwyjmp",
-          "type": "columns",
-          "v": 1,
-          "fields": {
-            "items": [
+            "t1": "Our mission",
+            "t2": "We know the way is",
+            "t3": "together.",
+            "t4": "Our Mission is to provide a practical backbone for the establishment of the Front Range Bioregional",
+            "t5": "Commons",
+            "t6": "commons",
+            "t7": "“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
+            "l1": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t8": "Full glossary →",
+            "t9": ", the participatory infrastructure needed for the people of this place to better coordinate",
+            "t10": "regeneration",
+            "t11": "regeneration",
+            "t12": "Regeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing.",
+            "l2": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t13": "Full glossary →",
+            "t14": "and",
+            "t15": "resilience",
+            "t16": "resilience",
+            "t17": "The capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks.",
+            "l3": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t18": "Full glossary →",
+            "t19": ", with care-based programs to foster solidarity within our neighborhoods and communities, and to bridge with the displaced original ancestors of these lands to find a good way forward together.",
+            "g1": [
               {
-                "heading": "Solidarity Suppers",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "t1": "→",
+                "t2": "We host small",
+                "t3": "Solidarity Suppers",
+                "t4": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders."
               },
               {
-                "heading": "Commons Sense",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "t1": "→",
+                "t2": "We offer",
+                "t3": "Commons Sense",
+                "t4": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other."
               },
               {
-                "heading": "Neighborhood Resiliency Program",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "t1": "→",
+                "t2": "We run our",
+                "t3": "Neighborhood Resiliency Program",
+                "t4": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency."
               },
               {
-                "heading": "Community Grant Rounds",
-                "body": {
-                  "type": "doc",
-                  "content": []
-                }
+                "t1": "→",
+                "t2": "We raise money through",
+                "t3": "Community Grant Rounds",
+                "t4": "for the members of the Front Range Bioregional Commons to allocate to regenerative cultural and ecological projects along the Front Range using community-led coordination and resource-disbursement technologies."
               }
             ],
-            "columns": "2",
-            "aspect": "4:5"
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_s9zfy8p9zt",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "Explore our programs →",
-            "link": {
+            "l4": {
               "type": "page",
               "page": "pg_4q1pz9nace"
             },
-            "role": "primary"
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_2tdz08wptf",
-          "type": "image",
-          "v": 1,
-          "fields": {
-            "image": {
-              "src": "media/2026/10/mission-council-7zjb.jpg",
-              "alt": "A community council gathered in a large circle inside a great hall.",
-              "width": 1024,
-              "height": 683,
-              "mediaId": "med_7zjbg3kvc5"
+            "t20": "Explore our programs →",
+            "i1": {
+              "src": "media/2026/10/orig/mission-council.jpg",
+              "alt": "A community council gathered in a large circle inside a great hall."
             },
-            "aspect": "original",
-            "lightbox": false,
-            "caption": "● Revolution Roll Call · council in the round"
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_wckrwp4pes",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_2zjq6nrhd1",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 02.2 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t21": "●",
+            "t22": "Revolution Roll Call · council in the round",
+            "t23": "N° 02",
+            "t24": "Mission.",
+            "t25": "SPIRIT serves as connective tissue for the regenerative bioregional movement activating here on the Front Range.",
+            "t26": "— 02.2 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_w3sh8n9ezc",
+      "id": "sec_pw53tf95n4",
+      "preset": "component/sp-mission-15@1",
+      "label": "What guides us.",
+      "anchor": "ethics",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light",
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
         "background": {
           "type": "color",
-          "color": "#e5d9bf"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_jsew4bwa3g",
-          "type": "heading",
+          "id": "blk_pw53tf95n4",
+          "type": "component/sp-mission-15",
           "v": 1,
           "fields": {
-            "text": "What guides us.",
-            "level": "h2",
-            "size": "auto",
-            "eyebrow": "Six Values",
-            "subheading": "We envision a flourishing and resilient Front Range Bioregion now and for future generations culturing through living relational networks and coordinating through decentralized Commons infrastructure."
-          },
-          "variant": "plain"
-        },
-        {
-          "id": "blk_cmh2xajpp1",
-          "type": "columns",
-          "v": 1,
-          "fields": {
-            "items": [
-              {
-                "heading": "Healthy Local Ecologies",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Air quality monitoring, watershed stewardship, soil health programs, fire mitigation landscaping — land and water cared for by the people who live with them."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Mutual Care Already in Place",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Knowing who on the block needs to be checked on and who has skills, tools, or supplies to share. Connected, local relationships so that when something goes wrong, we don't have to figure it out alone."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Local Resource Access",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Community water systems, neighborhood farm exchanges (surplus from one yard to the table next door), distributed tool libraries, shared transportation, clothing swaps, potlucks!"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Resilient Local Energy",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Community solar arrays, neighborhood microgrids, shared generators, battery co-ops — so when the grid trips, we and our neighbors stay warm."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Community-held Digital Communication Systems",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "Mesh networks and community-held servers and datacenters that work when centralized systems fail."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "heading": "Vibrant Community Spirit",
-                "body": {
-                  "type": "doc",
-                  "content": [
-                    {
-                      "type": "paragraph",
-                      "content": [
-                        {
-                          "type": "text",
-                          "text": "A shared sense of home and kinship that runs deeper than the basic fact of proximity. Intergenerational knowledge-sharing and -caring. The feeling that we "
-                        },
-                        {
-                          "type": "text",
-                          "text": "belong",
-                          "marks": [
-                            {
-                              "type": "italic"
-                            }
-                          ]
-                        },
-                        {
-                          "type": "text",
-                          "text": " to places and people who are known to us."
-                        }
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "columns": "3",
-            "aspect": "4:5"
-          }
-        },
-        {
-          "id": "blk_pn11m745wd",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We are attempting in good faith the nearly-impossible but necessary work of weaving our communities back together with the life that sustains us all."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "blk_z7vekxre4s",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "Join our email list →",
-            "link": {
+            "t1": "Six Values",
+            "t2": "What",
+            "t3": "guides us.",
+            "t4": "We envision a flourishing and resilient Front Range Bioregion now and for future generations culturing through living relational networks and coordinating through decentralized Commons infrastructure.",
+            "t5": "01",
+            "t6": "Healthy Local Ecologies",
+            "t7": "Air quality monitoring, watershed stewardship, soil health programs, fire mitigation landscaping — land and water cared for by the people who live with them.",
+            "t8": "02",
+            "t9": "Mutual Care Already in Place",
+            "t10": "Knowing who on the block needs to be checked on and who has skills, tools, or supplies to share. Connected, local relationships so that when something goes wrong, we don",
+            "t11": "'",
+            "t12": "t have to figure it out alone.",
+            "t13": "03",
+            "t14": "Local Resource Access",
+            "t15": "Community water systems, neighborhood farm exchanges (surplus from one yard to the table next door), distributed tool libraries, shared transportation, clothing swaps, potlucks!",
+            "t16": "04",
+            "t17": "Resilient Local Energy",
+            "t18": "Community solar arrays, neighborhood microgrids, shared generators, battery co-ops — so when the grid trips, we and our neighbors stay warm.",
+            "t19": "05",
+            "t20": "Community-held Digital Communication Systems",
+            "t21": "Mesh networks and community-held servers and datacenters that work when centralized systems fail.",
+            "t22": "06",
+            "t23": "Vibrant Community Spirit",
+            "t24": "A shared sense of home and kinship that runs deeper than the basic fact of proximity. Intergenerational knowledge-sharing and -caring. The feeling that we",
+            "t25": "belong",
+            "t26": "to places and people who are known to us.",
+            "t27": "We are attempting in good faith the nearly-impossible but necessary work of weaving our communities back together with the life that sustains us all.",
+            "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_tjdsvyxa4d",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 02.3 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t28": "Join our email list →",
+            "t29": "— 02.3 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1",
-      "anchor": "ethics"
+      ]
     },
     {
-      "id": "sec_8awn9qhv96",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#e5d9bf"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_wn41bv7rtm",
-          "type": "quote",
-          "v": 1,
-          "fields": {
-            "quote": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our relationship to where we live carries with it a responsibility for that place. That responsibility belongs to all of us — it isn't something anyone can own or fence off. It is, by its nature, a commons."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_e0b1dntq2n",
-      "preset": "component/imported-mission-5@1",
-      "label": "All for the commons",
+      "id": "sec_jw93x1ay2h",
+      "preset": "component/sp-mission-16@1",
+      "label": "DIV",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -752,35 +448,75 @@
             12
           ]
         },
-        "width": "wide"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light-accent",
         "padding": {
-          "d": "2xl",
-          "m": "xl"
+          "d": "none",
+          "m": "none"
         },
         "background": {
           "type": "color",
-          "color": "#f2ead8"
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_c4hpvwcwy2",
-          "type": "component/imported-mission-5",
+          "id": "blk_jw93x1ay2h",
+          "type": "component/sp-mission-16",
           "v": 1,
           "fields": {
-            "text1": "ALL FOR THE COMMONS",
-            "text2": "We come together for something beautiful.",
-            "label3": "LEARN ABOUT THE COMMONS →",
-            "link3": {
+            "t1": "\"",
+            "t2": "Our relationship to where we live carries with it a responsibility for that place. That responsibility belongs to all of us — it isn",
+            "t3": "'",
+            "t4": "t something anyone can own or fence off. It is, by its nature, a commons.",
+            "t5": "— Benjamin Life"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_5pjrc1tzza",
+      "preset": "component/sp-mission-17@1",
+      "label": "SECTION",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_5pjrc1tzza",
+          "type": "component/sp-mission-17",
+          "v": 1,
+          "fields": {
+            "t1": "All for the Commons",
+            "t2": "We come together for something beautiful.",
+            "l1": {
               "type": "page",
               "page": "pg_2kzwp97y6g"
-            }
+            },
+            "t3": "Learn about the Commons →"
           }
         }
       ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

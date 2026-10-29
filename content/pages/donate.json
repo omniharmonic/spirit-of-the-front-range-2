@@ -3,652 +3,433 @@
   "title": "Donate to SPIRIT.",
   "slug": "donate",
   "seo": {
-    "title": "Donate",
+    "title": "Donate · SPIRIT of the Front Range",
     "description": "Support SPIRIT of the Front Range — a 501(c)(3) nonprofit helping the people of the Front Range take care of where they live.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
   "hidden": true,
   "sections": [
     {
-      "id": "sec_z0bbs8wmh1",
+      "id": "sec_j41egcdh2k",
+      "preset": "component/sp-masthead-38@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-09-rfdq.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_caz9padned",
-          "type": "text",
+          "id": "blk_j41egcdh2k",
+          "type": "component/sp-masthead-38",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 08 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "Mission",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "Programs",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "The Commons",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "Stewards",
+                "t2": "·"
+              }
+            ],
+            "l8": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t9": "Dashboard",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t11": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_7cgcvzq16p",
+      "id": "sec_pq21n6yk9x",
+      "preset": "component/sp-donate-42@1",
+      "label": "Donate to SPIRIT.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_5j8r58xedx",
-          "type": "text",
+          "id": "blk_pq21n6yk9x",
+          "type": "component/sp-donate-42",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Tax-deductible gift to a 501(c)(3) nonprofit"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Donate to SPIRIT."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Your financial contribution supports programming, community-led allocation rounds, and the shared infrastructure that makes a flourishing bioregion possible."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_pq1bt2k4sw",
-          "type": "button",
-          "v": 1,
-          "fields": {
-            "label": "★ Donate via Every.org →",
-            "link": {
-              "type": "url",
-              "url": "https://www.every.org/spiritofthefrontrange?suggestedAmounts=40%2C100%2C200%2C500%2C1000&theme_color=163857&designation=EVERY.ORG+GENERAL+FUNDING&utm_campaign=donate-link#/donate"
+            "i1": {
+              "src": "media/2026/10/orig/gathering-09.jpg",
+              "alt": "Hands washing freshly-pulled carrots under a stream of water in a garden."
             },
-            "role": "primary"
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_14mgrhwyk9",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "● Funding photographed by "
-                    },
-                    {
-                      "type": "text",
-                      "text": "True To Essence",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://www.truetoessence.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_2fqsf2jv06",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_d1e30trnpa",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Why your gift matters"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Every gift moves us toward a more connected Front Range."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Your donation directly contributes to a more resilient and vital Front Range — through Commons Sense Teach-Ins that open understanding, Solidarity Suppers that deepen relationships, Neighborhood Resiliency Programs that build real preparedness, and Community Grant Rounds that put resources directly in the hands of the communities doing the most vital work."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 08.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_rxrxk10zw7",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_s4c1f2wztj",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "★ How your dollar flows"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Every dollar follows a clear path."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "We are raising $300k–$500k over 18 months to seed the Commons.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Our floor is "
-                    },
-                    {
-                      "type": "text",
-                      "text": "$300k",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ". Our reach is "
-                    },
-                    {
-                      "type": "text",
-                      "text": "$500k",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": ". What grows as we raise more is the "
-                    },
-                    {
-                      "type": "text",
-                      "text": "number of paid hours",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " our stewards can give to this work, and the "
-                    },
-                    {
-                      "type": "text",
-                      "text": "size of the Commons Grant Pool",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " we put directly into community hands."
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_qr6rb3pv2k",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_8nab1b87d1",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Where the money goes — at our $300k floor"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_cwst6eypvd",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Amount · Use · %"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$144,000 · Steward labor — next 12 months, 10 hrs/week each in programs and coordination · 48%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$100,401 · Commons Grant Pool — directly to community projects · 33%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$49,190 · Programs — Solidarity Suppers, Commons Sense, Neighborhood Resiliency · 16%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$6,409 · Capital repaid — startup costs fronted by stewards as loans · 2%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$300,000 · Total · 100%"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_f24aqazxqt",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Where the money goes — at our $500k reach"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        },
-        {
-          "id": "blk_n5kcyc4z3h",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Amount · Use · %"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$294,401 · Steward labor — base, back-pay for early 2026, and more paid hours · 59%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$150,000 · Commons Grant Pool — directly to community projects · 30%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$49,190 · Programs — Solidarity Suppers, Commons Sense, Neighborhood Resiliency · 10%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$6,409 · Capital repaid — startup costs fronted by a steward as loans · 1%"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "$500,000 · Total · 100%"
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_1mzxkn39sc",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_ayryfrjzyy",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 08.2 —"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        }
-      ],
-      "preset": "starter/stack-12@1"
-    },
-    {
-      "id": "sec_3g979z9mzx",
-      "preset": "component/imported-donate-4@1",
-      "label": "Move toward a more connected Front…",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        },
-        "width": "wide"
-      },
-      "style": {
-        "colorTheme": "light",
-        "background": {
-          "type": "color",
-          "color": "#faf4e5"
-        }
-      },
-      "blocks": [
-        {
-          "id": "blk_sh2v24txk9",
-          "type": "component/imported-donate-4",
-          "v": 1,
-          "fields": {
-            "text1": "★ MAKE A GIFT",
-            "text2": "Move toward a more connected Front Range.",
-            "label3": "★ DONATE VIA EVERY.ORG →",
-            "link3": {
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 08 —",
+            "t3": "Tax-deductible gift to a 501(c)(3) nonprofit",
+            "t4": "Donate to",
+            "t5": "SPIRIT.",
+            "t6": "Your financial contribution supports programming, community-led allocation rounds, and the shared infrastructure that makes a flourishing bioregion possible.",
+            "l1": {
               "type": "url",
-              "url": "https://www.every.org/spiritofthefrontrange?suggestedAmounts=40%2C100%2C200%2C500%2C1000&theme_color=163857&designation=EVERY.ORG+GENERAL+FUNDING&utm_campaign=donate-link#/donate"
+              "url": "https://www.every.org/spiritofthefrontrange?suggestedAmounts=40%2C100%2C200%2C500%2C1000&theme_color=163857&designation=EVERY.ORG+GENERAL+FUNDING&utm_campaign=donate-link#/donate",
+              "newTab": true
             },
-            "text4": "SPIRIT OF THE FRONT RANGE IS A 501(C)(3) NONPROFIT. GIFTS ARE TAX-DEDUCTIBLE TO THE EXTENT ALLOWED BY LAW."
+            "t7": "★ Donate via Every.org →",
+            "t8": "●",
+            "t9": "Funding",
+            "t10": "harvest · garden plot · summer",
+            "t11": "photographed by",
+            "l2": {
+              "type": "url",
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t12": "True To Essence"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ecf1a14cqw",
+      "preset": "component/sp-donate-43@1",
+      "label": "Every gift moves us toward a more connected Front Range.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_ecf1a14cqw",
+          "type": "component/sp-donate-43",
+          "v": 1,
+          "fields": {
+            "t1": "Donations are processed through",
+            "t2": "Every.org",
+            "t3": "— a nonprofit platform that takes 0% if you cover the transaction fee.",
+            "t4": "Why your gift matters",
+            "t5": "Every gift moves us toward a more",
+            "t6": "connected",
+            "t7": "Front Range.",
+            "t8": "Your donation directly contributes to a more resilient and vital Front Range — through Commons Sense Teach-Ins that open understanding, Solidarity Suppers that deepen relationships, Neighborhood Resiliency Programs that build real preparedness, and Community Grant Rounds that put resources directly in the hands of the communities doing the most vital work.",
+            "t9": "— 08.1 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ajrqsx2gf2",
+      "preset": "component/sp-donate-44@1",
+      "label": "Every dollar follows a clear path.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_ajrqsx2gf2",
+          "type": "component/sp-donate-44",
+          "v": 1,
+          "fields": {
+            "t1": "★ How your dollar flows",
+            "t2": "Every dollar follows a",
+            "t3": "clear path.",
+            "t4": "We are raising $300k–$500k over 18 months to seed the Commons.",
+            "t5": "Our floor is",
+            "t6": "$300k",
+            "t7": ". Our reach is",
+            "t8": "$500k",
+            "t9": ". What grows as we raise more is the",
+            "t10": "number of paid hours",
+            "t11": "our stewards can give to this work, and the",
+            "t12": "size of the Commons Grant Pool",
+            "t13": "we put directly into community hands.",
+            "g1": [
+              {
+                "t1": "Where the money goes — at our $300k floor",
+                "g1": [
+                  {
+                    "t1": "Amount"
+                  },
+                  {
+                    "t1": "Use"
+                  }
+                ],
+                "t2": "%",
+                "g2": [
+                  {
+                    "t1": "$144,000",
+                    "t2": "Steward labor — next 12 months, 10 hrs/week each in programs and coordination",
+                    "t3": "48%"
+                  },
+                  {
+                    "t1": "$100,401",
+                    "t2": "Commons Grant Pool — directly to community projects",
+                    "t3": "33%"
+                  },
+                  {
+                    "t1": "$49,190",
+                    "t2": "Programs — Solidarity Suppers, Commons Sense, Neighborhood Resiliency",
+                    "t3": "16%"
+                  },
+                  {
+                    "t1": "$6,409",
+                    "t2": "Capital repaid — startup costs fronted by stewards as loans",
+                    "t3": "2%"
+                  }
+                ],
+                "t3": "$300,000",
+                "t4": "Total",
+                "t5": "100%"
+              },
+              {
+                "t1": "Where the money goes — at our $500k reach",
+                "g1": [
+                  {
+                    "t1": "Amount"
+                  },
+                  {
+                    "t1": "Use"
+                  }
+                ],
+                "t2": "%",
+                "g2": [
+                  {
+                    "t1": "$294,401",
+                    "t2": "Steward labor — base, back-pay for early 2026, and more paid hours",
+                    "t3": "59%"
+                  },
+                  {
+                    "t1": "$150,000",
+                    "t2": "Commons Grant Pool — directly to community projects",
+                    "t3": "30%"
+                  },
+                  {
+                    "t1": "$49,190",
+                    "t2": "Programs — Solidarity Suppers, Commons Sense, Neighborhood Resiliency",
+                    "t3": "10%"
+                  },
+                  {
+                    "t1": "$6,409",
+                    "t2": "Capital repaid — startup costs fronted by a steward as loans",
+                    "t3": "1%"
+                  }
+                ],
+                "t3": "$500,000",
+                "t4": "Total",
+                "t5": "100%"
+              }
+            ],
+            "t14": "— 08.2 —"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_y6gcs9hdkn",
+      "preset": "component/sp-donate-45@1",
+      "label": "Move toward a more connected Front Range.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "full"
+      },
+      "style": {
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_y6gcs9hdkn",
+          "type": "component/sp-donate-45",
+          "v": 1,
+          "fields": {
+            "t1": "★ Make a gift",
+            "t2": "Move toward a more",
+            "t3": "connected",
+            "t4": "Front Range.",
+            "l1": {
+              "type": "url",
+              "url": "https://www.every.org/spiritofthefrontrange?suggestedAmounts=40%2C100%2C200%2C500%2C1000&theme_color=163857&designation=EVERY.ORG+GENERAL+FUNDING&utm_campaign=donate-link#/donate",
+              "newTab": true
+            },
+            "t5": "★ Donate via Every.org →",
+            "t6": "SPIRIT of the Front Range is a 501(c)(3) nonprofit. Gifts are tax-deductible to the extent allowed by law.",
+            "t7": "— 08.3 —"
           }
         }
       ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

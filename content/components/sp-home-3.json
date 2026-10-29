@@ -1,0 +1,147 @@
+{
+  "name": "sp-home-3",
+  "label": "We belong to more places than we have names for.",
+  "description": "Recreated from the original site: We belong to more places than we have names for.. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "If you live on the Earth, yo…",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "We belong to",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "more places than we have nam…",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "Here on the Front Range of t…",
+      "maxLength": 876,
+      "multiline": true
+    },
+    "t5": {
+      "kind": "text",
+      "label": "The watershed doesn",
+      "maxLength": 200
+    },
+    "t6": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "t start on a property line. …",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": "t respect county limits. The…",
+      "maxLength": 942,
+      "multiline": true
+    },
+    "t10": {
+      "kind": "text",
+      "label": "As people who call this",
+      "maxLength": 200
+    },
+    "t11": {
+      "kind": "text",
+      "label": "bioregion",
+      "maxLength": 200
+    },
+    "t12": {
+      "kind": "text",
+      "label": "bioregion",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": "A geographically and hydrolo…",
+      "maxLength": 426,
+      "multiline": true
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “Full glossary →”"
+    },
+    "t14": {
+      "kind": "text",
+      "label": "Full glossary →",
+      "maxLength": 200
+    },
+    "t15": {
+      "kind": "text",
+      "label": "home, we choose to take resp…",
+      "maxLength": 384,
+      "multiline": true
+    },
+    "t16": {
+      "kind": "text",
+      "label": "SPIRIT is a Colorado nonprof…",
+      "maxLength": 1002,
+      "multiline": true
+    },
+    "i1": {
+      "kind": "image",
+      "label": "The Front Range plains seen …"
+    },
+    "t17": {
+      "kind": "text",
+      "label": "the Front Range, from the fo…",
+      "maxLength": 200
+    },
+    "t18": {
+      "kind": "text",
+      "label": "— 02 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "If you live on the Earth, you already share a home.",
+    "t2": "We belong to",
+    "t3": "more places than we have names for.",
+    "t4": "Here on the Front Range of the Rocky Mountains in Colorado, we live in our homes, communities, and neighborhoods, but we also live in a watershed, a living ecosystem, and a long stretch of mountains meeting the plains with its distinct weather and particular patterns of land, water and life.",
+    "t5": "The watershed doesn",
+    "t6": "'",
+    "t7": "t start on a property line. The wildfire doesn",
+    "t8": "'",
+    "t9": "t respect county limits. The lines on a map cannot actually separate us from each other or from the land that holds us, because we are not separate from the living world. We are part of Nature, just like a fox, a forest, or a river, and our belonging to the living world implies responsibility for its stewardship.",
+    "t10": "As people who call this",
+    "t11": "bioregion",
+    "t12": "bioregion",
+    "t13": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
+    "l1": {
+      "type": "page",
+      "page": "pg_ewcm7r2qsq",
+      "anchor": "glossary"
+    },
+    "t14": "Full glossary →",
+    "t15": "home, we choose to take responsibility for taking care of what takes care of us – the lands, the water, the air, and each other.",
+    "t16": "SPIRIT is a Colorado nonprofit that fosters local resilience and regeneration along the Rocky Mountain Front Range by offering cultural and educational programs, tools for community coordination, and community-directed funding. We bring together the people, neighborhoods, and organizations already working to care for this bioregion.",
+    "i1": {
+      "src": "media/2026/10/orig/context-front-range-overlook-duotone-clay.jpg",
+      "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground."
+    },
+    "t17": "the Front Range, from the foothills",
+    "t18": "— 02 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone-pale border-y-2 border-ink xs1\"> <div class=\"px-5 k17 pt-12 k18 pb-16 k19\" data-astro-cid-j7pv25f6> <div class=\"grid grid-cols-12 gap-6 kv items-start mb-10\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 k15\" data-astro-cid-j7pv25f6> <div class=\"flex items-baseline gap-5 mb-3 flex-wrap\" data-astro-cid-j7pv25f6> <p class=\"eyebrow\" data-astro-cid-j7pv25f6>{{t1}}</p> </div> <h2 class=\"font-display font-bold text-ink break-words k12 xs2\" data-astro-cid-j7pv25f6> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs3\" data-astro-cid-j7pv25f6>{{t3}}</span> </h2> </div> </div> <div class=\"rule-triple mb-8\" data-astro-cid-j7pv25f6></div> <div class=\"grid grid-cols-12 gap-6 kv items-start k16\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 ku\" data-astro-cid-j7pv25f6> <div class=\"body-cols-2 text-body text-ink leading-snug context-body\" data-astro-cid-j7pv25f6> <p>{{t4}}</p> <p>{{t5}}{{t6}}{{t7}}{{t8}}{{t9}}</p> <p>{{t10}} <span class=\"term-wrap term-clay\" data-term=\"bioregion\"><button class=\"term-trigger\" aria-describedby=\"term-pop-bioregion-cbrq9\" aria-expanded=\"false\" type=\"button\">{{t11}}</button><span class=\"term-pop\" data-xid=\"term-pop-bioregion-cbrq9\" role=\"tooltip\"><span class=\"term-pop-label\">{{t12}}</span><span class=\"term-pop-def\">{{t13}}</span><a href=\"{{href l1}}\" class=\"term-pop-more\">{{t14}}</a></span></span> {{t15}}</p> </div> </div> <aside class=\"col-span-12 kt kw border-ink k1a flex flex-col justify-center\" data-astro-cid-j7pv25f6> <p class=\"font-serif italic font-bold leading-snug text-ink xs4\" data-astro-cid-j7pv25f6> {{t16}} </p> </aside> </div> <figure class=\"mt-12\" data-astro-cid-j7pv25f6> <div class=\"k11 photo duotone-clay\" data-astro-cid-j7pv25f6> {{image i1 class=\"ximg w-full h-full object-cover ken-burns\"}} </div> <figcaption class=\"caption text-clay-deep mt-2\" data-astro-cid-j7pv25f6>{{t17}}</figcaption> </figure> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs5\">{{t18}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}.ximg,.ximg>picture{display:contents!important}.ximg::before,.ximg::after,.ximg source{display:none!important}.ximg .os-img__img{display:inline;width:auto;height:auto;max-width:none;object-fit:fill;object-position:50% 50%;filter:none;mix-blend-mode:normal;transition:none;border-radius:0;aspect-ratio:auto}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-pale:#faf4e5;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--color-rule:#b8a878;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}:-moz-focusring{outline:auto}.ximg,.ximg>picture>.os-img__img{vertical-align:middle;display:block}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto}button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}button{appearance:button}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto;display:block}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-triple{border-top:1px solid var(--color-ink);border-bottom:3px solid var(--color-ink);background:var(--color-bone);height:9px;box-shadow:inset 0 4px 0 0 var(--color-bone),inset 0 5px 0 0 var(--color-ink)}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.body-cols-2{column-count:1;column-gap:38.25px}@media(min-width:880px){.body-cols-2{column-count:2;column-rule:1px solid #b8a87899}@supports (color:color-mix(in lab,red,red)){.body-cols-2{column-rule:1px solid color-mix(in oklab,var(--color-rule) 60%,transparent)}}}.photo{isolation:isolate;position:relative;overflow:hidden}.photo .ximg,.photo .ximg>picture>.os-img__img{object-fit:cover;width:100%;height:100%;display:block}.duotone-clay .ximg,.duotone-clay .ximg>picture>.os-img__img{filter:none}.photo:after{content:\"\";mix-blend-mode:multiply;opacity:.18;pointer-events:none;z-index:2;background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.6 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\");position:absolute;inset:0}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-2{margin-top:calc(var(--spacing) * 2)}.mt-12{margin-top:calc(var(--spacing) * 12)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-8{margin-bottom:calc(var(--spacing) * 8)}.mb-10{margin-bottom:calc(var(--spacing) * 10)}.flex{display:flex}.grid{display:grid}.k11{aspect-ratio:16/9}.h-full,.h-full>picture>.os-img__img{height:100%}.w-full,.w-full>picture>.os-img__img{width:100%}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.justify-center{justify-content:center}.gap-2{gap:calc(var(--spacing) * 2)}.gap-5{gap:calc(var(--spacing) * 5)}.gap-6{gap:calc(var(--spacing) * 6)}.border-y-2{border-block-style:var(--tw-border-style);border-block-width:2px}.border-ink{border-color:var(--color-ink)}.bg-bone-pale{background-color:var(--color-bone-pale)}.object-cover,.object-cover>picture>.os-img__img{object-fit:cover}.px-5{padding-inline:calc(var(--spacing) * 5)}.pt-12{padding-top:calc(var(--spacing) * 12)}.pb-16{padding-bottom:calc(var(--spacing) * 16)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.k12{--tw-leading:1.05;line-height:1.05}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-creek-deep{color:var(--color-creek-deep)}.text-ink{color:var(--color-ink)}.italic{font-style:italic}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.k15{grid-column:span 10/span 10}.k16{align-items:stretch}.kv{gap:calc(var(--spacing) * 10)}.kw{border-left-style:var(--tw-border-style);border-left-width:1px}.k17{padding-inline:calc(var(--spacing) * 10)}.k18{padding-top:calc(var(--spacing) * 20)}.k19{padding-bottom:calc(var(--spacing) * 24)}.k1a{padding-left:calc(var(--spacing) * 8)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}@keyframes ken-burns{0%{transform:scale(1)translate(0)}to{transform:scale(1.08)translate(-1.5%,1%)}}@supports (animation-timeline:view()){.ken-burns,.ken-burns>picture>.os-img__img{animation:linear both ken-burns;animation-timeline:view();animation-range:cover}}.term-wrap{display:inline-block;position:relative}.term-trigger{font:inherit;color:inherit;cursor:help;text-underline-offset:3px;background:0 0;border:none;margin:0;padding:0;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;text-decoration-thickness:1.5px;transition:color .15s}.term-clay .term-trigger{-webkit-text-decoration-color:var(--color-clay-deep);text-decoration-color:var(--color-clay-deep)}.term-clay .term-trigger:hover,.term-clay .term-trigger[aria-expanded=true]{color:var(--color-clay-deep)}.term-pop{z-index:50;background:var(--color-ink,#1f1e1b);width:max-content;max-width:min(360px,80vw);color:var(--color-bone-pale,#f7efd8);opacity:0;visibility:hidden;pointer-events:none;font-family:var(--font-sans);text-align:left;cursor:default;border-radius:4px;padding:14.45px 17px;font-size:14.875px;line-height:1.45;text-decoration:none;transition:opacity .15s,visibility 0s linear .15s;position:absolute;bottom:calc(100% + 8px);left:50%;transform:translate(-50%);box-shadow:0 8px 24px #1f1e1b40,0 2px 6px #1f1e1b2e}.term-pop:after{content:\"\";border:6px solid #0000;border-top-color:var(--color-ink,#1f1e1b);position:absolute;top:100%;left:50%;transform:translate(-50%)}.term-wrap:hover .term-pop,.term-wrap:focus-within .term-pop,.term-trigger[aria-expanded=true]+.term-pop{opacity:1;visibility:visible;pointer-events:auto;transition:opacity .15s}.term-pop-label{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.18em;color:#e8b58a;margin-bottom:5.95px;font-size:11.9px;display:block}.term-pop-def{display:block}.term-pop-more{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.18em;color:#e8b58a;margin-top:8.5px;font-size:11.9px;text-decoration:none;display:inline-block}.term-pop-more:hover{text-decoration:underline}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.context-body[data-astro-cid-j7pv25f6] p{margin-top:12.75px}.context-body[data-astro-cid-j7pv25f6] p:first-child{margin-top:0}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-size:clamp(32.3px,22.1px + 2.6vw,66.3px) !important;letter-spacing:-0.02em !important}.xs3{font-weight:300 !important}.xs4{font-size:clamp(17px,15.64px + 0.35vw,20.4px) !important}.xs5{color:inherit !important;opacity:0.85 !important}",
+  "js": "root.querySelectorAll(\"[data-xid]\").forEach(function (el) { if (!document.getElementById(el.dataset.xid)) el.id = el.dataset.xid; });\nroot.addEventListener('click', function (e) {\n  var trigger = e.target instanceof Element ? e.target.closest('.term-trigger') : null;\n  if (!trigger) return;\n  e.preventDefault();\n  var isOpen = trigger.getAttribute('aria-expanded') === 'true';\n  document.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { if (t !== trigger) t.setAttribute('aria-expanded', 'false'); });\n  trigger.setAttribute('aria-expanded', isOpen ? 'false' : 'true');\n});\ndocument.addEventListener('click', function (e) {\n  if (e.target instanceof Element && e.target.closest('.term-trigger')) return;\n  root.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { t.setAttribute('aria-expanded', 'false'); });\n});\ndocument.addEventListener('keydown', function (e) {\n  if (e.key === 'Escape') root.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { t.setAttribute('aria-expanded', 'false'); });\n});",
+  "section": {
+    "width": "full"
+  }
+}

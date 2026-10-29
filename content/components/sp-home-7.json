@@ -1,0 +1,368 @@
+{
+  "name": "sp-home-7",
+  "label": "Four Pillars, woven together.",
+  "description": "Recreated from the original site: Four Pillars, woven together.. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "Four threads, four pillars",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "Four Pillars,",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "woven together.",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "SPIRIT exists to coordinate …",
+      "maxLength": 750,
+      "multiline": true
+    },
+    "t5": {
+      "kind": "text",
+      "label": "↑ see Programs above for wha…",
+      "maxLength": 200
+    },
+    "g1": {
+      "kind": "list",
+      "label": "Group “Pillar · Culturing”",
+      "fields": {
+        "t1": {
+          "kind": "text",
+          "label": "Pillar · Culturing",
+          "maxLength": 200
+        },
+        "t2": {
+          "kind": "text",
+          "label": "01",
+          "maxLength": 200
+        },
+        "t3": {
+          "kind": "text",
+          "label": "Culturing.",
+          "maxLength": 200
+        },
+        "i1": {
+          "kind": "image",
+          "label": "Culturing."
+        },
+        "t4": {
+          "kind": "text",
+          "label": "— offerings · Solidarity Sup…",
+          "maxLength": 200
+        },
+        "t5": {
+          "kind": "text",
+          "label": "Meals, gatherings, and commu…",
+          "maxLength": 240
+        },
+        "t6": {
+          "kind": "text",
+          "label": "Solidarity Suppers, Commons …",
+          "maxLength": 612,
+          "multiline": true
+        },
+        "t7": {
+          "kind": "text",
+          "label": "★ outcome:",
+          "maxLength": 200
+        },
+        "t8": {
+          "kind": "text",
+          "label": "a living, transmissible prac…",
+          "maxLength": 200
+        },
+        "t9": {
+          "kind": "text",
+          "label": "Pillar · Solidarity",
+          "maxLength": 200
+        },
+        "t10": {
+          "kind": "text",
+          "label": "02",
+          "maxLength": 200
+        },
+        "t11": {
+          "kind": "text",
+          "label": "Solidarity.",
+          "maxLength": 200
+        },
+        "i2": {
+          "kind": "image",
+          "label": "Solidarity."
+        },
+        "t12": {
+          "kind": "text",
+          "label": "— Listeners",
+          "maxLength": 200
+        },
+        "t13": {
+          "kind": "text",
+          "label": "'",
+          "maxLength": 200
+        },
+        "t14": {
+          "kind": "text",
+          "label": "Council · blessing",
+          "maxLength": 200
+        },
+        "t15": {
+          "kind": "text",
+          "label": "Building a shared sense of r…",
+          "maxLength": 200
+        },
+        "t16": {
+          "kind": "text",
+          "label": "Long-table dinners, shared w…",
+          "maxLength": 735,
+          "multiline": true
+        },
+        "t17": {
+          "kind": "text",
+          "label": "★ outcome:",
+          "maxLength": 200
+        },
+        "t18": {
+          "kind": "text",
+          "label": "real, embodied belonging",
+          "maxLength": 200
+        },
+        "t19": {
+          "kind": "text",
+          "label": "Pillar · Coordination",
+          "maxLength": 200
+        },
+        "t20": {
+          "kind": "text",
+          "label": "03",
+          "maxLength": 200
+        },
+        "t21": {
+          "kind": "text",
+          "label": "Coordination.",
+          "maxLength": 200
+        },
+        "i3": {
+          "kind": "image",
+          "label": "Coordination."
+        },
+        "t22": {
+          "kind": "text",
+          "label": "— pond · Boulder Creek water…",
+          "maxLength": 200
+        },
+        "t23": {
+          "kind": "text",
+          "label": "The tools and agreements tha…",
+          "maxLength": 225
+        },
+        "t24": {
+          "kind": "text",
+          "label": "Shared calendars, regenerati…",
+          "maxLength": 906,
+          "multiline": true
+        },
+        "t25": {
+          "kind": "text",
+          "label": "★ outcome:",
+          "maxLength": 200
+        },
+        "t26": {
+          "kind": "text",
+          "label": "coherent collective will",
+          "maxLength": 200
+        },
+        "t27": {
+          "kind": "text",
+          "label": "Pillar · Allocation",
+          "maxLength": 200
+        },
+        "t28": {
+          "kind": "text",
+          "label": "04",
+          "maxLength": 200
+        },
+        "t29": {
+          "kind": "text",
+          "label": "Allocation.",
+          "maxLength": 200
+        },
+        "i4": {
+          "kind": "image",
+          "label": "Allocation."
+        },
+        "t30": {
+          "kind": "text",
+          "label": "— harvest, summer",
+          "maxLength": 200
+        },
+        "t31": {
+          "kind": "text",
+          "label": "Putting funds directly into …",
+          "maxLength": 222
+        },
+        "t32": {
+          "kind": "text",
+          "label": "Community-determined grant r…",
+          "maxLength": 573,
+          "multiline": true
+        },
+        "t33": {
+          "kind": "text",
+          "label": "★ outcome:",
+          "maxLength": 200
+        },
+        "t34": {
+          "kind": "text",
+          "label": "fairly-distributed care",
+          "maxLength": 200
+        }
+      },
+      "min": 1,
+      "max": 1
+    },
+    "t6": {
+      "kind": "text",
+      "label": "★ the four pillars are activ…",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "SPIRIT is a 501(c)(3) nonpro…",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": "exists to serve the",
+      "maxLength": 200
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “Commons”"
+    },
+    "t9": {
+      "kind": "text",
+      "label": "Commons",
+      "maxLength": 200
+    },
+    "t10": {
+      "kind": "text",
+      "label": ", and",
+      "maxLength": 200
+    },
+    "t11": {
+      "kind": "text",
+      "label": "not",
+      "maxLength": 200
+    },
+    "t12": {
+      "kind": "text",
+      "label": "to perpetuate itself. SPIRIT…",
+      "maxLength": 738,
+      "multiline": true
+    },
+    "t13": {
+      "kind": "text",
+      "label": "Transitional Stewardship",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "team designing the SPIRIT in…",
+      "maxLength": 297
+    },
+    "t15": {
+      "kind": "text",
+      "label": "— 06 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "Four threads, four pillars",
+    "t2": "Four Pillars,",
+    "t3": "woven together.",
+    "t4": "SPIRIT exists to coordinate a decentralized movement of local leaders engaged in economic re-localization, Indigenous revitalization, neighborhood resiliency, and bioregional regeneration. Our four pillars guide us toward alignment with that purpose.",
+    "t5": "↑ see Programs above for what these look like in practice",
+    "g1": [
+      {
+        "t1": "Pillar · Culturing",
+        "t2": "01",
+        "t3": "Culturing.",
+        "i1": {
+          "src": "media/2026/10/orig/pillar-culturing-duotone-clay.jpg",
+          "alt": "Culturing."
+        },
+        "t4": "— offerings · Solidarity Supper",
+        "t5": "Meals, gatherings, and community experiments that grow patterns of relationship.",
+        "t6": "Solidarity Suppers, Commons Sense teaching and listening, skill-shares — everyday practices that help neighbors show up for each other with increasing intelligence, experience, care, and particular style.",
+        "t7": "★ outcome:",
+        "t8": "a living, transmissible practice",
+        "t9": "Pillar · Solidarity",
+        "t10": "02",
+        "t11": "Solidarity.",
+        "i2": {
+          "src": "media/2026/10/orig/pillar-solidarity-duotone-creek.jpg",
+          "alt": "Solidarity."
+        },
+        "t12": "— Listeners",
+        "t13": "'",
+        "t14": "Council · blessing",
+        "t15": "Building a shared sense of responsibility for each other.",
+        "t16": "Long-table dinners, shared walks, and mutual aid. The long, slow work of helping people contribute to and benefit from Commons practices where we share what we care about and care for what we share, so that everyone has what they need to thrive.",
+        "t17": "★ outcome:",
+        "t18": "real, embodied belonging",
+        "t19": "Pillar · Coordination",
+        "t20": "03",
+        "t21": "Coordination.",
+        "i3": {
+          "src": "media/2026/10/orig/pillar-coordination-duotone-sage.jpg",
+          "alt": "Coordination."
+        },
+        "t22": "— pond · Boulder Creek watershed",
+        "t23": "The tools and agreements that let people and groups decide things together.",
+        "t24": "Shared calendars, regenerative projects, fund-disbursement, community-led decision-making. With Mesh networks, microgrids, local-first tech, distributed tool libraries, neighborhood farm exchanges, community-owned servers, we are building the infrastructure for real resilience – at the speed of trust.",
+        "t25": "★ outcome:",
+        "t26": "coherent collective will",
+        "t27": "Pillar · Allocation",
+        "t28": "04",
+        "t29": "Allocation.",
+        "i4": {
+          "src": "media/2026/10/orig/pillar-allocation-duotone-sage.jpg",
+          "alt": "Allocation."
+        },
+        "t30": "— harvest, summer",
+        "t31": "Putting funds directly into the hands of the people doing the actual work.",
+        "t32": "Community-determined grant rounds, twice yearly — funded and allocated by the people who live here. Quadratic funding amplifies broad support over large donations. We fund what matters to us.",
+        "t33": "★ outcome:",
+        "t34": "fairly-distributed care"
+      }
+    ],
+    "t6": "★ the four pillars are activated through the programs we run",
+    "t7": "SPIRIT is a 501(c)(3) nonprofit that",
+    "t8": "exists to serve the",
+    "l1": {
+      "type": "page",
+      "page": "pg_2kzwp97y6g"
+    },
+    "t9": "Commons",
+    "t10": ", and",
+    "t11": "not",
+    "t12": "to perpetuate itself. SPIRIT is the vessel that interfaces with the existing world of foundations, governments, and formal partnerships to offer programming, education, and fiscal sponsorship to serve the regeneration of the Front Range. We are a",
+    "t13": "Transitional Stewardship",
+    "t14": "team designing the SPIRIT institution to be replaced by the decentralized, member-directed Commons.",
+    "t15": "— 06 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone pillars-spread xs1\"> <div class=\"px-5 k17 pt-16 k25 pb-20 k26 relative\" data-astro-cid-j7pv25f6> <div class=\"grid grid-cols-12 gap-6 kv mb-10 k22 items-end\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 ku\" data-astro-cid-j7pv25f6> <p class=\"eyebrow mb-3\" data-astro-cid-j7pv25f6>{{t1}}</p> <h2 class=\"display-l text-ink break-words k20\" data-astro-cid-j7pv25f6> {{t2}} <span class=\"italic font-serif font-light xs2\" data-astro-cid-j7pv25f6>{{t3}}</span> </h2> </div> <div class=\"col-span-12 kt k1a kw border-ink\" data-astro-cid-j7pv25f6> <p class=\"text-body text-shadow leading-snug\" data-astro-cid-j7pv25f6> {{t4}} </p> <p class=\"caption mt-3 text-shadow\" data-astro-cid-j7pv25f6>{{t5}}</p> </div> </div> <div class=\"rule-double mb-12\" data-astro-cid-j7pv25f6></div> {{#each g1}}<div class=\"grid grid-cols-1 k21 gap-x-10 k23 gap-y-12 k24 relative\" data-astro-cid-j7pv25f6> <article class=\"pillar-cat group flex flex-col\" data-astro-cid-j7pv25f6> <p class=\"eyebrow text-clay-deep mb-2\" data-astro-cid-j7pv25f6>{{t1}}</p> <div class=\"flex items-baseline gap-3 mb-5 flex-wrap\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl k27 text-clay-deep leading-none\" data-astro-cid-j7pv25f6>{{t2}}</span> <h3 class=\"display-m text-ink k20\" data-astro-cid-j7pv25f6>{{t3}}</h3> </div> <div class=\"k1x mb-4 photo duotone-clay\" data-astro-cid-j7pv25f6> {{image i1 class=\"ximg\"}} </div> <p class=\"caption text-clay-deep mb-3\" data-astro-cid-j7pv25f6>{{t4}}</p> <p class=\"text-body text-ink leading-snug mb-4 flex-1 pillar-body\" data-astro-cid-j7pv25f6> <em>{{t5}}</em> {{t6}} </p> <div class=\"flex items-baseline gap-3 caption mt-auto pt-3 border-t border-rule\" data-astro-cid-j7pv25f6> <span class=\"text-clay-deep\" data-astro-cid-j7pv25f6>{{t7}}</span> <span data-astro-cid-j7pv25f6>{{t8}}</span> </div> </article><article class=\"pillar-cat group flex flex-col\" data-astro-cid-j7pv25f6> <p class=\"eyebrow text-creek-deep mb-2\" data-astro-cid-j7pv25f6>{{t9}}</p> <div class=\"flex items-baseline gap-3 mb-5 flex-wrap\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl k27 text-creek-deep leading-none\" data-astro-cid-j7pv25f6>{{t10}}</span> <h3 class=\"display-m text-ink k20\" data-astro-cid-j7pv25f6>{{t11}}</h3> </div> <div class=\"k1x mb-4 photo duotone-creek\" data-astro-cid-j7pv25f6> {{image i2 class=\"ximg\"}} </div> <p class=\"caption text-creek-deep mb-3\" data-astro-cid-j7pv25f6>{{t12}}{{t13}} {{t14}}</p> <p class=\"text-body text-ink leading-snug mb-4 flex-1 pillar-body\" data-astro-cid-j7pv25f6> <em>{{t15}}</em> {{t16}} </p> <div class=\"flex items-baseline gap-3 caption mt-auto pt-3 border-t border-rule\" data-astro-cid-j7pv25f6> <span class=\"text-creek-deep\" data-astro-cid-j7pv25f6>{{t17}}</span> <span data-astro-cid-j7pv25f6>{{t18}}</span> </div> </article><article class=\"pillar-cat group flex flex-col\" data-astro-cid-j7pv25f6> <p class=\"eyebrow text-sage-deep mb-2\" data-astro-cid-j7pv25f6>{{t19}}</p> <div class=\"flex items-baseline gap-3 mb-5 flex-wrap\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl k27 text-sage-deep leading-none\" data-astro-cid-j7pv25f6>{{t20}}</span> <h3 class=\"display-m text-ink k20\" data-astro-cid-j7pv25f6>{{t21}}</h3> </div> <div class=\"k1x mb-4 photo duotone-sage\" data-astro-cid-j7pv25f6> {{image i3 class=\"ximg\"}} </div> <p class=\"caption text-sage-deep mb-3\" data-astro-cid-j7pv25f6>{{t22}}</p> <p class=\"text-body text-ink leading-snug mb-4 flex-1 pillar-body\" data-astro-cid-j7pv25f6> <em>{{t23}}</em> {{t24}} </p> <div class=\"flex items-baseline gap-3 caption mt-auto pt-3 border-t border-rule\" data-astro-cid-j7pv25f6> <span class=\"text-sage-deep\" data-astro-cid-j7pv25f6>{{t25}}</span> <span data-astro-cid-j7pv25f6>{{t26}}</span> </div> </article><article class=\"pillar-cat group flex flex-col\" data-astro-cid-j7pv25f6> <p class=\"eyebrow text-grass-deep mb-2\" data-astro-cid-j7pv25f6>{{t27}}</p> <div class=\"flex items-baseline gap-3 mb-5 flex-wrap\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl k27 text-grass-deep leading-none\" data-astro-cid-j7pv25f6>{{t28}}</span> <h3 class=\"display-m text-ink k20\" data-astro-cid-j7pv25f6>{{t29}}</h3> </div> <div class=\"k1x mb-4 photo duotone-sage\" data-astro-cid-j7pv25f6> {{image i4 class=\"ximg\"}} </div> <p class=\"caption text-grass-deep mb-3\" data-astro-cid-j7pv25f6>{{t30}}</p> <p class=\"text-body text-ink leading-snug mb-4 flex-1 pillar-body\" data-astro-cid-j7pv25f6> <em>{{t31}}</em> {{t32}} </p> <div class=\"flex items-baseline gap-3 caption mt-auto pt-3 border-t border-rule\" data-astro-cid-j7pv25f6> <span class=\"text-grass-deep\" data-astro-cid-j7pv25f6>{{t33}}</span> <span data-astro-cid-j7pv25f6>{{t34}}</span> </div> </article> <div class=\"hidden ke absolute k1w top-0 bottom-0 k1y w-px k1z pointer-events-none\" data-astro-cid-j7pv25f6></div> </div>{{/each}} <div class=\"rule-double mt-16\" data-astro-cid-j7pv25f6></div> <p class=\"caption text-shadow mt-3 text-right\" data-astro-cid-j7pv25f6>{{t6}}</p> <p class=\"font-serif italic text-body-lg text-ink leading-snug max-w-3xl mt-8 pillars-closing\" data-astro-cid-j7pv25f6> <strong>{{t7}}</strong> {{t8}} <a href=\"{{href l1}}\">{{t9}}</a>{{t10}} <em>{{t11}}</em> {{t12}} <em>{{t13}}</em> {{t14}} </p> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t15}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}.ximg,.ximg>picture{display:contents!important}.ximg::before,.ximg::after,.ximg source{display:none!important}.ximg .os-img__img{display:inline;width:auto;height:auto;max-width:none;object-fit:fill;object-position:50% 50%;filter:none;mix-blend-mode:normal;transition:none;border-radius:0;aspect-ratio:auto}*,::before,::after,::backdrop{--tw-translate-x:0;--tw-translate-y:0;--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-translate-x:0;--tw-translate-y:0;--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-dxl:816px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--xv-text-dxl:31.875px;--xv-text-dxl--line-height: 1.2;--xv-text-exl:38.25px;--xv-text-exl--line-height:calc(2.5 / 2.25);--font-weight-light:300;--font-weight-extrabold:800;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-grass-deep:#6e7048;--color-sage-deep:#4f6b4d;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--color-rule:#b8a878;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--text-body-lg:clamp(19.55px,17px + .55vw,26.35px);--text-display-m:clamp(44.2px,32.3px + 2.8vw,91.8px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2,h3{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}.ximg,.ximg>picture>.os-img__img{vertical-align:middle;display:block}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2,h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}em{font-style:italic}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto;display:block}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.folio-num{font-family:var(--font-display);font-feature-settings:\"tnum\";color:var(--color-clay-deep);font-weight:800;line-height:.85}.rule-double{border-top:1px solid var(--color-ink);border-bottom:1px solid var(--color-ink);background:0 0;height:6px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.display-m{font-family:var(--font-display);font-size:var(--text-display-m);letter-spacing:-.022em;font-weight:700;line-height:1}.photo{isolation:isolate;position:relative;overflow:hidden}.photo .ximg,.photo .ximg>picture>.os-img__img{object-fit:cover;width:100%;height:100%;display:block}.duotone-clay .ximg,.duotone-clay .ximg>picture>.os-img__img{filter:none}.duotone-sage .ximg,.duotone-sage .ximg>picture>.os-img__img{filter:none}.duotone-creek .ximg,.duotone-creek .ximg>picture>.os-img__img{filter:none}.photo:after{content:\"\";mix-blend-mode:multiply;opacity:.18;pointer-events:none;z-index:2;background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.6 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\");position:absolute;inset:0}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-0{top:calc(var(--spacing) * 0)}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.bottom-0{bottom:calc(var(--spacing) * 0)}.k1w{left:50%}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-3{margin-top:calc(var(--spacing) * 3)}.mt-8{margin-top:calc(var(--spacing) * 8)}.mt-16{margin-top:calc(var(--spacing) * 16)}.mt-auto{margin-top:auto}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-4{margin-bottom:calc(var(--spacing) * 4)}.mb-5{margin-bottom:calc(var(--spacing) * 5)}.mb-10{margin-bottom:calc(var(--spacing) * 10)}.mb-12{margin-bottom:calc(var(--spacing) * 12)}.flex{display:flex}.grid{display:grid}.hidden{display:none}.k1x{aspect-ratio:5/3}.w-full{width:100%}.w-px{width:1px}.max-w-3xl{max-width:var(--xv-container-dxl)}.flex-1{flex:1}.k1y{--tw-translate-x: -50%;translate:var(--tw-translate-x) var(--tw-translate-y)}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.flex-col{flex-direction:column}.flex-wrap{flex-wrap:wrap}.items-baseline{align-items:baseline}.items-end{align-items:flex-end}.gap-2{gap:calc(var(--spacing) * 2)}.gap-3{gap:calc(var(--spacing) * 3)}.gap-6{gap:calc(var(--spacing) * 6)}.gap-x-10{column-gap:calc(var(--spacing) * 10)}.gap-y-12{row-gap:calc(var(--spacing) * 12)}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-ink{border-color:var(--color-ink)}.border-rule{border-color:var(--color-rule)}.bg-bone{background-color:var(--color-bone)}.k1z{background-color:#1f1e1b66}@supports (color:color-mix(in lab,red,red)){.k1z{background-color:color-mix(in oklab,var(--color-ink) 40%,transparent)}}.px-5{padding-inline:calc(var(--spacing) * 5)}.pt-3{padding-top:calc(var(--spacing) * 3)}.pt-16{padding-top:calc(var(--spacing) * 16)}.pb-20{padding-bottom:calc(var(--spacing) * 20)}.text-right{text-align:right}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-3xl{font-size:var(--xv-text-dxl);line-height:var(--tw-leading,var(--xv-text-dxl--line-height))}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.text-body-lg{font-size:var(--text-body-lg)}.k20{--tw-leading:.92;line-height:.92}.leading-none{--tw-leading:1;line-height:1}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-creek-deep{color:var(--color-creek-deep)}.text-grass-deep{color:var(--color-grass-deep)}.text-ink{color:var(--color-ink)}.text-sage-deep{color:var(--color-sage-deep)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:48rem){.k21{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.k22{margin-bottom:calc(var(--spacing) * 12)}.ke{display:block}.kv{gap:calc(var(--spacing) * 10)}.k23{column-gap:calc(var(--spacing) * 16)}.k24{row-gap:calc(var(--spacing) * 16)}.kw{border-left-style:var(--tw-border-style);border-left-width:1px}.k17{padding-inline:calc(var(--spacing) * 10)}.k25{padding-top:calc(var(--spacing) * 24)}.k26{padding-bottom:calc(var(--spacing) * 32)}.k1a{padding-left:calc(var(--spacing) * 8)}.k27{font-size:var(--xv-text-exl);line-height:var(--tw-leading,var(--xv-text-exl--line-height))}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.pillar-body[data-astro-cid-j7pv25f6] p{margin:0}.pillars-closing[data-astro-cid-j7pv25f6] a{color:var(--color-creek-deep);text-decoration:underline;text-underline-offset:2px}.pillars-closing[data-astro-cid-j7pv25f6] a:hover{color:var(--color-clay-deep)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-weight:300 !important}.xs3{color:inherit !important;opacity:0.85 !important}",
+  "section": {
+    "width": "full"
+  }
+}

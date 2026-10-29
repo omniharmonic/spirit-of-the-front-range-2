@@ -1,0 +1,374 @@
+{
+  "name": "sp-home-5",
+  "label": "Ways to get involved.",
+  "description": "Recreated from the original site: Ways to get involved.. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "Live programs",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "Ways to",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "get involved.",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "With care-based programs to …",
+      "maxLength": 891,
+      "multiline": true
+    },
+    "t5": {
+      "kind": "text",
+      "label": "↳",
+      "maxLength": 200
+    },
+    "t6": {
+      "kind": "text",
+      "label": "The SPIRIT programs all inte…",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "Solidarity Suppers foster re…",
+      "maxLength": 633,
+      "multiline": true
+    },
+    "g1": {
+      "kind": "list",
+      "label": "Group “01”",
+      "fields": {
+        "i1": {
+          "kind": "image",
+          "label": "Picture"
+        },
+        "t1": {
+          "kind": "text",
+          "label": "01",
+          "maxLength": 200
+        },
+        "t2": {
+          "kind": "text",
+          "label": "CST",
+          "maxLength": 200
+        },
+        "t3": {
+          "kind": "text",
+          "label": "Culturing",
+          "maxLength": 200
+        },
+        "t4": {
+          "kind": "text",
+          "label": "Commons Sense Teach-Ins",
+          "maxLength": 200
+        },
+        "t5": {
+          "kind": "text",
+          "label": "We offer",
+          "maxLength": 200
+        },
+        "t6": {
+          "kind": "text",
+          "label": "Commons Sense",
+          "maxLength": 200
+        },
+        "t7": {
+          "kind": "text",
+          "label": "teachings to educate people …",
+          "maxLength": 579,
+          "multiline": true
+        },
+        "t8": {
+          "kind": "text",
+          "label": "'",
+          "maxLength": 200
+        },
+        "t9": {
+          "kind": "text",
+          "label": "s Nobel Prize-winning resear…",
+          "maxLength": 903,
+          "multiline": true
+        },
+        "t10": {
+          "kind": "text",
+          "label": "● active",
+          "maxLength": 200
+        },
+        "l1": {
+          "kind": "link",
+          "label": "Link “get on list →”"
+        },
+        "t11": {
+          "kind": "text",
+          "label": "get on list →",
+          "maxLength": 200
+        },
+        "i2": {
+          "kind": "image",
+          "label": "Picture"
+        },
+        "t12": {
+          "kind": "text",
+          "label": "02",
+          "maxLength": 200
+        },
+        "t13": {
+          "kind": "text",
+          "label": "SS",
+          "maxLength": 200
+        },
+        "t14": {
+          "kind": "text",
+          "label": "Solidarity",
+          "maxLength": 200
+        },
+        "t15": {
+          "kind": "text",
+          "label": "Solidarity",
+          "maxLength": 200
+        },
+        "t16": {
+          "kind": "text",
+          "label": "Suppers",
+          "maxLength": 200
+        },
+        "t17": {
+          "kind": "text",
+          "label": "We host small",
+          "maxLength": 200
+        },
+        "t18": {
+          "kind": "text",
+          "label": "Solidarity Suppers",
+          "maxLength": 200
+        },
+        "t19": {
+          "kind": "text",
+          "label": "to nourish and council with …",
+          "maxLength": 1254,
+          "multiline": true
+        },
+        "t20": {
+          "kind": "text",
+          "label": "● active",
+          "maxLength": 200
+        },
+        "l2": {
+          "kind": "link",
+          "label": "Link “get on list →”"
+        },
+        "t21": {
+          "kind": "text",
+          "label": "get on list →",
+          "maxLength": 200
+        },
+        "i3": {
+          "kind": "image",
+          "label": "Picture"
+        },
+        "t22": {
+          "kind": "text",
+          "label": "03",
+          "maxLength": 200
+        },
+        "t23": {
+          "kind": "text",
+          "label": "NRP",
+          "maxLength": 200
+        },
+        "t24": {
+          "kind": "text",
+          "label": "Coordination",
+          "maxLength": 200
+        },
+        "t25": {
+          "kind": "text",
+          "label": "Neighborhood Resiliency Prog…",
+          "maxLength": 200
+        },
+        "t26": {
+          "kind": "text",
+          "label": "When the power goes out on y…",
+          "maxLength": 453,
+          "multiline": true
+        },
+        "t27": {
+          "kind": "text",
+          "label": "Neighborhood Resiliency Prog…",
+          "maxLength": 200
+        },
+        "t28": {
+          "kind": "text",
+          "label": "to help neighborhoods organi…",
+          "maxLength": 612,
+          "multiline": true
+        },
+        "t29": {
+          "kind": "text",
+          "label": "● active",
+          "maxLength": 200
+        },
+        "l3": {
+          "kind": "link",
+          "label": "Link “get on list →”"
+        },
+        "t30": {
+          "kind": "text",
+          "label": "get on list →",
+          "maxLength": 200
+        }
+      },
+      "min": 1,
+      "max": 1
+    },
+    "t8": {
+      "kind": "text",
+      "label": "All of our programming prior…",
+      "maxLength": 200
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “→ See all programs”"
+    },
+    "t9": {
+      "kind": "text",
+      "label": "→ See all programs",
+      "maxLength": 200
+    },
+    "l2": {
+      "kind": "link",
+      "label": "Link “Subscribe to events”"
+    },
+    "t10": {
+      "kind": "text",
+      "label": "Subscribe to events",
+      "maxLength": 200
+    },
+    "t11": {
+      "kind": "text",
+      "label": "on our community dashboard. …",
+      "maxLength": 200
+    },
+    "l3": {
+      "kind": "link",
+      "label": "Link “admin@spiritofthefrontrange.org”"
+    },
+    "t12": {
+      "kind": "text",
+      "label": "admin@spiritofthefrontrange.…",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": ".",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "— 04 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "Live programs",
+    "t2": "Ways to",
+    "t3": "get involved.",
+    "t4": "With care-based programs to foster solidarity within our neighborhoods and communities, and to bridge with the displaced original ancestors of these lands to find a good way forward together, SPIRIT aims to provide a practical backbone for the establishment of the Front Range Bioregional Commons.",
+    "t5": "↳",
+    "t6": "The SPIRIT programs all interconnect.",
+    "t7": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds (coming soon) put resources in motion.",
+    "g1": [
+      {
+        "i1": {
+          "src": "media/2026/10/orig/program-teach-ins.jpg",
+          "alt": ""
+        },
+        "t1": "01",
+        "t2": "CST",
+        "t3": "Culturing",
+        "t4": "Commons Sense Teach-Ins",
+        "t5": "We offer",
+        "t6": "Commons Sense",
+        "t7": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
+        "t8": "'",
+        "t9": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+        "t10": "● active",
+        "l1": {
+          "type": "url",
+          "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+          "newTab": true
+        },
+        "t11": "get on list →",
+        "i2": {
+          "src": "media/2026/10/orig/program-suppers.jpg",
+          "alt": ""
+        },
+        "t12": "02",
+        "t13": "SS",
+        "t14": "Solidarity",
+        "t15": "Solidarity",
+        "t16": "Suppers",
+        "t17": "We host small",
+        "t18": "Solidarity Suppers",
+        "t19": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion.",
+        "t20": "● active",
+        "l2": {
+          "type": "url",
+          "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+          "newTab": true
+        },
+        "t21": "get on list →",
+        "i3": {
+          "src": "media/2026/10/orig/program-resiliency.jpg",
+          "alt": ""
+        },
+        "t22": "03",
+        "t23": "NRP",
+        "t24": "Coordination",
+        "t25": "Neighborhood Resiliency Programs",
+        "t26": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our",
+        "t27": "Neighborhood Resiliency Program",
+        "t28": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency.",
+        "t29": "● active",
+        "l3": {
+          "type": "url",
+          "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+          "newTab": true
+        },
+        "t30": "get on list →"
+      }
+    ],
+    "t8": "All of our programming prioritizes access and equity.",
+    "l1": {
+      "type": "page",
+      "page": "pg_4q1pz9nace"
+    },
+    "t9": "→ See all programs",
+    "l2": {
+      "type": "url",
+      "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+    },
+    "t10": "Subscribe to events",
+    "t11": "on our community dashboard. For inquiries, email",
+    "l3": {
+      "type": "email",
+      "email": "admin@spiritofthefrontrange.org"
+    },
+    "t12": "admin@spiritofthefrontrange.org",
+    "t13": ".",
+    "t14": "— 04 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone-deep programs-spread border-y-2 border-ink xs1\"> <div class=\"px-5 k17 pt-14 k18 pb-16 k19\" data-astro-cid-j7pv25f6> <div class=\"grid grid-cols-12 gap-6 mb-10 k1p items-baseline\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 ku\" data-astro-cid-j7pv25f6> <p class=\"eyebrow eyebrow-creek mb-3\" data-astro-cid-j7pv25f6>{{t1}}</p> <h2 class=\"display-l text-ink break-words k12\" data-astro-cid-j7pv25f6> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs2\" data-astro-cid-j7pv25f6>{{t3}}</span> </h2> </div> <div class=\"col-span-12 kt k1a kw border-ink\" data-astro-cid-j7pv25f6> <p class=\"text-body text-shadow leading-snug mb-3 programs-intro\" data-astro-cid-j7pv25f6> {{t4}} </p> <p class=\"text-body text-shadow leading-snug programs-intro\" data-astro-cid-j7pv25f6> {{t5}} <strong>{{t6}}</strong> {{t7}} </p> </div> </div> <div class=\"rule-bold mb-10\" data-astro-cid-j7pv25f6></div> {{#each g1}}<div class=\"grid grid-cols-1 k1k k1l gap-x-6 k1q gap-y-12 k1o\" data-astro-cid-j7pv25f6> <article class=\"program-cat k1i k1m k1g flex flex-col gap-y-3 k1n\" data-astro-cid-j7pv25f6> <div class=\"k1e photo duotone-cover k1h\" data-astro-cid-j7pv25f6> {{image i1 class=\"ximg ken-burns\"}} </div> <div class=\"flex items-baseline justify-between gap-2\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl text-clay-deep leading-none\" data-astro-cid-j7pv25f6>{{t1}}</span> <span class=\"sticker sticker-bone\" data-astro-cid-j7pv25f6>{{t2}}</span> </div> <p class=\"eyebrow text-clay-deep\" data-astro-cid-j7pv25f6>{{t3}}</p> <h3 class=\"font-display font-bold text-h2 text-ink k12 break-words k1j\" data-astro-cid-j7pv25f6>{{t4}}</h3> <p class=\"text-body text-shadow leading-snug self-start mt-3 pb-6 k1r program-teaser-desc\" data-astro-cid-j7pv25f6> {{t5}} <strong>{{t6}}</strong> {{t7}}{{t8}}{{t9}} </p> <div class=\"flex items-baseline justify-between gap-2 caption pt-3 border-t border-rule self-end w-full\" data-astro-cid-j7pv25f6> <span class=\"text-clay-deep\" data-astro-cid-j7pv25f6>{{t10}}</span> <a href=\"{{href l1}}\" class=\"text-clay-deep no-underline k1f\" rel=\"noopener\" data-astro-cid-j7pv25f6>{{t11}}</a> </div> </article><article class=\"program-cat k1i k1m k1g flex flex-col gap-y-3 k1n\" data-astro-cid-j7pv25f6> <div class=\"k1e photo duotone-cover k1h\" data-astro-cid-j7pv25f6> {{image i2 class=\"ximg ken-burns\"}} </div> <div class=\"flex items-baseline justify-between gap-2\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl text-creek-deep leading-none\" data-astro-cid-j7pv25f6>{{t12}}</span> <span class=\"sticker sticker-bone\" data-astro-cid-j7pv25f6>{{t13}}</span> </div> <p class=\"eyebrow text-creek-deep\" data-astro-cid-j7pv25f6>{{t14}}</p> <h3 class=\"font-display font-bold text-h2 text-ink k12 break-words k1j\" data-astro-cid-j7pv25f6>{{t15}}<br>{{t16}}</h3> <p class=\"text-body text-shadow leading-snug self-start mt-3 pb-6 k1r program-teaser-desc\" data-astro-cid-j7pv25f6> {{t17}} <strong>{{t18}}</strong> {{t19}} </p> <div class=\"flex items-baseline justify-between gap-2 caption pt-3 border-t border-rule self-end w-full\" data-astro-cid-j7pv25f6> <span class=\"text-creek-deep\" data-astro-cid-j7pv25f6>{{t20}}</span> <a href=\"{{href l2}}\" class=\"text-creek-deep no-underline k1f\" rel=\"noopener\" data-astro-cid-j7pv25f6>{{t21}}</a> </div> </article><article class=\"program-cat k1i k1m k1g flex flex-col gap-y-3 k1n\" data-astro-cid-j7pv25f6> <div class=\"k1e photo duotone-cover k1h\" data-astro-cid-j7pv25f6> {{image i3 class=\"ximg ken-burns\"}} </div> <div class=\"flex items-baseline justify-between gap-2\" data-astro-cid-j7pv25f6> <span class=\"folio-num text-3xl text-sage-deep leading-none\" data-astro-cid-j7pv25f6>{{t22}}</span> <span class=\"sticker sticker-bone\" data-astro-cid-j7pv25f6>{{t23}}</span> </div> <p class=\"eyebrow text-sage-deep\" data-astro-cid-j7pv25f6>{{t24}}</p> <h3 class=\"font-display font-bold text-h2 text-ink k12 break-words k1j\" data-astro-cid-j7pv25f6>{{t25}}</h3> <p class=\"text-body text-shadow leading-snug self-start mt-3 pb-6 k1r program-teaser-desc\" data-astro-cid-j7pv25f6> {{t26}} <strong>{{t27}}</strong> {{t28}} </p> <div class=\"flex items-baseline justify-between gap-2 caption pt-3 border-t border-rule self-end w-full\" data-astro-cid-j7pv25f6> <span class=\"text-sage-deep\" data-astro-cid-j7pv25f6>{{t29}}</span> <a href=\"{{href l3}}\" class=\"text-sage-deep no-underline k1f\" rel=\"noopener\" data-astro-cid-j7pv25f6>{{t30}}</a> </div> </article> </div>{{/each}} <div class=\"mt-12 flex items-baseline justify-between gap-3 pt-6 border-t-2 border-ink\" data-astro-cid-j7pv25f6> <p class=\"font-serif italic text-body text-shadow\" data-astro-cid-j7pv25f6>{{t8}}</p> <a href=\"{{href l1}}\" class=\"btn-ink\" data-astro-cid-j7pv25f6>{{t9}}</a> </div> <p class=\"caption text-shadow mt-4 programs-intro\" data-astro-cid-j7pv25f6> <a href=\"{{href l2}}\">{{t10}}</a> {{t11}} <a href=\"{{href l3}}\">{{t12}}</a>{{t13}} </p> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t14}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}.ximg,.ximg>picture{display:contents!important}.ximg::before,.ximg::after,.ximg source{display:none!important}.ximg .os-img__img{display:inline;width:auto;height:auto;max-width:none;object-fit:fill;object-position:50% 50%;filter:none;mix-blend-mode:normal;transition:none;border-radius:0;aspect-ratio:auto}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--xv-text-dxl:31.875px;--xv-text-dxl--line-height: 1.2;--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-deep:#e5d9bf;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-sage-deep:#4f6b4d;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--color-rule:#b8a878;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--xv-text-hc:clamp(29.75px,23.8px + 1.5vw,52.7px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2,h3{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}.ximg,.ximg>picture>.os-img__img{vertical-align:middle;display:block}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2,h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}.ximg,.ximg>picture>.os-img__img{max-width:100%;height:auto;display:block}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.folio-num{font-family:var(--font-display);font-feature-settings:\"tnum\";color:var(--color-clay-deep);font-weight:800;line-height:.85}.rule-bold{background:var(--color-ink);border:none;height:4px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.photo{isolation:isolate;position:relative;overflow:hidden}.photo .ximg,.photo .ximg>picture>.os-img__img{object-fit:cover;width:100%;height:100%;display:block}.photo:after{content:\"\";mix-blend-mode:multiply;opacity:.18;pointer-events:none;z-index:2;background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.6 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\");position:absolute;inset:0}.sticker{background:var(--color-ink);color:var(--color-bone);font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.18em;padding:5.95px 10.2px 5.1px;font-weight:700;line-height:1;display:inline-block}.sticker-bone{background:var(--color-bone-deep);color:var(--color-ink)}.btn-ink{background:var(--color-ink);color:var(--color-bone);font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.2em;border:1px solid var(--color-ink);align-items:center;gap:10.2px;padding:16.15px 22.95px;font-weight:700;text-decoration:none;transition:background .2s,transform .2s;display:inline-flex}.btn-ink:hover{background:var(--color-clay-deep);border-color:var(--color-clay-deep);color:var(--color-bone);transform:translateY(-1px)}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-3{margin-top:calc(var(--spacing) * 3)}.mt-4{margin-top:calc(var(--spacing) * 4)}.mt-12{margin-top:calc(var(--spacing) * 12)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-10{margin-bottom:calc(var(--spacing) * 10)}.flex{display:flex}.grid{display:grid}.k1e{aspect-ratio:4/5}.w-full{width:100%}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.flex-col{flex-direction:column}.items-baseline{align-items:baseline}.justify-between{justify-content:space-between}.gap-2{gap:calc(var(--spacing) * 2)}.gap-3{gap:calc(var(--spacing) * 3)}.gap-6{gap:calc(var(--spacing) * 6)}.gap-x-6{column-gap:calc(var(--spacing) * 6)}.gap-y-3{row-gap:calc(var(--spacing) * 3)}.gap-y-12{row-gap:calc(var(--spacing) * 12)}.self-end{align-self:flex-end}.self-start{align-self:flex-start}.border-y-2{border-block-style:var(--tw-border-style);border-block-width:2px}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-t-2{border-top-style:var(--tw-border-style);border-top-width:2px}.border-ink{border-color:var(--color-ink)}.border-rule{border-color:var(--color-rule)}.bg-bone-deep{background-color:var(--color-bone-deep)}.px-5{padding-inline:calc(var(--spacing) * 5)}.pt-3{padding-top:calc(var(--spacing) * 3)}.pt-6{padding-top:calc(var(--spacing) * 6)}.pt-14{padding-top:calc(var(--spacing) * 14)}.pb-6{padding-bottom:calc(var(--spacing) * 6)}.pb-16{padding-bottom:calc(var(--spacing) * 16)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-3xl{font-size:var(--xv-text-dxl);line-height:var(--tw-leading,var(--xv-text-dxl--line-height))}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.text-h2{font-size:var(--xv-text-hc)}.k12{--tw-leading:1.05;line-height:1.05}.leading-none{--tw-leading:1;line-height:1}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-creek-deep{color:var(--color-creek-deep)}.text-ink{color:var(--color-ink)}.text-sage-deep{color:var(--color-sage-deep)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}.no-underline{text-decoration-line:none}@media(hover:hover){.k1f:hover{text-decoration-line:underline}}@media(min-width:48rem){.k1g{grid-row:span 6/span 6}.k1h{margin-bottom:calc(var(--spacing) * 2)}.k1i{display:grid}.k1j{min-height:2.4em}.k1k{grid-template-columns:repeat(3,minmax(0,1fr))}.k1l{grid-template-rows:auto auto auto auto 1fr auto}.k1m{grid-template-rows:subgrid}.k1n{row-gap:calc(var(--spacing) * 0)}.k1o{row-gap:calc(var(--spacing) * 3)}}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.k1p{margin-bottom:calc(var(--spacing) * 14)}.k1q{column-gap:calc(var(--spacing) * 10)}.kw{border-left-style:var(--tw-border-style);border-left-width:1px}.k17{padding-inline:calc(var(--spacing) * 10)}.k18{padding-top:calc(var(--spacing) * 20)}.k1r{padding-bottom:calc(var(--spacing) * 8)}.k19{padding-bottom:calc(var(--spacing) * 24)}.k1a{padding-left:calc(var(--spacing) * 8)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}@keyframes ken-burns{0%{transform:scale(1)translate(0)}to{transform:scale(1.08)translate(-1.5%,1%)}}@supports (animation-timeline:view()){.ken-burns,.ken-burns>picture>.os-img__img{animation:linear both ken-burns;animation-timeline:view();animation-range:cover}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.programs-intro[data-astro-cid-j7pv25f6] a{color:var(--color-creek-deep);text-decoration:underline}.program-teaser-desc[data-astro-cid-j7pv25f6] strong{font-weight:700;color:var(--color-ink)}.duotone-cover[data-astro-cid-j7pv25f6] .ximg,.duotone-cover[data-astro-cid-j7pv25f6] .ximg>picture>.os-img__img{filter:contrast(1.05) saturate(.85) sepia(.1) brightness(.78)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-weight:300 !important}.xs3{color:inherit !important;opacity:0.85 !important}",
+  "section": {
+    "width": "full"
+  }
+}

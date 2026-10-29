@@ -136,7 +136,8 @@
       "sectionPadding": 130,
       "sectionPaddingMobile": 82,
       "gutterMobile": 21,
-      "gutter": 32
+      "gutter": 32,
+      "pageBackground": "#F2EAD8"
     }
   },
   "overrides": {

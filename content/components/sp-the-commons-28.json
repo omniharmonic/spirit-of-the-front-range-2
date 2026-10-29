@@ -1,0 +1,193 @@
+{
+  "name": "sp-the-commons-28",
+  "label": "SPIRIT supports and protects the Commons, but does not contr",
+  "description": "Recreated from the original site: SPIRIT supports and protects the Commons, but does not contr…. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "N° 05",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "Two bodies, one project.",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "SPIRIT holds the legal scaff…",
+      "maxLength": 372,
+      "multiline": true
+    },
+    "t4": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t5": {
+      "kind": "text",
+      "label": "s logic.",
+      "maxLength": 200
+    },
+    "t6": {
+      "kind": "text",
+      "label": "How they work together",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "SPIRIT supports and protects…",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": "but does not control it.",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": "SPIRIT",
+      "maxLength": 200
+    },
+    "t10": {
+      "kind": "text",
+      "label": "The Scaffolding",
+      "maxLength": 200
+    },
+    "g1": {
+      "kind": "list",
+      "label": "List “● Nonprofit (501(c)(3))”…",
+      "fields": {
+        "t1": {
+          "kind": "text",
+          "label": "● Nonprofit (501(c)(3))",
+          "maxLength": 200
+        }
+      },
+      "min": 0,
+      "max": 100
+    },
+    "t11": {
+      "kind": "text",
+      "label": "● Handles legal",
+      "maxLength": 200
+    },
+    "t12": {
+      "kind": "text",
+      "label": "&",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": "financial work",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "● Designed to be replaced",
+      "maxLength": 200
+    },
+    "t15": {
+      "kind": "text",
+      "label": "THE COMMONS",
+      "maxLength": 200
+    },
+    "t16": {
+      "kind": "text",
+      "label": "The Community",
+      "maxLength": 200
+    },
+    "g2": {
+      "kind": "list",
+      "label": "List “● Open to everyone who lives h…”…",
+      "fields": {
+        "t1": {
+          "kind": "text",
+          "label": "● Open to everyone who lives…",
+          "maxLength": 200
+        }
+      },
+      "min": 0,
+      "max": 100
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “◇ Visit the Commons site →”"
+    },
+    "t17": {
+      "kind": "text",
+      "label": "◇ Visit the Commons site →",
+      "maxLength": 200
+    },
+    "t18": {
+      "kind": "text",
+      "label": "— 03.2 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "N° 05",
+    "t2": "Two bodies, one project.",
+    "t3": "SPIRIT holds the legal scaffolding; the Commons does the actual work. Each protects the other from collapsing into the other",
+    "t4": "'",
+    "t5": "s logic.",
+    "t6": "How they work together",
+    "t7": "SPIRIT supports and protects the Commons,",
+    "t8": "but does not control it.",
+    "t9": "SPIRIT",
+    "t10": "The Scaffolding",
+    "g1": [
+      {
+        "t1": "● Nonprofit (501(c)(3))"
+      },
+      {
+        "t1": "● 5-person starting team"
+      },
+      {
+        "t1": "● Decisions by consent"
+      },
+      {
+        "t1": "● Leadership by appointment"
+      }
+    ],
+    "t11": "● Handles legal",
+    "t12": "&",
+    "t13": "financial work",
+    "t14": "● Designed to be replaced",
+    "t15": "THE COMMONS",
+    "t16": "The Community",
+    "g2": [
+      {
+        "t1": "● Open to everyone who lives here"
+      },
+      {
+        "t1": "● Members elect a Wisdom Council"
+      },
+      {
+        "t1": "● Common Stewards do the day-to-day"
+      },
+      {
+        "t1": "● Community-decided grant rounds"
+      },
+      {
+        "t1": "● Makes decisions for the bioregion"
+      },
+      {
+        "t1": "● Holds the actual stewardship"
+      }
+    ],
+    "l1": {
+      "type": "url",
+      "url": "https://www.frontrangecommons.org/"
+    },
+    "t17": "◇ Visit the Commons site →",
+    "t18": "— 03.2 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone border-t border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-oymzuatq> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-oymzuatq> <div class=\"col-span-12 k3g\" data-astro-cid-oymzuatq> <aside class=\"marginalia\"> <span class=\"num-badge block mb-1\">{{t1}}</span> <strong>{{t2}}</strong> {{t3}}{{t4}}{{t5}} </aside> </div> <div class=\"col-span-12 k3h\" data-astro-cid-oymzuatq> <div class=\"rule-double mb-6\" data-astro-cid-oymzuatq></div> <p class=\"eyebrow mb-3\" data-astro-cid-oymzuatq>{{t6}}</p> <h2 class=\"display-l text-ink break-words k2u mb-10 xs2\" data-astro-cid-oymzuatq> {{t7}} <span class=\"italic font-serif font-light text-clay-deep xs3\" data-astro-cid-oymzuatq>{{t8}}</span> </h2> <div class=\"grid k2l gap-6\" data-astro-cid-oymzuatq> <div class=\"paper p-6\" data-astro-cid-oymzuatq> <p class=\"eyebrow eyebrow-clay mb-3\" data-astro-cid-oymzuatq>{{t9}}</p> <p class=\"font-display font-bold text-h3 text-ink mb-3 leading-tight\" data-astro-cid-oymzuatq>{{t10}}</p> <ul class=\"space-y-2 text-body text-shadow\" data-astro-cid-oymzuatq> {{#each g1}}<li data-astro-cid-oymzuatq>{{t1}}</li>{{/each}}<li data-astro-cid-oymzuatq>{{t11}} {{t12}} {{t13}}</li><li data-astro-cid-oymzuatq>{{t14}}</li> </ul> </div> <div class=\"paper p-6\" data-astro-cid-oymzuatq> <p class=\"eyebrow eyebrow-creek mb-3\" data-astro-cid-oymzuatq>{{t15}}</p> <p class=\"font-display font-bold text-h3 text-ink mb-3 leading-tight\" data-astro-cid-oymzuatq>{{t16}}</p> <ul class=\"space-y-2 text-body text-shadow\" data-astro-cid-oymzuatq> {{#each g2}}<li data-astro-cid-oymzuatq>{{t1}}</li>{{/each}} </ul> </div> </div> <div class=\"mt-8\" data-astro-cid-oymzuatq> <a href=\"{{href l1}}\" class=\"btn-line\" rel=\"noopener\" data-astro-cid-oymzuatq>{{t17}}</a> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs4\">{{t18}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-space-y-reverse:0;--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-space-y-reverse:0;--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-caption:clamp(13.6px,12.24px + .24vw,17px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--xv-text-hd:clamp(22.95px,19.55px + .8vw,34px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}ul{list-style:none}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-double{border-top:1px solid var(--color-ink);border-bottom:1px solid var(--color-ink);background:0 0;height:6px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.marginalia{font-family:var(--font-mono);font-size:var(--text-caption);color:var(--color-shadow);border-left:2px solid var(--color-clay);padding-left:14.45px;line-height:1.45}.btn-line{color:var(--color-ink);font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.2em;border:1px solid var(--color-ink);background:0 0;align-items:center;gap:10.2px;padding:14.45px 21.25px;font-weight:700;text-decoration:none;transition:background .2s,color .2s;display:inline-flex}.btn-line:hover{background:var(--color-ink);color:var(--color-bone)}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-8{margin-top:calc(var(--spacing) * 8)}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-10{margin-bottom:calc(var(--spacing) * 10)}.block{display:block}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-6{gap:calc(var(--spacing) * 6)}:where(.space-y-2>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 2) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 2) * calc(1 - var(--tw-space-y-reverse)))}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-ink{border-color:var(--color-ink)}.bg-bone{background-color:var(--color-bone)}.p-6{padding:calc(var(--spacing) * 6)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.text-h3{font-size:var(--xv-text-hd)}.k2u{--tw-leading:.95;line-height:.95}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-ink{color:var(--color-ink)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:40rem){.k2l{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.k3g{grid-column:span 4/span 4}.k3h{grid-column:span 8/span 8}.k1u{gap:calc(var(--spacing) * 12)}.kx{padding-inline:calc(var(--spacing) * 12)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.py-section[data-astro-cid-oymzuatq]{padding-block:var(--spacing-section)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-size:calc(var(--text-display-l) * 0.7) !important}.xs3{font-weight:300 !important}.xs4{color:inherit !important;opacity:0.85 !important}",
+  "section": {
+    "width": "full"
+  }
+}

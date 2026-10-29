@@ -1,154 +1,4 @@
 {
-  "media/2026/10/gathering-04-c2qs.webp": {
-    "id": "med_c2qscarpfy",
-    "path": "media/2026/10/gathering-04-c2qs.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 485608,
-    "width": 2400,
-    "height": 1599,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-04.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/context-front-range-overlook-en06.jpg": {
-    "id": "med_en06s7rcmq",
-    "path": "media/2026/10/context-front-range-overlook-en06.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 213018,
-    "width": 1024,
-    "height": 768,
-    "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "context-front-range-overlook.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/program-teach-ins-t1j5.jpg": {
-    "id": "med_t1j562wapb",
-    "path": "media/2026/10/program-teach-ins-t1j5.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 89105,
-    "width": 1024,
-    "height": 683,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "program-teach-ins.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/program-suppers-eewa.jpg": {
-    "id": "med_eewahbj0as",
-    "path": "media/2026/10/program-suppers-eewa.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 141590,
-    "width": 1024,
-    "height": 683,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "program-suppers.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/program-resiliency-0w46.jpg": {
-    "id": "med_0w46ap720v",
-    "path": "media/2026/10/program-resiliency-0w46.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 212998,
-    "width": 1024,
-    "height": 683,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "program-resiliency.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/pillar-culturing-w6wb.jpg": {
-    "id": "med_w6wbrbbwjj",
-    "path": "media/2026/10/pillar-culturing-w6wb.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 179470,
-    "width": 1024,
-    "height": 683,
-    "alt": "Culturing.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "pillar-culturing.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/pillar-solidarity-tgq3.jpg": {
-    "id": "med_tgq346q69j",
-    "path": "media/2026/10/pillar-solidarity-tgq3.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 132235,
-    "width": 1024,
-    "height": 682,
-    "alt": "Solidarity.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "pillar-solidarity.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/pillar-coordination-jdj1.jpg": {
-    "id": "med_jdj1td0hwr",
-    "path": "media/2026/10/pillar-coordination-jdj1.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 193063,
-    "width": 1024,
-    "height": 683,
-    "alt": "Coordination.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "pillar-coordination.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/pillar-allocation-rb9r.jpg": {
-    "id": "med_rb9r4bpz38",
-    "path": "media/2026/10/pillar-allocation-rb9r.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 93298,
-    "width": 1024,
-    "height": 683,
-    "alt": "Allocation.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "pillar-allocation.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/funding-dusk-ridge-2fbv.jpg": {
-    "id": "med_2fbv81s672",
-    "path": "media/2026/10/funding-dusk-ridge-2fbv.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 60342,
-    "width": 1024,
-    "height": 683,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "funding-dusk-ridge.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
   "media/2026/10/og-default-fyb8.jpg": {
     "id": "med_fyb8b07awd",
     "path": "media/2026/10/og-default-fyb8.jpg",
@@ -160,201 +10,6 @@
     "alt": "",
     "createdAt": "2026-10-29T07:14:13.229Z",
     "originalName": "og-default.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-05-jz42.webp": {
-    "id": "med_jz423e5qem",
-    "path": "media/2026/10/gathering-05-jz42.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 269702,
-    "width": 2400,
-    "height": 1600,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-05.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-01-s5v3.webp": {
-    "id": "med_s5v3nxn326",
-    "path": "media/2026/10/gathering-01-s5v3.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 439898,
-    "width": 1600,
-    "height": 2400,
-    "alt": "A creek at dusk in a mountain valley, fall-yellow aspen reflected in still water.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-01.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/mission-council-7zjb.jpg": {
-    "id": "med_7zjbg3kvc5",
-    "path": "media/2026/10/mission-council-7zjb.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 164904,
-    "width": 1024,
-    "height": 683,
-    "alt": "A community council gathered in a large circle inside a great hall.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "mission-council.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/plate-teach-ins-books-vfa2.jpg": {
-    "id": "med_vfa20w80kd",
-    "path": "media/2026/10/plate-teach-ins-books-vfa2.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 135520,
-    "width": 1024,
-    "height": 1536,
-    "alt": "Commons Sense Teach-Ins",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "plate-teach-ins-books.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/plate-suppers-nourish-s2bb.jpg": {
-    "id": "med_s2bbm4jh39",
-    "path": "media/2026/10/plate-suppers-nourish-s2bb.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 96231,
-    "width": 1024,
-    "height": 683,
-    "alt": "Solidarity Suppers",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "plate-suppers-nourish.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/plate-resiliency-creek-rgmh.jpg": {
-    "id": "med_rgmhxb1mfh",
-    "path": "media/2026/10/plate-resiliency-creek-rgmh.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 124656,
-    "width": 1024,
-    "height": 683,
-    "alt": "Neighborhood Resiliency Programs",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "plate-resiliency-creek.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/plate-grant-rounds-garden-dgp7.jpg": {
-    "id": "med_dgp7qp081s",
-    "path": "media/2026/10/plate-grant-rounds-garden-dgp7.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 302334,
-    "width": 1024,
-    "height": 768,
-    "alt": "Community Grant Rounds",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "plate-grant-rounds-garden.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-08-c5sk.webp": {
-    "id": "med_c5skgzh95n",
-    "path": "media/2026/10/gathering-08-c5sk.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 257992,
-    "width": 2400,
-    "height": 1600,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-08.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/front-range-satellite-ct6b.jpg": {
-    "id": "med_ct6brvfbtn",
-    "path": "media/2026/10/front-range-satellite-ct6b.jpg",
-    "kind": "image",
-    "mime": "image/jpeg",
-    "bytes": 1214755,
-    "width": 1535,
-    "height": 2400,
-    "alt": "Satellite image of the Colorado Front Range corridor, where the Rocky Mountains meet the high plains.",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "front-range-satellite.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-06-exkt.webp": {
-    "id": "med_exktgm7ggx",
-    "path": "media/2026/10/gathering-06-exkt.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 537752,
-    "width": 2400,
-    "height": 1599,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-06.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-07-d7k4.webp": {
-    "id": "med_d7k4bz52v5",
-    "path": "media/2026/10/gathering-07-d7k4.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 411668,
-    "width": 2400,
-    "height": 1600,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-07.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-02-j95r.webp": {
-    "id": "med_j95r19hdcm",
-    "path": "media/2026/10/gathering-02-j95r.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 119554,
-    "width": 2400,
-    "height": 1600,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-02.jpg",
-    "credit": {
-      "source": "Imported from the original site"
-    }
-  },
-  "media/2026/10/gathering-09-rfdq.webp": {
-    "id": "med_rfdqht0pv1",
-    "path": "media/2026/10/gathering-09-rfdq.webp",
-    "kind": "image",
-    "mime": "image/webp",
-    "bytes": 231670,
-    "width": 2048,
-    "height": 1365,
-    "alt": "",
-    "createdAt": "2026-10-29T07:14:13.229Z",
-    "originalName": "gathering-09.jpg",
     "credit": {
       "source": "Imported from the original site"
     }
@@ -389,62 +44,362 @@
       "source": "Imported from the original site"
     }
   },
-  "media/2026/10/plate-teach-ins-books-s7ps.jpg": {
-    "id": "med_s7ps7ejg7b",
-    "path": "media/2026/10/plate-teach-ins-books-s7ps.jpg",
+  "media/2026/10/orig/spirit-logo.png": {
+    "id": "med_45xt3zdt84",
+    "path": "media/2026/10/orig/spirit-logo.png",
+    "kind": "image",
+    "mime": "image/png",
+    "bytes": 961125,
+    "width": 1067,
+    "height": 1067,
+    "alt": "SPIRIT of the Front Range",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "spirit-logo.png",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-04.jpg": {
+    "id": "med_zn1w6jvwhh",
+    "path": "media/2026/10/orig/gathering-04.jpg",
     "kind": "image",
     "mime": "image/jpeg",
-    "bytes": 135520,
+    "bytes": 672258,
+    "width": 2400,
+    "height": 1599,
+    "alt": "",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-04.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/context-front-range-overlook-duotone-clay.jpg": {
+    "id": "med_w604d4s0pj",
+    "path": "media/2026/10/orig/context-front-range-overlook-duotone-clay.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 327584,
+    "width": 1024,
+    "height": 768,
+    "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "context-front-range-overlook.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/program-teach-ins.jpg": {
+    "id": "med_408a52m4ng",
+    "path": "media/2026/10/orig/program-teach-ins.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 84714,
+    "width": 1024,
+    "height": 683,
+    "alt": "",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "program-teach-ins.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/program-suppers.jpg": {
+    "id": "med_5743bw1c4n",
+    "path": "media/2026/10/orig/program-suppers.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 108659,
+    "width": 1024,
+    "height": 683,
+    "alt": "",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "program-suppers.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/program-resiliency.jpg": {
+    "id": "med_mn57ksv9tg",
+    "path": "media/2026/10/orig/program-resiliency.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 160216,
+    "width": 1024,
+    "height": 683,
+    "alt": "",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "program-resiliency.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/pillar-culturing-duotone-clay.jpg": {
+    "id": "med_q78jwdd1ta",
+    "path": "media/2026/10/orig/pillar-culturing-duotone-clay.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 230852,
+    "width": 1024,
+    "height": 683,
+    "alt": "Culturing.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "pillar-culturing.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/pillar-solidarity-duotone-creek.jpg": {
+    "id": "med_1jcv40qsd3",
+    "path": "media/2026/10/orig/pillar-solidarity-duotone-creek.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 170594,
+    "width": 1024,
+    "height": 682,
+    "alt": "Solidarity.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "pillar-solidarity.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/pillar-coordination-duotone-sage.jpg": {
+    "id": "med_rydmftxb8f",
+    "path": "media/2026/10/orig/pillar-coordination-duotone-sage.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 220294,
+    "width": 1024,
+    "height": 683,
+    "alt": "Coordination.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "pillar-coordination.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/pillar-allocation-duotone-sage.jpg": {
+    "id": "med_wp5ym806ad",
+    "path": "media/2026/10/orig/pillar-allocation-duotone-sage.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 121034,
+    "width": 1024,
+    "height": 683,
+    "alt": "Allocation.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "pillar-allocation.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/funding-dusk-ridge.jpg": {
+    "id": "med_jgj0764bbj",
+    "path": "media/2026/10/orig/funding-dusk-ridge.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 49546,
+    "width": 1024,
+    "height": 683,
+    "alt": "",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "funding-dusk-ridge.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-05.jpg": {
+    "id": "med_v7xr24p0xx",
+    "path": "media/2026/10/orig/gathering-05.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 426087,
+    "width": 2400,
+    "height": 1600,
+    "alt": "Wildflowers and pine boughs on the Front Range with mountains beyond.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-05.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-01.jpg": {
+    "id": "med_wpxfh76qwg",
+    "path": "media/2026/10/orig/gathering-01.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 591482,
+    "width": 1600,
+    "height": 2400,
+    "alt": "A creek at dusk in a mountain valley, fall-yellow aspen reflected in still water.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-01.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/mission-council.jpg": {
+    "id": "med_7vpe8g9v2k",
+    "path": "media/2026/10/orig/mission-council.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 136969,
+    "width": 1024,
+    "height": 683,
+    "alt": "A community council gathered in a large circle inside a great hall.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "mission-council.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/plate-teach-ins-books-duotone-sage.jpg": {
+    "id": "med_mnrdjm5zas",
+    "path": "media/2026/10/orig/plate-teach-ins-books-duotone-sage.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 217632,
     "width": 1024,
     "height": 1536,
     "alt": "Commons Sense Teach-Ins",
-    "createdAt": "2026-10-29T07:23:19.944Z",
+    "createdAt": "2026-10-29T08:00:00.000Z",
     "originalName": "plate-teach-ins-books.jpg",
     "credit": {
       "source": "Imported from the original site"
     }
   },
-  "media/2026/10/plate-suppers-nourish-c4ax.jpg": {
-    "id": "med_c4ax9gky85",
-    "path": "media/2026/10/plate-suppers-nourish-c4ax.jpg",
+  "media/2026/10/orig/plate-suppers-nourish-duotone-clay.jpg": {
+    "id": "med_tpeptswepx",
+    "path": "media/2026/10/orig/plate-suppers-nourish-duotone-clay.jpg",
     "kind": "image",
     "mime": "image/jpeg",
-    "bytes": 96231,
+    "bytes": 125724,
     "width": 1024,
     "height": 683,
     "alt": "Solidarity Suppers",
-    "createdAt": "2026-10-29T07:23:19.944Z",
+    "createdAt": "2026-10-29T08:00:00.000Z",
     "originalName": "plate-suppers-nourish.jpg",
     "credit": {
       "source": "Imported from the original site"
     }
   },
-  "media/2026/10/plate-resiliency-creek-6ydn.jpg": {
-    "id": "med_6ydn4r0jtb",
-    "path": "media/2026/10/plate-resiliency-creek-6ydn.jpg",
+  "media/2026/10/orig/plate-resiliency-creek-duotone-creek.jpg": {
+    "id": "med_6kdz8vxdy8",
+    "path": "media/2026/10/orig/plate-resiliency-creek-duotone-creek.jpg",
     "kind": "image",
     "mime": "image/jpeg",
-    "bytes": 124656,
+    "bytes": 126638,
     "width": 1024,
     "height": 683,
     "alt": "Neighborhood Resiliency Programs",
-    "createdAt": "2026-10-29T07:23:19.944Z",
+    "createdAt": "2026-10-29T08:00:00.000Z",
     "originalName": "plate-resiliency-creek.jpg",
     "credit": {
       "source": "Imported from the original site"
     }
   },
-  "media/2026/10/plate-grant-rounds-garden-yxv0.jpg": {
-    "id": "med_yxv0k7jrp4",
-    "path": "media/2026/10/plate-grant-rounds-garden-yxv0.jpg",
+  "media/2026/10/orig/plate-grant-rounds-garden-duotone-sage.jpg": {
+    "id": "med_n7m4vx0m5v",
+    "path": "media/2026/10/orig/plate-grant-rounds-garden-duotone-sage.jpg",
     "kind": "image",
     "mime": "image/jpeg",
-    "bytes": 302334,
+    "bytes": 410396,
     "width": 1024,
     "height": 768,
     "alt": "Community Grant Rounds",
-    "createdAt": "2026-10-29T07:23:19.944Z",
+    "createdAt": "2026-10-29T08:00:00.000Z",
     "originalName": "plate-grant-rounds-garden.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-08.jpg": {
+    "id": "med_7pzjh7aw23",
+    "path": "media/2026/10/orig/gathering-08.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 434389,
+    "width": 2400,
+    "height": 1600,
+    "alt": "Water pooled in a red rock crevice, reflecting sky.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-08.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/front-range-satellite.jpg": {
+    "id": "med_p0rdjjy866",
+    "path": "media/2026/10/orig/front-range-satellite.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 1214755,
+    "width": 1535,
+    "height": 2400,
+    "alt": "Satellite image of the Colorado Front Range corridor, where the Rocky Mountains meet the high plains.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "front-range-satellite.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-06.jpg": {
+    "id": "med_kydhx2r2q9",
+    "path": "media/2026/10/orig/gathering-06.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 652189,
+    "width": 2400,
+    "height": 1599,
+    "alt": "Hands holding and blessing a person during a listening circle \u2014 black and white intimate portrait.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-06.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-07.jpg": {
+    "id": "med_p81sxf4khs",
+    "path": "media/2026/10/orig/gathering-07.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 550969,
+    "width": 2400,
+    "height": 1600,
+    "alt": "A still pond at dusk reflecting trees and dramatic clouds.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-07.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-02.jpg": {
+    "id": "med_cgh13fnbd4",
+    "path": "media/2026/10/orig/gathering-02.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 257249,
+    "width": 2400,
+    "height": 1600,
+    "alt": "Driftwood resting in shallow water at the edge of a creek.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-02.jpg",
+    "credit": {
+      "source": "Imported from the original site"
+    }
+  },
+  "media/2026/10/orig/gathering-09.jpg": {
+    "id": "med_7gf9784pjj",
+    "path": "media/2026/10/orig/gathering-09.jpg",
+    "kind": "image",
+    "mime": "image/jpeg",
+    "bytes": 255085,
+    "width": 2048,
+    "height": 1365,
+    "alt": "Hands washing freshly-pulled carrots under a stream of water in a garden.",
+    "createdAt": "2026-10-29T08:00:00.000Z",
+    "originalName": "gathering-09.jpg",
     "credit": {
       "source": "Imported from the original site"
     }

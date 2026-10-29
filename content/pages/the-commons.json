@@ -3,790 +3,379 @@
   "title": "→ The Commons",
   "slug": "the-commons",
   "seo": {
-    "title": "The Commons",
+    "title": "The Commons · SPIRIT of the Front Range",
     "description": "The Front Range Commons — a member-led civic body forming now for the cultural and ecological stewardship of the Front Range bioregion.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
   "sections": [
     {
-      "id": "sec_g4dc1x2hes",
+      "id": "sec_4z6bx1jdqq",
+      "preset": "component/sp-masthead-25@1",
+      "label": "Masthead",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "dark",
-        "background": {
-          "type": "image",
-          "src": "media/2026/10/gathering-08-c5sk.webp",
-          "overlay": {
-            "color": "#000000",
-            "opacity": 0.6
-          }
+        "padding": {
+          "d": "none",
+          "m": "none"
         },
-        "minHeight": {
-          "d": "40vh"
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
         }
       },
       "blocks": [
         {
-          "id": "blk_zz1ancjx7t",
-          "type": "text",
+          "id": "blk_4z6bx1jdqq",
+          "type": "component/sp-masthead-25",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT of the Front Range — 03 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "October 2026",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t3": "Subscribe",
+            "l2": {
+              "type": "page",
+              "page": "pg_wcw0kehktj"
+            },
+            "i1": {
+              "src": "media/2026/10/orig/spirit-logo.png",
+              "alt": "SPIRIT of the Front Range"
+            },
+            "l3": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t4": "✦ Donate",
+            "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "→ Mission"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "→ Programs"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "→ The Commons"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "→ Stewards"
+              }
+            ],
+            "l4": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t5": "→ Dashboard",
+            "l5": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t6": "→ Connect",
+            "l6": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t7": "✦ Subscribe",
+            "l7": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "t8": "✦ Donate",
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "Mission",
+                "t2": "·"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_4q1pz9nace"
+                },
+                "t1": "Programs",
+                "t2": "·"
+              }
+            ],
+            "l8": {
+              "type": "page",
+              "page": "pg_2kzwp97y6g"
+            },
+            "t9": "The Commons",
+            "t10": "·",
+            "l9": {
+              "type": "page",
+              "page": "pg_tqx65abs2z"
+            },
+            "t11": "Stewards",
+            "t12": "·",
+            "l10": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org"
+            },
+            "t13": "Dashboard",
+            "t14": "·",
+            "l11": {
+              "type": "page",
+              "page": "pg_7nbz8t2ex4"
+            },
+            "t15": "Connect"
           }
         }
       ]
     },
     {
-      "id": "sec_kwthzxq4aj",
+      "id": "sec_w5gbz9x329",
+      "preset": "component/sp-the-commons-26@1",
+      "label": "The Front Range Commons.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "dark"
-      },
-      "blocks": [
-        {
-          "id": "blk_1zdtfwsvdw",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "What we're building toward"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 1
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Front Range Commons."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A community body — forming now — where the people who live on the Front Range can make collective decisions about how to take care of where they live. Anyone who lives here can join."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_vy0dr3dpjn",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "● The Commons photographed by "
-                    },
-                    {
-                      "type": "text",
-                      "text": "True To Essence",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "https://www.truetoessence.com",
-                            "newTab": true
-                          }
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_p0r7jjtx4b",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
         },
-        "align": "center"
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_rkzy4740pe",
-          "type": "text",
+          "id": "blk_w5gbz9x329",
+          "type": "component/sp-the-commons-26",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The short version"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A way for us to take care of this place together."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Front Range Commonsthe front range commonsA decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance."
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " is "
-                    },
-                    {
-                      "type": "text",
-                      "text": "a way for the people who live on the Front Range to make collective decisions about how to care for where we live.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " Anyone who lives here can join. Members can propose projects, share resources, and vote on how community-raised money gets used."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "Members elect a "
-                    },
-                    {
-                      "type": "text",
-                      "text": "Wisdom Council",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " — especially elders and Indigenous neighbors — who in turn pick "
-                    },
-                    {
-                      "type": "text",
-                      "text": "Common Stewards",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " to handle the day-to-day work."
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT is the "
-                    },
-                    {
-                      "type": "text",
-                      "text": "scaffolding",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " that makes this possible. SPIRIT handles the legal pieces and the paperwork — what a nonprofit can do that a community body cannot. "
-                    },
-                    {
-                      "type": "text",
-                      "text": "The Commonscommons“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": "Full glossary →",
-                      "marks": [
-                        {
-                          "type": "link",
-                          "attrs": {
-                            "href": "/words/#glossary"
-                          }
-                        },
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    },
-                    {
-                      "type": "text",
-                      "text": " does the actual work of caring for this place.",
-                      "marks": [
-                        {
-                          "type": "bold"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
-        },
-        {
-          "id": "blk_vr2bse4qj2",
-          "type": "image",
-          "v": 1,
-          "fields": {
-            "image": {
-              "src": "media/2026/10/front-range-satellite-ct6b.jpg",
-              "alt": "Satellite image of the Colorado Front Range corridor, where the Rocky Mountains meet the high plains.",
-              "width": 1535,
-              "height": 2400,
-              "mediaId": "med_ct6brvfbtn"
+            "i1": {
+              "src": "media/2026/10/orig/gathering-08.jpg",
+              "alt": "Water pooled in a red rock crevice, reflecting sky."
             },
-            "aspect": "original",
-            "lightbox": false,
-            "caption": "fig. 1 · the corridor satellite · the Front Range"
-          },
-          "column": 1
-        },
-        {
-          "id": "blk_5bc44mv3bf",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT is a 501(c)(3) nonprofit that exists to serve the Commons, and not to perpetuate itself. SPIRIT is the vessel that interfaces with the existing world of foundations, governments, and formal partnerships to offer programming, education, and fiscal sponsorship to serve the regeneration of the Front Range. We are a Transitional Stewardship team designing the SPIRIT institution to be replaced by the decentralized, member-directed Commons."
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_kbhcn5p5f6",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_4hzj75pgr1",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 03.1 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "SPIRIT of the Front Range",
+            "t2": "— 03 —",
+            "t3": "What we",
+            "t4": "'",
+            "t5": "re building toward",
+            "t6": "The Front Range",
+            "t7": "Commons.",
+            "t8": "A community body — forming now — where the people who live on the Front Range can make collective decisions about how to take care of where they live. Anyone who lives here can join.",
+            "t9": "●",
+            "t10": "The Commons",
+            "t11": "water in red rock · Fountain Formation",
+            "t12": "photographed by",
+            "l1": {
+              "type": "url",
+              "url": "https://www.truetoessence.com",
+              "newTab": true
+            },
+            "t13": "True To Essence"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_7pz31d7csc",
+      "id": "sec_wqkwpbzntd",
+      "preset": "component/sp-the-commons-27@1",
+      "label": "A way for us to take care of this place together.",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
             12
           ]
-        }
+        },
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_5m7pnhb8tx",
-          "type": "text",
+          "id": "blk_wqkwpbzntd",
+          "type": "component/sp-the-commons-27",
           "v": 1,
           "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "How they work together"
-                    }
-                  ]
-                },
-                {
-                  "type": "heading",
-                  "attrs": {
-                    "level": 2
-                  },
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT supports and protects the Commons, but does not control it."
-                    }
-                  ]
-                }
-              ]
-            }
+            "t1": "The short version",
+            "t2": "A way for us to",
+            "t3": "take care of this place together.",
+            "t4": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance.",
+            "t5": "The Front Range Commons",
+            "t6": "the front range commons",
+            "t7": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance.",
+            "l1": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t8": "Full glossary →",
+            "t9": "is",
+            "t10": "a way for the people who live on the Front Range to make collective decisions about how to care for where we live.",
+            "t11": "Anyone who lives here can join. Members can propose projects, share resources, and vote on how community-raised money gets used.",
+            "t12": "Members elect a",
+            "t13": "Wisdom Council",
+            "t14": "— especially elders and Indigenous neighbors — who in turn pick",
+            "t15": "Common Stewards",
+            "t16": "to handle the day-to-day work.",
+            "t17": "SPIRIT is the",
+            "t18": "scaffolding",
+            "t19": "that makes this possible. SPIRIT handles the legal pieces and the paperwork — what a nonprofit can do that a community body cannot.",
+            "t20": "The",
+            "t21": "Commons",
+            "t22": "commons",
+            "t23": "“The Commons” points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
+            "l2": {
+              "type": "page",
+              "page": "pg_ewcm7r2qsq",
+              "anchor": "glossary"
+            },
+            "t24": "Full glossary →",
+            "t25": "does the actual work of caring for this place.",
+            "i1": {
+              "src": "media/2026/10/orig/front-range-satellite.jpg",
+              "alt": "Satellite image of the Colorado Front Range corridor, where the Rocky Mountains meet the high plains."
+            },
+            "t26": "fig. 1 · the corridor",
+            "t27": "satellite · the Front Range",
+            "t28": "SPIRIT is a 501(c)(3) nonprofit that exists to serve the Commons, and not to perpetuate itself. SPIRIT is the vessel that interfaces with the existing world of foundations, governments, and formal partnerships to offer programming, education, and fiscal sponsorship to serve the regeneration of the Front Range. We are a Transitional Stewardship team designing the SPIRIT institution to be replaced by the decentralized, member-directed Commons.",
+            "t29": "— 03.1 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     },
     {
-      "id": "sec_stg1ac3m8g",
+      "id": "sec_ydjar19v75",
+      "preset": "component/sp-the-commons-28@1",
+      "label": "SPIRIT supports and protects the Commons, but does not contr…",
       "layout": {
         "mode": "stack",
         "columns": {
           "d": [
-            6,
-            6
-          ],
-          "m": [
             12
           ]
-        }
-      },
-      "style": {
-        "colorTheme": "light"
-      },
-      "blocks": [
-        {
-          "id": "blk_ayn9c2c8gx",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "SPIRIT"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Scaffolding"
-                    }
-                  ]
-                },
-                {
-                  "type": "bulletList",
-                  "content": [
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Nonprofit (501(c)(3))"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● 5-person starting team"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Decisions by consent"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Leadership by appointment"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Handles legal & financial work"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Designed to be replaced"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 0
         },
-        {
-          "id": "blk_s9wfjn9cm6",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "THE COMMONS"
-                    }
-                  ]
-                },
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "The Community"
-                    }
-                  ]
-                },
-                {
-                  "type": "bulletList",
-                  "content": [
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Open to everyone who lives here"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Members elect a Wisdom Council"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Common Stewards do the day-to-day"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Community-decided grant rounds"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Makes decisions for the bioregion"
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "listItem",
-                      "content": [
-                        {
-                          "type": "paragraph",
-                          "content": [
-                            {
-                              "type": "text",
-                              "text": "● Holds the actual stewardship"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          },
-          "column": 1
-        }
-      ],
-      "preset": "starter/stack-6-6@1"
-    },
-    {
-      "id": "sec_p7dea543ya",
-      "layout": {
-        "mode": "stack",
-        "columns": {
-          "d": [
-            12
-          ]
-        }
+        "width": "full"
       },
       "style": {
-        "colorTheme": "light"
+        "padding": {
+          "d": "none",
+          "m": "none"
+        },
+        "background": {
+          "type": "color",
+          "color": "#F2EAD8"
+        }
       },
       "blocks": [
         {
-          "id": "blk_b9c7hj1dnc",
-          "type": "button",
+          "id": "blk_ydjar19v75",
+          "type": "component/sp-the-commons-28",
           "v": 1,
           "fields": {
-            "label": "◇ Visit the Commons site →",
-            "link": {
+            "t1": "N° 05",
+            "t2": "Two bodies, one project.",
+            "t3": "SPIRIT holds the legal scaffolding; the Commons does the actual work. Each protects the other from collapsing into the other",
+            "t4": "'",
+            "t5": "s logic.",
+            "t6": "How they work together",
+            "t7": "SPIRIT supports and protects the Commons,",
+            "t8": "but does not control it.",
+            "t9": "SPIRIT",
+            "t10": "The Scaffolding",
+            "g1": [
+              {
+                "t1": "● Nonprofit (501(c)(3))"
+              },
+              {
+                "t1": "● 5-person starting team"
+              },
+              {
+                "t1": "● Decisions by consent"
+              },
+              {
+                "t1": "● Leadership by appointment"
+              }
+            ],
+            "t11": "● Handles legal",
+            "t12": "&",
+            "t13": "financial work",
+            "t14": "● Designed to be replaced",
+            "t15": "THE COMMONS",
+            "t16": "The Community",
+            "g2": [
+              {
+                "t1": "● Open to everyone who lives here"
+              },
+              {
+                "t1": "● Members elect a Wisdom Council"
+              },
+              {
+                "t1": "● Common Stewards do the day-to-day"
+              },
+              {
+                "t1": "● Community-decided grant rounds"
+              },
+              {
+                "t1": "● Makes decisions for the bioregion"
+              },
+              {
+                "t1": "● Holds the actual stewardship"
+              }
+            ],
+            "l1": {
               "type": "url",
               "url": "https://www.frontrangecommons.org/"
             },
-            "role": "primary"
-          }
-        },
-        {
-          "id": "blk_tth14b76xt",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
-                {
-                  "type": "paragraph",
-                  "content": [
-                    {
-                      "type": "text",
-                      "text": "— 03.2 —"
-                    }
-                  ]
-                }
-              ]
-            }
+            "t17": "◇ Visit the Commons site →",
+            "t18": "— 03.2 —"
           }
         }
-      ],
-      "preset": "starter/stack-12@1"
+      ]
     }
-  ]
+  ],
+  "header": {
+    "hidden": true
+  }
 }

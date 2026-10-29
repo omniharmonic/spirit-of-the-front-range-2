@@ -1,0 +1,126 @@
+{
+  "name": "sp-stewards-31",
+  "label": "We are a small team at the beginning of something, and we do",
+  "description": "Recreated from the original site: We are a small team at the beginning of something, and we do…. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "N° 01",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "A transitional team, not a p…",
+      "maxLength": 200
+    },
+    "t3": {
+      "kind": "text",
+      "label": "SPIRIT",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t5": {
+      "kind": "text",
+      "label": "s leadership is designed to …",
+      "maxLength": 200
+    },
+    "t6": {
+      "kind": "text",
+      "label": "Transitional Stewards",
+      "maxLength": 200
+    },
+    "t7": {
+      "kind": "text",
+      "label": "We are a small team at the",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": "beginning of something",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": ", and we don",
+      "maxLength": 200
+    },
+    "t10": {
+      "kind": "text",
+      "label": "'",
+      "maxLength": 200
+    },
+    "t11": {
+      "kind": "text",
+      "label": "t have all the answers.",
+      "maxLength": 200
+    },
+    "t12": {
+      "kind": "text",
+      "label": "SPIRIT is guided by a small …",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": "Transitional Stewards",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "whose aim is to establish th…",
+      "maxLength": 1122,
+      "multiline": true
+    },
+    "t15": {
+      "kind": "text",
+      "label": "(Who does!?)",
+      "maxLength": 200
+    },
+    "t16": {
+      "kind": "text",
+      "label": "What we have is our commitme…",
+      "maxLength": 303
+    },
+    "t17": {
+      "kind": "text",
+      "label": "Our aim is for SPIRIT’s boar…",
+      "maxLength": 753,
+      "multiline": true
+    },
+    "t18": {
+      "kind": "text",
+      "label": "— 04.1 —",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "N° 01",
+    "t2": "A transitional team, not a permanent one.",
+    "t3": "SPIRIT",
+    "t4": "'",
+    "t5": "s leadership is designed to be handed off to the community itself.",
+    "t6": "Transitional Stewards",
+    "t7": "We are a small team at the",
+    "t8": "beginning of something",
+    "t9": ", and we don",
+    "t10": "'",
+    "t11": "t have all the answers.",
+    "t12": "SPIRIT is guided by a small team of",
+    "t13": "Transitional Stewards",
+    "t14": "whose aim is to establish the Bioregional Commons that will determine its own character and trajectories through distributed, decentralized decision-making. Our explicit goal is to build something that will no longer need us so that we, too, can join the Commons as fellow commoners, with no more authority or say than anyone else. We do not pretend to have all the answers.",
+    "t15": "(Who does!?)",
+    "t16": "What we have is our commitment to this place and to each other, and a willingness to learn in public.",
+    "t17": "Our aim is for SPIRIT’s board to be comprised of highly-regarded community leaders, particularly elders and Indigenous relatives. For now, we Transitional Stewards show up with full commitment and open hands, oriented towards that ultimate transition.",
+    "t18": "— 04.1 —"
+  },
+  "template": "<section class=\"spread relative w-full bg-bone xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-k4yqugfh> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-k4yqugfh> <div class=\"col-span-12 k3g k2v k2w self-start space-y-6\" data-astro-cid-k4yqugfh> <aside class=\"marginalia\"> <span class=\"num-badge block mb-1\">{{t1}}</span> <strong>{{t2}}</strong> </aside> <aside class=\"marginalia\"> {{t3}}{{t4}}{{t5}} </aside> </div> <div class=\"col-span-12 k3h\" data-astro-cid-k4yqugfh> <div class=\"rule-double mb-6\" data-astro-cid-k4yqugfh></div> <p class=\"eyebrow mb-3\" data-astro-cid-k4yqugfh>{{t6}}</p> <h2 class=\"font-display font-bold text-ink break-words mb-8 xs2\" data-astro-cid-k4yqugfh> {{t7}} <span class=\"italic font-serif font-light text-clay-deep xs3\" data-astro-cid-k4yqugfh>{{t8}}</span>{{t9}}{{t10}}{{t11}} </h2> <div class=\"text-body-lg text-ink leading-snug space-y-5 max-w-3xl dropcap\" data-astro-cid-k4yqugfh> <p>{{t12}} <em>{{t13}}</em> {{t14}} <em>{{t15}}</em> {{t16}}</p> <p>{{t17}}</p> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs4\">{{t18}}</span> </div> </section>",
+  "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-space-y-reverse:0}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-space-y-reverse:0;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-dxl:816px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-caption:clamp(13.6px,12.24px + .24vw,17px);--text-body-lg:clamp(19.55px,17px + .55vw,26.35px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}em{font-style:italic}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-double{border-top:1px solid var(--color-ink);border-bottom:1px solid var(--color-ink);background:0 0;height:6px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.dropcap:first-letter{font-family:var(--font-serif);float:left;color:var(--color-clay-deep);font-feature-settings:\"ss01\";margin-top:.02em;margin-right:.08em;font-size:5.5em;font-weight:700;line-height:.82}.marginalia{font-family:var(--font-mono);font-size:var(--text-caption);color:var(--color-shadow);border-left:2px solid var(--color-clay);padding-left:14.45px;line-height:1.45}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-8{margin-bottom:calc(var(--spacing) * 8)}.block{display:block}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.max-w-3xl{max-width:var(--xv-container-dxl)}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-6{gap:calc(var(--spacing) * 6)}:where(.space-y-5>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 5) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 5) * calc(1 - var(--tw-space-y-reverse)))}:where(.space-y-6>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 6) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 6) * calc(1 - var(--tw-space-y-reverse)))}.self-start{align-self:flex-start}.bg-bone{background-color:var(--color-bone)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body-lg{font-size:var(--text-body-lg)}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-ink{color:var(--color-ink)}.italic{font-style:italic}@media(min-width:64rem){.k2v{position:sticky}.k13{top:calc(var(--spacing) * 5)}.k2w{top:calc(var(--spacing) * 8)}.k14{right:calc(var(--spacing) * 5)}.k3g{grid-column:span 4/span 4}.k3h{grid-column:span 8/span 8}.k1u{gap:calc(var(--spacing) * 12)}.kx{padding-inline:calc(var(--spacing) * 12)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.py-section[data-astro-cid-k4yqugfh]{padding-block:var(--spacing-section)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-size:clamp(32.3px,23.8px + 2.3vw,59.5px) !important;line-height:1.12 !important;letter-spacing:-0.01em !important}.xs3{font-weight:300 !important}.xs4{color:inherit !important;opacity:0.85 !important}",
+  "section": {
+    "width": "full"
+  }
+}

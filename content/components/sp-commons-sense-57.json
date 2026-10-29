@@ -1,0 +1,62 @@
+{
+  "name": "sp-commons-sense-57",
+  "label": "DIV",
+  "description": "Recreated from the original site: DIV. Every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "t1": {
+      "kind": "text",
+      "label": "All of our programming prior…",
+      "maxLength": 200
+    },
+    "t2": {
+      "kind": "text",
+      "label": "Subscribe to events at",
+      "maxLength": 200
+    },
+    "l1": {
+      "kind": "link",
+      "label": "Link “dashboard.spiritofthefrontrange.org/subs…”"
+    },
+    "t3": {
+      "kind": "text",
+      "label": "dashboard.spiritofthefrontra…",
+      "maxLength": 200
+    },
+    "t4": {
+      "kind": "text",
+      "label": "For inquiries, email",
+      "maxLength": 200
+    },
+    "l2": {
+      "kind": "link",
+      "label": "Link “admin@spiritofthefrontrange.org”"
+    },
+    "t5": {
+      "kind": "text",
+      "label": "admin@spiritofthefrontrange.…",
+      "maxLength": 200
+    }
+  },
+  "defaults": {
+    "t1": "All of our programming prioritizes access and equity",
+    "t2": "Subscribe to events at",
+    "l1": {
+      "type": "url",
+      "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+    },
+    "t3": "dashboard.spiritofthefrontrange.org/subscribe",
+    "t4": "For inquiries, email",
+    "l2": {
+      "type": "email",
+      "email": "admin@spiritofthefrontrange.org"
+    },
+    "t5": "admin@spiritofthefrontrange.org"
+  },
+  "template": "<div class=\"bg-ink on-dark text-center px-5 kx pb-section\" data-astro-cid-jjmdqzy6> <p class=\"text-body-lg italic font-serif font-light max-w-2xl mx-auto xs1\" data-astro-cid-jjmdqzy6> {{t1}} </p> <p class=\"text-body max-w-2xl mx-auto mt-3 xs2\" data-astro-cid-jjmdqzy6> {{t2}} <a href=\"{{href l1}}\" class=\"xs3\" rel=\"noopener\" data-astro-cid-jjmdqzy6>{{t3}}</a> </p> <p class=\"text-body max-w-2xl mx-auto mt-1 xs4\" data-astro-cid-jjmdqzy6> {{t4}} <a href=\"{{href l2}}\" class=\"xs3\" data-astro-cid-jjmdqzy6>{{t5}}</a> </p> </div>",
+  "css": "@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--spacing:4.25px;--xv-container-cxl:714px;--font-weight-light:300;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--text-body-lg:clamp(19.55px,17px + .55vw,26.35px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.on-dark{color:#f2ead8}.on-dark p{color:#f2ead8eb}.on-dark a{color:#f7efd8;text-decoration-color:#e8b58a}.on-dark a:hover{color:#e8b58a;text-decoration-color:#f7efd8}.mx-auto{margin-inline:auto}.mt-1{margin-top:calc(var(--spacing) * 1)}.mt-3{margin-top:calc(var(--spacing) * 3)}.max-w-2xl{max-width:var(--xv-container-cxl)}.bg-ink{background-color:var(--color-ink)}.px-5{padding-inline:calc(var(--spacing) * 5)}.pb-section{padding-bottom:var(--spacing-section)}.text-center{text-align:center}.font-serif{font-family:var(--font-serif)}.text-body{font-size:var(--text-body)}.text-body-lg{font-size:var(--text-body-lg)}.font-light{font-weight:var(--font-weight-light)}.italic{font-style:italic}@media(min-width:64rem){.kx{padding-inline:calc(var(--spacing) * 12)}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.xs1{color:#F7EFD8 !important}.xs2{color:rgba(247,239,216,0.85) !important;overflow-wrap:anywhere !important}.xs3{color:#E8B58A !important}.xs4{color:rgba(247,239,216,0.85) !important}",
+  "section": {
+    "width": "full"
+  }
+}
