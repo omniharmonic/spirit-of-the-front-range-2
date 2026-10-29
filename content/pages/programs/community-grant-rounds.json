@@ -3,9 +3,12 @@
   "title": "Community Grant Rounds",
   "slug": "programs/community-grant-rounds",
   "seo": {
+    "title": "Community Grant Rounds · SPIRIT of the Front Range",
     "description": "We raise money for the members of the Front Range Bioregional Commons to **allocate to regenerative cultural and ecological projects** along the Front Range using community-led coordination and resource-disbursement technologies. Anyone from the Commons can propose a regenerative project to the Bioregional Flow Fund,…",
-    "image": "media/2026/10/og-default-fyb8.jpg",
-    "title": "Community Grant Rounds · SPIRIT of the Front Range"
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "header": {
+    "hidden": true
   },
   "hidden": true,
   "sections": [
@@ -432,8 +435,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

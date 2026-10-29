@@ -57,13 +57,13 @@
   ],
   "header": {
     "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "fullscreen",
     "logoHeight": {
       "d": 102,
       "m": 40
-    },
-    "sticky": false,
-    "transparentOnHero": false,
-    "mobileMenu": "fullscreen"
+    }
   },
   "footer": {
     "id": "sec_314cdew759",

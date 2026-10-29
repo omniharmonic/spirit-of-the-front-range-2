@@ -7,6 +7,9 @@
     "description": "Support SPIRIT of the Front Range — a 501(c)(3) nonprofit helping the people of the Front Range take care of where they live.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "hidden": true,
   "sections": [
     {
@@ -428,8 +431,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

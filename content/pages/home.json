@@ -7,6 +7,9 @@
     "description": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_6cczs2zpk8",
@@ -820,8 +823,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

@@ -7,6 +7,9 @@
     "description": "The Front Range Commons — a member-led civic body forming now for the cultural and ecological stewardship of the Front Range bioregion.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_4z6bx1jdqq",
@@ -374,8 +377,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }
