@@ -353,7 +353,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent"
+        "colorTheme": "light"
       },
       "blocks": [
         {
@@ -440,7 +440,7 @@
                 {
                   "type": "heading",
                   "attrs": {
-                    "level": 3
+                    "level": 4
                   },
                   "content": [
                     {
@@ -689,7 +689,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent"
+        "colorTheme": "light"
       },
       "blocks": [
         {

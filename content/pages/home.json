@@ -29,7 +29,7 @@
         },
         "minHeight": {
           "d": "720px",
-          "m": "70svh"
+          "m": "720px"
         },
         "background": {
           "type": "image",
@@ -518,7 +518,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent",
+        "colorTheme": "light",
         "background": {
           "type": "color",
           "color": "#e5d9bf"
@@ -780,7 +780,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent",
+        "colorTheme": "light",
         "background": {
           "type": "color",
           "color": "#f2ead8"

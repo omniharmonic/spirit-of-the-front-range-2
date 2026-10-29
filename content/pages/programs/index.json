@@ -275,7 +275,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent",
+        "colorTheme": "light",
         "background": {
           "type": "color",
           "color": "#faf4e5"
@@ -539,7 +539,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent",
+        "colorTheme": "light",
         "background": {
           "type": "color",
           "color": "#faf4e5"

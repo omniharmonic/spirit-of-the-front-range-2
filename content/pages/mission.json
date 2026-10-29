@@ -264,7 +264,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent"
+        "colorTheme": "light"
       },
       "blocks": [
         {
@@ -711,7 +711,7 @@
         }
       },
       "style": {
-        "colorTheme": "light-accent",
+        "colorTheme": "light",
         "background": {
           "type": "color",
           "color": "#e5d9bf"

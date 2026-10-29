@@ -143,11 +143,11 @@
     "color": {
       "light": {
         "text": {
-          "$value": "#e8e7e0",
+          "$value": "#4a4a45",
           "$type": "color"
         },
         "background": {
-          "$value": "#f0e8d4",
+          "$value": "#f2ead8",
           "$type": "color"
         }
       }
