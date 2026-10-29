@@ -54,7 +54,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -188,7 +188,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-02.jpg",
+              "src": "media/2026/10/gathering-02-0p1g.jpg",
               "alt": "Driftwood resting in shallow water at the edge of a creek — quiet, attentive light."
             },
             "t1": "SPIRIT of the Front Range",
@@ -196,19 +196,17 @@
             "t3": "live · open enrollment",
             "t4": "Commons Sense Teach-Ins",
             "t5": "We all benefit from Commons Sense.",
-            "t6": "We offer Commons Sense teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
-            "t7": "'",
-            "t8": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
-            "t9": "●",
-            "t10": "Programs · Culturing",
-            "t11": "creek edge · Longmont, CO",
-            "t12": "photographed by",
+            "t6": "We offer Commons Sense teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+            "t7": "●",
+            "t8": "Programs · Culturing",
+            "t9": "creek edge · Longmont, CO",
+            "t10": "photographed by",
             "l1": {
               "type": "url",
               "url": "https://www.truetoessence.com",
               "newTab": true
             },
-            "t13": "True To Essence"
+            "t11": "True To Essence"
           }
         }
       ]
@@ -216,7 +214,7 @@
     {
       "id": "sec_3p909wjsw2",
       "preset": "component/sp-commons-sense-54@1",
-      "label": "SECTION",
+      "label": "Pillar · Culturing",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -287,39 +285,29 @@
             "t5": "Before we can build something together,",
             "t6": "we have to share a language for it.",
             "t7": "+",
+            "t8": "Most people have heard the phrase \"tragedy of the commons\" — the idea that when something is shared, it inevitably gets used up. What fewer people know is that this was an argument made about",
+            "t9": "unmanaged open access",
+            "t10": ", not about actual community-managed commons. And fewer still know that",
+            "t11": "real commons have thrived for centuries",
+            "t12": ".",
+            "t13": "Elinor Ostrom won the Nobel Prize in economics for documenting this. The Commons Teach-Ins exist because",
+            "t14": "taking care of shared things together is one of the oldest, most successful human practices",
+            "t15": "— and most of us have forgotten how to do it. Recovering that knowledge is preparation for the work ahead.",
+            "t16": "02",
+            "t17": "What we cover",
+            "t18": "We learn from the past and observe our now",
+            "t19": "to co-create our shared future",
+            "t20": "+",
+            "t21": "We move from a time when all peoples were",
+            "t22": "indigenous",
+            "t23": "to a place, through the centuries of fencing-off shared land into private property, through the cooperatives and movements that kept community-care alive, to the new local experiments emerging today.",
+            "t24": "We draw on Ostrom's research, Indigenous traditions of stewardship, the long European history of shared land, and the practical wisdom of the communities that never stopped doing this work.",
+            "t25": "03",
+            "t26": "How it runs",
+            "t27": "Once a month. Free.",
+            "t28": "Anyone can come.",
+            "t29": "+",
             "g1": [
-              {
-                "t1": "Most people have heard the phrase",
-                "t2": "\"",
-                "t3": "tragedy of the commons",
-                "t4": "\"",
-                "t5": "— the idea that when something is shared, it inevitably gets used up. What fewer people know is that this was an argument made about",
-                "t6": "unmanaged open access",
-                "t7": ", not about actual community-managed commons. And fewer still know that",
-                "t8": "real commons have thrived for centuries",
-                "t9": ".",
-                "t10": "Elinor Ostrom won the Nobel Prize in economics for documenting this. The Commons Teach-Ins exist because",
-                "t11": "taking care of shared things together is one of the oldest, most successful human practices",
-                "t12": "— and most of us have forgotten how to do it. Recovering that knowledge is preparation for the work ahead."
-              }
-            ],
-            "t8": "02",
-            "t9": "What we cover",
-            "t10": "We learn from the past and observe our now",
-            "t11": "to co-create our shared future",
-            "t12": "+",
-            "t13": "We move from a time when all peoples were",
-            "t14": "indigenous",
-            "t15": "to a place, through the centuries of fencing-off shared land into private property, through the cooperatives and movements that kept community-care alive, to the new local experiments emerging today.",
-            "t16": "We draw on Ostrom",
-            "t17": "'",
-            "t18": "s research, Indigenous traditions of stewardship, the long European history of shared land, and the practical wisdom of the communities that never stopped doing this work.",
-            "t19": "03",
-            "t20": "How it runs",
-            "t21": "Once a month. Free.",
-            "t22": "Anyone can come.",
-            "t23": "+",
-            "g2": [
               {
                 "t1": "Sessions run once a month and are open to everyone — neighbors, students, organizers, curious passersby. There are no prerequisites. We bring strong coffee, good chairs, and a willingness to think out loud together."
               },
@@ -327,20 +315,14 @@
                 "t1": "Each session leaves something behind: a reading list, a recording, notes you can take with you. Over time these add up to a free, public curriculum and an eventual book — built openly, by the people who actually showed up."
               }
             ],
-            "t24": "04",
-            "t25": "What you leave with",
-            "t26": "You leave with a different",
-            "t27": "way of seeing.",
-            "t28": "+",
-            "t29": "Not certainty. Not a doctrine.",
-            "t30": "A vocabulary, a bit of history, and a sense of what",
-            "t31": "'",
-            "t32": "s possible.",
-            "t33": "The Commons is a practice you",
-            "t34": "'",
-            "t35": "ll start to recognize once you have a name for it — in your neighborhood, in your watershed, in your workplace. We",
-            "t36": "'",
-            "t37": "re trying to make that recognition easier.",
+            "t30": "04",
+            "t31": "What you leave with",
+            "t32": "You leave with a different",
+            "t33": "way of seeing.",
+            "t34": "+",
+            "t35": "Not certainty. Not a doctrine.",
+            "t36": "A vocabulary, a bit of history, and a sense of what's possible.",
+            "t37": "The Commons is a practice you'll start to recognize once you have a name for it — in your neighborhood, in your watershed, in your workplace. We're trying to make that recognition easier.",
             "t38": "— 06.2 —"
           }
         }
@@ -378,17 +360,13 @@
             "t1": "Get on the list",
             "t2": "Be invited to the next",
             "t3": "monthly session.",
-            "t4": "Sessions are free and open to everyone. Sign up and we",
-            "t5": "'",
-            "t6": "ll send you the date, time, place, and the reading we",
-            "t7": "'",
-            "t8": "ll be sitting with.",
+            "t4": "Sessions are free and open to everyone. Sign up and we'll send you the date, time, place, and the reading we'll be sitting with.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t9": "✉ Sign up →",
-            "t10": "— 06.3 —"
+            "t5": "✉ Sign up →",
+            "t6": "— 06.3 —"
           }
         }
       ]
@@ -396,7 +374,7 @@
     {
       "id": "sec_58d2bn5ah4",
       "preset": "component/sp-commons-sense-57@1",
-      "label": "DIV",
+      "label": "All of our programming prioritizes access and equity",
       "layout": {
         "mode": "stack",
         "columns": {

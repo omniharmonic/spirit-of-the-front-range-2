@@ -54,7 +54,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -188,7 +188,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-09.jpg",
+              "src": "media/2026/10/gathering-09-da1w.webp",
               "alt": "Hands washing freshly-pulled carrots under a stream of water in a garden."
             },
             "t1": "SPIRIT of the Front Range",
@@ -214,7 +214,7 @@
     {
       "id": "sec_t6y5ggxhke",
       "preset": "component/sp-neighborhood-r-64@1",
-      "label": "SECTION",
+      "label": "Pillar · Coordination",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -300,9 +300,7 @@
             "t13": "+",
             "t14": "Who on your block needs checking on in a crisis? Who has medical equipment, large animals, or particular vulnerabilities? Who has skills, tools, or a generator to share? We learn from the Neighborhood Villaging Project about what it actually takes to",
             "t15": "know",
-            "t16": "the people who live near you — including the conversation you",
-            "t17": "'",
-            "t18": "ve been meaning to have.",
+            "t16": "the people who live near you — including the conversation you've been meaning to have.",
             "g1": [
               {
                 "t1": "03",
@@ -319,27 +317,25 @@
                 "t4": "First aid. Wellbeing.",
                 "t5": "+",
                 "t6": "Dedicated sessions on water, power, and building practical first aid kits that go beyond the standard checklist. We cover psychological first aid, hygiene, and the often-overlooked realities of staying well during sustained disruption. Not just for one bad day — for two weeks of bad days."
+              },
+              {
+                "t1": "05",
+                "t2": "The drill",
+                "t3": "What does recovery",
+                "t4": "actually look like?",
+                "t5": "+",
+                "t6": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn't, and where the plan needs to get better. The drill is where the plan meets reality."
               }
             ],
-            "t19": "05",
-            "t20": "The drill",
-            "t21": "What does recovery",
-            "t22": "actually look like?",
-            "t23": "+",
-            "t24": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn",
-            "t25": "'",
-            "t26": "t, and where the plan needs to get better. The drill is where the plan meets reality.",
-            "t27": "06",
-            "t28": "The capstone",
-            "t29": "Present your",
-            "t30": "neighborhood",
-            "t31": "'",
-            "t32": "s plan.",
-            "t33": "+",
-            "t34": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because",
-            "t35": "the relationships you built in this program are the resilience.",
-            "t36": "Everything else is scaffolding.",
-            "t37": "— 06.2 —"
+            "t17": "06",
+            "t18": "The capstone",
+            "t19": "Present your",
+            "t20": "neighborhood's plan.",
+            "t21": "+",
+            "t22": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because",
+            "t23": "the relationships you built in this program are the resilience.",
+            "t24": "Everything else is scaffolding.",
+            "t25": "— 06.2 —"
           }
         }
       ]
@@ -376,17 +372,13 @@
             "t1": "Sign up for the next group",
             "t2": "Twelve sessions.",
             "t3": "One neighborhood at a time.",
-            "t4": "The program is free, runs in groups of about 12 people, and is delivered with the Neighborhood Villaging Project. Tell us where you live and who you",
-            "t5": "'",
-            "t6": "d bring along, and we",
-            "t7": "'",
-            "t8": "ll put you on the list for the next opening in your area.",
+            "t4": "The program is free, runs in groups of about 12 people, and is delivered with the Neighborhood Villaging Project. Tell us where you live and who you'd bring along, and we'll put you on the list for the next opening in your area.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t9": "✉ Get on the list →",
-            "t10": "— 06.3 —"
+            "t5": "✉ Get on the list →",
+            "t6": "— 06.3 —"
           }
         }
       ]
@@ -394,7 +386,7 @@
     {
       "id": "sec_8h970jnwjg",
       "preset": "component/sp-commons-sense-57@1",
-      "label": "DIV",
+      "label": "All of our programming prioritizes access and equity",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -470,18 +462,18 @@
             "t2": "Each program weaves with",
             "t3": "the others.",
             "t4": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion.",
-            "l1": {
-              "type": "page",
-              "page": "pg_vprm01pyk0"
-            },
-            "t5": "Culturing",
-            "t6": "Commons Sense Teach-Ins",
-            "t7": "We offer",
-            "t8": "Commons Sense",
-            "t9": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
-            "t10": "'",
-            "t11": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
             "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_vprm01pyk0"
+                },
+                "t1": "Culturing",
+                "t2": "Commons Sense Teach-Ins",
+                "t3": "We offer",
+                "t4": "Commons Sense",
+                "t5": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good."
+              },
               {
                 "l1": {
                   "type": "page",
@@ -521,7 +513,7 @@
                 "t1": "✉ Get in touch →"
               }
             ],
-            "t12": "— 06.4 —"
+            "t5": "— 06.4 —"
           }
         }
       ]

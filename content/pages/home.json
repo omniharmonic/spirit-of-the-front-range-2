@@ -53,7 +53,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -191,7 +191,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-04.jpg",
+              "src": "media/2026/10/gathering-04-81g7.jpg",
               "alt": ""
             },
             "t1": "We care for the place we share",
@@ -305,30 +305,32 @@
             "t1": "If you live on the Earth, you already share a home.",
             "t2": "We belong to",
             "t3": "more places than we have names for.",
-            "t4": "Here on the Front Range of the Rocky Mountains in Colorado, we live in our homes, communities, and neighborhoods, but we also live in a watershed, a living ecosystem, and a long stretch of mountains meeting the plains with its distinct weather and particular patterns of land, water and life.",
-            "t5": "The watershed doesn",
-            "t6": "'",
-            "t7": "t start on a property line. The wildfire doesn",
-            "t8": "'",
-            "t9": "t respect county limits. The lines on a map cannot actually separate us from each other or from the land that holds us, because we are not separate from the living world. We are part of Nature, just like a fox, a forest, or a river, and our belonging to the living world implies responsibility for its stewardship.",
-            "t10": "As people who call this",
-            "t11": "bioregion",
-            "t12": "bioregion",
-            "t13": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
+            "g1": [
+              {
+                "t1": "Here on the Front Range of the Rocky Mountains in Colorado, we live in our homes, communities, and neighborhoods, but we also live in a watershed, a living ecosystem, and a long stretch of mountains meeting the plains with its distinct weather and particular patterns of land, water and life."
+              },
+              {
+                "t1": "The watershed doesn't start on a property line. The wildfire doesn't respect county limits. The lines on a map cannot actually separate us from each other or from the land that holds us, because we are not separate from the living world. We are part of Nature, just like a fox, a forest, or a river, and our belonging to the living world implies responsibility for its stewardship."
+              }
+            ],
+            "t4": "As people who call this",
+            "t5": "bioregion",
+            "t6": "bioregion",
+            "t7": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
             "l1": {
               "type": "page",
               "page": "pg_ewcm7r2qsq",
               "anchor": "glossary"
             },
-            "t14": "Full glossary →",
-            "t15": "home, we choose to take responsibility for taking care of what takes care of us – the lands, the water, the air, and each other.",
-            "t16": "SPIRIT is a Colorado nonprofit that fosters local resilience and regeneration along the Rocky Mountain Front Range by offering cultural and educational programs, tools for community coordination, and community-directed funding. We bring together the people, neighborhoods, and organizations already working to care for this bioregion.",
+            "t8": "Full glossary →",
+            "t9": "home, we choose to take responsibility for taking care of what takes care of us – the lands, the water, the air, and each other.",
+            "t10": "SPIRIT is a Colorado nonprofit that fosters local resilience and regeneration along the Rocky Mountain Front Range by offering cultural and educational programs, tools for community coordination, and community-directed funding. We bring together the people, neighborhoods, and organizations already working to care for this bioregion.",
             "i1": {
-              "src": "media/2026/10/orig/context-front-range-overlook-duotone-clay.jpg",
+              "src": "media/2026/10/context-front-range-overlook-duotone-cla-mmvw.jpg",
               "alt": "The Front Range plains seen from a rocky foothills overlook, a wind-shaped pine in the foreground."
             },
-            "t17": "the Front Range, from the foothills",
-            "t18": "— 02 —"
+            "t11": "the Front Range, from the foothills",
+            "t12": "— 02 —"
           }
         }
       ]
@@ -387,31 +389,35 @@
             },
             "t10": "Full glossary →",
             "t11": ", the space between us that belongs to and is governed by everyone who shows up in the spirit of care for our shared home.",
-            "l2": {
-              "type": "page",
-              "page": "pg_tqx65abs2z"
-            },
-            "t12": "◇ Meet our team",
-            "l3": {
-              "type": "page",
-              "page": "pg_v08jq5w0tv"
-            },
-            "t13": "◇ Our Vision",
-            "t14": "&",
-            "t15": "approach",
-            "l4": {
-              "type": "page",
-              "page": "pg_2kzwp97y6g"
-            },
-            "t16": "◇ The Commons",
-            "t17": "The Bioregion at the Center",
-            "t18": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
-            "t19": "We are organizing around what is already happening.",
-            "t20": "SPIRIT",
-            "t21": "'",
-            "t22": "s ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
-            "t23": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
-            "t24": "— 03 —"
+            "g2": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_tqx65abs2z"
+                },
+                "t1": "◇ Meet our team"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_v08jq5w0tv"
+                },
+                "t1": "◇ Our Vision & approach"
+              },
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_2kzwp97y6g"
+                },
+                "t1": "◇ The Commons"
+              }
+            ],
+            "t12": "The Bioregion at the Center",
+            "t13": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
+            "t14": "We are organizing around what is already happening.",
+            "t15": "SPIRIT's ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
+            "t16": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
+            "t17": "— 03 —"
           }
         }
       ]
@@ -453,86 +459,84 @@
             "t5": "↳",
             "t6": "The SPIRIT programs all interconnect.",
             "t7": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds (coming soon) put resources in motion.",
+            "i1": {
+              "src": "media/2026/10/program-teach-ins-58m5.jpg",
+              "alt": ""
+            },
+            "t8": "01",
+            "t9": "CST",
+            "t10": "Culturing",
+            "t11": "Commons Sense Teach-Ins",
+            "t12": "We offer",
+            "t13": "Commons Sense",
+            "t14": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
+            "t15": "● active",
+            "l1": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t16": "get on list →",
             "g1": [
               {
                 "i1": {
-                  "src": "media/2026/10/orig/program-teach-ins.jpg",
+                  "src": "media/2026/10/program-suppers-06j8.jpg",
                   "alt": ""
                 },
-                "t1": "01",
-                "t2": "CST",
-                "t3": "Culturing",
-                "t4": "Commons Sense Teach-Ins",
-                "t5": "We offer",
-                "t6": "Commons Sense",
-                "t7": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
-                "t8": "'",
-                "t9": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
-                "t10": "● active",
+                "t1": "02",
+                "t2": "SS",
+                "t3": "Solidarity",
+                "t4": "Solidarity",
+                "t5": "Suppers",
+                "t6": "We host small",
+                "t7": "Solidarity Suppers",
+                "t8": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion.",
+                "t9": "● active",
                 "l1": {
                   "type": "url",
                   "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
                   "newTab": true
                 },
-                "t11": "get on list →",
-                "i2": {
-                  "src": "media/2026/10/orig/program-suppers.jpg",
-                  "alt": ""
-                },
-                "t12": "02",
-                "t13": "SS",
-                "t14": "Solidarity",
-                "t15": "Solidarity",
-                "t16": "Suppers",
-                "t17": "We host small",
-                "t18": "Solidarity Suppers",
-                "t19": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion.",
-                "t20": "● active",
-                "l2": {
-                  "type": "url",
-                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
-                  "newTab": true
-                },
-                "t21": "get on list →",
-                "i3": {
-                  "src": "media/2026/10/orig/program-resiliency.jpg",
-                  "alt": ""
-                },
-                "t22": "03",
-                "t23": "NRP",
-                "t24": "Coordination",
-                "t25": "Neighborhood Resiliency Programs",
-                "t26": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our",
-                "t27": "Neighborhood Resiliency Program",
-                "t28": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency.",
-                "t29": "● active",
-                "l3": {
-                  "type": "url",
-                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
-                  "newTab": true
-                },
-                "t30": "get on list →"
+                "t10": "get on list →"
               }
             ],
-            "t8": "All of our programming prioritizes access and equity.",
-            "l1": {
+            "i2": {
+              "src": "media/2026/10/program-resiliency-q24z.jpg",
+              "alt": ""
+            },
+            "t17": "03",
+            "t18": "NRP",
+            "t19": "Coordination",
+            "t20": "Neighborhood Resiliency Programs",
+            "t21": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? We run our",
+            "t22": "Neighborhood Resiliency Program",
+            "t23": "to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected communities-of-place to cultivate their practical preparedness in case of emergency.",
+            "t24": "● active",
+            "l2": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
+              "newTab": true
+            },
+            "t25": "get on list →",
+            "t26": "All of our programming prioritizes access and equity.",
+            "l3": {
               "type": "page",
               "page": "pg_4q1pz9nace"
             },
-            "t9": "→ See all programs",
-            "l2": {
+            "t27": "→ See all programs",
+            "l4": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t10": "Subscribe to events",
-            "t11": "on our community dashboard. For inquiries, email",
-            "l3": {
+            "t28": "Subscribe to events",
+            "t29": "on our community dashboard. For inquiries, email",
+            "l5": {
               "type": "email",
               "email": "admin@spiritofthefrontrange.org"
             },
-            "t12": "admin@spiritofthefrontrange.org",
-            "t13": ".",
-            "t14": "— 04 —"
+            "t30": "admin@spiritofthefrontrange.org",
+            "t31": ".",
+            "t32": "— 04 —"
           }
         }
       ]
@@ -579,17 +583,13 @@
                 "t1": "02",
                 "t2": "Our civic fabric has thinned.",
                 "t3": "+",
-                "t4": "Many of us don",
-                "t5": "'",
-                "t6": "t know our neighbors by their names and stories. The habits and customs that held the village together through good times and bad have largely disappeared. We have become estranged from those with whom we have the most in common – land, water, air, culture."
+                "t4": "Many of us don't know our neighbors by their names and stories. The habits and customs that held the village together through good times and bad have largely disappeared. We have become estranged from those with whom we have the most in common – land, water, air, culture."
               },
               {
                 "t1": "03",
                 "t2": "High-level coordination tools are missing.",
                 "t3": "+",
-                "t4": "Hundreds of groups already work along the Front Range — watershed organizers, farmers, neighborhood coalitions – and they don",
-                "t5": "'",
-                "t6": "t know each other and are not well-incentivized to collaborate. Good work is already happening here, but the connective tissue that links it all together is missing."
+                "t4": "Hundreds of groups already work along the Front Range — watershed organizers, farmers, neighborhood coalitions – and they don't know each other and are not well-incentivized to collaborate. Good work is already happening here, but the connective tissue that links it all together is missing."
               }
             ],
             "l1": {
@@ -644,7 +644,7 @@
                 "t2": "01",
                 "t3": "Culturing.",
                 "i1": {
-                  "src": "media/2026/10/orig/pillar-culturing-duotone-clay.jpg",
+                  "src": "media/2026/10/pillar-culturing-duotone-clay-kxk3.jpg",
                   "alt": "Culturing."
                 },
                 "t4": "— offerings · Solidarity Supper",
@@ -656,40 +656,38 @@
                 "t10": "02",
                 "t11": "Solidarity.",
                 "i2": {
-                  "src": "media/2026/10/orig/pillar-solidarity-duotone-creek.jpg",
+                  "src": "media/2026/10/pillar-solidarity-duotone-creek-6hpc.jpg",
                   "alt": "Solidarity."
                 },
-                "t12": "— Listeners",
-                "t13": "'",
-                "t14": "Council · blessing",
-                "t15": "Building a shared sense of responsibility for each other.",
-                "t16": "Long-table dinners, shared walks, and mutual aid. The long, slow work of helping people contribute to and benefit from Commons practices where we share what we care about and care for what we share, so that everyone has what they need to thrive.",
-                "t17": "★ outcome:",
-                "t18": "real, embodied belonging",
-                "t19": "Pillar · Coordination",
-                "t20": "03",
-                "t21": "Coordination.",
+                "t12": "— Listeners' Council · blessing",
+                "t13": "Building a shared sense of responsibility for each other.",
+                "t14": "Long-table dinners, shared walks, and mutual aid. The long, slow work of helping people contribute to and benefit from Commons practices where we share what we care about and care for what we share, so that everyone has what they need to thrive.",
+                "t15": "★ outcome:",
+                "t16": "real, embodied belonging",
+                "t17": "Pillar · Coordination",
+                "t18": "03",
+                "t19": "Coordination.",
                 "i3": {
-                  "src": "media/2026/10/orig/pillar-coordination-duotone-sage.jpg",
+                  "src": "media/2026/10/pillar-coordination-duotone-sage-arhz.jpg",
                   "alt": "Coordination."
                 },
-                "t22": "— pond · Boulder Creek watershed",
-                "t23": "The tools and agreements that let people and groups decide things together.",
-                "t24": "Shared calendars, regenerative projects, fund-disbursement, community-led decision-making. With Mesh networks, microgrids, local-first tech, distributed tool libraries, neighborhood farm exchanges, community-owned servers, we are building the infrastructure for real resilience – at the speed of trust.",
-                "t25": "★ outcome:",
-                "t26": "coherent collective will",
-                "t27": "Pillar · Allocation",
-                "t28": "04",
-                "t29": "Allocation.",
+                "t20": "— pond · Boulder Creek watershed",
+                "t21": "The tools and agreements that let people and groups decide things together.",
+                "t22": "Shared calendars, regenerative projects, fund-disbursement, community-led decision-making. With Mesh networks, microgrids, local-first tech, distributed tool libraries, neighborhood farm exchanges, community-owned servers, we are building the infrastructure for real resilience – at the speed of trust.",
+                "t23": "★ outcome:",
+                "t24": "coherent collective will",
+                "t25": "Pillar · Allocation",
+                "t26": "04",
+                "t27": "Allocation.",
                 "i4": {
-                  "src": "media/2026/10/orig/pillar-allocation-duotone-sage.jpg",
+                  "src": "media/2026/10/pillar-allocation-duotone-sage-csqr.jpg",
                   "alt": "Allocation."
                 },
-                "t30": "— harvest, summer",
-                "t31": "Putting funds directly into the hands of the people doing the actual work.",
-                "t32": "Community-determined grant rounds, twice yearly — funded and allocated by the people who live here. Quadratic funding amplifies broad support over large donations. We fund what matters to us.",
-                "t33": "★ outcome:",
-                "t34": "fairly-distributed care"
+                "t28": "— harvest, summer",
+                "t29": "Putting funds directly into the hands of the people doing the actual work.",
+                "t30": "Community-determined grant rounds, twice yearly — funded and allocated by the people who live here. Quadratic funding amplifies broad support over large donations. We fund what matters to us.",
+                "t31": "★ outcome:",
+                "t32": "fairly-distributed care"
               }
             ],
             "t6": "★ the four pillars are activated through the programs we run",
@@ -741,7 +739,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/funding-dusk-ridge.jpg",
+              "src": "media/2026/10/funding-dusk-ridge-5177.jpg",
               "alt": ""
             },
             "t1": "Support the work",

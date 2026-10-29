@@ -23,49 +23,21 @@
     "t4": {
       "kind": "text",
       "label": "This is not content marketin…",
-      "maxLength": 200
+      "maxLength": 777,
+      "multiline": true
     },
     "t5": {
       "kind": "text",
-      "label": "'",
-      "maxLength": 200
+      "label": "Many of these pieces live on…",
+      "maxLength": 486,
+      "multiline": true
     },
     "t6": {
-      "kind": "text",
-      "label": "s a small, carefully tended …",
-      "maxLength": 360
-    },
-    "t7": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t8": {
-      "kind": "text",
-      "label": "re in, working papers on how…",
-      "maxLength": 312
-    },
-    "t9": {
-      "kind": "text",
-      "label": "Many of these pieces live on…",
-      "maxLength": 200
-    },
-    "t10": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t11": {
-      "kind": "text",
-      "label": "own sites — we link out and …",
-      "maxLength": 360
-    },
-    "t12": {
       "kind": "text",
       "label": "All of them are offered as c…",
       "maxLength": 285
     },
-    "t13": {
+    "t7": {
       "kind": "text",
       "label": "— 04.1 —",
       "maxLength": 200
@@ -75,18 +47,12 @@
     "t1": "★ about this collection",
     "t2": "We publish slowly,",
     "t3": "and we publish what matters.",
-    "t4": "This is not content marketing. It",
-    "t5": "'",
-    "t6": "s a small, carefully tended library of the writing behind this work — essays on caring for place, talks on the moment we",
-    "t7": "'",
-    "t8": "re in, working papers on how communities make decisions together, and notes from the Front Range itself.",
-    "t9": "Many of these pieces live on the writers",
-    "t10": "'",
-    "t11": "own sites — we link out and trust you to follow. Some live here, where we can edit, footnote, and add to them over time.",
-    "t12": "All of them are offered as context — so the work we do on the ground reads in its larger frame.",
-    "t13": "— 04.1 —"
+    "t4": "This is not content marketing. It's a small, carefully tended library of the writing behind this work — essays on caring for place, talks on the moment we're in, working papers on how communities make decisions together, and notes from the Front Range itself.",
+    "t5": "Many of these pieces live on the writers' own sites — we link out and trust you to follow. Some live here, where we can edit, footnote, and add to them over time.",
+    "t6": "All of them are offered as context — so the work we do on the ground reads in its larger frame.",
+    "t7": "— 04.1 —"
   },
-  "template": "<section class=\"spread relative w-full bg-bone xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-c2shg6iw> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-c2shg6iw> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-c2shg6iw></div> <div class=\"col-span-12 k2x\" data-astro-cid-c2shg6iw> <div class=\"rule-double mb-6\" data-astro-cid-c2shg6iw></div> <p class=\"eyebrow eyebrow-creek mb-3\" data-astro-cid-c2shg6iw>{{t1}}</p> <h2 class=\"display-l text-ink k2u k2y mb-8 max-w-4xl\" data-astro-cid-c2shg6iw> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs2\" data-astro-cid-c2shg6iw>{{t3}}</span> </h2> <div class=\"text-body-lg text-ink leading-snug max-w-3xl prose-words\" data-astro-cid-c2shg6iw> <p data-astro-cid-c2shg6iw>{{t4}}{{t5}}{{t6}}{{t7}}{{t8}}</p><p data-astro-cid-c2shg6iw>{{t9}}{{t10}} {{t11}} <strong>{{t12}}</strong></p> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t13}}</span> </div> </section>",
+  "template": "<section class=\"spread relative w-full bg-bone xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-c2shg6iw> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-c2shg6iw> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-c2shg6iw></div> <div class=\"col-span-12 k2x\" data-astro-cid-c2shg6iw> <div class=\"rule-double mb-6\" data-astro-cid-c2shg6iw></div> <p class=\"eyebrow eyebrow-creek mb-3\" data-astro-cid-c2shg6iw>{{t1}}</p> <h2 class=\"display-l text-ink k2u k2y mb-8 max-w-4xl\" data-astro-cid-c2shg6iw> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs2\" data-astro-cid-c2shg6iw>{{t3}}</span> </h2> <div class=\"text-body-lg text-ink leading-snug max-w-3xl prose-words\" data-astro-cid-c2shg6iw> <p data-astro-cid-c2shg6iw>{{t4}}</p><p data-astro-cid-c2shg6iw>{{t5}} <strong>{{t6}}</strong></p> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t7}}</span> </div> </section>",
   "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-dxl:816px;--xv-container-exl:952px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-extrabold:800;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body-lg:clamp(19.55px,17px + .55vw,26.35px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-double{border-top:1px solid var(--color-ink);border-bottom:1px solid var(--color-ink);background:0 0;height:6px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-8{margin-bottom:calc(var(--spacing) * 8)}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.max-w-3xl{max-width:var(--xv-container-dxl)}.max-w-4xl{max-width:var(--xv-container-exl)}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-6{gap:calc(var(--spacing) * 6)}.self-start{align-self:flex-start}.bg-bone{background-color:var(--color-bone)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body-lg{font-size:var(--text-body-lg)}.k2u{--tw-leading:.95;line-height:.95}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.text-creek-deep{color:var(--color-creek-deep)}.text-ink{color:var(--color-ink)}.italic{font-style:italic}@media(min-width:64rem){.k2v{position:sticky}.k13{top:calc(var(--spacing) * 5)}.k2w{top:calc(var(--spacing) * 8)}.k14{right:calc(var(--spacing) * 5)}.kc{grid-column:span 3/span 3}.k2x{grid-column:span 9/span 9}.k1u{gap:calc(var(--spacing) * 12)}.kx{padding-inline:calc(var(--spacing) * 12)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}.k2y{--tw-leading:.92;line-height:.92}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.prose-words[data-astro-cid-c2shg6iw] p[data-astro-cid-c2shg6iw]{margin-block:14.45px;line-height:1.55}.prose-words[data-astro-cid-c2shg6iw] p[data-astro-cid-c2shg6iw]:first-child{margin-top:0}.py-section[data-astro-cid-c2shg6iw]{padding-block:var(--spacing-section)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-weight:300 !important}.xs3{color:inherit !important;opacity:0.85 !important}",
   "section": {
     "width": "full"

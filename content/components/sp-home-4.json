@@ -80,81 +80,51 @@
       "maxLength": 366,
       "multiline": true
     },
-    "l2": {
-      "kind": "link",
-      "label": "Link “◇ Meet our team”"
+    "g2": {
+      "kind": "list",
+      "label": "List “◇ Meet our team”…",
+      "fields": {
+        "l1": {
+          "kind": "link",
+          "label": "Link “◇ Meet our team”"
+        },
+        "t1": {
+          "kind": "text",
+          "label": "◇ Meet our team",
+          "maxLength": 200
+        }
+      },
+      "min": 0,
+      "max": 100
     },
     "t12": {
-      "kind": "text",
-      "label": "◇ Meet our team",
-      "maxLength": 200
-    },
-    "l3": {
-      "kind": "link",
-      "label": "Link “◇ Our Vision & approach”"
-    },
-    "t13": {
-      "kind": "text",
-      "label": "◇ Our Vision",
-      "maxLength": 200
-    },
-    "t14": {
-      "kind": "text",
-      "label": "&",
-      "maxLength": 200
-    },
-    "t15": {
-      "kind": "text",
-      "label": "approach",
-      "maxLength": 200
-    },
-    "l4": {
-      "kind": "link",
-      "label": "Link “◇ The Commons”"
-    },
-    "t16": {
-      "kind": "text",
-      "label": "◇ The Commons",
-      "maxLength": 200
-    },
-    "t17": {
       "kind": "text",
       "label": "The Bioregion at the Center",
       "maxLength": 200
     },
-    "t18": {
+    "t13": {
       "kind": "text",
       "label": "Core to the philosophy of SP…",
       "maxLength": 1047,
       "multiline": true
     },
-    "t19": {
+    "t14": {
       "kind": "text",
       "label": "We are organizing around wha…",
       "maxLength": 200
     },
-    "t20": {
+    "t15": {
       "kind": "text",
-      "label": "SPIRIT",
-      "maxLength": 200
-    },
-    "t21": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t22": {
-      "kind": "text",
-      "label": "s ultimate mission is to mak…",
-      "maxLength": 450,
+      "label": "SPIRIT's ultimate mission is…",
+      "maxLength": 471,
       "multiline": true
     },
-    "t23": {
+    "t16": {
       "kind": "text",
       "label": "All funds received by SPIRIT…",
       "maxLength": 345
     },
-    "t24": {
+    "t17": {
       "kind": "text",
       "label": "— 03 —",
       "maxLength": 200
@@ -185,33 +155,37 @@
     },
     "t10": "Full glossary →",
     "t11": ", the space between us that belongs to and is governed by everyone who shows up in the spirit of care for our shared home.",
-    "l2": {
-      "type": "page",
-      "page": "pg_tqx65abs2z"
-    },
-    "t12": "◇ Meet our team",
-    "l3": {
-      "type": "page",
-      "page": "pg_v08jq5w0tv"
-    },
-    "t13": "◇ Our Vision",
-    "t14": "&",
-    "t15": "approach",
-    "l4": {
-      "type": "page",
-      "page": "pg_2kzwp97y6g"
-    },
-    "t16": "◇ The Commons",
-    "t17": "The Bioregion at the Center",
-    "t18": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
-    "t19": "We are organizing around what is already happening.",
-    "t20": "SPIRIT",
-    "t21": "'",
-    "t22": "s ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
-    "t23": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
-    "t24": "— 03 —"
+    "g2": [
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_tqx65abs2z"
+        },
+        "t1": "◇ Meet our team"
+      },
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_v08jq5w0tv"
+        },
+        "t1": "◇ Our Vision & approach"
+      },
+      {
+        "l1": {
+          "type": "page",
+          "page": "pg_2kzwp97y6g"
+        },
+        "t1": "◇ The Commons"
+      }
+    ],
+    "t12": "The Bioregion at the Center",
+    "t13": "Core to the philosophy of SPIRIT of the Front Range is the recognition that the most meaningful units of collective life are not the county or the state; they are the neighborhood and the bioregion. The bioregion is the living landscape that we share, defined by watershed, ecology, and the human and other-than-human communities nested within them.",
+    "t14": "We are organizing around what is already happening.",
+    "t15": "SPIRIT's ultimate mission is to make itself obsolete, supporting, developing and eventually composting itself into the self-organized, community-led commons.",
+    "t16": "All funds received by SPIRIT will be used to develop the Bioregional Commons or fund the Commons projects directly.",
+    "t17": "— 03 —"
   },
-  "template": "<section class=\"spread relative w-full bg-bone border-b-2 border-ink xs1\"> <div class=\"px-5 k17 pt-12 k18 pb-16 k19\" data-astro-cid-j7pv25f6> <div class=\"mb-10\" data-astro-cid-j7pv25f6> <div class=\"flex items-baseline gap-5 mb-3 flex-wrap\" data-astro-cid-j7pv25f6> <p class=\"eyebrow eyebrow-creek\" data-astro-cid-j7pv25f6>{{t1}}</p> </div> <h2 class=\"font-display font-bold text-ink break-words k1d max-w-4xl xs2\" data-astro-cid-j7pv25f6> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs3\" data-astro-cid-j7pv25f6>{{t3}}</span> </h2> </div> <div class=\"grid grid-cols-12 gap-6 kv items-start\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 ku\" data-astro-cid-j7pv25f6> <p class=\"font-serif text-ink leading-snug mb-6 pb-5 border-b k1c xs4\" data-astro-cid-j7pv25f6> <strong>{{t4}}</strong> {{t5}} </p> <div class=\"body-cols-2 text-body text-ink leading-snug mission-body\" data-astro-cid-j7pv25f6> {{#each g1}}<p>{{t1}}</p>{{#unless @last}} {{/unless}}{{/each}} <p>{{t6}} <span class=\"term-wrap term-creek\" data-term=\"commons\"><button class=\"term-trigger\" aria-describedby=\"term-pop-commons-akf6l\" aria-expanded=\"false\" type=\"button\">{{t7}}</button><span class=\"term-pop\" data-xid=\"term-pop-commons-akf6l\" role=\"tooltip\"><span class=\"term-pop-label\">{{t8}}</span><span class=\"term-pop-def\">{{t9}}</span><a href=\"{{href l1}}\" class=\"term-pop-more\">{{t10}}</a></span></span>{{t11}}</p> </div> <div class=\"mt-8 flex flex-wrap gap-3\" data-astro-cid-j7pv25f6> <a href=\"{{href l2}}\" class=\"btn-line\" data-astro-cid-j7pv25f6>{{t12}}</a> <a href=\"{{href l3}}\" class=\"btn-line\" data-astro-cid-j7pv25f6>{{t13}} {{t14}} {{t15}}</a> <a href=\"{{href l4}}\" class=\"btn-line\" data-astro-cid-j7pv25f6>{{t16}}</a> </div> </div> <aside class=\"col-span-12 kt space-y-3 kw border-ink k1a\" data-astro-cid-j7pv25f6> <div data-astro-cid-j7pv25f6> <p class=\"sticker sticker-clay inline-block mb-2\" data-astro-cid-j7pv25f6>{{t17}}</p> <p class=\"text-body text-shadow leading-tight\" data-astro-cid-j7pv25f6> {{t18}} </p> </div> <div class=\"rule\" data-astro-cid-j7pv25f6></div> <div data-astro-cid-j7pv25f6> <p class=\"sticker sticker-clay inline-block mb-2\" data-astro-cid-j7pv25f6>{{t19}}</p> <p class=\"font-serif italic leading-snug text-ink text-body\" data-astro-cid-j7pv25f6> {{t20}}{{t21}}{{t22}} </p> <p class=\"font-serif italic font-bold text-body leading-snug text-ink mt-2\" data-astro-cid-j7pv25f6> {{t23}} </p> </div> </aside> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs5\">{{t24}}</span> </div> </section>",
+  "template": "<section class=\"spread relative w-full bg-bone border-b-2 border-ink xs1\"> <div class=\"px-5 k17 pt-12 k18 pb-16 k19\" data-astro-cid-j7pv25f6> <div class=\"mb-10\" data-astro-cid-j7pv25f6> <div class=\"flex items-baseline gap-5 mb-3 flex-wrap\" data-astro-cid-j7pv25f6> <p class=\"eyebrow eyebrow-creek\" data-astro-cid-j7pv25f6>{{t1}}</p> </div> <h2 class=\"font-display font-bold text-ink break-words k1d max-w-4xl xs2\" data-astro-cid-j7pv25f6> {{t2}} <span class=\"italic font-serif font-light text-creek-deep xs3\" data-astro-cid-j7pv25f6>{{t3}}</span> </h2> </div> <div class=\"grid grid-cols-12 gap-6 kv items-start\" data-astro-cid-j7pv25f6> <div class=\"col-span-12 ku\" data-astro-cid-j7pv25f6> <p class=\"font-serif text-ink leading-snug mb-6 pb-5 border-b k1c xs4\" data-astro-cid-j7pv25f6> <strong>{{t4}}</strong> {{t5}} </p> <div class=\"body-cols-2 text-body text-ink leading-snug mission-body\" data-astro-cid-j7pv25f6> {{#each g1}}<p>{{t1}}</p>{{#unless @last}} {{/unless}}{{/each}} <p>{{t6}} <span class=\"term-wrap term-creek\" data-term=\"commons\"><button class=\"term-trigger\" aria-describedby=\"term-pop-commons-akf6l\" aria-expanded=\"false\" type=\"button\">{{t7}}</button><span class=\"term-pop\" data-xid=\"term-pop-commons-akf6l\" role=\"tooltip\"><span class=\"term-pop-label\">{{t8}}</span><span class=\"term-pop-def\">{{t9}}</span><a href=\"{{href l1}}\" class=\"term-pop-more\">{{t10}}</a></span></span>{{t11}}</p> </div> <div class=\"mt-8 flex flex-wrap gap-3\" data-astro-cid-j7pv25f6> {{#each g2}}<a href=\"{{href l1}}\" class=\"btn-line\" data-astro-cid-j7pv25f6>{{t1}}</a>{{#unless @last}} {{/unless}}{{/each}} </div> </div> <aside class=\"col-span-12 kt space-y-3 kw border-ink k1a\" data-astro-cid-j7pv25f6> <div data-astro-cid-j7pv25f6> <p class=\"sticker sticker-clay inline-block mb-2\" data-astro-cid-j7pv25f6>{{t12}}</p> <p class=\"text-body text-shadow leading-tight\" data-astro-cid-j7pv25f6> {{t13}} </p> </div> <div class=\"rule\" data-astro-cid-j7pv25f6></div> <div data-astro-cid-j7pv25f6> <p class=\"sticker sticker-clay inline-block mb-2\" data-astro-cid-j7pv25f6>{{t14}}</p> <p class=\"font-serif italic leading-snug text-ink text-body\" data-astro-cid-j7pv25f6> {{t15}} </p> <p class=\"font-serif italic font-bold text-body leading-snug text-ink mt-2\" data-astro-cid-j7pv25f6> {{t16}} </p> </div> </aside> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs5\">{{t17}}</span> </div> </section>",
   "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-space-y-reverse:0;--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-space-y-reverse:0;--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-exl:952px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-pale:#faf4e5;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--color-rule:#b8a878;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2{font-size:inherit;font-weight:inherit}a{color:inherit;-webkit-text-decoration:inherit;text-decoration:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}button{appearance:button}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}a{color:var(--color-ink);text-underline-offset:4px;text-decoration:underline;text-decoration-thickness:1px;-webkit-text-decoration-color:var(--color-clay);text-decoration-color:var(--color-clay);transition:color .2s,text-decoration-color .2s}a:hover{color:var(--color-clay-deep);-webkit-text-decoration-color:var(--color-ink);text-decoration-color:var(--color-ink)}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule{background:var(--color-rule);border:none;height:1px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.body-cols-2{column-count:1;column-gap:38.25px}@media(min-width:880px){.body-cols-2{column-count:2;column-rule:1px solid #b8a87899}@supports (color:color-mix(in lab,red,red)){.body-cols-2{column-rule:1px solid color-mix(in oklab,var(--color-rule) 60%,transparent)}}}.sticker{background:var(--color-ink);color:var(--color-bone);font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.18em;padding:5.95px 10.2px 5.1px;font-weight:700;line-height:1;display:inline-block}.sticker-clay{background:var(--color-clay-deep);color:var(--color-bone-pale)}.btn-line{color:var(--color-ink);font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.2em;border:1px solid var(--color-ink);background:0 0;align-items:center;gap:10.2px;padding:14.45px 21.25px;font-weight:700;text-decoration:none;transition:background .2s,color .2s;display:inline-flex}.btn-line:hover{background:var(--color-ink);color:var(--color-bone)}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-2{margin-top:calc(var(--spacing) * 2)}.mt-8{margin-top:calc(var(--spacing) * 8)}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-10{margin-bottom:calc(var(--spacing) * 10)}.flex{display:flex}.grid{display:grid}.inline-block{display:inline-block}.w-full{width:100%}.max-w-4xl{max-width:var(--xv-container-exl)}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.flex-wrap{flex-wrap:wrap}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-3{gap:calc(var(--spacing) * 3)}.gap-5{gap:calc(var(--spacing) * 5)}.gap-6{gap:calc(var(--spacing) * 6)}:where(.space-y-3>:not(:last-child)){--tw-space-y-reverse:0;margin-block-start:calc(calc(var(--spacing) * 3) * var(--tw-space-y-reverse));margin-block-end:calc(calc(var(--spacing) * 3) * calc(1 - var(--tw-space-y-reverse)))}.border-b{border-bottom-style:var(--tw-border-style);border-bottom-width:1px}.border-b-2{border-bottom-style:var(--tw-border-style);border-bottom-width:2px}.border-ink{border-color:var(--color-ink)}.k1c{border-color:#1f1e1b66}@supports (color:color-mix(in lab,red,red)){.k1c{border-color:color-mix(in oklab,var(--color-ink) 40%,transparent)}}.bg-bone{background-color:var(--color-bone)}.px-5{padding-inline:calc(var(--spacing) * 5)}.pt-12{padding-top:calc(var(--spacing) * 12)}.pb-5{padding-bottom:calc(var(--spacing) * 5)}.pb-16{padding-bottom:calc(var(--spacing) * 16)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.k1d{--tw-leading:1.02;line-height:1.02}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-creek-deep{color:var(--color-creek-deep)}.text-ink{color:var(--color-ink)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.kv{gap:calc(var(--spacing) * 10)}.kw{border-left-style:var(--tw-border-style);border-left-width:1px}.k17{padding-inline:calc(var(--spacing) * 10)}.k18{padding-top:calc(var(--spacing) * 20)}.k19{padding-bottom:calc(var(--spacing) * 24)}.k1a{padding-left:calc(var(--spacing) * 8)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}.term-wrap{display:inline-block;position:relative}.term-trigger{font:inherit;color:inherit;cursor:help;text-underline-offset:3px;background:0 0;border:none;margin:0;padding:0;-webkit-text-decoration:underline dotted;text-decoration:underline dotted;text-decoration-thickness:1.5px;transition:color .15s}.term-creek .term-trigger{-webkit-text-decoration-color:var(--color-creek-deep);text-decoration-color:var(--color-creek-deep)}.term-creek .term-trigger:hover,.term-creek .term-trigger[aria-expanded=true]{color:var(--color-creek-deep)}.term-pop{z-index:50;background:var(--color-ink,#1f1e1b);width:max-content;max-width:min(360px,80vw);color:var(--color-bone-pale,#f7efd8);opacity:0;visibility:hidden;pointer-events:none;font-family:var(--font-sans);text-align:left;cursor:default;border-radius:4px;padding:14.45px 17px;font-size:14.875px;line-height:1.45;text-decoration:none;transition:opacity .15s,visibility 0s linear .15s;position:absolute;bottom:calc(100% + 8px);left:50%;transform:translate(-50%);box-shadow:0 8px 24px #1f1e1b40,0 2px 6px #1f1e1b2e}.term-pop:after{content:\"\";border:6px solid #0000;border-top-color:var(--color-ink,#1f1e1b);position:absolute;top:100%;left:50%;transform:translate(-50%)}.term-wrap:hover .term-pop,.term-wrap:focus-within .term-pop,.term-trigger[aria-expanded=true]+.term-pop{opacity:1;visibility:visible;pointer-events:auto;transition:opacity .15s}.term-pop-label{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.18em;color:#e8b58a;margin-bottom:5.95px;font-size:11.9px;display:block}.term-pop-def{display:block}.term-pop-more{font-family:var(--font-mono);text-transform:uppercase;letter-spacing:.18em;color:#e8b58a;margin-top:8.5px;font-size:11.9px;text-decoration:none;display:inline-block}.term-pop-more:hover{text-decoration:underline}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.mission-body[data-astro-cid-j7pv25f6] p{margin-top:12.75px}.mission-body[data-astro-cid-j7pv25f6] p:first-child{margin-top:0}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-size:clamp(32.3px,22.1px + 2.6vw,66.3px) !important;letter-spacing:-0.02em !important}.xs3{font-weight:300 !important}.xs4{font-size:clamp(19.55px,17.85px + 0.4vw,23.8px) !important}.xs5{color:inherit !important;opacity:0.85 !important}",
   "js": "root.querySelectorAll(\"[data-xid]\").forEach(function (el) { if (!document.getElementById(el.dataset.xid)) el.id = el.dataset.xid; });\nroot.addEventListener('click', function (e) {\n  var trigger = e.target instanceof Element ? e.target.closest('.term-trigger') : null;\n  if (!trigger) return;\n  e.preventDefault();\n  var isOpen = trigger.getAttribute('aria-expanded') === 'true';\n  document.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { if (t !== trigger) t.setAttribute('aria-expanded', 'false'); });\n  trigger.setAttribute('aria-expanded', isOpen ? 'false' : 'true');\n});\ndocument.addEventListener('click', function (e) {\n  if (e.target instanceof Element && e.target.closest('.term-trigger')) return;\n  root.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { t.setAttribute('aria-expanded', 'false'); });\n});\ndocument.addEventListener('keydown', function (e) {\n  if (e.key === 'Escape') root.querySelectorAll('.term-trigger[aria-expanded=\"true\"]').forEach(function (t) { t.setAttribute('aria-expanded', 'false'); });\n});",
   "section": {

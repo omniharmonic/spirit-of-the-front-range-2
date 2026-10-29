@@ -1,7 +1,7 @@
 {
   "name": "sp-words-49",
-  "label": "DIV",
-  "description": "Recreated from the original site: DIV. Every word, picture and link is editable.",
+  "label": "\" Context is everything. Here, we try to offer more of it. —",
+  "description": "Recreated from the original site: \" Context is everything. Here, we try to offer more of it. —…. Every word, picture and link is editable.",
   "version": 1,
   "category": "imported",
   "fields": {
@@ -17,28 +17,16 @@
     },
     "t3": {
       "kind": "text",
-      "label": "— the editor",
-      "maxLength": 200
-    },
-    "t4": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t5": {
-      "kind": "text",
-      "label": "s note · /words",
+      "label": "— the editor's note · /words",
       "maxLength": 200
     }
   },
   "defaults": {
     "t1": "\"",
     "t2": "Context is everything. Here, we try to offer more of it.",
-    "t3": "— the editor",
-    "t4": "'",
-    "t5": "s note · /words"
+    "t3": "— the editor's note · /words"
   },
-  "template": "<div class=\"bg-bone py-section\" data-astro-cid-c2shg6iw> <div class=\"container-narrow\" data-astro-cid-c2shg6iw> <blockquote class=\"pull-quote relative py-8\"> <span class=\"absolute -top-2 -left-2 k34 font-serif text-clay-deep text-7xl leading-none opacity-50\" aria-hidden=\"true\"> {{t1}} </span> <p class=\"pullquote relative z-10\"> {{t2}} </p> <footer class=\"mt-4 font-mono text-micro uppercase k7 text-shadow\"> {{t3}}{{t4}}{{t5}} </footer> </blockquote> </div> </div>",
+  "template": "<div class=\"bg-bone py-section\" data-astro-cid-c2shg6iw> <div class=\"container-narrow\" data-astro-cid-c2shg6iw> <blockquote class=\"pull-quote relative py-8\"> <span class=\"absolute -top-2 -left-2 k34 font-serif text-clay-deep text-7xl leading-none opacity-50\" aria-hidden=\"true\"> {{t1}} </span> <p class=\"pullquote relative z-10\"> {{t2}} </p> <footer class=\"mt-4 font-mono text-micro uppercase k7 text-shadow\"> {{t3}} </footer> </blockquote> </div> </div>",
   "css": "@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-text-hxl:76.5px;--xv-text-hxl--line-height:1;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.container-narrow{width:100%;max-width:748px;margin-inline:auto;padding-inline:clamp(21.25px,17px + 1.5vw,42.5px)}.absolute{position:absolute}.relative{position:relative}.-top-2{top:calc(var(--spacing) * -2)}.-left-2{left:calc(var(--spacing) * -2)}.z-10{z-index:10}.mt-4{margin-top:calc(var(--spacing) * 4)}.bg-bone{background-color:var(--color-bone)}.py-8{padding-block:calc(var(--spacing) * 8)}.py-section{padding-block:var(--spacing-section)}.font-mono{font-family:var(--font-mono)}.font-serif{font-family:var(--font-serif)}.text-7xl{font-size:var(--xv-text-hxl);line-height:var(--tw-leading,var(--xv-text-hxl--line-height))}.text-micro{font-size:var(--text-micro)}.leading-none{--tw-leading:1;line-height:1}.k7{letter-spacing:.18em}.text-clay-deep{color:var(--color-clay-deep)}.text-shadow{color:var(--color-shadow)}.uppercase{text-transform:uppercase}.opacity-50{opacity:.5}@media(min-width:64rem){.k34{left:calc(var(--spacing) * -6)}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.py-section[data-astro-cid-c2shg6iw]{padding-block:var(--spacing-section)}",
   "section": {
     "width": "full"

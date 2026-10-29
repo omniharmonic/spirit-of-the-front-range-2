@@ -53,7 +53,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -191,7 +191,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-07.jpg",
+              "src": "media/2026/10/gathering-07-w2d2.jpg",
               "alt": "A still pond at dusk reflecting trees and dramatic clouds."
             },
             "t1": "SPIRIT of the Front Range",
@@ -199,21 +199,17 @@
             "t3": "Reach out · come to an event · join the Commons · give",
             "t4": "Connect",
             "t5": "with us.",
-            "t6": "We",
-            "t7": "'",
-            "t8": "re early in this work — and it",
-            "t9": "'",
-            "t10": "s growing the way real things grow: slowly, rooted, built to last. There are many ways in.",
-            "t11": "●",
-            "t12": "Connect",
-            "t13": "Walden Pond at dusk · Boulder, CO",
-            "t14": "photographed by",
+            "t6": "We're early in this work — and it's growing the way real things grow: slowly, rooted, built to last. There are many ways in.",
+            "t7": "●",
+            "t8": "Connect",
+            "t9": "Walden Pond at dusk · Boulder, CO",
+            "t10": "photographed by",
             "l1": {
               "type": "url",
               "url": "https://www.truetoessence.com",
               "newTab": true
             },
-            "t15": "True To Essence"
+            "t11": "True To Essence"
           }
         }
       ]
@@ -264,17 +260,17 @@
             "t10": "✦ Subscribe & express interest →",
             "t11": "Subscribing opens our community dashboard in a new tab.",
             "t12": "Find us elsewhere",
-            "l2": {
-              "type": "url",
-              "url": "https://spiritofthefrontrange.substack.com/",
-              "newTab": true
-            },
-            "t13": "✎",
-            "t14": "Substack",
-            "t15": "Essays",
-            "t16": "&",
-            "t17": "field notes",
             "g1": [
+              {
+                "l1": {
+                  "type": "url",
+                  "url": "https://spiritofthefrontrange.substack.com/",
+                  "newTab": true
+                },
+                "t1": "✎",
+                "t2": "Substack",
+                "t3": "Essays & field notes"
+              },
               {
                 "l1": {
                   "type": "url",
@@ -296,7 +292,7 @@
                 "t3": "Front Range Commons chat"
               }
             ],
-            "t18": "— 07.1 —"
+            "t13": "— 07.1 —"
           }
         }
       ]
@@ -333,51 +329,47 @@
             "t1": "N° 01",
             "t2": "We answer email. Sometimes slowly. Always personally.",
             "t3": "★ The fastest way to feel the work is to come to an event.",
-            "t4": "Feeling inspired? Let",
-            "t5": "'",
-            "t6": "s talk.",
-            "t7": "Questions. Projects. Partnerships. Knowledge. Stories.",
-            "t8": "Inspiration.",
-            "t9": "We would love to hear from you.",
-            "t10": "01",
-            "t11": "Come to something",
-            "t12": "See what",
-            "t13": "'",
-            "t14": "s coming up",
-            "t15": "Public teach-ins, Solidarity Suppers, neighborhood preparedness sessions — open community gatherings. The fastest way to feel the work is to come to one.",
+            "t4": "Feeling inspired? Let's talk.",
+            "t5": "Questions. Projects. Partnerships. Knowledge. Stories.",
+            "t6": "Inspiration.",
+            "t7": "We would love to hear from you.",
+            "t8": "01",
+            "t9": "Come to something",
+            "t10": "See what's coming up",
+            "t11": "Public teach-ins, Solidarity Suppers, neighborhood preparedness sessions — open community gatherings. The fastest way to feel the work is to come to one.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/calendar"
             },
-            "t16": "◇ Browse the calendar →",
-            "t17": "02",
-            "t18": "Just say hello",
-            "t19": "Email us",
-            "t20": "For questions, partnerships, or just to introduce yourself — we read every message and answer personally.",
+            "t12": "◇ Browse the calendar →",
+            "t13": "02",
+            "t14": "Just say hello",
+            "t15": "Email us",
+            "t16": "For questions, partnerships, or just to introduce yourself — we read every message and answer personally.",
             "l2": {
               "type": "email",
               "email": "admin@spiritofthefrontrange.org"
             },
-            "t21": "admin@spiritofthefrontrange.org",
-            "t22": "03",
-            "t23": "Join the Commons",
-            "t24": "Become a founding member",
-            "t25": "If you live on the Front Range, you can join the Front Range Commons as a founding member. Propose projects, vote on community grants, and help shape what this looks like in practice.",
+            "t17": "admin@spiritofthefrontrange.org",
+            "t18": "03",
+            "t19": "Join the Commons",
+            "t20": "Become a founding member",
+            "t21": "If you live on the Front Range, you can join the Front Range Commons as a founding member. Propose projects, vote on community grants, and help shape what this looks like in practice.",
             "l3": {
               "type": "url",
               "url": "https://www.frontrangecommons.org/"
             },
-            "t26": "★ Visit the Commons →",
-            "t27": "04",
-            "t28": "Support the work",
-            "t29": "Make a tax-deductible gift",
-            "t30": "Your gift funds the programs, the community grant rounds, and the shared work of a healthy Front Range.",
+            "t22": "★ Visit the Commons →",
+            "t23": "04",
+            "t24": "Support the work",
+            "t25": "Make a tax-deductible gift",
+            "t26": "Your gift funds the programs, the community grant rounds, and the shared work of a healthy Front Range.",
             "l4": {
               "type": "page",
               "page": "pg_nx1cbdabp0"
             },
-            "t31": "◈ Donate →",
-            "t32": "— 07.2 —"
+            "t27": "◈ Donate →",
+            "t28": "— 07.2 —"
           }
         }
       ]

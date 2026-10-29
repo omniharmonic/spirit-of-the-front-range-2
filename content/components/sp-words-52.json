@@ -23,268 +23,233 @@
     "t4": {
       "kind": "text",
       "label": "A few words come up often on…",
-      "maxLength": 200
+      "maxLength": 249
     },
     "t5": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t6": {
-      "kind": "text",
-      "label": "s the short version of each.…",
-      "maxLength": 200
-    },
-    "t7": {
       "kind": "text",
       "label": "underlined",
       "maxLength": 200
     },
-    "t8": {
+    "t6": {
       "kind": "text",
       "label": "word elsewhere on the site f…",
       "maxLength": 200
     },
+    "t7": {
+      "kind": "text",
+      "label": "01",
+      "maxLength": 200
+    },
+    "t8": {
+      "kind": "text",
+      "label": "Bioregion",
+      "maxLength": 200
+    },
+    "t9": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t10": {
+      "kind": "text",
+      "label": "A geographically and hydrolo…",
+      "maxLength": 426,
+      "multiline": true
+    },
+    "t11": {
+      "kind": "text",
+      "label": "02",
+      "maxLength": 200
+    },
+    "t12": {
+      "kind": "text",
+      "label": "The Commons",
+      "maxLength": 200
+    },
+    "t13": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t14": {
+      "kind": "text",
+      "label": "\"The Commons\" points to the …",
+      "maxLength": 603,
+      "multiline": true
+    },
+    "t15": {
+      "kind": "text",
+      "label": "03",
+      "maxLength": 200
+    },
+    "t16": {
+      "kind": "text",
+      "label": "The Front Range Commons",
+      "maxLength": 200
+    },
+    "t17": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t18": {
+      "kind": "text",
+      "label": "A decentralized, member-dire…",
+      "maxLength": 759,
+      "multiline": true
+    },
+    "t19": {
+      "kind": "text",
+      "label": "04",
+      "maxLength": 200
+    },
+    "t20": {
+      "kind": "text",
+      "label": "Commoning",
+      "maxLength": 200
+    },
+    "t21": {
+      "kind": "text",
+      "label": "verb",
+      "maxLength": 200
+    },
+    "t22": {
+      "kind": "text",
+      "label": "Commoning on a bioregional l…",
+      "maxLength": 471,
+      "multiline": true
+    },
     "g1": {
       "kind": "list",
-      "label": "Group “01”",
+      "label": "Group “05”",
       "fields": {
         "t1": {
-          "kind": "text",
-          "label": "01",
-          "maxLength": 200
-        },
-        "t2": {
-          "kind": "text",
-          "label": "Bioregion",
-          "maxLength": 200
-        },
-        "t3": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t4": {
-          "kind": "text",
-          "label": "A geographically and hydrolo…",
-          "maxLength": 426,
-          "multiline": true
-        },
-        "t5": {
-          "kind": "text",
-          "label": "02",
-          "maxLength": 200
-        },
-        "t6": {
-          "kind": "text",
-          "label": "The Commons",
-          "maxLength": 200
-        },
-        "t7": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t8": {
-          "kind": "text",
-          "label": "\"",
-          "maxLength": 200
-        },
-        "t9": {
-          "kind": "text",
-          "label": "The Commons",
-          "maxLength": 200
-        },
-        "t10": {
-          "kind": "text",
-          "label": "\"",
-          "maxLength": 200
-        },
-        "t11": {
-          "kind": "text",
-          "label": "points to the living realiti…",
-          "maxLength": 561,
-          "multiline": true
-        },
-        "t12": {
-          "kind": "text",
-          "label": "03",
-          "maxLength": 200
-        },
-        "t13": {
-          "kind": "text",
-          "label": "The Front Range Commons",
-          "maxLength": 200
-        },
-        "t14": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t15": {
-          "kind": "text",
-          "label": "A decentralized, member-dire…",
-          "maxLength": 759,
-          "multiline": true
-        },
-        "t16": {
-          "kind": "text",
-          "label": "04",
-          "maxLength": 200
-        },
-        "t17": {
-          "kind": "text",
-          "label": "Commoning",
-          "maxLength": 200
-        },
-        "t18": {
-          "kind": "text",
-          "label": "verb",
-          "maxLength": 200
-        },
-        "t19": {
-          "kind": "text",
-          "label": "Commoning on a bioregional l…",
-          "maxLength": 471,
-          "multiline": true
-        },
-        "t20": {
           "kind": "text",
           "label": "05",
           "maxLength": 200
         },
-        "t21": {
+        "t2": {
           "kind": "text",
           "label": "Bioregional Commoning",
           "maxLength": 200
         },
-        "t22": {
+        "t3": {
           "kind": "text",
           "label": "verb",
           "maxLength": 200
         },
-        "t23": {
+        "t4": {
           "kind": "text",
           "label": "Recognizes the wellbeing of …",
           "maxLength": 306
         },
-        "t24": {
+        "t5": {
           "kind": "text",
           "label": "shared resources",
           "maxLength": 200
         },
-        "t25": {
+        "t6": {
           "kind": "text",
           "label": "that the people who live in …",
           "maxLength": 222
         },
-        "t26": {
+        "t7": {
           "kind": "text",
           "label": "steward",
           "maxLength": 200
         },
-        "t27": {
+        "t8": {
           "kind": "text",
           "label": "collectively.",
           "maxLength": 200
-        },
-        "t28": {
-          "kind": "text",
-          "label": "06",
-          "maxLength": 200
-        },
-        "t29": {
-          "kind": "text",
-          "label": "Resilience",
-          "maxLength": 200
-        },
-        "t30": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t31": {
-          "kind": "text",
-          "label": "The capacity of a community …",
-          "maxLength": 468,
-          "multiline": true
-        },
-        "t32": {
-          "kind": "text",
-          "label": "07",
-          "maxLength": 200
-        },
-        "t33": {
-          "kind": "text",
-          "label": "The Lattice",
-          "maxLength": 200
-        },
-        "t34": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t35": {
-          "kind": "text",
-          "label": "SPIRIT",
-          "maxLength": 200
-        },
-        "t36": {
-          "kind": "text",
-          "label": "'",
-          "maxLength": 200
-        },
-        "t37": {
-          "kind": "text",
-          "label": "s operating metaphor. The mi…",
-          "maxLength": 306
-        },
-        "t38": {
-          "kind": "text",
-          "label": "08",
-          "maxLength": 200
-        },
-        "t39": {
-          "kind": "text",
-          "label": "Institutional Self-Negation",
-          "maxLength": 200
-        },
-        "t40": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t41": {
-          "kind": "text",
-          "label": "The deliberate practice of t…",
-          "maxLength": 357
-        },
-        "t42": {
-          "kind": "text",
-          "label": "09",
-          "maxLength": 200
-        },
-        "t43": {
-          "kind": "text",
-          "label": "Regeneration",
-          "maxLength": 200
-        },
-        "t44": {
-          "kind": "text",
-          "label": "noun",
-          "maxLength": 200
-        },
-        "t45": {
-          "kind": "text",
-          "label": "Regeneration means renewing …",
-          "maxLength": 1143,
-          "multiline": true
         }
       },
       "min": 1,
       "max": 1
     },
-    "t9": {
+    "t23": {
+      "kind": "text",
+      "label": "06",
+      "maxLength": 200
+    },
+    "t24": {
+      "kind": "text",
+      "label": "Resilience",
+      "maxLength": 200
+    },
+    "t25": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t26": {
+      "kind": "text",
+      "label": "The capacity of a community …",
+      "maxLength": 468,
+      "multiline": true
+    },
+    "t27": {
+      "kind": "text",
+      "label": "07",
+      "maxLength": 200
+    },
+    "t28": {
+      "kind": "text",
+      "label": "The Lattice",
+      "maxLength": 200
+    },
+    "t29": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t30": {
+      "kind": "text",
+      "label": "SPIRIT's operating metaphor.…",
+      "maxLength": 327
+    },
+    "t31": {
+      "kind": "text",
+      "label": "08",
+      "maxLength": 200
+    },
+    "t32": {
+      "kind": "text",
+      "label": "Institutional Self-Negation",
+      "maxLength": 200
+    },
+    "t33": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t34": {
+      "kind": "text",
+      "label": "The deliberate practice of t…",
+      "maxLength": 357
+    },
+    "t35": {
+      "kind": "text",
+      "label": "09",
+      "maxLength": 200
+    },
+    "t36": {
+      "kind": "text",
+      "label": "Regeneration",
+      "maxLength": 200
+    },
+    "t37": {
+      "kind": "text",
+      "label": "noun",
+      "maxLength": 200
+    },
+    "t38": {
+      "kind": "text",
+      "label": "Regeneration means renewing …",
+      "maxLength": 1143,
+      "multiline": true
+    },
+    "t39": {
       "kind": "text",
       "label": "— 04.5 —",
       "maxLength": 200
@@ -294,63 +259,56 @@
     "t1": "★ A few terms, plainly",
     "t2": "Begin with",
     "t3": "the words.",
-    "t4": "A few words come up often on this site. Here",
-    "t5": "'",
-    "t6": "s the short version of each. Hover any",
-    "t7": "underlined",
-    "t8": "word elsewhere on the site for an inline definition.",
+    "t4": "A few words come up often on this site. Here's the short version of each. Hover any",
+    "t5": "underlined",
+    "t6": "word elsewhere on the site for an inline definition.",
+    "t7": "01",
+    "t8": "Bioregion",
+    "t9": "noun",
+    "t10": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
+    "t11": "02",
+    "t12": "The Commons",
+    "t13": "noun",
+    "t14": "\"The Commons\" points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
+    "t15": "03",
+    "t16": "The Front Range Commons",
+    "t17": "noun",
+    "t18": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance.",
+    "t19": "04",
+    "t20": "Commoning",
+    "t21": "verb",
+    "t22": "Commoning on a bioregional level directs our attentions and energies to where we can directly relate to the consequences of our stewardship, labor, and care.",
     "g1": [
       {
-        "t1": "01",
-        "t2": "Bioregion",
-        "t3": "noun",
-        "t4": "A geographically and hydrologically defined area characterized by distinct ecological features that together form a coherent biocultural home.",
-        "t5": "02",
-        "t6": "The Commons",
-        "t7": "noun",
-        "t8": "\"",
-        "t9": "The Commons",
-        "t10": "\"",
-        "t11": "points to the living realities of shared place — the commonality of the ecologies and resources for which all residents of a place share responsibility, and on which all residents depend.",
-        "t12": "03",
-        "t13": "The Front Range Commons",
-        "t14": "noun",
-        "t15": "A decentralized, member-directed network-in-formation dedicated to cultural and ecological stewardship, and community-led resource allocation; a space where anyone can contribute, propose projects, share resources, and participate in network governance.",
-        "t16": "04",
-        "t17": "Commoning",
-        "t18": "verb",
-        "t19": "Commoning on a bioregional level directs our attentions and energies to where we can directly relate to the consequences of our stewardship, labor, and care.",
-        "t20": "05",
-        "t21": "Bioregional Commoning",
-        "t22": "verb",
-        "t23": "Recognizes the wellbeing of human and natural systems (neighborhoods, watersheds, ecosystems, soil) as",
-        "t24": "shared resources",
-        "t25": "that the people who live in and depend on that land take responsibility to",
-        "t26": "steward",
-        "t27": "collectively.",
-        "t28": "06",
-        "t29": "Resilience",
-        "t30": "noun",
-        "t31": "The capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks.",
-        "t32": "07",
-        "t33": "The Lattice",
-        "t34": "noun",
-        "t35": "SPIRIT",
-        "t36": "'",
-        "t37": "s operating metaphor. The minimum infrastructure that enables Commons activity without controlling it.",
-        "t38": "08",
-        "t39": "Institutional Self-Negation",
-        "t40": "noun",
-        "t41": "The deliberate practice of transferring responsibility from SPIRIT to the Commons as fast as the Commons can absorb it.",
-        "t42": "09",
-        "t43": "Regeneration",
-        "t44": "noun",
-        "t45": "Regeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing. Cultural regeneration would teach them how to prepare the fish and share the meal with their relatives."
+        "t1": "05",
+        "t2": "Bioregional Commoning",
+        "t3": "verb",
+        "t4": "Recognizes the wellbeing of human and natural systems (neighborhoods, watersheds, ecosystems, soil) as",
+        "t5": "shared resources",
+        "t6": "that the people who live in and depend on that land take responsibility to",
+        "t7": "steward",
+        "t8": "collectively."
       }
     ],
-    "t9": "— 04.5 —"
+    "t23": "06",
+    "t24": "Resilience",
+    "t25": "noun",
+    "t26": "The capacity of a community to absorb shocks — storms, outages, economic disruption, supply chain failure — and recover together. Not bunkers, but networks.",
+    "t27": "07",
+    "t28": "The Lattice",
+    "t29": "noun",
+    "t30": "SPIRIT's operating metaphor. The minimum infrastructure that enables Commons activity without controlling it.",
+    "t31": "08",
+    "t32": "Institutional Self-Negation",
+    "t33": "noun",
+    "t34": "The deliberate practice of transferring responsibility from SPIRIT to the Commons as fast as the Commons can absorb it.",
+    "t35": "09",
+    "t36": "Regeneration",
+    "t37": "noun",
+    "t38": "Regeneration means renewing the capacity to renew. Consider the old adage about teaching someone to fish, rather than giving them a fish. Regeneration is about teaching them how to fish, how to make their own fishing poles, how to keep the fish in the pond happily reproducing. Cultural regeneration would teach them how to prepare the fish and share the meal with their relatives.",
+    "t39": "— 04.5 —"
   },
-  "template": "<section class=\"spread relative w-full bg-bone-pale border-t border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-c2shg6iw> <div class=\"rule-bold mb-6\" data-astro-cid-c2shg6iw></div> <div class=\"grid grid-cols-12 gap-6 mb-12 items-end\" data-astro-cid-c2shg6iw> <div class=\"col-span-12 ku\" data-astro-cid-c2shg6iw> <p class=\"eyebrow mb-3\" data-astro-cid-c2shg6iw>{{t1}}</p> <h2 class=\"display-l text-ink break-words k2u\" data-astro-cid-c2shg6iw> {{t2}} <span class=\"italic font-serif font-light text-clay-deep xs2\" data-astro-cid-c2shg6iw>{{t3}}</span> </h2> </div> <div class=\"col-span-12 kt k1a kw border-ink\" data-astro-cid-c2shg6iw> <p class=\"caption text-shadow\" data-astro-cid-c2shg6iw>{{t4}}{{t5}}{{t6}} <em>{{t7}}</em> {{t8}}</p> </div> </div> {{#each g1}}<div class=\"grid k42 gap-x-12 gap-y-12\" data-astro-cid-c2shg6iw> <article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t1}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t2}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t3}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t4}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-creek-deep mb-2\" data-astro-cid-c2shg6iw>{{t5}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t6}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t7}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t8}}{{t9}}{{t10}} {{t11}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-sage-deep mb-2\" data-astro-cid-c2shg6iw>{{t12}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t13}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t14}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t15}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-grass-deep mb-2\" data-astro-cid-c2shg6iw>{{t16}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t17}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t18}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t19}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t20}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t21}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t22}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t23}} <em>{{t24}}</em> {{t25}} <em>{{t26}}</em> {{t27}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-creek-deep mb-2\" data-astro-cid-c2shg6iw>{{t28}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t29}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t30}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t31}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-sage-deep mb-2\" data-astro-cid-c2shg6iw>{{t32}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t33}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t34}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t35}}{{t36}}{{t37}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-grass-deep mb-2\" data-astro-cid-c2shg6iw>{{t38}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t39}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t40}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t41}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t42}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t43}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t44}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t45}} </div> </article> </div>{{/each}} </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t9}}</span> </div> </section>",
+  "template": "<section class=\"spread relative w-full bg-bone-pale border-t border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-c2shg6iw> <div class=\"rule-bold mb-6\" data-astro-cid-c2shg6iw></div> <div class=\"grid grid-cols-12 gap-6 mb-12 items-end\" data-astro-cid-c2shg6iw> <div class=\"col-span-12 ku\" data-astro-cid-c2shg6iw> <p class=\"eyebrow mb-3\" data-astro-cid-c2shg6iw>{{t1}}</p> <h2 class=\"display-l text-ink break-words k2u\" data-astro-cid-c2shg6iw> {{t2}} <span class=\"italic font-serif font-light text-clay-deep xs2\" data-astro-cid-c2shg6iw>{{t3}}</span> </h2> </div> <div class=\"col-span-12 kt k1a kw border-ink\" data-astro-cid-c2shg6iw> <p class=\"caption text-shadow\" data-astro-cid-c2shg6iw>{{t4}} <em>{{t5}}</em> {{t6}}</p> </div> </div> <div class=\"grid k42 gap-x-12 gap-y-12\" data-astro-cid-c2shg6iw> <article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t7}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t8}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t9}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t10}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-creek-deep mb-2\" data-astro-cid-c2shg6iw>{{t11}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t12}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t13}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t14}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-sage-deep mb-2\" data-astro-cid-c2shg6iw>{{t15}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t16}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t17}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t18}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-grass-deep mb-2\" data-astro-cid-c2shg6iw>{{t19}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t20}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t21}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t22}} </div> </article>{{#each g1}}<article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t1}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t2}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t3}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t4}} <em>{{t5}}</em> {{t6}} <em>{{t7}}</em> {{t8}} </div> </article>{{/each}}<article data-astro-cid-c2shg6iw> <p class=\"num-badge text-creek-deep mb-2\" data-astro-cid-c2shg6iw>{{t23}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t24}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t25}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t26}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-sage-deep mb-2\" data-astro-cid-c2shg6iw>{{t27}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t28}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t29}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t30}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-grass-deep mb-2\" data-astro-cid-c2shg6iw>{{t31}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t32}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t33}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t34}} </div> </article><article data-astro-cid-c2shg6iw> <p class=\"num-badge text-clay-deep mb-2\" data-astro-cid-c2shg6iw>{{t35}}</p> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight mb-1\" data-astro-cid-c2shg6iw>{{t36}}</h3> <p class=\"caption-italic mb-3\" data-astro-cid-c2shg6iw>{{t37}}</p> <div class=\"text-body text-ink leading-relaxed glossary-body\" data-astro-cid-c2shg6iw> {{t38}} </div> </article> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs3\">{{t39}}</span> </div> </section>",
   "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--leading-relaxed:1.625;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-pale:#faf4e5;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-grass-deep:#6e7048;--color-sage-deep:#4f6b4d;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-caption:clamp(13.6px,12.24px + .24vw,17px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--xv-text-hc:clamp(29.75px,23.8px + 1.5vw,52.7px);--text-display-l:clamp(44.2px,28.9px + 4.5vw,129.2px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h2,h3{font-size:inherit;font-weight:inherit}:-moz-focusring{outline:auto}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h2,h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}em{font-style:italic}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.rule-bold{background:var(--color-ink);border:none;height:4px}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.caption-italic{font-family:var(--font-serif);font-style:italic;font-size:var(--text-caption);color:var(--color-shadow);line-height:1.5}.display-l{font-family:var(--font-display);font-size:var(--text-display-l);letter-spacing:-.025em;font-weight:700;line-height:.95}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.mb-3{margin-bottom:calc(var(--spacing) * 3)}.mb-6{margin-bottom:calc(var(--spacing) * 6)}.mb-12{margin-bottom:calc(var(--spacing) * 12)}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-end{align-items:flex-end}.gap-2{gap:calc(var(--spacing) * 2)}.gap-6{gap:calc(var(--spacing) * 6)}.gap-x-12{column-gap:calc(var(--spacing) * 12)}.gap-y-12{row-gap:calc(var(--spacing) * 12)}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-ink{border-color:var(--color-ink)}.bg-bone-pale{background-color:var(--color-bone-pale)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.font-display{font-family:var(--font-display)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-body{font-size:var(--text-body)}.text-h2{font-size:var(--xv-text-hc)}.k2u{--tw-leading:.95;line-height:.95}.leading-relaxed{--tw-leading:var(--leading-relaxed);line-height:var(--leading-relaxed)}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.break-words{overflow-wrap:break-word}.text-clay-deep{color:var(--color-clay-deep)}.text-creek-deep{color:var(--color-creek-deep)}.text-grass-deep{color:var(--color-grass-deep)}.text-ink{color:var(--color-ink)}.text-sage-deep{color:var(--color-sage-deep)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:64rem){.k13{top:calc(var(--spacing) * 5)}.k14{right:calc(var(--spacing) * 5)}.kt{grid-column:span 5/span 5}.ku{grid-column:span 7/span 7}.k42{grid-template-columns:repeat(2,minmax(0,1fr))}.kw{border-left-style:var(--tw-border-style);border-left-width:1px}.kx{padding-inline:calc(var(--spacing) * 12)}.k1a{padding-left:calc(var(--spacing) * 8)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.py-section[data-astro-cid-c2shg6iw]{padding-block:var(--spacing-section)}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{font-weight:300 !important}.xs3{color:inherit !important;opacity:0.85 !important}",
   "section": {
     "width": "full"

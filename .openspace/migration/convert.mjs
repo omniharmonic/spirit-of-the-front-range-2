@@ -19,7 +19,7 @@ const STUDIO = 'https://studio.openspace.host/sites/st_3c6zwe3a43';
 const PAGE_BG = '#F2EAD8';
 
 const PAGES = [
-  ['', 'home'], ['mission', 'mission'], ['programs', 'programs'], ['the-commons', 'the-commons'],
+  ['', 'home'], ['mission', 'mission'], ['programs', 'programs/index'], ['the-commons', 'the-commons'],
   ['stewards', 'stewards'], ['connect', 'connect'], ['catalog', 'catalog'], ['donate', 'donate'],
   ['words', 'words'], ['programs/commons-sense-education', 'programs/commons-sense-education'],
   ['programs/community-grant-rounds', 'programs/community-grant-rounds'],
@@ -201,9 +201,21 @@ const DUO = {
   'duotone-creek': [[0.12, 0.70], [0.20, 0.80], [0.28, 0.86]],
   'duotone-ink': [[0.10, 0.86], [0.10, 0.82], [0.08, 0.72]],
 };
+// Images live in the OpenSpace media library (uploaded with upload_image, see hubmedia.json):
+// the editor only shows images it holds, so pages point at those copies.
+const HUBMEDIA = JSON.parse(fs.readFileSync(new URL('./hubmedia.json', import.meta.url), 'utf8'));
 async function addMedia(src, alt, duo) {
   const key = `${src}|${duo ?? ''}`;
   if (mediaByOrig.has(key)) return mediaByOrig.get(key);
+  const hub = HUBMEDIA[duo ? `${src}|${duo}` : src];
+  if (!hub) throw new Error(`No media library copy for ${key}`);
+  if (!media[hub.src]) throw new Error(`${hub.src} is not in content/media.json`);
+  const entry = { ...media[hub.src], path: hub.src };
+  mediaByOrig.set(key, entry);
+  return entry;
+}
+async function addMediaLocal(src, alt, duo) {
+  const key = `${src}|${duo ?? ''}`;
   const file = path.join(DIST, decodeURIComponent(src.replace(/^\//, '')));
   const base = path.basename(src).replace(/\.[^.]+$/, '');
   const ext = path.extname(src).toLowerCase();
@@ -323,6 +335,7 @@ function makeList(frames, sepSpace, label) {
 }
 
 async function convertChunk(el, ctx) {
+  el.normalize?.();
   const inlineRules = [];
   const styleClass = new Map();
   let hasXid = false;
@@ -600,7 +613,8 @@ for (const [dir, file] of PAGES) {
   if (pre.length) chunks.push({ el: wrap(pre, 'x-masthead'), label: 'Masthead', kind: 'masthead' });
   for (const c of [...main.children]) {
     if (['SCRIPT', 'STYLE'].includes(c.tagName)) continue;
-    const heading = c.querySelector('h1,h2,h3')?.textContent ?? c.getAttribute('id') ?? c.tagName;
+    const firstText = [...c.querySelectorAll('p,blockquote,span,a')].map((n) => n.textContent.replace(/\s+/g, ' ').trim()).find((t) => t.length > 3);
+    const heading = c.querySelector('h1,h2,h3')?.textContent ?? firstText ?? c.getAttribute('id') ?? 'Section';
     chunks.push({ el: c, label: preview(heading, 60), kind: 'section', anchor: c.getAttribute('id') });
   }
   const footerEl = post.find((x) => x.tagName === 'FOOTER');
@@ -609,15 +623,15 @@ for (const [dir, file] of PAGES) {
 
   const sections = [];
   for (const [i, ch] of chunks.entries()) {
-    const r = await convertChunk(ch.el, { css, slug, imgs, label: ch.label, prefix: ch.kind === 'masthead' ? 'sp-masthead' : `sp-${(file.split('/').pop() || 'home').slice(0, 14).replace(/-+$/, '')}` });
+    const r = await convertChunk(ch.el, { css, slug, imgs, label: ch.label, prefix: ch.kind === 'masthead' ? 'sp-masthead' : `sp-${(file.replace(/\/index$/, '').split('/').pop() || 'home').slice(0, 14).replace(/-+$/, '')}` });
     report.push({ page: file || 'home', chunk: ch.label.slice(0, 30), comp: r.name, css: r.cssLen, tpl: r.tplLen, fields: r.nFields });
-    const secId = newId('sec', `${file}:${i}`);
+    const secId = newId('sec', `${file.replace(/\/index$/, '')}:${i}`);
     sections.push({
       id: secId, preset: `component/${r.name}@1`, label: ch.label,
       ...(ch.anchor && /^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(ch.anchor) ? { anchor: ch.anchor } : {}),
       layout: { mode: 'stack', columns: { d: [12] }, width: 'full' },
       style: { padding: { d: 'none', m: 'none' }, background: { type: 'color', color: PAGE_BG } },
-      blocks: [{ id: newId('blk', `${file}:${i}`), type: `component/${r.name}`, v: 1, fields: r.values }],
+      blocks: [{ id: newId('blk', `${file.replace(/\/index$/, '')}:${i}`), type: `component/${r.name}`, v: 1, fields: r.values }],
     });
   }
   const pj = pageJson[file];
@@ -649,6 +663,7 @@ for (const def of components.values()) fs.writeFileSync(path.join(compDir, `${de
 const site = JSON.parse(fs.readFileSync(path.join(REPO, 'content/site.json'), 'utf8'));
 site.footer = footerSection;
 fs.writeFileSync(path.join(REPO, 'content/site.json'), `${JSON.stringify(site, null, 2)}\n`);
+for (const k of Object.keys(media)) if (k.startsWith('media/2026/10/orig/')) delete media[k];
 fs.writeFileSync(mediaJsonPath, `${JSON.stringify(media, null, 2)}\n`);
 console.table(report);
 console.log(`${components.size} components`);
