@@ -23,6 +23,17 @@ the footer into an OpenSpace custom component:
 - SVG duotone filters can't live in a component, so the nine affected photos have the filter
   baked into the image file (`filters.json` lists what the original browser applied).
 - Pages hide OpenSpace's standard header; the site footer is the footer component.
+- Every image points at a copy in the OpenSpace media library (`hubmedia.json`). The editor
+  only shows images it holds, so files committed straight to `media/` appear in the published
+  site but not in Studio. Images over 2400px were uploaded as high-quality 2400px copies
+  (`upload/`).
+
+## Keeping Studio in step
+
+Studio edits a draft kept by the OpenSpace Hub. A push to `main` updates the live site but not
+that draft. After pushing, call `discard_draft` (it resets the draft to the live version), then
+check `get_draft_diff` reports no changes. If a component is renamed or removed, the Hub can keep
+the old name on a page; keep the old component name in that case.
 
 ## Re-running
 
@@ -32,6 +43,8 @@ node .openspace/migration/convert.mjs <original dist> . .openspace/migration/gfo
 npx openspace check && npm run build
 node .openspace/migration/compare.js <original url> <new url> out / /mission/ …
 node .openspace/migration/layout.js <original page url> <new page url> 1440
+WIDTHS=1280,1024,834,768 node .openspace/migration/compare.js …   # other widths
+node .openspace/migration/jpgpair.js <screenshot_url pieces> -- <screenshot pieces>   # Studio renderer vs original
 ```
 
 Run the scripts from a folder that has `linkedom`, `postcss`, `postcss-selector-parser`, `sharp`,

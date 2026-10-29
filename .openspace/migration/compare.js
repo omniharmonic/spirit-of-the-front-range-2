@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 const [origBase, newBase, outDir, ...paths] = process.argv.slice(2);
-const devices = [{ name: 'desktop', width: 1440, height: 900 }, { name: 'mobile', width: 390, height: 844 }];
+const devices = process.env.WIDTHS ? process.env.WIDTHS.split(',').map((w) => ({ name: 'w' + w, width: +w, height: 900 })) : [{ name: 'desktop', width: 1440, height: 900 }, { name: 'mobile', width: 390, height: 844 }];
 
 async function shot(browser, url, dev, file) {
   const ctx = await browser.newContext({ viewport: { width: dev.width, height: dev.height }, reducedMotion: 'reduce', ignoreHTTPSErrors: false });
