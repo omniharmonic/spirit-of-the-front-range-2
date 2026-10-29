@@ -53,7 +53,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -189,29 +189,25 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-05.jpg",
+              "src": "media/2026/10/gathering-05-g0sv.jpg",
               "alt": "Wildflowers and pine boughs on the Front Range with mountains beyond."
             },
             "t1": "SPIRIT of the Front Range",
             "t2": "— 02 —",
-            "t3": "What we",
-            "t4": "'",
-            "t5": "re doing and why",
-            "t6": "A more beautiful",
-            "t7": "Front Range.",
-            "t8": "A Front Range where neighbors know each other, the land is well-tended, and the people who live here have a real say in how it",
-            "t9": "'",
-            "t10": "s cared for — now and for the generations that come after us.",
-            "t11": "●",
-            "t12": "Mission",
-            "t13": "Wildflowers · early summer · Boulder foothills",
-            "t14": "photographed by",
+            "t3": "What we're doing and why",
+            "t4": "A more beautiful",
+            "t5": "Front Range.",
+            "t6": "A Front Range where neighbors know each other, the land is well-tended, and the people who live here have a real say in how it's cared for — now and for the generations that come after us.",
+            "t7": "●",
+            "t8": "Mission",
+            "t9": "Wildflowers · early summer · Boulder foothills",
+            "t10": "photographed by",
             "l1": {
               "type": "url",
               "url": "https://www.truetoessence.com",
               "newTab": true
             },
-            "t15": "True To Essence"
+            "t11": "True To Essence"
           }
         }
       ]
@@ -247,20 +243,18 @@
           "fields": {
             "t1": "N° 01",
             "t2": "Vision.",
-            "t3": "A picture of what",
-            "t4": "'",
-            "t5": "s possible — a horizon to walk toward.",
-            "t6": "Our vision",
-            "t7": "Our vision is a",
-            "t8": "remembering.",
-            "t9": "Our vision is a Front Range where neighbors know each other, the land is tended well, and people have a real say in how we shape our shared home. We envision communities woven together by stewardship and care, meaningful work, wise management of shared resources, and local economies. We want to know our food, our farmers, and one another by nurturing vibrant culture, creativity, and shared knowledge across generations.",
+            "t3": "A picture of what's possible — a horizon to walk toward.",
+            "t4": "Our vision",
+            "t5": "Our vision is a",
+            "t6": "remembering.",
+            "t7": "Our vision is a Front Range where neighbors know each other, the land is tended well, and people have a real say in how we shape our shared home. We envision communities woven together by stewardship and care, meaningful work, wise management of shared resources, and local economies. We want to know our food, our farmers, and one another by nurturing vibrant culture, creativity, and shared knowledge across generations.",
             "i1": {
-              "src": "media/2026/10/orig/gathering-01.jpg",
+              "src": "media/2026/10/gathering-01-56j1.jpg",
               "alt": "A creek at dusk in a mountain valley, fall-yellow aspen reflected in still water."
             },
-            "t10": "●",
-            "t11": "creek above Nederland",
-            "t12": "— 02.1 —"
+            "t8": "●",
+            "t9": "creek above Nederland",
+            "t10": "— 02.1 —"
           }
         }
       ]
@@ -360,7 +354,7 @@
             },
             "t20": "Explore our programs →",
             "i1": {
-              "src": "media/2026/10/orig/mission-council.jpg",
+              "src": "media/2026/10/mission-council-gbkm.jpg",
               "alt": "A community council gathered in a large circle inside a great hall."
             },
             "t21": "●",
@@ -412,30 +406,28 @@
             "t7": "Air quality monitoring, watershed stewardship, soil health programs, fire mitigation landscaping — land and water cared for by the people who live with them.",
             "t8": "02",
             "t9": "Mutual Care Already in Place",
-            "t10": "Knowing who on the block needs to be checked on and who has skills, tools, or supplies to share. Connected, local relationships so that when something goes wrong, we don",
-            "t11": "'",
-            "t12": "t have to figure it out alone.",
-            "t13": "03",
-            "t14": "Local Resource Access",
-            "t15": "Community water systems, neighborhood farm exchanges (surplus from one yard to the table next door), distributed tool libraries, shared transportation, clothing swaps, potlucks!",
-            "t16": "04",
-            "t17": "Resilient Local Energy",
-            "t18": "Community solar arrays, neighborhood microgrids, shared generators, battery co-ops — so when the grid trips, we and our neighbors stay warm.",
-            "t19": "05",
-            "t20": "Community-held Digital Communication Systems",
-            "t21": "Mesh networks and community-held servers and datacenters that work when centralized systems fail.",
-            "t22": "06",
-            "t23": "Vibrant Community Spirit",
-            "t24": "A shared sense of home and kinship that runs deeper than the basic fact of proximity. Intergenerational knowledge-sharing and -caring. The feeling that we",
-            "t25": "belong",
-            "t26": "to places and people who are known to us.",
-            "t27": "We are attempting in good faith the nearly-impossible but necessary work of weaving our communities back together with the life that sustains us all.",
+            "t10": "Knowing who on the block needs to be checked on and who has skills, tools, or supplies to share. Connected, local relationships so that when something goes wrong, we don't have to figure it out alone.",
+            "t11": "03",
+            "t12": "Local Resource Access",
+            "t13": "Community water systems, neighborhood farm exchanges (surplus from one yard to the table next door), distributed tool libraries, shared transportation, clothing swaps, potlucks!",
+            "t14": "04",
+            "t15": "Resilient Local Energy",
+            "t16": "Community solar arrays, neighborhood microgrids, shared generators, battery co-ops — so when the grid trips, we and our neighbors stay warm.",
+            "t17": "05",
+            "t18": "Community-held Digital Communication Systems",
+            "t19": "Mesh networks and community-held servers and datacenters that work when centralized systems fail.",
+            "t20": "06",
+            "t21": "Vibrant Community Spirit",
+            "t22": "A shared sense of home and kinship that runs deeper than the basic fact of proximity. Intergenerational knowledge-sharing and -caring. The feeling that we",
+            "t23": "belong",
+            "t24": "to places and people who are known to us.",
+            "t25": "We are attempting in good faith the nearly-impossible but necessary work of weaving our communities back together with the life that sustains us all.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t28": "Join our email list →",
-            "t29": "— 02.3 —"
+            "t26": "Join our email list →",
+            "t27": "— 02.3 —"
           }
         }
       ]
@@ -443,7 +435,7 @@
     {
       "id": "sec_jw93x1ay2h",
       "preset": "component/sp-mission-16@1",
-      "label": "DIV",
+      "label": "\" Our relationship to where we live carries with it a respon…",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -470,10 +462,8 @@
           "v": 1,
           "fields": {
             "t1": "\"",
-            "t2": "Our relationship to where we live carries with it a responsibility for that place. That responsibility belongs to all of us — it isn",
-            "t3": "'",
-            "t4": "t something anyone can own or fence off. It is, by its nature, a commons.",
-            "t5": "— Benjamin Life"
+            "t2": "Our relationship to where we live carries with it a responsibility for that place. That responsibility belongs to all of us — it isn't something anyone can own or fence off. It is, by its nature, a commons.",
+            "t3": "— Benjamin Life"
           }
         }
       ]
@@ -481,7 +471,7 @@
     {
       "id": "sec_5pjrc1tzza",
       "preset": "component/sp-mission-17@1",
-      "label": "SECTION",
+      "label": "All for the Commons",
       "layout": {
         "mode": "stack",
         "columns": {

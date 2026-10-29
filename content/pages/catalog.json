@@ -54,7 +54,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -192,7 +192,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-02.jpg",
+              "src": "media/2026/10/gathering-02-0p1g.jpg",
               "alt": "Driftwood resting in shallow water at the edge of a creek."
             },
             "t1": "SPIRIT of the Front Range",
@@ -200,19 +200,17 @@
             "t3": "Recommendations from the team · updated as we go",
             "t4": "A small",
             "t5": "reading list.",
-            "t6": "A working list of the books, organizations, tools, places, and practices that have shaped our work — and might shape yours. In the spirit of Stewart Brand",
-            "t7": "'",
-            "t8": "s old Whole Earth Catalog: an entry only makes it in if it is genuinely useful, in print, and not already common knowledge.",
-            "t9": "●",
-            "t10": "Catalog",
-            "t11": "driftwood · creek edge",
-            "t12": "photographed by",
+            "t6": "A working list of the books, organizations, tools, places, and practices that have shaped our work — and might shape yours. In the spirit of Stewart Brand's old Whole Earth Catalog: an entry only makes it in if it is genuinely useful, in print, and not already common knowledge.",
+            "t7": "●",
+            "t8": "Catalog",
+            "t9": "driftwood · creek edge",
+            "t10": "photographed by",
             "l1": {
               "type": "url",
               "url": "https://www.truetoessence.com",
               "newTab": true
             },
-            "t13": "True To Essence"
+            "t11": "True To Essence"
           }
         }
       ]
@@ -220,7 +218,7 @@
     {
       "id": "sec_j42cbrkv5h",
       "preset": "component/sp-catalog-40@1",
-      "label": "SECTION",
+      "label": "What's in here",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -246,9 +244,7 @@
           "type": "component/sp-catalog-40",
           "v": 1,
           "fields": {
-            "t1": "What",
-            "t2": "'",
-            "t3": "s in here",
+            "t1": "What's in here",
             "g1": [
               {
                 "t1": "● book",
@@ -271,7 +267,7 @@
                 "t2": "02"
               }
             ],
-            "t4": "— 05.0 —"
+            "t2": "— 05.0 —"
           }
         }
       ]
@@ -307,19 +303,17 @@
           "fields": {
             "t1": "N° 01",
             "t2": "How this works.",
-            "t3": "Each entry has someone from our team behind it who vouches for it personally. We don",
-            "t4": "'",
-            "t5": "t aggregate. We recommend.",
-            "t6": "Want to suggest an addition?",
+            "t3": "Each entry has someone from our team behind it who vouches for it personally. We don't aggregate. We recommend.",
+            "t4": "Want to suggest an addition?",
             "l1": {
               "type": "page",
               "page": "pg_7nbz8t2ex4"
             },
-            "t7": "Write to us",
-            "t8": ". We add slowly, by consensus.",
-            "t9": "★ Items in this issue:",
-            "t10": "9",
-            "t11": ".",
+            "t5": "Write to us",
+            "t6": ". We add slowly, by consensus.",
+            "t7": "★ Items in this issue:",
+            "t8": "9",
+            "t9": ".",
             "g1": [
               {
                 "t1": "N° 1",
@@ -414,53 +408,45 @@
                 "t60": "Donation",
                 "t61": "N° 7",
                 "t62": "practice",
-                "t63": "The Listeners",
-                "t64": "'",
-                "t65": "Council",
-                "t66": "A specific gathering form: one person speaks at a time, holding a token; others listen without preparing a response. No cross-talk, no debate. The form draws from many lineages — Indigenous councils, Quaker meetings, the Way of Council. We use it at Solidarity Suppers when the conversation matters enough.",
-                "t67": "— Curated by",
-                "t68": "Sarah D",
-                "t69": "'",
-                "t70": "Antoni",
-                "t71": "Practiced at Solidarity Suppers",
-                "t72": "N° 8",
-                "t73": "place",
+                "t63": "The Listeners' Council",
+                "t64": "A specific gathering form: one person speaks at a time, holding a token; others listen without preparing a response. No cross-talk, no debate. The form draws from many lineages — Indigenous councils, Quaker meetings, the Way of Council. We use it at Solidarity Suppers when the conversation matters enough.",
+                "t65": "— Curated by",
+                "t66": "Sarah D'Antoni",
+                "t67": "Practiced at Solidarity Suppers",
+                "t68": "N° 8",
+                "t69": "place",
                 "l7": {
                   "type": "url",
                   "url": "https://bouldercolorado.gov/services/open-space-and-mountain-parks",
                   "newTab": true
                 },
-                "t74": "The Flatirons",
-                "t75": "↗",
-                "t76": "The slanted sandstone slabs above Boulder — 290 million-year-old conglomerate from the Fountain Formation, lifted and tilted during the Laramide Orogeny. The signature backdrop of the Front Range and the geologic punctuation that says",
-                "t77": "here.",
-                "t78": "Walk Chautauqua at dawn.",
-                "t79": "— Curated by",
-                "t80": "SPIRIT",
-                "t81": "Boulder Open Space",
-                "t82": "&",
-                "t83": "Mountain Parks",
-                "t84": "Free",
-                "t85": "N° 9",
-                "t86": "place",
+                "t70": "The Flatirons",
+                "t71": "↗",
+                "t72": "The slanted sandstone slabs above Boulder — 290 million-year-old conglomerate from the Fountain Formation, lifted and tilted during the Laramide Orogeny. The signature backdrop of the Front Range and the geologic punctuation that says",
+                "t73": "here.",
+                "t74": "Walk Chautauqua at dawn.",
+                "t75": "— Curated by",
+                "t76": "SPIRIT",
+                "t77": "Boulder Open Space & Mountain Parks",
+                "t78": "Free",
+                "t79": "N° 9",
+                "t80": "place",
                 "l8": {
                   "type": "url",
                   "url": "https://www.fs.usda.gov/recarea/arp/recarea/?recid=36504",
                   "newTab": true
                 },
-                "t87": "Cache la Poudre River",
-                "t88": "↗",
-                "t89": "Colorado’s only nationally designated Wild",
-                "t90": "&",
-                "t91": "Scenic River. Headwaters in Rocky Mountain National Park; flows through Fort Collins on its way to the South Platte. The watershed that holds the northern reach of our bioregion and grounds the work of regional water stewardship coalitions.",
-                "t92": "— Curated by",
-                "t93": "SPIRIT",
-                "t94": "Northern Front Range watershed",
-                "t95": "Free"
+                "t81": "Cache la Poudre River",
+                "t82": "↗",
+                "t83": "Colorado’s only nationally designated Wild & Scenic River. Headwaters in Rocky Mountain National Park; flows through Fort Collins on its way to the South Platte. The watershed that holds the northern reach of our bioregion and grounds the work of regional water stewardship coalitions.",
+                "t84": "— Curated by",
+                "t85": "SPIRIT",
+                "t86": "Northern Front Range watershed",
+                "t87": "Free"
               }
             ],
-            "t12": "✦ end of the list — more next time ✦",
-            "t13": "— 05.1 —"
+            "t10": "✦ end of the list — more next time ✦",
+            "t11": "— 05.1 —"
           }
         }
       ]

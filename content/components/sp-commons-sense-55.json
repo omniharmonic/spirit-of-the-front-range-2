@@ -40,158 +40,120 @@
       "label": "+",
       "maxLength": 200
     },
-    "g1": {
-      "kind": "list",
-      "label": "Group “Most people have heard the phr…”",
-      "fields": {
-        "t1": {
-          "kind": "text",
-          "label": "Most people have heard the p…",
-          "maxLength": 200
-        },
-        "t2": {
-          "kind": "text",
-          "label": "\"",
-          "maxLength": 200
-        },
-        "t3": {
-          "kind": "text",
-          "label": "tragedy of the commons",
-          "maxLength": 200
-        },
-        "t4": {
-          "kind": "text",
-          "label": "\"",
-          "maxLength": 200
-        },
-        "t5": {
-          "kind": "text",
-          "label": "— the idea that when somethi…",
-          "maxLength": 396,
-          "multiline": true
-        },
-        "t6": {
-          "kind": "text",
-          "label": "unmanaged open access",
-          "maxLength": 200
-        },
-        "t7": {
-          "kind": "text",
-          "label": ", not about actual community…",
-          "maxLength": 213
-        },
-        "t8": {
-          "kind": "text",
-          "label": "real commons have thrived fo…",
-          "maxLength": 200
-        },
-        "t9": {
-          "kind": "text",
-          "label": ".",
-          "maxLength": 200
-        },
-        "t10": {
-          "kind": "text",
-          "label": "Elinor Ostrom won the Nobel …",
-          "maxLength": 312
-        },
-        "t11": {
-          "kind": "text",
-          "label": "taking care of shared things…",
-          "maxLength": 273
-        },
-        "t12": {
-          "kind": "text",
-          "label": "— and most of us have forgot…",
-          "maxLength": 318
-        }
-      },
-      "min": 1,
-      "max": 1
-    },
     "t8": {
       "kind": "text",
-      "label": "02",
-      "maxLength": 200
+      "label": "Most people have heard the p…",
+      "maxLength": 573,
+      "multiline": true
     },
     "t9": {
       "kind": "text",
-      "label": "What we cover",
+      "label": "unmanaged open access",
       "maxLength": 200
     },
     "t10": {
       "kind": "text",
-      "label": "We learn from the past and o…",
-      "maxLength": 200
+      "label": ", not about actual community…",
+      "maxLength": 213
     },
     "t11": {
       "kind": "text",
-      "label": "to co-create our shared futu…",
+      "label": "real commons have thrived fo…",
       "maxLength": 200
     },
     "t12": {
       "kind": "text",
-      "label": "+",
+      "label": ".",
       "maxLength": 200
     },
     "t13": {
       "kind": "text",
+      "label": "Elinor Ostrom won the Nobel …",
+      "maxLength": 312
+    },
+    "t14": {
+      "kind": "text",
+      "label": "taking care of shared things…",
+      "maxLength": 273
+    },
+    "t15": {
+      "kind": "text",
+      "label": "— and most of us have forgot…",
+      "maxLength": 318
+    },
+    "t16": {
+      "kind": "text",
+      "label": "02",
+      "maxLength": 200
+    },
+    "t17": {
+      "kind": "text",
+      "label": "What we cover",
+      "maxLength": 200
+    },
+    "t18": {
+      "kind": "text",
+      "label": "We learn from the past and o…",
+      "maxLength": 200
+    },
+    "t19": {
+      "kind": "text",
+      "label": "to co-create our shared futu…",
+      "maxLength": 200
+    },
+    "t20": {
+      "kind": "text",
+      "label": "+",
+      "maxLength": 200
+    },
+    "t21": {
+      "kind": "text",
       "label": "We move from a time when all…",
       "maxLength": 200
     },
-    "t14": {
+    "t22": {
       "kind": "text",
       "label": "indigenous",
       "maxLength": 200
     },
-    "t15": {
+    "t23": {
       "kind": "text",
       "label": "to a place, through the cent…",
       "maxLength": 597,
       "multiline": true
     },
-    "t16": {
+    "t24": {
       "kind": "text",
-      "label": "We draw on Ostrom",
-      "maxLength": 200
-    },
-    "t17": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t18": {
-      "kind": "text",
-      "label": "s research, Indigenous tradi…",
-      "maxLength": 513,
+      "label": "We draw on Ostrom's research…",
+      "maxLength": 567,
       "multiline": true
     },
-    "t19": {
+    "t25": {
       "kind": "text",
       "label": "03",
       "maxLength": 200
     },
-    "t20": {
+    "t26": {
       "kind": "text",
       "label": "How it runs",
       "maxLength": 200
     },
-    "t21": {
+    "t27": {
       "kind": "text",
       "label": "Once a month. Free.",
       "maxLength": 200
     },
-    "t22": {
+    "t28": {
       "kind": "text",
       "label": "Anyone can come.",
       "maxLength": 200
     },
-    "t23": {
+    "t29": {
       "kind": "text",
       "label": "+",
       "maxLength": 200
     },
-    "g2": {
+    "g1": {
       "kind": "list",
       "label": "List “Sessions run once a month and …”…",
       "fields": {
@@ -205,75 +167,46 @@
       "min": 0,
       "max": 100
     },
-    "t24": {
+    "t30": {
       "kind": "text",
       "label": "04",
       "maxLength": 200
     },
-    "t25": {
+    "t31": {
       "kind": "text",
       "label": "What you leave with",
       "maxLength": 200
     },
-    "t26": {
+    "t32": {
       "kind": "text",
       "label": "You leave with a different",
       "maxLength": 200
     },
-    "t27": {
+    "t33": {
       "kind": "text",
       "label": "way of seeing.",
       "maxLength": 200
     },
-    "t28": {
+    "t34": {
       "kind": "text",
       "label": "+",
       "maxLength": 200
     },
-    "t29": {
+    "t35": {
       "kind": "text",
       "label": "Not certainty. Not a doctrin…",
       "maxLength": 200
     },
-    "t30": {
+    "t36": {
       "kind": "text",
       "label": "A vocabulary, a bit of histo…",
       "maxLength": 200
     },
-    "t31": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t32": {
-      "kind": "text",
-      "label": "s possible.",
-      "maxLength": 200
-    },
-    "t33": {
-      "kind": "text",
-      "label": "The Commons is a practice yo…",
-      "maxLength": 200
-    },
-    "t34": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t35": {
-      "kind": "text",
-      "label": "ll start to recognize once y…",
-      "maxLength": 342
-    },
-    "t36": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
     "t37": {
       "kind": "text",
-      "label": "re trying to make that recog…",
-      "maxLength": 200
+      "label": "The Commons is a practice yo…",
+      "maxLength": 561,
+      "multiline": true
     },
     "t38": {
       "kind": "text",
@@ -289,39 +222,29 @@
     "t5": "Before we can build something together,",
     "t6": "we have to share a language for it.",
     "t7": "+",
+    "t8": "Most people have heard the phrase \"tragedy of the commons\" — the idea that when something is shared, it inevitably gets used up. What fewer people know is that this was an argument made about",
+    "t9": "unmanaged open access",
+    "t10": ", not about actual community-managed commons. And fewer still know that",
+    "t11": "real commons have thrived for centuries",
+    "t12": ".",
+    "t13": "Elinor Ostrom won the Nobel Prize in economics for documenting this. The Commons Teach-Ins exist because",
+    "t14": "taking care of shared things together is one of the oldest, most successful human practices",
+    "t15": "— and most of us have forgotten how to do it. Recovering that knowledge is preparation for the work ahead.",
+    "t16": "02",
+    "t17": "What we cover",
+    "t18": "We learn from the past and observe our now",
+    "t19": "to co-create our shared future",
+    "t20": "+",
+    "t21": "We move from a time when all peoples were",
+    "t22": "indigenous",
+    "t23": "to a place, through the centuries of fencing-off shared land into private property, through the cooperatives and movements that kept community-care alive, to the new local experiments emerging today.",
+    "t24": "We draw on Ostrom's research, Indigenous traditions of stewardship, the long European history of shared land, and the practical wisdom of the communities that never stopped doing this work.",
+    "t25": "03",
+    "t26": "How it runs",
+    "t27": "Once a month. Free.",
+    "t28": "Anyone can come.",
+    "t29": "+",
     "g1": [
-      {
-        "t1": "Most people have heard the phrase",
-        "t2": "\"",
-        "t3": "tragedy of the commons",
-        "t4": "\"",
-        "t5": "— the idea that when something is shared, it inevitably gets used up. What fewer people know is that this was an argument made about",
-        "t6": "unmanaged open access",
-        "t7": ", not about actual community-managed commons. And fewer still know that",
-        "t8": "real commons have thrived for centuries",
-        "t9": ".",
-        "t10": "Elinor Ostrom won the Nobel Prize in economics for documenting this. The Commons Teach-Ins exist because",
-        "t11": "taking care of shared things together is one of the oldest, most successful human practices",
-        "t12": "— and most of us have forgotten how to do it. Recovering that knowledge is preparation for the work ahead."
-      }
-    ],
-    "t8": "02",
-    "t9": "What we cover",
-    "t10": "We learn from the past and observe our now",
-    "t11": "to co-create our shared future",
-    "t12": "+",
-    "t13": "We move from a time when all peoples were",
-    "t14": "indigenous",
-    "t15": "to a place, through the centuries of fencing-off shared land into private property, through the cooperatives and movements that kept community-care alive, to the new local experiments emerging today.",
-    "t16": "We draw on Ostrom",
-    "t17": "'",
-    "t18": "s research, Indigenous traditions of stewardship, the long European history of shared land, and the practical wisdom of the communities that never stopped doing this work.",
-    "t19": "03",
-    "t20": "How it runs",
-    "t21": "Once a month. Free.",
-    "t22": "Anyone can come.",
-    "t23": "+",
-    "g2": [
       {
         "t1": "Sessions run once a month and are open to everyone — neighbors, students, organizers, curious passersby. There are no prerequisites. We bring strong coffee, good chairs, and a willingness to think out loud together."
       },
@@ -329,23 +252,17 @@
         "t1": "Each session leaves something behind: a reading list, a recording, notes you can take with you. Over time these add up to a free, public curriculum and an eventual book — built openly, by the people who actually showed up."
       }
     ],
-    "t24": "04",
-    "t25": "What you leave with",
-    "t26": "You leave with a different",
-    "t27": "way of seeing.",
-    "t28": "+",
-    "t29": "Not certainty. Not a doctrine.",
-    "t30": "A vocabulary, a bit of history, and a sense of what",
-    "t31": "'",
-    "t32": "s possible.",
-    "t33": "The Commons is a practice you",
-    "t34": "'",
-    "t35": "ll start to recognize once you have a name for it — in your neighborhood, in your watershed, in your workplace. We",
-    "t36": "'",
-    "t37": "re trying to make that recognition easier.",
+    "t30": "04",
+    "t31": "What you leave with",
+    "t32": "You leave with a different",
+    "t33": "way of seeing.",
+    "t34": "+",
+    "t35": "Not certainty. Not a doctrine.",
+    "t36": "A vocabulary, a bit of history, and a sense of what's possible.",
+    "t37": "The Commons is a practice you'll start to recognize once you have a name for it — in your neighborhood, in your watershed, in your workplace. We're trying to make that recognition easier.",
     "t38": "— 06.2 —"
   },
-  "template": "<section class=\"spread relative w-full bg-bone-pale border-y border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-jjmdqzy6> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-jjmdqzy6> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-jjmdqzy6> <p class=\"eyebrow eyebrow-sage mb-2\" data-astro-cid-jjmdqzy6>{{t1}}</p> <p class=\"caption text-shadow\" data-astro-cid-jjmdqzy6>{{t2}}</p> </div> <div class=\"col-span-12 k2x max-w-3xl\" data-astro-cid-jjmdqzy6> <div class=\"border-t k1s\" data-astro-cid-jjmdqzy6> <details class=\"arc-item border-b k1s py-5\" open data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t3}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t4}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t5}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t6}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t7}}</span> </summary> {{#each g1}}<div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t1}} {{t2}}{{t3}}{{t4}} {{t5}} <em>{{t6}}</em>{{t7}} <strong>{{t8}}</strong>{{t9}}</p> <p>{{t10}} <strong>{{t11}}</strong> {{t12}}</p> </div>{{/each}} </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t8}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t9}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t10}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t11}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t12}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t13}} <em>{{t14}}</em> {{t15}}</p> <p>{{t16}}{{t17}}{{t18}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t19}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t20}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t21}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t22}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t23}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> {{#each g2}}<p>{{t1}}</p>{{#unless @last}} {{/unless}}{{/each}} </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t24}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t25}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t26}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t27}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t28}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t29}} <strong>{{t30}}{{t31}}{{t32}}</strong> {{t33}}{{t34}}{{t35}}{{t36}}{{t37}}</p> </div> </details> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs2\">{{t38}}</span> </div> </section>",
+  "template": "<section class=\"spread relative w-full bg-bone-pale border-y border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-jjmdqzy6> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-jjmdqzy6> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-jjmdqzy6> <p class=\"eyebrow eyebrow-sage mb-2\" data-astro-cid-jjmdqzy6>{{t1}}</p> <p class=\"caption text-shadow\" data-astro-cid-jjmdqzy6>{{t2}}</p> </div> <div class=\"col-span-12 k2x max-w-3xl\" data-astro-cid-jjmdqzy6> <div class=\"border-t k1s\" data-astro-cid-jjmdqzy6> <details class=\"arc-item border-b k1s py-5\" open data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t3}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t4}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t5}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t6}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t7}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t8}} <em>{{t9}}</em>{{t10}} <strong>{{t11}}</strong>{{t12}}</p> <p>{{t13}} <strong>{{t14}}</strong> {{t15}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t16}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t17}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t18}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t19}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t20}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t21}} <em>{{t22}}</em> {{t23}}</p> <p>{{t24}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t25}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t26}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t27}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t28}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t29}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> {{#each g1}}<p>{{t1}}</p>{{#unless @last}} {{/unless}}{{/each}} </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-sage-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t30}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-sage block mb-1\" data-astro-cid-jjmdqzy6>{{t31}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t32}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t33}}</span> </h3> </span> <span class=\"arc-marker font-mono text-sage-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t34}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t35}} <strong>{{t36}}</strong> {{t37}}</p> </div> </details> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs2\">{{t38}}</span> </div> </section>",
   "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-cxl:714px;--xv-container-dxl:816px;--text-xs:12.75px;--text-xs--line-height:calc(1 / .75);--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-pale:#faf4e5;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-sage-deep:#4f6b4d;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--xv-text-hc:clamp(29.75px,23.8px + 1.5vw,52.7px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h3{font-size:inherit;font-weight:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}summary{display:list-item}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}em{font-style:italic}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-3{margin-top:calc(var(--spacing) * 3)}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.block{display:block}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.max-w-2xl{max-width:var(--xv-container-cxl)}.max-w-3xl{max-width:var(--xv-container-dxl)}.flex-1{flex:1}.cursor-pointer{cursor:pointer}.list-none{list-style-type:none}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-4{gap:calc(var(--spacing) * 4)}.gap-6{gap:calc(var(--spacing) * 6)}.self-start{align-self:flex-start}.border-y{border-block-style:var(--tw-border-style);border-block-width:1px}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-b{border-bottom-style:var(--tw-border-style);border-bottom-width:1px}.border-ink{border-color:var(--color-ink)}.k1s{border-color:#1f1e1b4d}@supports (color:color-mix(in lab,red,red)){.k1s{border-color:color-mix(in oklab,var(--color-ink) 30%,transparent)}}.bg-bone-pale{background-color:var(--color-bone-pale)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-5{padding-block:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.pt-1{padding-top:calc(var(--spacing) * 1)}.pl-8{padding-left:calc(var(--spacing) * 8)}.font-display{font-family:var(--font-display)}.font-mono{font-family:var(--font-mono)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-lg{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}.text-xs{font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height))}.text-body{font-size:var(--text-body)}.text-h2{font-size:var(--xv-text-hc)}.leading-none{--tw-leading:1;line-height:1}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.text-ink{color:var(--color-ink)}.text-sage-deep{color:var(--color-sage-deep)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:64rem){.k2v{position:sticky}.k13{top:calc(var(--spacing) * 5)}.k2w{top:calc(var(--spacing) * 8)}.k14{right:calc(var(--spacing) * 5)}.kc{grid-column:span 3/span 3}.k2x{grid-column:span 9/span 9}.k1u{gap:calc(var(--spacing) * 12)}.kx{padding-inline:calc(var(--spacing) * 12)}.k48{padding-left:calc(var(--spacing) * 9)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.prose-program[data-astro-cid-jjmdqzy6] p{margin-block:14.45px;line-height:1.55}.prose-program[data-astro-cid-jjmdqzy6] p:first-child{margin-top:0}.prose-program[data-astro-cid-jjmdqzy6] em{font-style:italic;color:var(--color-clay-deep)}.prose-program[data-astro-cid-jjmdqzy6] strong{font-weight:700;color:var(--color-ink)}.py-section[data-astro-cid-jjmdqzy6]{padding-block:var(--spacing-section)}.arc-item[data-astro-cid-jjmdqzy6] summary[data-astro-cid-jjmdqzy6]::-webkit-details-marker{display:none}.arc-item[data-astro-cid-jjmdqzy6][open] .arc-marker[data-astro-cid-jjmdqzy6]{transform:rotate(45deg)}.arc-marker[data-astro-cid-jjmdqzy6]{transition:transform .2s ease;display:inline-block}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{color:inherit !important;opacity:0.85 !important}",
   "section": {
     "width": "full"

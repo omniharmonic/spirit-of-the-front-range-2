@@ -54,7 +54,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -188,7 +188,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-04.jpg",
+              "src": "media/2026/10/gathering-04-81g7.jpg",
               "alt": "Overhead view of Solidarity Supper offerings — pink dahlia, gourds, prayer ties laid on grass with feet in moccasins."
             },
             "t1": "SPIRIT of the Front Range",
@@ -214,7 +214,7 @@
     {
       "id": "sec_ykjys5v47d",
       "preset": "component/sp-solidarity-sup-68@1",
-      "label": "SECTION",
+      "label": "Pillar · Solidarity",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -287,32 +287,30 @@
             "t7": "+",
             "t8": "Solidarity Suppers are seasonal long-table dinners. We share a slow meal. We listen carefully. We center community leaders and elders — especially our Indigenous neighbors, whose knowledge of this place goes back generations. We take the pulse of the region together: what people are working on, what they need, where the connections want to be made.",
             "t9": "02",
-            "t10": "What they aren",
-            "t11": "'",
-            "t12": "t",
-            "t13": "Not a networking event.",
-            "t14": "Not a fundraiser. Not a panel.",
-            "t15": "+",
-            "t16": "These are invitation-based. People come on behalf of the neighborhoods, organizations, and places they care about. No name tags. No pitches.",
-            "t17": "The shared meal opens the door to honest conversation, and the conversation does the rest.",
-            "t18": "We are practicing what it means to take care of a place together, before we make it formal. The Suppers are how the relationships get real.",
-            "t19": "03",
-            "t20": "The listening circle",
-            "t21": "One person speaks.",
-            "t22": "Everyone else actually listens.",
-            "t23": "+",
-            "t24": "At the heart of each Supper is a",
-            "t25": "listening circle",
-            "t26": "— a simple form drawn from many traditions (Indigenous councils, Quaker meetings, the Way of Council). One person speaks at a time, holding a token. Others listen without preparing a response. No cross-talk. No debate.",
-            "t27": "It sounds simple. It changes everything. In a culture that has nearly forgotten how to listen, this practice is itself an act of repair.",
-            "t28": "04",
-            "t29": "How to Join",
-            "t30": "By invitation —",
-            "t31": "but the invitation is open.",
-            "t32": "+",
-            "t33": "Suppers are kept small enough that the table can hold the conversation, which means we cannot host everyone every time. We rotate. We invite based on who is doing meaningful work and who is ready to be in the room.",
-            "t34": "If that sounds like you, apply — we want to know you.",
-            "t35": "— 06.2 —"
+            "t10": "What they aren't",
+            "t11": "Not a networking event.",
+            "t12": "Not a fundraiser. Not a panel.",
+            "t13": "+",
+            "t14": "These are invitation-based. People come on behalf of the neighborhoods, organizations, and places they care about. No name tags. No pitches.",
+            "t15": "The shared meal opens the door to honest conversation, and the conversation does the rest.",
+            "t16": "We are practicing what it means to take care of a place together, before we make it formal. The Suppers are how the relationships get real.",
+            "t17": "03",
+            "t18": "The listening circle",
+            "t19": "One person speaks.",
+            "t20": "Everyone else actually listens.",
+            "t21": "+",
+            "t22": "At the heart of each Supper is a",
+            "t23": "listening circle",
+            "t24": "— a simple form drawn from many traditions (Indigenous councils, Quaker meetings, the Way of Council). One person speaks at a time, holding a token. Others listen without preparing a response. No cross-talk. No debate.",
+            "t25": "It sounds simple. It changes everything. In a culture that has nearly forgotten how to listen, this practice is itself an act of repair.",
+            "t26": "04",
+            "t27": "How to Join",
+            "t28": "By invitation —",
+            "t29": "but the invitation is open.",
+            "t30": "+",
+            "t31": "Suppers are kept small enough that the table can hold the conversation, which means we cannot host everyone every time. We rotate. We invite based on who is doing meaningful work and who is ready to be in the room.",
+            "t32": "If that sounds like you, apply — we want to know you.",
+            "t33": "— 06.2 —"
           }
         }
       ]
@@ -349,17 +347,13 @@
             "t1": "Ask for an invitation",
             "t2": "Apply to Join",
             "t3": "to the next Supper.",
-            "t4": "Tell us a little about you, the community or work you",
-            "t5": "'",
-            "t6": "d be representing at the table, and what you",
-            "t7": "'",
-            "t8": "re paying attention to right now. We answer every message personally.",
+            "t4": "Tell us a little about you, the community or work you'd be representing at the table, and what you're paying attention to right now. We answer every message personally.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t9": "✉ Apply →",
-            "t10": "— 06.3 —"
+            "t5": "✉ Apply →",
+            "t6": "— 06.3 —"
           }
         }
       ]
@@ -367,7 +361,7 @@
     {
       "id": "sec_5sfhmk1cp8",
       "preset": "component/sp-commons-sense-57@1",
-      "label": "DIV",
+      "label": "All of our programming prioritizes access and equity",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -412,7 +406,7 @@
     },
     {
       "id": "sec_7pw4e8fksa",
-      "preset": "component/sp-solidarity-sup-71@1",
+      "preset": "component/sp-community-gran-62@1",
       "label": "Each program weaves with the others.",
       "layout": {
         "mode": "stack",

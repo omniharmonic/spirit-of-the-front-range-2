@@ -85,17 +85,7 @@
     "t16": {
       "kind": "text",
       "label": "the people who live near you…",
-      "maxLength": 200
-    },
-    "t17": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t18": {
-      "kind": "text",
-      "label": "ve been meaning to have.",
-      "maxLength": 200
+      "maxLength": 258
     },
     "g1": {
       "kind": "list",
@@ -136,99 +126,48 @@
       "min": 0,
       "max": 100
     },
-    "t19": {
-      "kind": "text",
-      "label": "05",
-      "maxLength": 200
-    },
-    "t20": {
-      "kind": "text",
-      "label": "The drill",
-      "maxLength": 200
-    },
-    "t21": {
-      "kind": "text",
-      "label": "What does recovery",
-      "maxLength": 200
-    },
-    "t22": {
-      "kind": "text",
-      "label": "actually look like?",
-      "maxLength": 200
-    },
-    "t23": {
-      "kind": "text",
-      "label": "+",
-      "maxLength": 200
-    },
-    "t24": {
-      "kind": "text",
-      "label": "How do you work with governm…",
-      "maxLength": 693,
-      "multiline": true
-    },
-    "t25": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t26": {
-      "kind": "text",
-      "label": "t, and where the plan needs …",
-      "maxLength": 255
-    },
-    "t27": {
+    "t17": {
       "kind": "text",
       "label": "06",
       "maxLength": 200
     },
-    "t28": {
+    "t18": {
       "kind": "text",
       "label": "The capstone",
       "maxLength": 200
     },
-    "t29": {
+    "t19": {
       "kind": "text",
       "label": "Present your",
       "maxLength": 200
     },
-    "t30": {
+    "t20": {
       "kind": "text",
-      "label": "neighborhood",
+      "label": "neighborhood's plan.",
       "maxLength": 200
     },
-    "t31": {
-      "kind": "text",
-      "label": "'",
-      "maxLength": 200
-    },
-    "t32": {
-      "kind": "text",
-      "label": "s plan.",
-      "maxLength": 200
-    },
-    "t33": {
+    "t21": {
       "kind": "text",
       "label": "+",
       "maxLength": 200
     },
-    "t34": {
+    "t22": {
       "kind": "text",
       "label": "Each participant presents th…",
       "maxLength": 513,
       "multiline": true
     },
-    "t35": {
+    "t23": {
       "kind": "text",
       "label": "the relationships you built …",
       "maxLength": 200
     },
-    "t36": {
+    "t24": {
       "kind": "text",
       "label": "Everything else is scaffoldi…",
       "maxLength": 200
     },
-    "t37": {
+    "t25": {
       "kind": "text",
       "label": "— 06.2 —",
       "maxLength": 200
@@ -250,9 +189,7 @@
     "t13": "+",
     "t14": "Who on your block needs checking on in a crisis? Who has medical equipment, large animals, or particular vulnerabilities? Who has skills, tools, or a generator to share? We learn from the Neighborhood Villaging Project about what it actually takes to",
     "t15": "know",
-    "t16": "the people who live near you — including the conversation you",
-    "t17": "'",
-    "t18": "ve been meaning to have.",
+    "t16": "the people who live near you — including the conversation you've been meaning to have.",
     "g1": [
       {
         "t1": "03",
@@ -269,29 +206,27 @@
         "t4": "First aid. Wellbeing.",
         "t5": "+",
         "t6": "Dedicated sessions on water, power, and building practical first aid kits that go beyond the standard checklist. We cover psychological first aid, hygiene, and the often-overlooked realities of staying well during sustained disruption. Not just for one bad day — for two weeks of bad days."
+      },
+      {
+        "t1": "05",
+        "t2": "The drill",
+        "t3": "What does recovery",
+        "t4": "actually look like?",
+        "t5": "+",
+        "t6": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn't, and where the plan needs to get better. The drill is where the plan meets reality."
       }
     ],
-    "t19": "05",
-    "t20": "The drill",
-    "t21": "What does recovery",
-    "t22": "actually look like?",
-    "t23": "+",
-    "t24": "How do you work with government agencies, nonprofits, and each other to get back on your feet? We run a full practice scenario — fire, flood, prolonged outage, civic disruption — then we sit down and pull out what worked, what didn",
-    "t25": "'",
-    "t26": "t, and where the plan needs to get better. The drill is where the plan meets reality.",
-    "t27": "06",
-    "t28": "The capstone",
-    "t29": "Present your",
-    "t30": "neighborhood",
-    "t31": "'",
-    "t32": "s plan.",
-    "t33": "+",
-    "t34": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because",
-    "t35": "the relationships you built in this program are the resilience.",
-    "t36": "Everything else is scaffolding.",
-    "t37": "— 06.2 —"
+    "t17": "06",
+    "t18": "The capstone",
+    "t19": "Present your",
+    "t20": "neighborhood's plan.",
+    "t21": "+",
+    "t22": "Each participant presents their finished Community Resiliency Plan — ideally alongside a neighbor they walked the program with. We close with a Resiliency Dinner — because",
+    "t23": "the relationships you built in this program are the resilience.",
+    "t24": "Everything else is scaffolding.",
+    "t25": "— 06.2 —"
   },
-  "template": "<section class=\"spread relative w-full bg-bone-pale border-y border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-jjmdqzy6> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-jjmdqzy6> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-jjmdqzy6> <p class=\"eyebrow eyebrow-creek mb-2\" data-astro-cid-jjmdqzy6>{{t1}}</p> <p class=\"caption text-shadow\" data-astro-cid-jjmdqzy6>{{t2}}</p> </div> <div class=\"col-span-12 k2x max-w-3xl\" data-astro-cid-jjmdqzy6> <div class=\"border-t k1s\" data-astro-cid-jjmdqzy6> <details class=\"arc-item border-b k1s py-5\" open data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t3}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t4}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t5}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t6}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t7}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t8}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t9}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t10}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t11}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t12}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t13}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t14}} <em>{{t15}}</em> {{t16}}{{t17}}{{t18}}</p> </div> </details>{{#each g1}}<details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t1}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t2}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t3}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t4}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t5}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t6}}</p> </div> </details>{{/each}}<details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t19}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t20}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t21}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t22}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t23}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t24}}{{t25}}{{t26}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t27}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t28}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t29}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t30}}{{t31}}{{t32}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t33}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t34}} <strong>{{t35}}</strong> {{t36}}</p> </div> </details> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs2\">{{t37}}</span> </div> </section>",
+  "template": "<section class=\"spread relative w-full bg-bone-pale border-y border-ink xs1\"> <div class=\"px-5 kx py-section\" data-astro-cid-jjmdqzy6> <div class=\"grid grid-cols-12 gap-6 k1u items-start\" data-astro-cid-jjmdqzy6> <div class=\"col-span-12 kc k2v k2w self-start\" data-astro-cid-jjmdqzy6> <p class=\"eyebrow eyebrow-creek mb-2\" data-astro-cid-jjmdqzy6>{{t1}}</p> <p class=\"caption text-shadow\" data-astro-cid-jjmdqzy6>{{t2}}</p> </div> <div class=\"col-span-12 k2x max-w-3xl\" data-astro-cid-jjmdqzy6> <div class=\"border-t k1s\" data-astro-cid-jjmdqzy6> <details class=\"arc-item border-b k1s py-5\" open data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t3}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t4}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t5}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t6}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t7}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t8}}</p> </div> </details><details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t9}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t10}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t11}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t12}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t13}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t14}} <em>{{t15}}</em> {{t16}}</p> </div> </details>{{#each g1}}<details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t1}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t2}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t3}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t4}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t5}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t6}}</p> </div> </details>{{/each}}<details class=\"arc-item border-b k1s py-5\" data-astro-cid-jjmdqzy6> <summary class=\"flex items-baseline gap-4 cursor-pointer list-none\" data-astro-cid-jjmdqzy6> <span class=\"font-mono text-xs font-bold text-creek-deep leading-none pt-1\" data-astro-cid-jjmdqzy6> {{t17}} </span> <span class=\"flex-1\" data-astro-cid-jjmdqzy6> <span class=\"eyebrow eyebrow-creek block mb-1\" data-astro-cid-jjmdqzy6>{{t18}}</span> <h3 class=\"font-display font-bold text-h2 text-ink leading-tight\" data-astro-cid-jjmdqzy6> {{t19}} <span class=\"italic font-serif font-light\" data-astro-cid-jjmdqzy6> {{t20}}</span> </h3> </span> <span class=\"arc-marker font-mono text-creek-deep text-lg leading-none\" data-astro-cid-jjmdqzy6>{{t21}}</span> </summary> <div class=\"text-body text-shadow leading-snug prose-program mt-3 pl-8 k48 max-w-2xl\" data-astro-cid-jjmdqzy6> <p>{{t22}} <strong>{{t23}}</strong> {{t24}}</p> </div> </details> </div> </div> </div> </div> <div class=\"absolute top-3 k13 right-3 k14 flex items-baseline gap-2 pointer-events-none z-20\"> <span class=\"font-display font-extrabold text-base k1b xs2\">{{t25}}</span> </div> </section>",
   "css": "@font-face{font-family:\"Bricolage Grotesque Variable\";font-weight:200 800;src:url(https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9H6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiawA1Xp.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Fraunces Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/fraunces/v38/6NUu8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib14c7qv8.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"Public Sans Variable\";font-weight:100 900;src:url(https://fonts.gstatic.com/s/publicsans/v21/ijwRs572Xtc6ZYQws9YVwnNGfJ4.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:\"JetBrains Mono\";font-weight:400 700;src:url(https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}:where(p,li,blockquote,h1,h2,h3,h4,h5,h6){text-wrap:wrap}:where(summary){min-height:0;align-content:normal}*,::before,::after,::backdrop{--tw-border-style:solid}@supports (((-webkit-hyphens:none)) and (not (margin-trim:inline))) or ((-moz-orient:inline) and (not (color:rgb(from red r g b)))){*,:before,:after,::backdrop{--tw-border-style:solid;--tw-leading:initial}}:scope{--font-sans:ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-serif:\"Fraunces Variable\",ui-serif,Georgia,serif;--font-mono:\"JetBrains Mono\",ui-monospace,\"SF Mono\",Menlo,monospace;--spacing:4.25px;--xv-container-cxl:714px;--xv-container-dxl:816px;--text-xs:12.75px;--text-xs--line-height:calc(1 / .75);--text-base:17px;--text-base--line-height: 1.5;--text-lg:19.125px;--text-lg--line-height:calc(1.75 / 1.125);--font-weight-light:300;--font-weight-bold:700;--font-weight-extrabold:800;--leading-tight:1.25;--leading-snug:1.375;--default-font-family:var(--font-sans);--color-bone:#f2ead8;--color-bone-pale:#faf4e5;--color-ink:#1f1e1b;--color-shadow:#4a4a45;--color-creek-deep:#2f4f5c;--color-clay:#b8704d;--color-clay-deep:#7e4226;--font-display:\"Bricolage Grotesque Variable\",ui-sans-serif,system-ui,sans-serif;--font-body:\"Public Sans Variable\",ui-sans-serif,system-ui,sans-serif;--text-micro:clamp(11.9px,10.54px + .22vw,14.45px);--text-body:clamp(16.66px,15.64px + .28vw,20.06px);--xv-text-hc:clamp(29.75px,23.8px + 1.5vw,52.7px);--spacing-section:clamp(85px,59.5px + 5vw,153px)}*,:after,:before,::backdrop{box-sizing:border-box;border:0 solid;margin:0;padding:0}::file-selector-button{box-sizing:border-box;border:0 solid;margin:0;padding:0}:scope{-webkit-text-size-adjust:100%;tab-size:4;line-height:1.5;font-family:var(--default-font-family,ui-sans-serif,system-ui,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\");font-feature-settings:var(--default-font-feature-settings,normal);font-variation-settings:var(--default-font-variation-settings,normal);-webkit-tap-highlight-color:transparent}h3{font-size:inherit;font-weight:inherit}strong{font-weight:bolder}:-moz-focusring{outline:auto}summary{display:list-item}::file-selector-button{font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0}::file-selector-button{margin-inline-end:4px}::placeholder{opacity:1}@supports (not ((-webkit-appearance:-apple-pay-button))) or (contain-intrinsic-size:1px){::placeholder{color:currentColor}@supports (color:color-mix(in lab,red,red)){::placeholder{color:color-mix(in oklab,currentcolor 50%,transparent)}}}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-date-and-time-value{min-height:1lh;text-align:inherit}::-webkit-datetime-edit{display:inline-flex}::-webkit-datetime-edit-fields-wrapper{padding:0}::-webkit-datetime-edit{padding-block:0}::-webkit-datetime-edit-year-field{padding-block:0}::-webkit-datetime-edit-month-field{padding-block:0}::-webkit-datetime-edit-day-field{padding-block:0}::-webkit-datetime-edit-hour-field{padding-block:0}::-webkit-datetime-edit-minute-field{padding-block:0}::-webkit-datetime-edit-second-field{padding-block:0}::-webkit-datetime-edit-millisecond-field{padding-block:0}::-webkit-datetime-edit-meridiem-field{padding-block:0}::-webkit-calendar-picker-indicator{line-height:1}:-moz-ui-invalid{box-shadow:none}::file-selector-button{appearance:button}::-webkit-inner-spin-button{height:auto}::-webkit-outer-spin-button{height:auto}[hidden]:where(:not([hidden=until-found])){display:none!important}:scope{color-scheme:light;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizelegibility}:scope{background:var(--color-bone);color:var(--color-ink);font-family:var(--font-body);font-size:17px;line-height:1.55}:scope{background-color:var(--color-bone);background-image:url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.92' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.16  0 0 0 0 0.15  0 0 0 0 0.13  0 0 0 0.045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E\")}::selection{background:var(--color-clay);color:var(--color-bone)}h3{font-family:var(--font-display);letter-spacing:-.025em;color:var(--color-ink);font-feature-settings:\"ss01\",\"ss02\";text-wrap:balance;-webkit-hyphens:manual;hyphens:manual;overflow-wrap:break-word;font-weight:700;line-height:.95}p{text-wrap:pretty}:focus-visible{outline:2px solid var(--color-clay);outline-offset:3px}strong{color:var(--color-ink);font-weight:700}em{font-style:italic}@media(prefers-reduced-motion:reduce){*,:before,:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important}}.eyebrow{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.22em;color:var(--color-clay-deep);font-weight:700}.caption{font-family:var(--font-mono);font-size:var(--text-micro);text-transform:uppercase;letter-spacing:.16em;color:var(--color-shadow);line-height:1.4}.pointer-events-none{pointer-events:none}.absolute{position:absolute}.relative{position:relative}.top-3{top:calc(var(--spacing) * 3)}.right-3{right:calc(var(--spacing) * 3)}.z-20{z-index:20}.col-span-12{grid-column:span 12/span 12}.mt-3{margin-top:calc(var(--spacing) * 3)}.mb-1{margin-bottom:calc(var(--spacing) * 1)}.mb-2{margin-bottom:calc(var(--spacing) * 2)}.block{display:block}.flex{display:flex}.grid{display:grid}.w-full{width:100%}.max-w-2xl{max-width:var(--xv-container-cxl)}.max-w-3xl{max-width:var(--xv-container-dxl)}.flex-1{flex:1}.cursor-pointer{cursor:pointer}.list-none{list-style-type:none}.grid-cols-12{grid-template-columns:repeat(12,minmax(0,1fr))}.items-baseline{align-items:baseline}.items-start{align-items:flex-start}.gap-2{gap:calc(var(--spacing) * 2)}.gap-4{gap:calc(var(--spacing) * 4)}.gap-6{gap:calc(var(--spacing) * 6)}.self-start{align-self:flex-start}.border-y{border-block-style:var(--tw-border-style);border-block-width:1px}.border-t{border-top-style:var(--tw-border-style);border-top-width:1px}.border-b{border-bottom-style:var(--tw-border-style);border-bottom-width:1px}.border-ink{border-color:var(--color-ink)}.k1s{border-color:#1f1e1b4d}@supports (color:color-mix(in lab,red,red)){.k1s{border-color:color-mix(in oklab,var(--color-ink) 30%,transparent)}}.bg-bone-pale{background-color:var(--color-bone-pale)}.px-5{padding-inline:calc(var(--spacing) * 5)}.py-5{padding-block:calc(var(--spacing) * 5)}.py-section{padding-block:var(--spacing-section)}.pt-1{padding-top:calc(var(--spacing) * 1)}.pl-8{padding-left:calc(var(--spacing) * 8)}.font-display{font-family:var(--font-display)}.font-mono{font-family:var(--font-mono)}.font-serif{font-family:var(--font-serif)}.text-base{font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height))}.text-lg{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}.text-xs{font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height))}.text-body{font-size:var(--text-body)}.text-h2{font-size:var(--xv-text-hc)}.leading-none{--tw-leading:1;line-height:1}.leading-snug{--tw-leading:var(--leading-snug);line-height:var(--leading-snug)}.leading-tight{--tw-leading:var(--leading-tight);line-height:var(--leading-tight)}.font-bold{font-weight:var(--font-weight-bold)}.font-extrabold{font-weight:var(--font-weight-extrabold)}.font-light{font-weight:var(--font-weight-light)}.text-creek-deep{color:var(--color-creek-deep)}.text-ink{color:var(--color-ink)}.text-shadow{color:var(--color-shadow)}.italic{font-style:italic}@media(min-width:64rem){.k2v{position:sticky}.k13{top:calc(var(--spacing) * 5)}.k2w{top:calc(var(--spacing) * 8)}.k14{right:calc(var(--spacing) * 5)}.kc{grid-column:span 3/span 3}.k2x{grid-column:span 9/span 9}.k1u{gap:calc(var(--spacing) * 12)}.kx{padding-inline:calc(var(--spacing) * 12)}.k48{padding-left:calc(var(--spacing) * 9)}.k1b{font-size:var(--text-lg);line-height:var(--tw-leading,var(--text-lg--line-height))}}:where([data-astro-image]){object-fit:var(--fit);object-position:var(--pos);height:auto}:where([data-astro-image=full-width]){width:100%}:where([data-astro-image=constrained]){max-width:100%}.prose-program[data-astro-cid-jjmdqzy6] p{margin-block:14.45px;line-height:1.55}.prose-program[data-astro-cid-jjmdqzy6] p:first-child{margin-top:0}.prose-program[data-astro-cid-jjmdqzy6] em{font-style:italic;color:var(--color-clay-deep)}.prose-program[data-astro-cid-jjmdqzy6] strong{font-weight:700;color:var(--color-ink)}.py-section[data-astro-cid-jjmdqzy6]{padding-block:var(--spacing-section)}.arc-item[data-astro-cid-jjmdqzy6] summary[data-astro-cid-jjmdqzy6]::-webkit-details-marker{display:none}.arc-item[data-astro-cid-jjmdqzy6][open] .arc-marker[data-astro-cid-jjmdqzy6]{transform:rotate(45deg)}.arc-marker[data-astro-cid-jjmdqzy6]{transition:transform .2s ease;display:inline-block}.xs1{min-height:auto !important;scroll-margin-top:102px !important}.xs2{color:inherit !important;opacity:0.85 !important}",
   "section": {
     "width": "full"

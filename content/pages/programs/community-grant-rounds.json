@@ -54,7 +54,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -188,7 +188,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-04.jpg",
+              "src": "media/2026/10/gathering-04-81g7.jpg",
               "alt": "Community Grant Rounds"
             },
             "t1": "SPIRIT of the Front Range",
@@ -212,7 +212,7 @@
     {
       "id": "sec_sxxhn89sdf",
       "preset": "component/sp-community-gran-60@1",
-      "label": "SECTION",
+      "label": "Pillar · Allocation",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -287,15 +287,13 @@
             "t1": "Be the first to know",
             "t2": "The first round is",
             "t3": "being designed now.",
-            "t4": "Sign up and we",
-            "t5": "'",
-            "t6": "ll tell you when project proposals and community voting open for the first Community Grant Round.",
+            "t4": "Sign up and we'll tell you when project proposals and community voting open for the first Community Grant Round.",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
             },
-            "t7": "✉ Sign up →",
-            "t8": "— 06.3 —"
+            "t5": "✉ Sign up →",
+            "t6": "— 06.3 —"
           }
         }
       ]
@@ -303,7 +301,7 @@
     {
       "id": "sec_awqch5jp0t",
       "preset": "component/sp-commons-sense-57@1",
-      "label": "DIV",
+      "label": "All of our programming prioritizes access and equity",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -379,18 +377,18 @@
             "t2": "Each program weaves with",
             "t3": "the others.",
             "t4": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion.",
-            "l1": {
-              "type": "page",
-              "page": "pg_vprm01pyk0"
-            },
-            "t5": "Culturing",
-            "t6": "Commons Sense Teach-Ins",
-            "t7": "We offer",
-            "t8": "Commons Sense",
-            "t9": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom",
-            "t10": "'",
-            "t11": "s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good.",
             "g1": [
+              {
+                "l1": {
+                  "type": "page",
+                  "page": "pg_vprm01pyk0"
+                },
+                "t1": "Culturing",
+                "t2": "Commons Sense Teach-Ins",
+                "t3": "We offer",
+                "t4": "Commons Sense",
+                "t5": "teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good."
+              },
               {
                 "l1": {
                   "type": "page",
@@ -430,7 +428,7 @@
                 "t1": "✉ Get in touch →"
               }
             ],
-            "t12": "— 06.4 —"
+            "t5": "— 06.4 —"
           }
         }
       ]

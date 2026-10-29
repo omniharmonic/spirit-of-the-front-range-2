@@ -53,7 +53,7 @@
               "page": "pg_wcw0kehktj"
             },
             "i1": {
-              "src": "media/2026/10/orig/spirit-logo.png",
+              "src": "media/2026/10/spirit-logo-3hmd.png",
               "alt": "SPIRIT of the Front Range"
             },
             "l3": {
@@ -189,7 +189,7 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/orig/gathering-06.jpg",
+              "src": "media/2026/10/gathering-06-pgpj.jpg",
               "alt": "Hands holding and blessing a person during a listening circle — black and white intimate portrait."
             },
             "t1": "SPIRIT of the Front Range",
@@ -243,22 +243,18 @@
           "fields": {
             "t1": "N° 01",
             "t2": "A transitional team, not a permanent one.",
-            "t3": "SPIRIT",
-            "t4": "'",
-            "t5": "s leadership is designed to be handed off to the community itself.",
-            "t6": "Transitional Stewards",
-            "t7": "We are a small team at the",
-            "t8": "beginning of something",
-            "t9": ", and we don",
-            "t10": "'",
-            "t11": "t have all the answers.",
-            "t12": "SPIRIT is guided by a small team of",
-            "t13": "Transitional Stewards",
-            "t14": "whose aim is to establish the Bioregional Commons that will determine its own character and trajectories through distributed, decentralized decision-making. Our explicit goal is to build something that will no longer need us so that we, too, can join the Commons as fellow commoners, with no more authority or say than anyone else. We do not pretend to have all the answers.",
-            "t15": "(Who does!?)",
-            "t16": "What we have is our commitment to this place and to each other, and a willingness to learn in public.",
-            "t17": "Our aim is for SPIRIT’s board to be comprised of highly-regarded community leaders, particularly elders and Indigenous relatives. For now, we Transitional Stewards show up with full commitment and open hands, oriented towards that ultimate transition.",
-            "t18": "— 04.1 —"
+            "t3": "SPIRIT's leadership is designed to be handed off to the community itself.",
+            "t4": "Transitional Stewards",
+            "t5": "We are a small team at the",
+            "t6": "beginning of something",
+            "t7": ", and we don't have all the answers.",
+            "t8": "SPIRIT is guided by a small team of",
+            "t9": "Transitional Stewards",
+            "t10": "whose aim is to establish the Bioregional Commons that will determine its own character and trajectories through distributed, decentralized decision-making. Our explicit goal is to build something that will no longer need us so that we, too, can join the Commons as fellow commoners, with no more authority or say than anyone else. We do not pretend to have all the answers.",
+            "t11": "(Who does!?)",
+            "t12": "What we have is our commitment to this place and to each other, and a willingness to learn in public.",
+            "t13": "Our aim is for SPIRIT’s board to be comprised of highly-regarded community leaders, particularly elders and Indigenous relatives. For now, we Transitional Stewards show up with full commitment and open hands, oriented towards that ultimate transition.",
+            "t14": "— 04.1 —"
           }
         }
       ]
@@ -295,53 +291,55 @@
             "t1": "Meet the team",
             "t2": "The current Transitional Stewards",
             "t3": "6 people · As of Oct 2026",
-            "t4": "Co-Founding Steward and Commons Educator",
-            "t5": "Jordan Siegel",
-            "t6": "Jordan (Josie; she/her) holds a B.A. in English Literature from Davidson College and a Master of Arts in Peace and Justice from the University of San Diego, with additional coursework in law. Her graduate work examined ritual, liminality, and structures of meaning and power — foundations that shape SPIRIT’s approach. Her background spans Permaculture Design (True Nature Farms), wilderness survival and tracking (Boulder Outdoor Survival School and Tom Brown, Jr.’s Tracker School), Medical Herbalism (Colorado School of Clinical Herbalism), Authentic Relating (T3), and five years devising and teaching project-based curricula at a Colorado charter school for gifted children. In 2020, she founded Central Edge Leadership to share dynamic frameworks for navigating uncertainty and shifting entrenched patterns at the individual and community levels. Josie has lived and worked in the Front Range for over fifteen years. Her commitment to bioregional land stewardship is rooted in the conviction that durable belonging is grown slowly in real soil, the soil of the real.",
+            "g1": [
+              {
+                "t1": "Co-Founding Steward and Commons Educator",
+                "t2": "Jordan Siegel",
+                "t3": "Jordan (Josie; she/her) holds a B.A. in English Literature from Davidson College and a Master of Arts in Peace and Justice from the University of San Diego, with additional coursework in law. Her graduate work examined ritual, liminality, and structures of meaning and power — foundations that shape SPIRIT’s approach. Her background spans Permaculture Design (True Nature Farms), wilderness survival and tracking (Boulder Outdoor Survival School and Tom Brown, Jr.’s Tracker School), Medical Herbalism (Colorado School of Clinical Herbalism), Authentic Relating (T3), and five years devising and teaching project-based curricula at a Colorado charter school for gifted children. In 2020, she founded Central Edge Leadership to share dynamic frameworks for navigating uncertainty and shifting entrenched patterns at the individual and community levels. Josie has lived and worked in the Front Range for over fifteen years. Her commitment to bioregional land stewardship is rooted in the conviction that durable belonging is grown slowly in real soil, the soil of the real.",
+                "l1": {
+                  "type": "url",
+                  "url": "https://themysteryworks.com",
+                  "newTab": true
+                },
+                "t4": "↗ themysteryworks.com"
+              },
+              {
+                "t1": "Relationship Steward and Culture Keeper",
+                "t2": "Sarah D'Antoni",
+                "t3": "Sarah (Naiya; she/they), founder of Ancestral Weavings, is an ancestral guide and grief activist, specializing in transformative journeys focused on ancestral reconnection and repair. She guides individuals, couples, and groups through threshold work to reconnect with ancestral wisdom, interrupt inherited patterns, and restore relational integrity. She holds over 10,000 hours of training in ritual healing and apprenticeship, with certifications including: Advanced Systemic Constellations (International Family Constellations Training Institute), Sacred Passage Death Doula (Chacana Spiritual Center), Psychedelic Therapy & Indigenous Wisdom (AWE Foundation), and initiations with the Cofan, Wixarika, and Pygmy Mabanji. She also holds a Master of Science in Intercultural Psychology and is currently pursuing a PhD in Psychedelic Studies focused on ancestral communal dreamwork and ritual.",
+                "l1": {
+                  "type": "url",
+                  "url": "https://www.ancestralweavings.com",
+                  "newTab": true
+                },
+                "t4": "↗ ancestralweavings.com"
+              }
+            ],
+            "t4": "Co-Founding Steward and Civic Technology Designer",
+            "t5": "Benjamin Life",
+            "t6": "Benjamin Life holds a B.A. in Political Science from Tufts University. His documentary films have been screened at Sundance, SXSW, and the United Nations Conference of Parties (COP26). Since closing his social impact media production company in 2019, Benjamin has become a civic innovator, researcher, and artist working at the intersection of regenerative crypto-economics, bioregional coordination, and participatory systems design. His work explores the mythic and material dimensions of systemic transformation, cultivating anti-rivalrous infrastructures that empower communities to co-create shared abundance, resilience, and mutual care. His writing, research, code, and art can be found at",
             "l1": {
-              "type": "url",
-              "url": "https://themysteryworks.com",
-              "newTab": true
-            },
-            "t7": "↗ themysteryworks.com",
-            "t8": "Relationship Steward and Culture Keeper",
-            "t9": "Sarah D",
-            "t10": "'",
-            "t11": "Antoni",
-            "t12": "Sarah (Naiya; she/they), founder of Ancestral Weavings, is an ancestral guide and grief activist, specializing in transformative journeys focused on ancestral reconnection and repair. She guides individuals, couples, and groups through threshold work to reconnect with ancestral wisdom, interrupt inherited patterns, and restore relational integrity. She holds over 10,000 hours of training in ritual healing and apprenticeship, with certifications including: Advanced Systemic Constellations (International Family Constellations Training Institute), Sacred Passage Death Doula (Chacana Spiritual Center), Psychedelic Therapy",
-            "t13": "&",
-            "t14": "Indigenous Wisdom (AWE Foundation), and initiations with the Cofan, Wixarika, and Pygmy Mabanji. She also holds a Master of Science in Intercultural Psychology and is currently pursuing a PhD in Psychedelic Studies focused on ancestral communal dreamwork and ritual.",
-            "l2": {
-              "type": "url",
-              "url": "https://www.ancestralweavings.com",
-              "newTab": true
-            },
-            "t15": "↗ ancestralweavings.com",
-            "t16": "Co-Founding Steward and Civic Technology Designer",
-            "t17": "Benjamin Life",
-            "t18": "Benjamin Life holds a B.A. in Political Science from Tufts University. His documentary films have been screened at Sundance, SXSW, and the United Nations Conference of Parties (COP26). Since closing his social impact media production company in 2019, Benjamin has become a civic innovator, researcher, and artist working at the intersection of regenerative crypto-economics, bioregional coordination, and participatory systems design. His work explores the mythic and material dimensions of systemic transformation, cultivating anti-rivalrous infrastructures that empower communities to co-create shared abundance, resilience, and mutual care. His writing, research, code, and art can be found at",
-            "l3": {
               "type": "url",
               "url": "https://www.omniharmonic.com"
             },
-            "t19": "www.omniharmonic.com",
-            "t20": ".",
-            "l4": {
+            "t7": "www.omniharmonic.com",
+            "t8": ".",
+            "l2": {
               "type": "url",
               "url": "https://www.omniharmonic.com",
               "newTab": true
             },
-            "t21": "↗ omniharmonic.com",
-            "t22": "Solidarity Steward and Culture Keeper",
-            "t23": "Matthew Duffy",
-            "t24": "Matthew Duffy is a cultural alchemist, poet, MC, and team player. Matthew has a background in food justice/sovereignty and was instrumental in the movement to decriminalize psychedelic plant and mushroom allies in Colorado and laying the groundwork for a people’s medicine movement. He’s also the founder of Drip Rhythm, weaving dance with solidarity and ecological justice initiatives.",
-            "l5": {
+            "t9": "↗ omniharmonic.com",
+            "t10": "Solidarity Steward and Culture Keeper",
+            "t11": "Matthew Duffy",
+            "t12": "Matthew Duffy is a cultural alchemist, poet, MC, and team player. Matthew has a background in food justice/sovereignty and was instrumental in the movement to decriminalize psychedelic plant and mushroom allies in Colorado and laying the groundwork for a people’s medicine movement. He’s also the founder of Drip Rhythm, weaving dance with solidarity and ecological justice initiatives.",
+            "l3": {
               "type": "url",
               "url": "https://www.instagram.com/driprhythm/",
               "newTab": true
             },
-            "t25": "↗ @driprhythm",
-            "t26": "— 04.2 —"
+            "t13": "↗ @driprhythm",
+            "t14": "— 04.2 —"
           }
         }
       ]
@@ -378,15 +376,13 @@
             "t1": "Where this is going",
             "t2": "Eventually, the team",
             "t3": "will not look like us.",
-            "t4": "In time, we hope SPIRIT",
-            "t5": "'",
-            "t6": "s Board will be made up of",
-            "t7": "Indigenous leaders, elders, and longtime community stewards",
-            "t8": "— people who actually represent who lives on the Front Range.",
-            "t9": "For now, the six of us are the starting team. Our goal is to become regular members of the Front Range Commons, with no more authority than anyone else.",
-            "t10": "SPIRIT exists to serve the Commons",
-            "t11": ", not to keep itself going.",
-            "t12": "— 04.3 —"
+            "t4": "In time, we hope SPIRIT's Board will be made up of",
+            "t5": "Indigenous leaders, elders, and longtime community stewards",
+            "t6": "— people who actually represent who lives on the Front Range.",
+            "t7": "For now, the six of us are the starting team. Our goal is to become regular members of the Front Range Commons, with no more authority than anyone else.",
+            "t8": "SPIRIT exists to serve the Commons",
+            "t9": ", not to keep itself going.",
+            "t10": "— 04.3 —"
           }
         }
       ]
