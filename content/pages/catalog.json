@@ -1,0 +1,516 @@
+{
+  "id": "pg_n7wded2b4x",
+  "title": "A small reading list.",
+  "slug": "catalog",
+  "seo": {
+    "title": "The Catalog",
+    "description": "A curated index of bioregional resources — books, organizations, tools, practices, and places that root us in the work.",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_1dgrxxte2w",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/gathering-02-j95r.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_p6m0330ftk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range — 05 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ye1t8ez9jy",
+      "preset": "component/imported-catalog-1@1",
+      "label": "A small reading list.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_1pdxratn0m",
+          "type": "component/imported-catalog-1",
+          "v": 1,
+          "fields": {
+            "text1": "RECOMMENDATIONS FROM THE TEAM · UPDATED AS WE GO",
+            "text2": "A small reading list.",
+            "text3": "A working list of the books, organizations, tools, places, and practices that have shaped our work — and might shape yours. In the spirit of Stewart Brand's old Whole Earth Catalog: an entry only makes it in if it is genuinely useful, in print, and not already common knowledge.",
+            "label4": "TRUE TO ESSENCE",
+            "link4": {
+              "type": "url",
+              "url": "https://www.truetoessence.com/"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_0rxsgh2yv3",
+      "preset": "component/imported-catalog-2@1",
+      "label": "What's in here",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "color",
+          "color": "#faf4e5"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_ajbdmagsk0",
+          "type": "component/imported-catalog-2",
+          "v": 1,
+          "fields": {
+            "text1": "WHAT'S IN HERE",
+            "text2": "● BOOK 03",
+            "text3": "● ORGANIZATION 02",
+            "text4": "● TOOL 01",
+            "text5": "● PRACTICE 01",
+            "text6": "● PLACE 02"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_gbaajym6hr",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_f63sjvd2bc",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Governing the Commons",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The book that won Ostrom the Nobel and dismantled Hardin’s “Tragedy of the Commons.” Eight design principles for how communities actually steward shared resources together — without private enclosure or state takeover. Foundational reading for anyone serious about commoning at any scale."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Benjamin Life"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5"
+                }
+              },
+              {
+                "heading": "Braiding Sweetgrass",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Indigenous wisdom, scientific knowledge, and the teachings of plants — woven together. Kimmerer (citizen of the Citizen Potawatomi Nation, professor of botany) writes the bioregional ethic better than most policy papers manage. If you read one book on what "
+                        },
+                        {
+                          "type": "text",
+                          "text": "belonging",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " means in a place, this is it."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Kathleen Marie Rose"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://milkweed.org/book/braiding-sweetgrass"
+                }
+              },
+              {
+                "heading": "Front Range Commons",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The parallel, member-led civic body SPIRIT feeds and protects but does not control. Commoners elect a Wisdom Council, which appoints Common Stewards. Where the day-to-day work of caring for the Front Range will live. Founding membership is opening — see "
+                        },
+                        {
+                          "type": "text",
+                          "text": "Connect.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by SPIRIT"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.frontrangecommons.org/"
+                }
+              },
+              {
+                "heading": "The Patterning Instinct",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A cultural history of how worldviews shape civilizations — and why the dominant Western metaphor of “nature as machine” is at the root of our ecological crisis. Useful for understanding why the Commons isn’t a policy proposal; it’s a cosmology shift."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Benjamin Life"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.jeremylent.com/the-patterning-instinct.html"
+                }
+              },
+              {
+                "heading": "Quadratic Funding",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The mathematical mechanism behind the Front Range Commons’ planned grant rounds: the matching pool amplifies the "
+                        },
+                        {
+                          "type": "text",
+                          "text": "number",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " of contributors, not the size of contributions. A wealthy donor’s $10,000 funds less than 100 neighbors each giving $5. Designed for genuine pluralism in resource allocation."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Cameron Ely-Murdock"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.radicalxchange.org/concepts/quadratic-funding/"
+                }
+              },
+              {
+                "heading": "Sociocracy For All",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The cleanest current resource for sociocratic decision-making. SPIRIT operates by "
+                        },
+                        {
+                          "type": "text",
+                          "text": "consent",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " (not majority vote) inside the Stewardship Council, with circle-level autonomy — patterns SfA documents and trains. If you want to bring sociocracy into your own organization, start here."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Jordan Siegel"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.sociocracyforall.org/"
+                }
+              },
+              {
+                "heading": "The Listeners' Council",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "A specific gathering form: one person speaks at a time, holding a token; others listen without preparing a response. No cross-talk, no debate. The form draws from many lineages — Indigenous councils, Quaker meetings, the Way of Council. We use it at Solidarity Suppers when the conversation matters enough."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by Sarah D'Antoni"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "heading": "The Flatirons",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "The slanted sandstone slabs above Boulder — 290 million-year-old conglomerate from the Fountain Formation, lifted and tilted during the Laramide Orogeny. The signature backdrop of the Front Range and the geologic punctuation that says "
+                        },
+                        {
+                          "type": "text",
+                          "text": "here.",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " Walk Chautauqua at dawn."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by SPIRIT"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://bouldercolorado.gov/services/open-space-and-mountain-parks"
+                }
+              },
+              {
+                "heading": "Cache la Poudre River",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Colorado’s only nationally designated Wild & Scenic River. Headwaters in Rocky Mountain National Park; flows through Fort Collins on its way to the South Platte. The watershed that holds the northern reach of our bioregion and grounds the work of regional water stewardship coalitions."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "— Curated by SPIRIT"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "url",
+                  "url": "https://www.fs.usda.gov/recarea/arp/recarea/?recid=36504"
+                }
+              }
+            ],
+            "columns": "2",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_51jcj4v09q",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "✦ end of the list — more next time ✦"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 05.1 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

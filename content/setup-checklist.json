@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source": "import",
+  "from": "the original site",
+  "items": [
+    {
+      "id": "domain",
+      "kind": "domain",
+      "title": "Use spiritofthefrontrange.org for your new site",
+      "detail": "Your new site is live on a free address. When you're happy with it, we'll help you point spiritofthefrontrange.org at it — your old site keeps working until then.",
+      "status": "todo"
+    },
+    {
+      "id": "font-licence",
+      "kind": "other",
+      "title": "Use your own font licence",
+      "detail": "Your old site used Bricolage Grotesque Variable and Public Sans Variable, which we're not allowed to copy, so the closest free fonts stand in (Bricolage Grotesque, Rosarivo). If you have a web licence, download the font files (WOFF2) from the font service and upload them in Site Styles → Your fonts — they're stored in media/fonts/ — then choose them for your headings and text.",
+      "status": "todo"
+    }
+  ]
+}

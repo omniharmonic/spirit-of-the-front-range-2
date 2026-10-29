@@ -1,0 +1,5770 @@
+{
+  "score": 72,
+  "exact": 71.73,
+  "strict": {
+    "score": 72,
+    "exact": 71.73
+  },
+  "scorer": "v3.1-corrected",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://spiritofthefrontrange.org/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 69,
+      "structure": 68,
+      "exact": 69.26053727866523,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 128px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "65.6px",
+          "imported": "65.6px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "45.4px",
+          "imported": "31.1px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 45",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.7px",
+          "imported": "19.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "31.1px",
+          "imported": "31.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1354px",
+          "imported": "1352px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "81px",
+          "imported": "130px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 81",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "SPIRIT of the Front Range.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 128px",
+              "imported": "Bricolage Grotesque 128px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 23.4px italic",
+              "imported": "Rosarivo 23.4px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WE CARE FOR THE PLACE WE SHARE",
+              "imported": "WE CARE FOR THE PLACE WE SHARE",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "720px",
+              "imported": "825px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 1,
+          "heading": "We belong to more places than we have names for.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 59.5px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "IF YOU LIVE ON THE EARTH, YOU ALREADY SHARE A HOME.",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 98% wide",
+              "imported": "center, 94% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.78:1",
+              "imported": "1.78:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1618px",
+              "imported": "1739px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 58
+        },
+        {
+          "index": 2,
+          "heading": "We know the way is together.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 59.5px",
+              "imported": "Bricolage Grotesque 59.5px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OUR MISSION",
+              "imported": "OUR MISSION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "783px",
+              "imported": "1013px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 3,
+          "heading": "Ways to get involved.",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#e5d9bf",
+              "imported": "#e5d9bf",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "LIVE PROGRAMS",
+              "imported": "LIVE PROGRAMS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 31% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1944px",
+              "imported": "519px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 44
+        },
+        {
+          "index": 4,
+          "heading": "SPIRIT was formed in response to the following challenges and pressing concerns facing people of pla",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 42px",
+              "imported": "Bricolage Grotesque 31.1px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "2",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "THE PRESENT MOMENT",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "636px",
+              "imported": "785px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 52
+        },
+        {
+          "index": 5,
+          "heading": "Four Pillars, woven together.",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "FOUR THREADS, FOUR PILLARS",
+              "imported": "FOUR THREADS, FOUR PILLARS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 45% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2506px",
+              "imported": "420px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 59
+        },
+        {
+          "index": 6,
+          "heading": "Every gift moves us toward a more connected Front Range.",
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 65.6px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f2ead8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "4",
+              "imported": "3",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "SUPPORT THE WORK",
+              "imported": "SUPPORT THE WORK",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1025px",
+              "imported": "987px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 68
+        },
+        {
+          "index": 7,
+          "heading": "We come together for something beautiful.",
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1e1b",
+              "imported": "#1f1e1b",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "ALL FOR THE COMMONS",
+              "imported": "ALL FOR THE COMMONS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "604px",
+              "imported": "468px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        }
+      ],
+      "strict": {
+        "score": 69,
+        "exact": 69.26053727866523,
+        "structure": 68,
+        "checks": 68.49137931034484
+      },
+      "visual": 0.716
+    },
+    {
+      "path": "/",
+      "original": "https://spiritofthefrontrange.org/",
+      "imported": "/ (local preview)",
+      "viewport": 394,
+      "score": 66,
+      "structure": 66,
+      "exact": 65.88822192089667,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 54.5px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "32.5px",
+          "imported": "33.4px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "29.8px",
+          "imported": "25px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.sizeMobile = 30",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16.7px",
+          "imported": "16.8px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "23px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "31.5px",
+          "imported": "83px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 32",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "SPIRIT of the Front Range.",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 54.5px",
+              "imported": "Bricolage Grotesque 102px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 18.1px italic",
+              "imported": "Rosarivo 19px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WE CARE FOR THE PLACE WE SHARE",
+              "imported": "WE CARE FOR THE PLACE WE SHARE",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "720px",
+              "imported": "1051px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 60
+        },
+        {
+          "index": 1,
+          "heading": "We belong to more places than we have names for.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 32.3px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "IF YOU LIVE ON THE EARTH, YOU ALREADY SHARE A HOME.",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "center, 89% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "1.78:1",
+              "imported": "1.78:1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1378px",
+              "imported": "1262px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 2,
+          "heading": "We know the way is together.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 32.3px",
+              "imported": "Bricolage Grotesque 48px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OUR MISSION",
+              "imported": "OUR MISSION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1553px",
+              "imported": "1653px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 72
+        },
+        {
+          "index": 3,
+          "heading": "Ways to get involved.",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#e5d9bf",
+              "imported": "#e5d9bf",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "LIVE PROGRAMS",
+              "imported": "LIVE PROGRAMS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3921px",
+              "imported": "612px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 59
+        },
+        {
+          "index": 4,
+          "heading": "SPIRIT was formed in response to the following challenges and pressing concerns facing people of pla",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 27.2px",
+              "imported": "Bricolage Grotesque 25px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "THE PRESENT MOMENT",
+              "imported": "THE PRESENT MOMENT",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "955px",
+              "imported": "1306px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 65
+        },
+        {
+          "index": 5,
+          "heading": "Four Pillars, woven together.",
+          "importedIndex": 7,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "FOUR THREADS, FOUR PILLARS",
+              "imported": "FOUR THREADS, FOUR PILLARS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 89% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3600px",
+              "imported": "507px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 59
+        },
+        {
+          "index": 6,
+          "heading": "Every gift moves us toward a more connected Front Range.",
+          "importedIndex": 9,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 32.5px",
+              "imported": "Bricolage Grotesque 52px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f2ead8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "SUPPORT THE WORK",
+              "imported": "SUPPORT THE WORK",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1491px",
+              "imported": "1452px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 52
+        },
+        {
+          "index": 7,
+          "heading": "We come together for something beautiful.",
+          "importedIndex": 11,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1e1b",
+              "imported": "#1f1e1b",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "ALL FOR THE COMMONS",
+              "imported": "ALL FOR THE COMMONS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "495px",
+              "imported": "362px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        }
+      ],
+      "strict": {
+        "score": 66,
+        "exact": 65.88822192089667,
+        "structure": 66,
+        "checks": 65.75892857142858
+      },
+      "visual": 0.663
+    },
+    {
+      "path": "/catalog",
+      "original": "https://spiritofthefrontrange.org/catalog/",
+      "imported": "/catalog (local preview)",
+      "viewport": 1440,
+      "score": 70,
+      "structure": 71,
+      "exact": 69.74026819193071,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 104.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "72.6px",
+          "imported": "28.3px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 73",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.7px",
+          "imported": "19.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "24.1px",
+          "imported": "24.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "10px",
+          "imported": "13.7px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.size = 10",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "308px",
+          "imported": "1338px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 308",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "106.5px",
+          "imported": "130px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "A small reading list.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 104.4px",
+              "imported": "Bricolage Grotesque 104.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 24.1px italic",
+              "imported": "Rosarivo 24.1px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "RECOMMENDATIONS FROM THE TEAM · UPDATED AS WE GO",
+              "imported": "RECOMMENDATIONS FROM THE TEAM · UPDATED AS WE GO",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "728px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 1,
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "205px",
+              "imported": "324px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 2,
+          "heading": "Governing the Commons ↗",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 28.3px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "3954px",
+              "imported": "1580px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 70,
+        "exact": 69.74026819193071,
+        "structure": 71,
+        "checks": 70.91836734693878
+      },
+      "visual": 0.662
+    },
+    {
+      "path": "/catalog",
+      "original": "https://spiritofthefrontrange.org/catalog/",
+      "imported": "/catalog (local preview)",
+      "viewport": 390,
+      "score": 67,
+      "structure": 64,
+      "exact": 66.74574086121777,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 45.6px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "44.2px",
+          "imported": "22.7px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.sizeMobile = 44",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16.7px",
+          "imported": "16.8px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.18em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow = { letterSpacing: 0.18, case: \"uppercase\" }",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "JetBrains Mono 12.8px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "130.5px",
+          "imported": "83px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 131",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "A small reading list.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 45.6px",
+              "imported": "Bricolage Grotesque 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 18.3px italic",
+              "imported": "Rosarivo 19px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "RECOMMENDATIONS FROM THE TEAM · UPDATED AS WE GO",
+              "imported": "RECOMMENDATIONS FROM THE TEAM · UPDATED AS WE GO",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "661px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 70
+        },
+        {
+          "index": 1,
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "248px",
+              "imported": "366px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 2,
+          "heading": "Governing the Commons ↗",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 22.7px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "BOOK",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "4566px",
+              "imported": "2651px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 61
+        }
+      ],
+      "strict": {
+        "score": 67,
+        "exact": 66.74574086121777,
+        "structure": 64,
+        "checks": 63.604651162790695
+      },
+      "visual": 0.762
+    },
+    {
+      "path": "/connect",
+      "original": "https://spiritofthefrontrange.org/connect/",
+      "imported": "/connect (local preview)",
+      "viewport": 1440,
+      "score": 84,
+      "structure": 87,
+      "exact": 84.11648188769105,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 104.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "72.6px",
+          "imported": "72.6px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "31.1px",
+          "imported": "31.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.7px",
+          "imported": "19.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "24.9px",
+          "imported": "24.9px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14.9px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1338px",
+          "imported": "1296px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "168.5px",
+          "imported": "130px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Connect with us.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 104.4px",
+              "imported": "Bricolage Grotesque 104.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 24.1px italic",
+              "imported": "Rosarivo 24.1px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "REACH OUT · COME TO AN EVENT · JOIN THE COMMONS · GIVE",
+              "imported": "REACH OUT · COME TO AN EVENT · JOIN THE COMMONS · GIVE",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "671px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 1,
+          "heading": "Subscribe for what matters to you.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 72.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "THE MAIN WAY IN",
+              "imported": "THE MAIN WAY IN",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "843px",
+              "imported": "835px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 92
+        },
+        {
+          "index": 2,
+          "heading": "Questions. Projects. Partnerships. Knowledge. Stories. Inspiration.",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 53.2px",
+              "imported": "Bricolage Grotesque 53.2px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "FEELING INSPIRED? LET'S TALK.",
+              "imported": "FEELING INSPIRED? LET'S TALK.",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1377px",
+              "imported": "1322px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 93
+        }
+      ],
+      "strict": {
+        "score": 84,
+        "exact": 84.11648188769105,
+        "structure": 87,
+        "checks": 86.86440677966101
+      },
+      "visual": 0.759
+    },
+    {
+      "path": "/connect",
+      "original": "https://spiritofthefrontrange.org/connect/",
+      "imported": "/connect (local preview)",
+      "viewport": 390,
+      "score": 76,
+      "structure": 74,
+      "exact": 75.73820973202909,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 45.6px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "44.2px",
+          "imported": "58px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.sizeMobile = 44",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "23px",
+          "imported": "25px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16.7px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14.9px",
+          "imported": "14px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "193px",
+          "imported": "83px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 193",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Connect with us.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 45.6px",
+              "imported": "Bricolage Grotesque 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 18.3px italic",
+              "imported": "Rosarivo 19px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "REACH OUT · COME TO AN EVENT · JOIN THE COMMONS · GIVE",
+              "imported": "REACH OUT · COME TO AN EVENT · JOIN THE COMMONS · GIVE",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "517px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 70
+        },
+        {
+          "index": 1,
+          "heading": "Subscribe for what matters to you.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 58px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "STAY CONNECTED",
+              "imported": "THE MAIN WAY IN",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1217px",
+              "imported": "1156px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 79
+        },
+        {
+          "index": 2,
+          "heading": "Questions. Projects. Partnerships. Knowledge. Stories. Inspiration.",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 31.1px",
+              "imported": "Bricolage Grotesque 43px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "FEELING INSPIRED? LET'S TALK.",
+              "imported": "FEELING INSPIRED? LET'S TALK.",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2029px",
+              "imported": "1457px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        }
+      ],
+      "strict": {
+        "score": 76,
+        "exact": 75.73820973202909,
+        "structure": 74,
+        "checks": 74.16666666666666
+      },
+      "visual": 0.805
+    },
+    {
+      "path": "/donate",
+      "original": "https://spiritofthefrontrange.org/donate/",
+      "imported": "/donate (local preview)",
+      "viewport": 1440,
+      "score": 71,
+      "structure": 68,
+      "exact": 70.65108905967026,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "104.4px",
+          "imported": "104.4px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "93.7px",
+          "imported": "65.6px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 94",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "24.9px",
+          "imported": "19.7px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.size = 25",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14.9px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1338px",
+          "imported": "1352px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "146.5px",
+          "imported": "130px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Donate to SPIRIT.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 104.4px",
+              "imported": "Bricolage Grotesque 104.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 24.1px italic",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "TAX-DEDUCTIBLE GIFT TO A 501(C)(3) NONPROFIT",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "632px",
+              "imported": "737px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 54
+        },
+        {
+          "index": 1,
+          "heading": "Every gift moves us toward a more connected Front Range.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WHY YOUR GIFT MATTERS",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "786px",
+              "imported": "680px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 58
+        },
+        {
+          "index": 2,
+          "heading": "Every dollar follows a clear path.",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "★ HOW YOUR DOLLAR FLOWS",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1282px",
+              "imported": "560px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 43
+        },
+        {
+          "index": 3,
+          "heading": "Move toward a more connected Front Range.",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 93.7px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "JetBrains Mono 13.7px",
+              "imported": "JetBrains Mono 13.7px",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "★ MAKE A GIFT",
+              "imported": "★ MAKE A GIFT",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "748px",
+              "imported": "824px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 95
+        }
+      ],
+      "strict": {
+        "score": 71,
+        "exact": 70.65108905967026,
+        "structure": 68,
+        "checks": 68.45588235294117
+      },
+      "visual": 0.772
+    },
+    {
+      "path": "/donate",
+      "original": "https://spiritofthefrontrange.org/donate/",
+      "imported": "/donate (local preview)",
+      "viewport": 390,
+      "score": 64,
+      "structure": 59,
+      "exact": 64.12182875889016,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "45.6px",
+          "imported": "41.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "46.5px",
+          "imported": "33.4px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.sizeMobile = 47",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.6px",
+          "imported": "16.8px",
+          "ok": false,
+          "fix": "choices.typography.scale.body.sizeMobile = 20",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "14.9px",
+          "imported": "14px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "100px",
+          "imported": "83.5px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Donate to SPIRIT.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 45.6px",
+              "imported": "Bricolage Grotesque 41.7px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 18.3px italic",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "TAX-DEDUCTIBLE GIFT TO A 501(C)(3) NONPROFIT",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "508px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 1,
+          "heading": "Every gift moves us toward a more connected Front Range.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#4a4a45",
+              "ok": false,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WHY YOUR GIFT MATTERS",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "922px",
+              "imported": "640px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 36
+        },
+        {
+          "index": 2,
+          "heading": "Every dollar follows a clear path.",
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "★ HOW YOUR DOLLAR FLOWS",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1806px",
+              "imported": "503px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 61
+        },
+        {
+          "index": 3,
+          "heading": "Move toward a more connected Front Range.",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 75px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "JetBrains Mono 11.9px",
+              "imported": "JetBrains Mono 14px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "★ MAKE A GIFT",
+              "imported": "★ MAKE A GIFT",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "548px",
+              "imported": "790px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 55
+        }
+      ],
+      "strict": {
+        "score": 64,
+        "exact": 64.12182875889016,
+        "structure": 59,
+        "checks": 58.984375
+      },
+      "visual": 0.795
+    },
+    {
+      "path": "/mission",
+      "original": "https://spiritofthefrontrange.org/mission/",
+      "imported": "/mission (local preview)",
+      "viewport": 1440,
+      "score": 65,
+      "structure": 63,
+      "exact": 65.43022909589907,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 104.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "93.7px",
+          "imported": "65.6px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.size = 94",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "45.4px",
+          "imported": "28.3px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.size = 45",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.7px",
+          "imported": "19.7px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "24.9px",
+          "imported": "28.3px",
+          "ok": false,
+          "fix": "choices.typography.scale.lead.size = 25",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "644px",
+          "imported": "1352px",
+          "ok": false,
+          "fix": "choices.layout.contentWidth = 644",
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "116px",
+          "imported": "130px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "A more beautiful Front Range.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 104.4px",
+              "imported": "Bricolage Grotesque 104.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 24.1px italic",
+              "imported": "Rosarivo 24.1px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WHAT WE'RE DOING AND WHY",
+              "imported": "WHAT WE'RE DOING AND WHY",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "705px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 64
+        },
+        {
+          "index": 1,
+          "heading": "Our vision is a remembering.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OUR VISION",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 27% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1034px",
+              "imported": "425px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 22
+        },
+        {
+          "index": 2,
+          "heading": "We know the way is together.",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "N° 02",
+              "imported": "OUR MISSION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 27% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1477px",
+              "imported": "355px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 33
+        },
+        {
+          "index": 3,
+          "heading": "What guides us.",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#e5d9bf",
+              "imported": "#e5d9bf",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 67px",
+              "imported": "Bricolage Grotesque 65.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.7px",
+              "imported": "Rosarivo 19.7px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "3",
+              "imported": "3",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "SIX VALUES",
+              "imported": "SIX VALUES",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1444px",
+              "imported": "1078px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 4,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 63.5px italic",
+              "imported": "Rosarivo 63.5px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#24201c",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "565px",
+              "imported": "424px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 89
+        }
+      ],
+      "strict": {
+        "score": 65,
+        "exact": 65.43022909589907,
+        "structure": 63,
+        "checks": 62.86666666666667
+      },
+      "visual": 0.731
+    },
+    {
+      "path": "/mission",
+      "original": "https://spiritofthefrontrange.org/mission/",
+      "imported": "/mission (local preview)",
+      "viewport": 390,
+      "score": 69,
+      "structure": 66,
+      "exact": 69.33171492335576,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 45.6px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "46.5px",
+          "imported": "33.4px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.sizeMobile = 47",
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "29.8px",
+          "imported": "22.7px",
+          "ok": false,
+          "fix": "choices.typography.scale.h3.sizeMobile = 30",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "16.7px",
+          "imported": "16.8px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Lead text size",
+          "original": "39.1px",
+          "imported": "22.7px",
+          "ok": false,
+          "fix": "choices.typography.scale.lead.sizeMobile = 39",
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "13px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "142px",
+          "imported": "83.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 142",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "A more beautiful Front Range.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 45.6px",
+              "imported": "Bricolage Grotesque 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 18.3px italic",
+              "imported": "Rosarivo 19px italic",
+              "ok": false,
+              "credit": 0.5,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "WHAT WE'RE DOING AND WHY",
+              "imported": "WHAT WE'RE DOING AND WHY",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "664px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 70
+        },
+        {
+          "index": 1,
+          "heading": "Our vision is a remembering.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OUR VISION",
+              "imported": "none",
+              "ok": false,
+              "fix": "Add the eyebrow to the heading block.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 89% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1332px",
+              "imported": "293px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 44
+        },
+        {
+          "index": 2,
+          "heading": "We know the way is together.",
+          "importedIndex": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OUR MISSION",
+              "imported": "OUR MISSION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 89% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2080px",
+              "imported": "262px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 56
+        },
+        {
+          "index": 3,
+          "heading": "What guides us.",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#e5d9bf",
+              "imported": "#e5d9bf",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 35.7px",
+              "imported": "Bricolage Grotesque 33.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.7px",
+              "imported": "Rosarivo 16.8px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "SIX VALUES",
+              "imported": "SIX VALUES",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2229px",
+              "imported": "1643px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 4,
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Fraunces Variable 39.1px italic",
+              "imported": "Rosarivo 51px italic",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1f1e1b",
+              "imported": "#24201c",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "453px",
+              "imported": "477px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 78
+        }
+      ],
+      "strict": {
+        "score": 69,
+        "exact": 69.33171492335576,
+        "structure": 66,
+        "checks": 65.84507042253522
+      },
+      "visual": 0.798
+    },
+    {
+      "path": "/programs",
+      "original": "https://spiritofthefrontrange.org/programs/",
+      "imported": "/programs (local preview)",
+      "viewport": 1440,
+      "score": 84,
+      "structure": 87,
+      "exact": 84.27297055020412,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 104.4px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "72.6px",
+          "imported": "72.6px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "24.9px",
+          "imported": "24.9px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "13.7px",
+          "imported": "13.7px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "11px",
+          "imported": "11px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1338px",
+          "imported": "1338px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127.5px",
+          "imported": "130px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Ways to get involved.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 104.4px",
+              "imported": "Bricolage Grotesque 104.4px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 18.2px",
+              "imported": "Rosarivo 18.2px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "LIVE & UPCOMING · OPEN TO EVERYONE · FOR THE COMMONS",
+              "imported": "LIVE & UPCOMING · OPEN TO EVERYONE · FOR THE COMMONS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "654px",
+              "imported": "823px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 71
+        },
+        {
+          "index": 1,
+          "heading": "Commons Sense Teach-Ins.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 72.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · CULTURING",
+              "imported": "PILLAR · CULTURING",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 38% wide",
+              "imported": "left, 39% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "0.67:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1041px",
+              "imported": "1228px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 86
+        },
+        {
+          "index": 2,
+          "heading": "Solidarity Suppers.",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 72.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · SOLIDARITY",
+              "imported": "PILLAR · SOLIDARITY",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 38% wide",
+              "imported": "right, 39% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "949px",
+              "imported": "993px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 86
+        },
+        {
+          "index": 3,
+          "heading": "Neighborhood Resiliency Programs.",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 72.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · COORDINATION",
+              "imported": "PILLAR · COORDINATION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "left, 38% wide",
+              "imported": "left, 39% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1132px",
+              "imported": "1175px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 86
+        },
+        {
+          "index": 4,
+          "heading": "Community Grant Rounds.",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 72.6px",
+              "imported": "Bricolage Grotesque 72.6px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "2",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · ALLOCATION",
+              "imported": "PILLAR · ALLOCATION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "right, 38% wide",
+              "imported": "right, 39% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.33:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1299px",
+              "imported": "1339px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 86
+        },
+        {
+          "index": 5,
+          "heading": "Become a founding member of the Front Range Commons.",
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1e1b",
+              "imported": "#1f1e1b",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 93.7px",
+              "imported": "Bricolage Grotesque 93.7px",
+              "ok": false,
+              "credit": 0.7,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 24.9px",
+              "imported": "Rosarivo 24.9px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OTHER WAYS TO TAKE PART",
+              "imported": "OTHER WAYS TO TAKE PART",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1111px",
+              "imported": "1141px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 93
+        }
+      ],
+      "strict": {
+        "score": 84,
+        "exact": 84.27297055020412,
+        "structure": 87,
+        "checks": 86.5196078431373
+      },
+      "visual": 0.775
+    },
+    {
+      "path": "/programs",
+      "original": "https://spiritofthefrontrange.org/programs/",
+      "imported": "/programs (local preview)",
+      "viewport": 390,
+      "score": 75,
+      "structure": 75,
+      "exact": 75.42576728535886,
+      "checks": [
+        {
+          "area": "type",
+          "what": "Heading 1: present",
+          "original": "Bricolage Grotesque Variable 45.6px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "Bricolage Grotesque Variable",
+          "imported": "Bricolage Grotesque (close stand-in)",
+          "ok": false,
+          "credit": 0.7,
+          "fix": "Site Styles → choices.typography.heading = { family: \"Bricolage Grotesque Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "44.2px",
+          "imported": "58px",
+          "ok": false,
+          "fix": "choices.typography.scale.h2.sizeMobile = 44",
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "Public Sans Variable",
+          "imported": "Rosarivo (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"Public Sans Variable\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "19.6px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "JetBrains Mono",
+          "imported": "JetBrains Mono",
+          "ok": true,
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.eyebrow.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Eyebrows letter spacing and case",
+          "original": "0.22em, uppercase",
+          "imported": "0.22em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "11.9px",
+          "imported": "14px",
+          "ok": false,
+          "fix": "choices.typography.scale.button.sizeMobile = 12",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.2em, uppercase",
+          "imported": "0.2em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "82.5px",
+          "imported": "83px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "Ways to get involved.",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 45.6px",
+              "imported": "Bricolage Grotesque 84px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 16.2px",
+              "imported": "Rosarivo 15px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "LIVE & UPCOMING · OPEN TO EVERYONE · FOR THE COMMONS",
+              "imported": "LIVE & UPCOMING · OPEN TO EVERYONE · FOR THE COMMONS",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "630px",
+              "imported": "750px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 77
+        },
+        {
+          "index": 1,
+          "heading": "Commons Sense Teach-Ins.",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 58px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · CULTURING",
+              "imported": "PILLAR · CULTURING",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "center, 89% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "0.67:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1535px",
+              "imported": "1659px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 76
+        },
+        {
+          "index": 2,
+          "heading": "Solidarity Suppers.",
+          "importedIndex": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 58px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · SOLIDARITY",
+              "imported": "PILLAR · SOLIDARITY",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "center, 89% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1445px",
+              "imported": "1393px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 76
+        },
+        {
+          "index": 3,
+          "heading": "Neighborhood Resiliency Programs.",
+          "importedIndex": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#f2ead8",
+              "imported": "#f2ead8",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 58px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · COORDINATION",
+              "imported": "PILLAR · COORDINATION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "center, 89% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.5:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1700px",
+              "imported": "1705px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 76
+        },
+        {
+          "index": 4,
+          "heading": "Community Grant Rounds.",
+          "importedIndex": 8,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#faf4e5",
+              "imported": "#faf4e5",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 44.2px",
+              "imported": "Bricolage Grotesque 58px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#4a4a45",
+              "imported": "#4a4a45",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "PILLAR · ALLOCATION",
+              "imported": "PILLAR · ALLOCATION",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 93% wide",
+              "imported": "center, 89% wide",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Image crop",
+              "original": "0.8:1",
+              "imported": "1.33:1",
+              "ok": false,
+              "fix": "Use the original's image proportions (the block's aspect ratio).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1804px",
+              "imported": "1883px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 76
+        },
+        {
+          "index": 5,
+          "heading": "Become a founding member of the Front Range Commons.",
+          "importedIndex": 10,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1e1b",
+              "imported": "#1f1e1b",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "Bricolage Grotesque Variable 46.5px",
+              "imported": "Bricolage Grotesque 75px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "Public Sans Variable 19.6px",
+              "imported": "Rosarivo 20px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#f7efd8",
+              "imported": "#f5f2ef",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Eyebrow and rule",
+              "original": "OTHER WAYS TO TAKE PART",
+              "imported": "OTHER WAYS TO TAKE PART",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1069px",
+              "imported": "1344px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        }
+      ],
+      "strict": {
+        "score": 75,
+        "exact": 75.42576728535886,
+        "structure": 75,
+        "checks": 75.35714285714286
+      },
+      "visual": 0.756
+    }
+  ]
+}

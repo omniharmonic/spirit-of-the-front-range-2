@@ -1,25 +1,80 @@
 {
-  "$schema": "https://schema.openspace.host/v1/site.json",
   "title": "SPIRIT of the Front Range",
+  "tagline": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
+  "logo": {
+    "src": "media/2026/10/spirit-logo-6n5r.png",
+    "alt": "SPIRIT of the Front Range",
+    "width": 1067,
+    "height": 1067
+  },
+  "favicon": "media/2026/10/apple-touch-icon-qmca.png",
   "nav": [
     {
       "type": "page",
-      "page": "pg_4br65jan70",
-      "label": "Home"
+      "page": "pg_v08jq5w0tv",
+      "label": "→ Mission"
+    },
+    {
+      "type": "page",
+      "page": "pg_4q1pz9nace",
+      "label": "→ Programs"
+    },
+    {
+      "type": "page",
+      "page": "pg_2kzwp97y6g",
+      "label": "→ The Commons"
+    },
+    {
+      "type": "page",
+      "page": "pg_tqx65abs2z",
+      "label": "→ Stewards"
+    },
+    {
+      "type": "link",
+      "label": "→ Dashboard",
+      "href": "https://dashboard.spiritofthefrontrange.org"
+    },
+    {
+      "type": "page",
+      "page": "pg_7nbz8t2ex4",
+      "label": "→ Connect"
+    },
+    {
+      "type": "link",
+      "label": "✦ Subscribe",
+      "href": "https://dashboard.spiritofthefrontrange.org/subscribe",
+      "newTab": true
+    },
+    {
+      "type": "button",
+      "label": "✦ Donate",
+      "link": {
+        "type": "page",
+        "page": "pg_nx1cbdabp0"
+      },
+      "style": "primary"
     }
   ],
   "header": {
     "variant": "classic-left",
+    "logoHeight": {
+      "d": 102,
+      "m": 40
+    },
     "sticky": false,
     "transparentOnHero": false,
-    "mobileMenu": "slide"
+    "mobileMenu": "fullscreen"
   },
   "footer": {
-    "id": "sec_1671f4bvry",
+    "id": "sec_djnjj2h79s",
     "layout": {
       "mode": "stack",
       "columns": {
         "d": [
+          6,
+          6
+        ],
+        "m": [
           12
         ]
       },
@@ -27,13 +82,14 @@
     },
     "style": {
       "colorTheme": "light",
-      "padding": {
-        "d": "md"
+      "background": {
+        "type": "color",
+        "color": "#f2ead8"
       }
     },
     "blocks": [
       {
-        "id": "blk_stkt47vd50",
+        "id": "blk_pbttbwa3q6",
         "type": "text",
         "v": 1,
         "fields": {
@@ -45,15 +101,334 @@
                 "content": [
                   {
                     "type": "text",
-                    "text": "SPIRIT of the Front Range"
+                    "text": "Feeling inspired? Say hello."
+                  }
+                ]
+              },
+              {
+                "type": "heading",
+                "attrs": {
+                  "level": 2
+                },
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Questions. Projects. Partnerships. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Stories.",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "We would love to hear from you."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "✦ Get involved ",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/connect/"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "text",
+                    "text": " ◇ Donate",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "/donate/"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Site"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Mission",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "/mission/"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Programs",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "/programs/"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The Commons",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "/the-commons/"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Stewards",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "/stewards/"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Dashboard",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://dashboard.spiritofthefrontrange.org"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Reach us"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "admin@spiritofthefrontrange.org",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "mailto:admin@spiritofthefrontrange.org"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Front Range Commons →",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://www.frontrangecommons.org/"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Editor sign-in"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
               }
             ]
           }
-        }
+        },
+        "column": 0
+      },
+      {
+        "id": "blk_gh2vmr56g2",
+        "type": "image",
+        "v": 1,
+        "fields": {
+          "image": {
+            "src": "media/2026/10/spirit-logo-6n5r.png",
+            "alt": "SPIRIT of the Front Range",
+            "width": 1067,
+            "height": 1067,
+            "mediaId": "med_6n5rdecqk1"
+          },
+          "aspect": "original",
+          "lightbox": false
+        },
+        "column": 1
+      },
+      {
+        "id": "blk_acqp17wv7d",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A 501(c)(3) nonprofit for the Front Range"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "© 2026 SPIRIT of the Front Range Built to be replaced. Rooted in shared care."
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "column": 1
       }
-    ]
+    ],
+    "label": "Footer"
   },
-  "locale": "en"
+  "seo": {
+    "titleTemplate": "%s — SPIRIT of the Front Range",
+    "description": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "locale": "en",
+  "integrations": {
+    "analytics": false,
+    "bookingUrl": null,
+    "stripeConnected": false
+  }
 }

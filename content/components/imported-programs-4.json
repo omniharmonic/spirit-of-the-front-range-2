@@ -1,0 +1,111 @@
+{
+  "name": "imported-programs-4",
+  "label": "Neighborhood Resiliency Programs.",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "image1": {
+      "kind": "image",
+      "label": "Picture"
+    },
+    "text2": {
+      "kind": "text",
+      "label": "Small label",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text3": {
+      "kind": "text",
+      "label": "Heading",
+      "maxLength": 300
+    },
+    "text4": {
+      "kind": "richText",
+      "label": "Paragraph “Because there’s no going…”",
+      "marks": [
+        "bold",
+        "italic",
+        "link"
+      ],
+      "blocks": [
+        "paragraph"
+      ],
+      "maxLength": 3000
+    },
+    "text5": {
+      "kind": "text",
+      "label": "Paragraph “When the power goes out…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text6": {
+      "kind": "text",
+      "label": "Paragraph “Right now, for many…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "label7": {
+      "kind": "text",
+      "label": "Link “Read more →”",
+      "maxLength": 60
+    },
+    "link7": {
+      "kind": "link",
+      "label": "Link “Read more →” goes to"
+    },
+    "label8": {
+      "kind": "text",
+      "label": "Link “✉ get on the list”",
+      "maxLength": 60
+    },
+    "link8": {
+      "kind": "link",
+      "label": "Link “✉ get on the list” goes to"
+    }
+  },
+  "defaults": {
+    "image1": {
+      "src": "https://spiritofthefrontrange.org/images/site/plate-resiliency-creek.jpg",
+      "alt": "Neighborhood Resiliency Programs"
+    },
+    "text2": "PILLAR · COORDINATION",
+    "text3": "Neighborhood Resiliency Programs.",
+    "text4": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Because there’s no going it alone.",
+              "marks": [
+                {
+                  "type": "italic"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "text5": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes? When you grow more tomatoes than you can eat, do you know who down the street could use them? When a wildfire pushes toward your neighborhood, do you have a plan — and did you compose it with the people you’d be evacuating alongside?",
+    "text6": "Right now, for many people on the Front Range, the answer to those questions is “no.” SPIRIT works to change that. The Neighborhood Resiliency Program supports denizens taking responsibility with their neighbors to cultivate patterns of relationship, solidarity, and resiliency so that we know whose backs we’ve got and whose got ours.",
+    "label7": "READ MORE →",
+    "link7": {
+      "type": "url",
+      "url": "https://spiritofthefrontrange.org/programs/neighborhood-resiliency/"
+    },
+    "label8": "✉ GET ON THE LIST",
+    "link8": {
+      "type": "url",
+      "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+    }
+  },
+  "template": "<div class=\"gx\">\n  <div class=\"gx__i gx__i1 gx__img\">{{image image1 sizes=\"(max-width: 767px) 100vw, 38vw\"}}</div>\n  <p class=\"gx__i gx__i2\">{{text2}}</p>\n  <h2 class=\"gx__i gx__i3\">{{text3}}</h2>\n  <div class=\"gx__i gx__i4\">{{rich text4}}</div>\n  <p class=\"gx__i gx__i5\">{{text5}}</p>\n  <p class=\"gx__i gx__i6\">{{text6}}</p>\n  <p class=\"gx__i gx__i7\">{{#link link7}}{{label7}}{{/link}}</p>\n  <p class=\"gx__i gx__i8\">{{#link link8}}{{label8}}{{/link}}</p>\n</div>",
+  "css": ":scope { width: min(100%, 1353px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 1 / span 10; grid-row: 1 / span 85; aspect-ratio: 544 / 680; }\n.gx__i2 { grid-column: 11 / span 13; grid-row: 6 / span 3; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 700; line-height: 1.55; letter-spacing: 0.22em; text-transform: uppercase; color: var(--os-color-text); }\n.gx__i3 { grid-column: 11 / span 13; grid-row: 10 / span 17; font-family: var(--os-font-heading); font-size: 72.6px; font-weight: 700; line-height: 0.95; letter-spacing: -0.022em; color: var(--os-color-heading); }\n.gx__i4 { grid-column: 11 / span 13; grid-row: 31 / span 5; font-family: var(--os-font-body); font-size: 24.9px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i5 { grid-column: 11 / span 13; grid-row: 37 / span 34; font-family: var(--os-font-body); font-size: 24.9px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i6 { grid-column: 11 / span 13; grid-row: 72 / span 29; font-family: var(--os-font-body); font-size: 24.9px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i7 { grid-column: 19 / span 2; grid-row: 108 / span 2; font-family: var(--os-font-label); font-size: 12.8px; font-weight: 700; line-height: 1.33; letter-spacing: 0.18em; text-transform: uppercase; color: var(--os-color-text); }\n.gx__i8 { grid-column: 21 / span 3; grid-row: 108 / span 2; font-family: var(--os-font-label); font-size: 12.8px; font-weight: 700; line-height: 1.33; letter-spacing: 0.18em; text-transform: uppercase; color: var(--os-color-heading); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i2 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i3 { font-family: var(--os-font-heading); font-size: 58px; }\n  .gx__i4 { font-family: var(--os-font-body); font-size: 20px; }\n  .gx__i5 { font-family: var(--os-font-body); font-size: 20px; }\n  .gx__i6 { font-family: var(--os-font-body); font-size: 20px; }\n  .gx__i7 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i8 { font-family: var(--os-font-label); font-size: 14px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}

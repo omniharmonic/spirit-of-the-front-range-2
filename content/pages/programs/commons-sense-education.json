@@ -1,0 +1,831 @@
+{
+  "id": "pg_vprm01pyk0",
+  "title": "Commons Sense Teach-Ins We all benefit from Commons Sense.",
+  "slug": "programs/commons-sense-education",
+  "seo": {
+    "title": "Commons Sense Teach-Ins",
+    "description": "We offer **Commons Sense** teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of com…",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_pmj5jqbfr9",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/gathering-02-j95r.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_94qnvk27c9",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range — 06 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_hwdb5mtwac",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_9gctkz6ce3",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "live · open enrollment"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Commons Sense Teach-Ins We all benefit from Commons Sense."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We offer Commons Sense teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate participants in the learning journey about practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_bbrq1n5p8h",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "● Programs · Culturing photographed by "
+                    },
+                    {
+                      "type": "text",
+                      "text": "True To Essence",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.truetoessence.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_tzgyenvwvg",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_thjk08fkwh",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CST"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pillar · Culturing"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "“What even IS the Commons?” “What does being part of the Commons mean for us?”",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Commons Sense is a broadcast teaching on the philosophical, historical, and practical roots of the Commons, particularly the “commons sense” that we all share responsibility for our most elemental resources – the land, the water, the air, and each other. Drawing on Elinor Ostrom’s Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of communities that never stopped commoning, we educate our viewers on practical paths toward bioregional self-organizing, resiliency, and regeneration that address the Common Good."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.1 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_6eh1yh3sft",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_63qep569dn",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The arc of the program"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Toggle Headings unfold to reveal content."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_fqpyxvxs8p",
+          "type": "accordion",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "question": "01 Why this matters Before we can build something together, we have to share a language for it. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Most people have heard the phrase \"tragedy of the commons\" — the idea that when something is shared, it inevitably gets used up. What fewer people know is that this was an argument made about "
+                        },
+                        {
+                          "type": "text",
+                          "text": "unmanaged open access",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": ", not about actual community-managed commons. And fewer still know that "
+                        },
+                        {
+                          "type": "text",
+                          "text": "real commons have thrived for centuries",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": "."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Elinor Ostrom won the Nobel Prize in economics for documenting this. The Commons Teach-Ins exist because "
+                        },
+                        {
+                          "type": "text",
+                          "text": "taking care of shared things together is one of the oldest, most successful human practices",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " — and most of us have forgotten how to do it. Recovering that knowledge is preparation for the work ahead."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "02 What we cover We learn from the past and observe our now to co-create our shared future +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "We move from a time when all peoples were "
+                        },
+                        {
+                          "type": "text",
+                          "text": "indigenous",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " to a place, through the centuries of fencing-off shared land into private property, through the cooperatives and movements that kept community-care alive, to the new local experiments emerging today."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "We draw on Ostrom's research, Indigenous traditions of stewardship, the long European history of shared land, and the practical wisdom of the communities that never stopped doing this work."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "03 How it runs Once a month. Free. Anyone can come. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Sessions run once a month and are open to everyone — neighbors, students, organizers, curious passersby. There are no prerequisites. We bring strong coffee, good chairs, and a willingness to think out loud together."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Each session leaves something behind: a reading list, a recording, notes you can take with you. Over time these add up to a free, public curriculum and an eventual book — built openly, by the people who actually showed up."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "04 What you leave with You leave with a different way of seeing. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Not certainty. Not a doctrine. "
+                        },
+                        {
+                          "type": "text",
+                          "text": "A vocabulary, a bit of history, and a sense of what's possible.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " The Commons is a practice you'll start to recognize once you have a name for it — in your neighborhood, in your watershed, in your workplace. We're trying to make that recognition easier."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "exclusive": false,
+            "openFirst": false,
+            "faqSchema": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_01wgpxqgyy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_sbb5rtkh9p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.2 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_4b7vkmvs7q",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_5kky197kgg",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Be invited to the next monthly session.",
+            "level": "h2",
+            "size": "auto",
+            "eyebrow": "Get on the list",
+            "subheading": "Sessions are free and open to everyone. Sign up and we'll send you the date, time, place, and the reading we'll be sitting with."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_ka1ans03qe",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "✉ Sign up →",
+            "link": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_zk0m6t77cf",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.3 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_b77ghvemav",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark-accent"
+      },
+      "blocks": [
+        {
+          "id": "blk_e8ykekxt37",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All of our programming prioritizes access and equity"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subscribe to events at "
+                    },
+                    {
+                      "type": "text",
+                      "text": "dashboard.spiritofthefrontrange.org/subscribe",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For inquiries, email "
+                    },
+                    {
+                      "type": "text",
+                      "text": "admin@spiritofthefrontrange.org",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "mailto:admin@spiritofthefrontrange.org"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_52vzn85h14",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_28bcvf22s8",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Each program weaves with the others.",
+            "level": "h2",
+            "size": "auto",
+            "eyebrow": "The SPIRIT programs all interconnect.",
+            "subheading": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_tcmc6a2w5d",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Solidarity Suppers",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Solidarity"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Solidarity Suppers"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_cgcyphxt35"
+                }
+              },
+              {
+                "heading": "Neighborhood Resiliency Program",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Coordination"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neighborhood Resiliency Programs"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_3p2nsn8e9c"
+                }
+              },
+              {
+                "heading": "allocate to regenerative cultural and ecological projects",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Allocation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Community Grant Rounds"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_fns9mfhdtt"
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_3hseq3ht0d",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "← All Programs ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/programs/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": " ✉ Get in touch →",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/connect/"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.4 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

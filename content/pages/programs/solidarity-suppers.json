@@ -1,0 +1,788 @@
+{
+  "id": "pg_cgcyphxt35",
+  "title": "Solidarity Suppers be fed with intention.",
+  "slug": "programs/solidarity-suppers",
+  "seo": {
+    "title": "Solidarity Suppers",
+    "description": "We host small **Solidarity Suppers** to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowsh…",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "hidden": true,
+  "sections": [
+    {
+      "id": "sec_9sbg3dvts8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/gathering-04-c2qs.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_ne7rjp3dc7",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range — 06 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_92x1ees6eg",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_3brs9stm6b",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "live · open enrollment"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Solidarity Suppers be fed with intention."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We host small Solidarity Suppers to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_yrqgravrqe",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "● Programs · Solidarity photographed by "
+                    },
+                    {
+                      "type": "text",
+                      "text": "True To Essence",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.truetoessence.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_mpy85a04fw",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_pj50qg1983",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SS"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Pillar · Solidarity"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Solidarity Suppers are how we practice taking care of a place together — before we make it formal.",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Solidarity Suppers are long-table dinners where we nourish our Indigenous and community leaders with a lovingly-prepared meal, open ears, and open hearts. These may include Listeners’ Councils, tellings of stories, or emergent rituals. These are not networking events. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.1 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_jm6xr8mxzd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_3ry25vtfnk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The arc of the program"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Toggle Headings unfold to reveal content."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_cvns47yena",
+          "type": "accordion",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "question": "01 What they are Long-table dinners, and what happens around them. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Solidarity Suppers are seasonal long-table dinners. We share a slow meal. We listen carefully. We center community leaders and elders — especially our Indigenous neighbors, whose knowledge of this place goes back generations. We take the pulse of the region together: what people are working on, what they need, where the connections want to be made."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "02 What they aren't Not a networking event. Not a fundraiser. Not a panel. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "These are invitation-based. People come on behalf of the neighborhoods, organizations, and places they care about. No name tags. No pitches. "
+                        },
+                        {
+                          "type": "text",
+                          "text": "The shared meal opens the door to honest conversation, and the conversation does the rest.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "We are practicing what it means to take care of a place together, before we make it formal. The Suppers are how the relationships get real."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "03 The listening circle One person speaks. Everyone else actually listens. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "At the heart of each Supper is a "
+                        },
+                        {
+                          "type": "text",
+                          "text": "listening circle",
+                          "marks": [
+                            {
+                              "type": "italic"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "text",
+                          "text": " — a simple form drawn from many traditions (Indigenous councils, Quaker meetings, the Way of Council). One person speaks at a time, holding a token. Others listen without preparing a response. No cross-talk. No debate."
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "It sounds simple. It changes everything. In a culture that has nearly forgotten how to listen, this practice is itself an act of repair."
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "question": "04 How to Join By invitation — but the invitation is open. +",
+                "answer": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Suppers are kept small enough that the table can hold the conversation, which means we cannot host everyone every time. We rotate. We invite based on who is doing meaningful work and who is ready to be in the room. "
+                        },
+                        {
+                          "type": "text",
+                          "text": "If that sounds like you, apply — we want to know you.",
+                          "marks": [
+                            {
+                              "type": "bold"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "exclusive": false,
+            "openFirst": false,
+            "faqSchema": false
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_gyp684jd12",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ykgw4qx3qw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.2 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_svecvf0d6r",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ys9a0d1y28",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Apply to Join to the next Supper.",
+            "level": "h2",
+            "size": "auto",
+            "eyebrow": "Ask for an invitation",
+            "subheading": "Tell us a little about you, the community or work you'd be representing at the table, and what you're paying attention to right now. We answer every message personally."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_ga1pczs8ya",
+          "type": "button",
+          "v": 1,
+          "fields": {
+            "label": "✉ Apply →",
+            "link": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "role": "primary"
+          }
+        },
+        {
+          "id": "blk_b3dmd5yahf",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.3 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_b7tds5hr68",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark-accent"
+      },
+      "blocks": [
+        {
+          "id": "blk_cdncaxk75c",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "All of our programming prioritizes access and equity"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Subscribe to events at "
+                    },
+                    {
+                      "type": "text",
+                      "text": "dashboard.spiritofthefrontrange.org/subscribe",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://dashboard.spiritofthefrontrange.org/subscribe"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For inquiries, email "
+                    },
+                    {
+                      "type": "text",
+                      "text": "admin@spiritofthefrontrange.org",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "mailto:admin@spiritofthefrontrange.org"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_bmm9b4mhzr",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vpe2sses66",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Each program weaves with the others.",
+            "level": "h2",
+            "size": "auto",
+            "eyebrow": "The SPIRIT programs all interconnect.",
+            "subheading": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds put resources in motion."
+          },
+          "variant": "plain"
+        },
+        {
+          "id": "blk_vznkjh5q91",
+          "type": "columns",
+          "v": 1,
+          "fields": {
+            "items": [
+              {
+                "heading": "Commons Sense",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Culturing"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Commons Sense Teach-Ins"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_vprm01pyk0"
+                }
+              },
+              {
+                "heading": "Neighborhood Resiliency Program",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Coordination"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Neighborhood Resiliency Programs"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_3p2nsn8e9c"
+                }
+              },
+              {
+                "heading": "allocate to regenerative cultural and ecological projects",
+                "body": {
+                  "type": "doc",
+                  "content": [
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Allocation"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "content": [
+                        {
+                          "type": "text",
+                          "text": "Community Grant Rounds"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "link": {
+                  "type": "page",
+                  "page": "pg_fns9mfhdtt"
+                }
+              }
+            ],
+            "columns": "3",
+            "aspect": "4:5"
+          }
+        },
+        {
+          "id": "blk_1eggxw5a4h",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "← All Programs ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/programs/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": " ✉ Get in touch →",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/connect/"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 06.4 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

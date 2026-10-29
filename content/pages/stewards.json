@@ -1,0 +1,792 @@
+{
+  "id": "pg_tqx65abs2z",
+  "title": "→ Stewards",
+  "slug": "stewards",
+  "seo": {
+    "title": "Stewards",
+    "description": "The Transitional Stewards Team — the activating team for SPIRIT of the Front Range.",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_qqwkw2ssr4",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/gathering-06-exkt.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_geq545vb68",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range — 04 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_9h0fq00c0w",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_48xsr40v4p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Who is doing the work, and why"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The starting team."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We are a small starting team building the scaffolding for SPIRIT — so the Front Range Commons, made of the people who live here, can carry the work going forward. Our job is to make ourselves obsolete."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_rpg0t5d45r",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "● Stewards photographed by "
+                    },
+                    {
+                      "type": "text",
+                      "text": "True To Essence",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.truetoessence.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_7frnxv3nke",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_5dvk3nwahk",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Transitional Stewards"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We are a small team at the beginning of something, and we don't have all the answers."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT is guided by a small team of "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Transitional Stewards",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " whose aim is to establish the Bioregional Commons that will determine its own character and trajectories through distributed, decentralized decision-making. Our explicit goal is to build something that will no longer need us so that we, too, can join the Commons as fellow commoners, with no more authority or say than anyone else. We do not pretend to have all the answers. "
+                    },
+                    {
+                      "type": "text",
+                      "text": "(Who does!?)",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " What we have is our commitment to this place and to each other, and a willingness to learn in public."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Our aim is for SPIRIT’s board to be comprised of highly-regarded community leaders, particularly elders and Indigenous relatives. For now, we Transitional Stewards show up with full commitment and open hands, oriented towards that ultimate transition."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 04.1 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_8s4yfmeh66",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8faymr5nxt",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Meet the team"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The current Transitional Stewards"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "6 people · As of Oct 2026"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_yfzxjme2hd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            3,
+            3,
+            3,
+            3
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zvq5dws9wj",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Co-Founding Steward and Commons Educator"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Jordan Siegel"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Jordan (Josie; she/her) holds a B.A. in English Literature from Davidson College and a Master of Arts in Peace and Justice from the University of San Diego, with additional coursework in law. Her graduate work examined ritual, liminality, and structures of meaning and power — foundations that shape SPIRIT’s approach. Her background spans Permaculture Design (True Nature Farms), wilderness survival and tracking (Boulder Outdoor Survival School and Tom Brown, Jr.’s Tracker School), Medical Herbalism (Colorado School of Clinical Herbalism), Authentic Relating (T3), and five years devising and teaching project-based curricula at a Colorado charter school for gifted children. In 2020, she founded Central Edge Leadership to share dynamic frameworks for navigating uncertainty and shifting entrenched patterns at the individual and community levels. Josie has lived and worked in the Front Range for over fifteen years. Her commitment to bioregional land stewardship is rooted in the conviction that durable belonging is grown slowly in real soil, the soil of the real."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "↗ themysteryworks.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://themysteryworks.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_kghazdg1jg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Relationship Steward and Culture Keeper"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sarah D'Antoni"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Sarah (Naiya; she/they), founder of Ancestral Weavings, is an ancestral guide and grief activist, specializing in transformative journeys focused on ancestral reconnection and repair. She guides individuals, couples, and groups through threshold work to reconnect with ancestral wisdom, interrupt inherited patterns, and restore relational integrity. She holds over 10,000 hours of training in ritual healing and apprenticeship, with certifications including: Advanced Systemic Constellations (International Family Constellations Training Institute), Sacred Passage Death Doula (Chacana Spiritual Center), Psychedelic Therapy & Indigenous Wisdom (AWE Foundation), and initiations with the Cofan, Wixarika, and Pygmy Mabanji. She also holds a Master of Science in Intercultural Psychology and is currently pursuing a PhD in Psychedelic Studies focused on ancestral communal dreamwork and ritual."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "↗ ancestralweavings.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.ancestralweavings.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_sgnfhs72jw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Co-Founding Steward and Civic Technology Designer"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Benjamin Life"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Benjamin Life holds a B.A. in Political Science from Tufts University. His documentary films have been screened at Sundance, SXSW, and the United Nations Conference of Parties (COP26). Since closing his social impact media production company in 2019, Benjamin has become a civic innovator, researcher, and artist working at the intersection of regenerative crypto-economics, bioregional coordination, and participatory systems design. His work explores the mythic and material dimensions of systemic transformation, cultivating anti-rivalrous infrastructures that empower communities to co-create shared abundance, resilience, and mutual care. His writing, research, code, and art can be found at "
+                    },
+                    {
+                      "type": "text",
+                      "text": "www.omniharmonic.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.omniharmonic.com"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "↗ omniharmonic.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.omniharmonic.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 2
+        },
+        {
+          "id": "blk_p40mpt3bs1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Solidarity Steward and Culture Keeper"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Matthew Duffy"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Matthew Duffy is a cultural alchemist, poet, MC, and team player. Matthew has a background in food justice/sovereignty and was instrumental in the movement to decriminalize psychedelic plant and mushroom allies in Colorado and laying the groundwork for a people’s medicine movement. He’s also the founder of Drip Rhythm, weaving dance with solidarity and ecological justice initiatives."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "↗ @driprhythm",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.instagram.com/driprhythm/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 3
+        }
+      ],
+      "preset": "starter/stack-3-3-3-3@1"
+    },
+    {
+      "id": "sec_gaz3grshn9",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_4zffvs0y95",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 04.2 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_dwkmkr14dd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_2y9h84v91n",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Where this is going"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Eventually, the team will not look like us."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_6nsjmz7bzf",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "In time, we hope SPIRIT's Board will be made up of "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Indigenous leaders, elders, and longtime community stewards",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " — people who actually represent who lives on the Front Range."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "For now, the six of us are the starting team. Our goal is to become regular members of the Front Range Commons, with no more authority than anyone else. "
+                    },
+                    {
+                      "type": "text",
+                      "text": "SPIRIT exists to serve the Commons",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", not to keep itself going."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "column": 1
+        }
+      ],
+      "preset": "starter/stack-6-6@1"
+    },
+    {
+      "id": "sec_tcbwyknfqy",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_jz1gbpyhj1",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 04.3 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

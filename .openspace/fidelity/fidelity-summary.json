@@ -1,0 +1,220 @@
+{
+  "version": 1,
+  "score": 72,
+  "strict": 72,
+  "scorer": "v3.1-corrected",
+  "before": 54,
+  "changes": [
+    "section padding 130px",
+    "section padding on phones 51px",
+    "text on light sections #4a4a45, as on the original (13 of 17 sections)",
+    "background on light sections #f2ead8, as on the original (7 of 16 sections)",
+    "/catalog: \"A small reading list.\": 2 cards per row, as on the original",
+    "/connect: \"Subscribe for what matters to you.\": its background #faf4e5, as on the original",
+    "/connect: \"Subscribe for what matters to you.\": its background #faf4e5, as on the original",
+    "/connect: \"Questions. Projects. Partnerships. Knowledge. Stories. Inspiration.\": 2 cards per row, as on the original",
+    "/donate: \"Every dollar follows a clear path.\": its background #faf4e5, as on the original",
+    "/donate: \"Every dollar follows a clear path.\": its background #faf4e5, as on the original",
+    "/donate: \"Every dollar follows a clear path.\": its background #faf4e5, as on the original",
+    "/donate: \"Move toward a more connected Front Range.\": its background #faf4e5, as on the original",
+    "/mission: \"Our vision is a remembering.\": its background #faf4e5, as on the original",
+    "/mission: \"Our vision is a remembering.\": its background #faf4e5, as on the original",
+    "/mission: \"Our vision is a remembering.\": the image takes 7/12 of the width, as on the original",
+    "/mission: \"Our vision is a remembering.\": its background #faf4e5, as on the original",
+    "/mission: \"We know the way is together.\": 2 cards per row, as on the original",
+    "/mission: \"We know the way is together.\": the image takes 7/12 of the width, as on the original",
+    "/mission: \"What guides us.\": 3 cards per row, as on the original",
+    "/mission: \"What guides us.\": its background #e5d9bf, as on the original",
+    "/mission: \"What guides us.\": its background #e5d9bf, as on the original",
+    "/mission: \"What guides us.\": its background #e5d9bf, as on the original",
+    "/programs: \"Commons Sense Teach-Ins.\": the image takes 5/12 of the width, as on the original",
+    "/programs: \"Solidarity Suppers.\": its background #faf4e5, as on the original",
+    "/programs: \"Solidarity Suppers.\": the image takes 5/12 of the width, as on the original",
+    "/programs: \"Solidarity Suppers.\": its background #faf4e5, as on the original",
+    "/programs: \"Neighborhood Resiliency Programs.\": the image takes 5/12 of the width, as on the original",
+    "/programs: \"Community Grant Rounds.\": its background #faf4e5, as on the original",
+    "/programs: \"Community Grant Rounds.\": the image takes 5/12 of the width, as on the original",
+    "/programs: \"Community Grant Rounds.\": its background #faf4e5, as on the original",
+    "/programs: \"Become a founding member of the Front Range Commons.\": its background #1f1e1b, as on the original",
+    "/: section 1 720px tall, as on the original",
+    "/catalog: section 2 background #faf4e5",
+    "/mission: section 5 background #f2ead8",
+    "/: section 2 image crop 16:9",
+    "/programs: section 2 image crop 4:5",
+    "/programs: section 3 image crop 4:5",
+    "/programs: section 4 image crop 4:5",
+    "/programs: section 5 image crop 4:5",
+    "/: section 1 \"SPIRIT of the Front Range.\" recreated as a custom component"
+  ],
+  "strictBefore": 54,
+  "withoutComponents": 65,
+  "withComponents": 71,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 69,
+      "strict": 69,
+      "before": 58,
+      "strictBefore": 58,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Columns",
+        "Heading",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 66,
+      "strict": 66,
+      "before": 59,
+      "strictBefore": 59,
+      "differs": [
+        "Heading",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/catalog",
+      "device": "desktop",
+      "score": 70,
+      "strict": 70,
+      "before": 47,
+      "strictBefore": 47,
+      "image": "thumb-catalog-d.jpg",
+      "differs": [
+        "Content width",
+        "Columns",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/catalog",
+      "device": "phone",
+      "score": 67,
+      "strict": 67,
+      "before": 59,
+      "strictBefore": 59,
+      "image": "thumb-catalog-m.jpg",
+      "differs": [
+        "Heading",
+        "Heading",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/connect",
+      "device": "desktop",
+      "score": 84,
+      "strict": 84,
+      "before": 57,
+      "strictBefore": 57,
+      "image": "thumb-connect-d.jpg",
+      "differs": [
+        "Columns",
+        "Heading 1: present"
+      ]
+    },
+    {
+      "path": "/connect",
+      "device": "phone",
+      "score": 76,
+      "strict": 76,
+      "before": 62,
+      "strictBefore": 62,
+      "image": "thumb-connect-m.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/donate",
+      "device": "desktop",
+      "score": 71,
+      "strict": 71,
+      "before": 53,
+      "strictBefore": 53,
+      "image": "thumb-donate-d.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Body text size",
+        "Text"
+      ]
+    },
+    {
+      "path": "/donate",
+      "device": "phone",
+      "score": 64,
+      "strict": 64,
+      "before": 54,
+      "strictBefore": 54,
+      "image": "thumb-donate-m.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Body text size",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/mission",
+      "device": "desktop",
+      "score": 65,
+      "strict": 65,
+      "before": 48,
+      "strictBefore": 48,
+      "image": "thumb-mission-d.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Content width",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/mission",
+      "device": "phone",
+      "score": 69,
+      "strict": 69,
+      "before": 55,
+      "strictBefore": 55,
+      "image": "thumb-mission-m.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/programs",
+      "device": "desktop",
+      "score": 84,
+      "strict": 84,
+      "before": 51,
+      "strictBefore": 51,
+      "image": "thumb-programs-d.jpg",
+      "differs": [
+        "Columns",
+        "Heading 1: present",
+        "Image crop"
+      ]
+    },
+    {
+      "path": "/programs",
+      "device": "phone",
+      "score": 75,
+      "strict": 75,
+      "before": 45,
+      "strictBefore": 45,
+      "image": "thumb-programs-m.jpg",
+      "differs": [
+        "Heading 2 size",
+        "Heading",
+        "Heading"
+      ]
+    }
+  ]
+}

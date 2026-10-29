@@ -1,0 +1,332 @@
+{
+  "id": "pg_7nbz8t2ex4",
+  "title": "→ Connect",
+  "slug": "connect",
+  "seo": {
+    "title": "Connect",
+    "description": "Reach out, come to an event, join the Front Range Commons, or fund the work.",
+    "image": "media/2026/10/og-default-fyb8.jpg"
+  },
+  "sections": [
+    {
+      "id": "sec_td2bd25cz8",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "dark",
+        "background": {
+          "type": "image",
+          "src": "media/2026/10/gathering-07-d7k4.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.6
+          }
+        },
+        "minHeight": {
+          "d": "40vh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_972cyq9k6h",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "SPIRIT of the Front Range — 07 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_c79x8gp2a1",
+      "preset": "component/imported-connect-1@1",
+      "label": "Connect with us.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "dark"
+      },
+      "blocks": [
+        {
+          "id": "blk_4pqzcgb04t",
+          "type": "component/imported-connect-1",
+          "v": 1,
+          "fields": {
+            "text1": "REACH OUT · COME TO AN EVENT · JOIN THE COMMONS · GIVE",
+            "text2": "Connect with us.",
+            "text3": "We're early in this work — and it's growing the way real things grow: slowly, rooted, built to last. There are many ways in.",
+            "label4": "TRUE TO ESSENCE",
+            "link4": {
+              "type": "url",
+              "url": "https://www.truetoessence.com/"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_yx9ccns4cm",
+      "preset": "component/imported-connect-2@1",
+      "label": "Subscribe for what matters to you.",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "color",
+          "color": "#faf4e5"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_zpaw3pqsr2",
+          "type": "component/imported-connect-2",
+          "v": 1,
+          "fields": {
+            "text1": "STAY CONNECTED",
+            "text2": "THE MAIN WAY IN",
+            "text3": "Subscribe for what matters to you.",
+            "text4": "One place for events, program openings, and interest in the Commons — handled on our community dashboard.",
+            "label5": "✦ SUBSCRIBE & EXPRESS INTEREST →",
+            "link5": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+            },
+            "text6": "Sign up to receive updates about the programs you care about — teach-ins, Solidarity Suppers, neighborhood preparedness, and grant rounds.",
+            "text7": "SUBSCRIBING OPENS OUR COMMUNITY DASHBOARD IN A NEW TAB.",
+            "text8": "FIND US ELSEWHERE",
+            "text9": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "  ✎ Substack  Essays & field notes ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://spiritofthefrontrange.substack.com/"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "text10": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can also express interest in becoming a founding member of the "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Front Range Commons",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " — the community of people deciding together how to care for this place."
+                    }
+                  ]
+                }
+              ]
+            },
+            "text11": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "  ◷ Luma  Upcoming gatherings ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://luma.com/spiritofthefrontrange"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            "text12": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "  ✦ Signal  Front Range Commons chat ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://signal.group/#CjQKICvNS6sz0wFOPD_OpHM4JbDEeOJriw-hIhcTZbB55oxGEhCOMWzDyVm3fmWdTSE-jx7K"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_f0xcv3g3ty",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light",
+        "background": {
+          "type": "color",
+          "color": "#faf4e5"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_nxv261ezrn",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "— 07.1 —"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_56v58jazk9",
+      "preset": "component/imported-connect-3@1",
+      "label": "Questions. Projects. Partnerships.…",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "wide"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_ytrxs4pwez",
+          "type": "component/imported-connect-3",
+          "v": 1,
+          "fields": {
+            "text1": "FEELING INSPIRED? LET'S TALK.",
+            "text2": "Questions. Projects. Partnerships. Knowledge. Stories. Inspiration.",
+            "text3": "We would love to hear from you.",
+            "text4": "COME TO SOMETHING",
+            "text5": "JUST SAY HELLO",
+            "text6": "See what's coming up",
+            "text7": "Email us",
+            "text8": "Public teach-ins, Solidarity Suppers, neighborhood preparedness sessions — open community gatherings. The fastest way to feel the work is to come to one.",
+            "text9": "For questions, partnerships, or just to introduce yourself — we read every message and answer personally.",
+            "label10": "ADMIN@SPIRITOFTHEFRONTRANGE.ORG",
+            "link10": {
+              "type": "email",
+              "email": "admin@spiritofthefrontrange.org"
+            },
+            "label11": "◇ BROWSE THE CALENDAR →",
+            "link11": {
+              "type": "url",
+              "url": "https://dashboard.spiritofthefrontrange.org/calendar"
+            },
+            "text12": "JOIN THE COMMONS",
+            "text13": "SUPPORT THE WORK",
+            "text14": "Become a founding member",
+            "text15": "Make a tax-deductible gift",
+            "text16": "If you live on the Front Range, you can join the Front Range Commons as a founding member. Propose projects, vote on community grants, and help shape what this looks like in practice.",
+            "text17": "Your gift funds the programs, the community grant rounds, and the shared work of a healthy Front Range.",
+            "label18": "◈ DONATE →",
+            "link18": {
+              "type": "page",
+              "page": "pg_nx1cbdabp0"
+            },
+            "label19": "★ VISIT THE COMMONS →",
+            "link19": {
+              "type": "url",
+              "url": "https://www.frontrangecommons.org/"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

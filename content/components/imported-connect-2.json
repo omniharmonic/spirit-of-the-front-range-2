@@ -1,0 +1,223 @@
+{
+  "name": "imported-connect-2",
+  "label": "Subscribe for what matters to you.",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "text1": {
+      "kind": "text",
+      "label": "Small label “Stay connected”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text2": {
+      "kind": "text",
+      "label": "Small label “The main way in”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text3": {
+      "kind": "text",
+      "label": "Heading",
+      "maxLength": 300
+    },
+    "text4": {
+      "kind": "text",
+      "label": "Paragraph “One place for events,…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "label5": {
+      "kind": "text",
+      "label": "Button",
+      "maxLength": 60
+    },
+    "link5": {
+      "kind": "link",
+      "label": "Button goes to"
+    },
+    "text6": {
+      "kind": "text",
+      "label": "Paragraph “Sign up to receive…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text7": {
+      "kind": "text",
+      "label": "Paragraph “Subscribing opens our…”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text8": {
+      "kind": "text",
+      "label": "Small label “Find us elsewhere”",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text9": {
+      "kind": "richText",
+      "label": "Paragraph “✎ Substack ESSAYS &…”",
+      "marks": [
+        "bold",
+        "italic",
+        "link"
+      ],
+      "blocks": [
+        "paragraph"
+      ],
+      "maxLength": 3000
+    },
+    "text10": {
+      "kind": "richText",
+      "label": "Paragraph “You can also express…”",
+      "marks": [
+        "bold",
+        "italic",
+        "link"
+      ],
+      "blocks": [
+        "paragraph"
+      ],
+      "maxLength": 3000
+    },
+    "text11": {
+      "kind": "richText",
+      "label": "Paragraph “◷ Luma UPCOMING…”",
+      "marks": [
+        "bold",
+        "italic",
+        "link"
+      ],
+      "blocks": [
+        "paragraph"
+      ],
+      "maxLength": 3000
+    },
+    "text12": {
+      "kind": "richText",
+      "label": "Paragraph “✦ Signal FRONT RANGE…”",
+      "marks": [
+        "bold",
+        "italic",
+        "link"
+      ],
+      "blocks": [
+        "paragraph"
+      ],
+      "maxLength": 3000
+    }
+  },
+  "defaults": {
+    "text1": "STAY CONNECTED",
+    "text2": "THE MAIN WAY IN",
+    "text3": "Subscribe for what matters to you.",
+    "text4": "One place for events, program openings, and interest in the Commons — handled on our community dashboard.",
+    "label5": "✦ SUBSCRIBE & EXPRESS INTEREST →",
+    "link5": {
+      "type": "url",
+      "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
+    },
+    "text6": "Sign up to receive updates about the programs you care about — teach-ins, Solidarity Suppers, neighborhood preparedness, and grant rounds.",
+    "text7": "SUBSCRIBING OPENS OUR COMMUNITY DASHBOARD IN A NEW TAB.",
+    "text8": "FIND US ELSEWHERE",
+    "text9": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "  ✎ Substack  Essays & field notes ",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://spiritofthefrontrange.substack.com/"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "text10": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "You can also express interest in becoming a founding member of the "
+            },
+            {
+              "type": "text",
+              "text": "Front Range Commons",
+              "marks": [
+                {
+                  "type": "bold"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": " — the community of people deciding together how to care for this place."
+            }
+          ]
+        }
+      ]
+    },
+    "text11": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "  ◷ Luma  Upcoming gatherings ",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://luma.com/spiritofthefrontrange"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "text12": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "  ✦ Signal  Front Range Commons chat ",
+              "marks": [
+                {
+                  "type": "link",
+                  "attrs": {
+                    "href": "https://signal.group/#CjQKICvNS6sz0wFOPD_OpHM4JbDEeOJriw-hIhcTZbB55oxGEhCOMWzDyVm3fmWdTSE-jx7K"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "template": "<div class=\"gx\">\n  <p class=\"gx__i gx__i1\">{{text1}}</p>\n  <p class=\"gx__i gx__i2\">{{text2}}</p>\n  <h2 class=\"gx__i gx__i3\">{{text3}}</h2>\n  <p class=\"gx__i gx__i4\">{{text4}}</p>\n  <div class=\"gx__i gx__i5\">{{button link5 label=label5 variant=\"primary\"}}</div>\n  <p class=\"gx__i gx__i6\">{{text6}}</p>\n  <p class=\"gx__i gx__i7\">{{text7}}</p>\n  <p class=\"gx__i gx__i8\">{{text8}}</p>\n  <div class=\"gx__i gx__i9\">{{rich text9}}</div>\n  <div class=\"gx__i gx__i10\">{{rich text10}}</div>\n  <div class=\"gx__i gx__i11\">{{rich text11}}</div>\n  <div class=\"gx__i gx__i12\">{{rich text12}}</div>\n</div>",
+  "css": ":scope { width: min(100%, 1296px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 1 / span 12; grid-row: 1 / span 3; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 700; line-height: 1.55; letter-spacing: 0.22em; text-transform: uppercase; color: var(--os-color-link); }\n.gx__i2 { grid-column: 14 / span 3; grid-row: 1 / span 3; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 700; line-height: 1.55; letter-spacing: 0.22em; text-transform: uppercase; color: var(--os-color-link); }\n.gx__i3 { grid-column: 1 / span 12; grid-row: 5 / span 19; font-family: var(--os-font-heading); font-size: 72.6px; font-weight: 700; line-height: 1; letter-spacing: -0.022em; color: var(--os-color-heading); }\n.gx__i4 { grid-column: 14 / span 10; grid-row: 6 / span 7; font-family: var(--os-font-body); font-size: 19.7px; font-weight: 400; line-height: 1.38; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i5 { grid-column: 14 / span 10; grid-row: 15 / span 7; font-family: var(--os-font-label); font-size: 14.9px; font-weight: 700; line-height: 1.43; letter-spacing: 0.2em; text-transform: uppercase; color: var(--os-color-background); }\n.gx__i6 { grid-column: 1 / span 10; grid-row: 26 / span 17; font-family: var(--os-font-body); font-size: 24.9px; font-weight: 400; line-height: 1.38; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i7 { grid-column: 14 / span 10; grid-row: 25 / span 5; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 400; line-height: 1.4; letter-spacing: 0.16em; text-transform: uppercase; color: var(--os-color-text); }\n.gx__i8 { grid-column: 14 / span 10; grid-row: 36 / span 3; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 700; line-height: 1.55; letter-spacing: 0.22em; text-transform: uppercase; color: var(--os-color-link); }\n.gx__i9 { grid-column: 14 / span 10; grid-row: 41 / span 6; font-family: var(--os-font-body); font-size: 17px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-heading); }\n.gx__i10 { grid-column: 1 / span 10; grid-row: 45 / span 17; font-family: var(--os-font-body); font-size: 24.9px; font-weight: 400; line-height: 1.38; letter-spacing: 0em; color: var(--os-color-text); }\n.gx__i11 { grid-column: 14 / span 10; grid-row: 48 / span 6; font-family: var(--os-font-body); font-size: 17px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-heading); }\n.gx__i12 { grid-column: 14 / span 10; grid-row: 56 / span 6; font-family: var(--os-font-body); font-size: 17px; font-weight: 400; line-height: 1.55; letter-spacing: 0em; color: var(--os-color-heading); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i1 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i2 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i3 { font-family: var(--os-font-heading); font-size: 58px; }\n  .gx__i4 { font-family: var(--os-font-body); font-size: 16px; }\n  .gx__i5 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i6 { font-family: var(--os-font-body); font-size: 20px; }\n  .gx__i7 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i8 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i9 { font-family: var(--os-font-body); font-size: 14px; }\n  .gx__i10 { font-family: var(--os-font-body); font-size: 20px; }\n  .gx__i11 { font-family: var(--os-font-body); font-size: 14px; }\n  .gx__i12 { font-family: var(--os-font-body); font-size: 14px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}

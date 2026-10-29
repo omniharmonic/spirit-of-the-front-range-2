@@ -1,0 +1,50 @@
+{
+  "name": "imported-donate-4",
+  "label": "Move toward a more connected Front…",
+  "description": "Recreated from the original site's layout (measured in a browser): every word, picture and link is editable.",
+  "version": 1,
+  "category": "imported",
+  "fields": {
+    "text1": {
+      "kind": "text",
+      "label": "Small label",
+      "maxLength": 1500,
+      "multiline": true
+    },
+    "text2": {
+      "kind": "text",
+      "label": "Heading",
+      "maxLength": 300
+    },
+    "label3": {
+      "kind": "text",
+      "label": "Button",
+      "maxLength": 60
+    },
+    "link3": {
+      "kind": "link",
+      "label": "Button goes to"
+    },
+    "text4": {
+      "kind": "text",
+      "label": "Paragraph",
+      "maxLength": 1500,
+      "multiline": true
+    }
+  },
+  "defaults": {
+    "text1": "★ MAKE A GIFT",
+    "text2": "Move toward a more connected Front Range.",
+    "label3": "★ DONATE VIA EVERY.ORG →",
+    "link3": {
+      "type": "url",
+      "url": "https://www.every.org/spiritofthefrontrange?suggestedAmounts=40%2C100%2C200%2C500%2C1000&theme_color=163857&designation=EVERY.ORG+GENERAL+FUNDING&utm_campaign=donate-link#/donate"
+    },
+    "text4": "SPIRIT OF THE FRONT RANGE IS A 501(C)(3) NONPROFIT. GIFTS ARE TAX-DEDUCTIBLE TO THE EXTENT ALLOWED BY LAW."
+  },
+  "template": "<div class=\"gx\">\n  <p class=\"gx__i gx__i1\">{{text1}}</p>\n  <h2 class=\"gx__i gx__i2\">{{text2}}</h2>\n  <div class=\"gx__i gx__i3\">{{button link3 label=label3 variant=\"primary\"}}</div>\n  <p class=\"gx__i gx__i4\">{{text4}}</p>\n</div>",
+  "css": ":scope { width: min(100%, 714px); margin-inline: auto; }\n.gx { display: grid; grid-template-columns: repeat(24, minmax(0, 1fr)); grid-auto-rows: minmax(8px, auto); column-gap: 0; }\n.gx__i { position: relative; z-index: 1; margin: 0; min-width: 0; overflow-wrap: break-word; }\n.gx__i p { margin: 0; }\n.gx__p { z-index: 0; }\n.gx__img picture, .gx__img img { display: block; width: 100%; height: 100%; object-fit: cover; }\n.gx__i1 { grid-column: 1 / span 24; grid-row: 1 / span 3; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 700; line-height: 1.55; letter-spacing: 0.22em; text-transform: uppercase; text-align: center; color: var(--os-color-link); }\n.gx__i2 { grid-column: 1 / span 24; grid-row: 5 / span 34; font-family: var(--os-font-heading); font-size: 93.7px; font-weight: 700; line-height: 0.95; letter-spacing: -0.025em; text-align: center; color: var(--os-color-heading); }\n.gx__i3 { grid-column: 6 / span 12; grid-row: 44 / span 8; font-family: var(--os-font-label); font-size: 14.9px; font-weight: 700; line-height: 1.43; letter-spacing: 0.2em; text-transform: uppercase; text-align: center; color: var(--os-color-background); }\n.gx__i3 { justify-self: center; }\n.gx__i4 { grid-column: 1 / span 24; grid-row: 56 / span 5; font-family: var(--os-font-label); font-size: 13.7px; font-weight: 400; line-height: 1.4; letter-spacing: 0.16em; text-transform: uppercase; text-align: center; color: var(--os-color-text); }\n@media (max-width: 767px) {\n  .gx { display: flex; flex-direction: column; gap: var(--os-space-sm); }\n  .gx__i1 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i2 { font-family: var(--os-font-heading); font-size: 75px; }\n  .gx__i3 { font-family: var(--os-font-label); font-size: 14px; }\n  .gx__i4 { font-family: var(--os-font-label); font-size: 14px; }\n}",
+  "section": {
+    "width": "wide"
+  }
+}
