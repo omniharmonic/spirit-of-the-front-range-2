@@ -7,6 +7,9 @@
     "description": "The Transitional Stewards Team — the activating team for SPIRIT of the Front Range.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_ek0tc79xfd",
@@ -388,8 +391,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

@@ -7,6 +7,9 @@
     "description": "We offer **Commons Sense** teachings to educate people on the history, present, and future of the Commons, particularly as it relates to our responsibilities to the living land and to each other. Drawing on Elinor Ostrom's Nobel Prize-winning research, Indigenous stewardship traditions, and the practical wisdom of…",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "hidden": true,
   "sections": [
     {
@@ -525,8 +528,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

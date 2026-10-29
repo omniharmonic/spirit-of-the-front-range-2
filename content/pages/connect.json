@@ -7,6 +7,9 @@
     "description": "Reach out, come to an event, join the Front Range Commons, or fund the work.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_z97acqwa8n",
@@ -379,8 +382,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

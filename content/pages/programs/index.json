@@ -7,6 +7,9 @@
     "description": "Living pathways into bioregional participation — Commons Sense Teach-Ins, Solidarity Suppers, Neighborhood Resiliency, Allocation Rounds.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_s0qpb0jd89",
@@ -514,8 +517,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

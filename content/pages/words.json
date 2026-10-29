@@ -7,6 +7,9 @@
     "description": "Essays, talks, and writings from SPIRIT stewards and peers we trust — context for the work, written long and slow.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "hidden": true,
   "sections": [
     {
@@ -592,8 +595,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

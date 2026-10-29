@@ -7,6 +7,9 @@
     "description": "SPIRIT's vision, mission, and the promises that hold this work along Colorado's Front Range.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "sections": [
     {
       "id": "sec_c4p3t816wc",
@@ -515,8 +518,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

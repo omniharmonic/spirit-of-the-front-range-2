@@ -76,8 +76,8 @@
           "lineHeight": 1.23,
           "letterSpacing": 0,
           "case": "none",
-          "font": "heading",
-          "weight": 700
+          "weight": 700,
+          "font": "heading"
         },
         "display": {
           "size": 128,
@@ -135,8 +135,8 @@
       "contentWidth": 1352,
       "sectionPadding": 130,
       "sectionPaddingMobile": 82,
-      "gutterMobile": 21,
       "gutter": 32,
+      "gutterMobile": 21,
       "pageBackground": "#F2EAD8"
     }
   },
@@ -144,12 +144,12 @@
     "color": {
       "light": {
         "text": {
-          "$type": "color",
-          "$value": "#4a4a45"
+          "$value": "#4a4a45",
+          "$type": "color"
         },
         "background": {
-          "$type": "color",
-          "$value": "#f2ead8"
+          "$value": "#f2ead8",
+          "$type": "color"
         }
       }
     }

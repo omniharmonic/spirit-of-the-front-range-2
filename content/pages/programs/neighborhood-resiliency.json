@@ -7,6 +7,9 @@
     "description": "When the power goes out on your block, do you know which neighbor has a generator? When the creek floods, do you know the evacuation routes?  We run our **Neighborhood Resiliency Program** to help neighborhoods organize their resources, relationships, and knowledge to support healthy, vibrant, and connected…",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "hidden": true,
   "sections": [
     {
@@ -523,8 +526,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }

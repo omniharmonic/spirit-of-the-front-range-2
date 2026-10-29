@@ -7,6 +7,9 @@
     "description": "A curated index of bioregional resources — books, organizations, tools, practices, and places that root us in the work.",
     "image": "media/2026/10/og-default-fyb8.jpg"
   },
+  "header": {
+    "hidden": true
+  },
   "hidden": true,
   "sections": [
     {
@@ -462,8 +465,5 @@
         }
       ]
     }
-  ],
-  "header": {
-    "hidden": true
-  }
+  ]
 }
