@@ -9,11 +9,11 @@
     "check": "openspace check"
   },
   "dependencies": {
-    "@omniharmonic/openspace-site-kit": "^0.1.0",
+    "@omniharmonic/openspace-site-kit": "^0.1.20",
     "astro": "^7.4.2"
   },
   "devDependencies": {
-    "@omniharmonic/openspace-cli": "^0.1.0"
+    "@omniharmonic/openspace-cli": "^0.1.20"
   },
   "engines": {
     "node": ">=22.23.4"
