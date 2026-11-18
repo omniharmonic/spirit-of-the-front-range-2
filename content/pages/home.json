@@ -41,7 +41,7 @@
           "v": 1,
           "fields": {
             "t1": "SPIRIT of the Front Range",
-            "t2": "October 2026",
+            "t2": "Colorado",
             "l1": {
               "type": "url",
               "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
@@ -191,8 +191,8 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/gathering-04-81g7.jpg",
-              "alt": ""
+              "alt": "Boots in the grass beside flowers and fruit at a community gathering in Boulder",
+              "src": "media/2026/10/gathering-04-81g7.jpg"
             },
             "t1": "We care for the place we share",
             "t2": "SPIRIT",
@@ -460,8 +460,8 @@
             "t6": "The SPIRIT programs all interconnect.",
             "t7": "Solidarity Suppers foster relationships, the Commons Sense teachings build understanding, the Neighborhood Resiliency Program builds enduring capacity, and the Grant Rounds (coming soon) put resources in motion.",
             "i1": {
-              "src": "media/2026/10/program-teach-ins-58m5.jpg",
-              "alt": ""
+              "alt": "A hand pulling a book from a crowded bookshelf",
+              "src": "media/2026/10/program-teach-ins-58m5.jpg"
             },
             "t8": "01",
             "t9": "CST",
@@ -480,10 +480,16 @@
             "g1": [
               {
                 "i1": {
-                  "src": "media/2026/10/program-suppers-06j8.jpg",
-                  "alt": ""
+                  "alt": "A shared table of melon, cherries, grapes and chips by candlelight",
+                  "src": "media/2026/10/program-suppers-06j8.jpg"
+                },
+                "l1": {
+                  "newTab": true,
+                  "type": "url",
+                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe"
                 },
                 "t1": "02",
+                "t10": "get on list →",
                 "t2": "SS",
                 "t3": "Solidarity",
                 "t4": "Solidarity",
@@ -491,18 +497,12 @@
                 "t6": "We host small",
                 "t7": "Solidarity Suppers",
                 "t8": "to nourish and council with indigenous relatives, community elders, mothers, and movement leaders. They are invitational spaces where people show up on behalf of their communities, organizations, neighborhoods, and ecologies in the spirit of regenerating our capacities for fellowship and solidarity. We are creating spaces that intentionally lift up the existing leaders of the regenerative movement in our bioregion.",
-                "t9": "● active",
-                "l1": {
-                  "type": "url",
-                  "url": "https://dashboard.spiritofthefrontrange.org/subscribe",
-                  "newTab": true
-                },
-                "t10": "get on list →"
+                "t9": "● active"
               }
             ],
             "i2": {
-              "src": "media/2026/10/program-resiliency-q24z.jpg",
-              "alt": ""
+              "alt": "Neighbors and children gathered at the edge of a creek pond among cottonwoods",
+              "src": "media/2026/10/program-resiliency-q24z.jpg"
             },
             "t17": "03",
             "t18": "NRP",
@@ -739,8 +739,8 @@
           "v": 1,
           "fields": {
             "i1": {
-              "src": "media/2026/10/funding-dusk-ridge-5177.jpg",
-              "alt": ""
+              "alt": "Dusk over the Front Range foothills",
+              "src": "media/2026/10/funding-dusk-ridge-5177.jpg"
             },
             "t1": "Support the work",
             "t2": "Every gift moves us toward a more",
