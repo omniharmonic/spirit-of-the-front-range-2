@@ -174,6 +174,14 @@
       }
     ]
   },
+  "announcement": {
+    "enabled": true,
+    "message": "✦ Solidarity Supper with guest elders — Tue Nov 24, Lafayette. 40 seats only. Reserve yours →",
+    "link": {
+      "type": "url",
+      "url": "https://luma.com/12q4x7mp"
+    }
+  },
   "seo": {
     "titleTemplate": "%s — SPIRIT of the Front Range",
     "description": "A Colorado nonprofit helping neighbors and communities take care of the land, water, and air that we share.",
