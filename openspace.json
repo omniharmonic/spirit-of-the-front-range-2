@@ -10,7 +10,7 @@
   "deploy": {
     "target": "github-pages",
     "url": "https://omniharmonic.github.io/spirit-of-the-front-range-2/",
-    "customDomain": null
+    "customDomain": "spiritofthefrontrange.org"
   },
   "features": {
     "forms": true,
